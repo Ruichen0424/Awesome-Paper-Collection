@@ -9,6 +9,7 @@
   - [CVPR](#cvpr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
+  - [ACL](#acl-2023)
   - [IJCAI](#ijcai-2023)
   - [AAAI](#aaai-2023)
 
@@ -17,6 +18,7 @@
   - [CVPR](#cvpr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
+  - [ACL](#acl-2022)
   - [IJCAI](#ijcai-2022)
   - [AAAI](#aaai-2022)
 
@@ -25,6 +27,7 @@
   - [CVPR](#cvpr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
+  - [ACL](#acl-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
 
@@ -41,6 +44,7 @@
   - [CVPR](#cvpr-2019)
   - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
+  - [ACL](#acl-2019)
   - [IJCAI](#ijcai-2019)
   - [AAAI](#aaai-2019)
 
@@ -201,6 +205,18 @@
 - Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations [[paper](https://proceedings.mlr.press/v202/yang23m.html)] [[paper with code](https://paperswithcode.com/paper/are-neurons-actually-collapsed-on-the-fine)]
 
 
+## ACL-2023
+
+
+- NEUROSTRUCTURAL DECODING: Neural Text Generation with Structural Constraints [[paper](https://aclanthology.org/2023.acl-long.528/)]
+
+- I2D2: Inductive Knowledge Distillation with NeuroLogic and Self-Imitation [[paper](https://aclanthology.org/2023.acl-long.535/)] [[arxiv](https://arxiv.org/abs/2212.09246)] [[paper with code](https://paperswithcode.com/paper/i2d2-inductive-knowledge-distillation-with)]
+
+- Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion [[paper](https://aclanthology.org/2023.acl-short.23/)]
+
+- Learning Neuro-Symbolic World Models with Conversational ProprioceptionDon  [[paper](https://aclanthology.org/2023.acl-short.57/)]
+
+
 ## IJCAI-2023
 
 
@@ -356,6 +372,13 @@
 
 - Neurotoxin: Durable Backdoors in Federated Learning [[paper](https://proceedings.mlr.press/v162/zhang22w.html)] [[arxiv](https://arxiv.org/abs/2206.10341)] [[paper with code](https://paperswithcode.com/paper/neurotoxin-durable-backdoors-in-federated)] [[code](https://github.com/jhcknzzm/federated-learning-backdoor)]
 
+## ACL-2022
+
+
+- An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation [[paper](https://aclanthology.org/2022.acl-long.338/)] [[arxiv](https://arxiv.org/abs/2203.05843)] [[paper with code](https://paperswithcode.com/paper/an-interpretable-neuro-symbolic-reasoning)] [[code](https://github.com/shiquanyang/ns-dial)]
+
+- Knowledge Neurons in Pretrained Transformers [[paper](https://aclanthology.org/2022.acl-long.581/)] [[arxiv](https://arxiv.org/abs/2104.08696)] [[paper with code](https://paperswithcode.com/paper/knowledge-neurons-in-pretrained-transformers)] [[code](https://github.com/hunter-ddm/knowledge-neurons)]
+
 
 ## IJCAI-2022
 
@@ -447,6 +470,16 @@
 - Neuro-algorithmic Policies Enable Fast Combinatorial Generalization [[paper](https://proceedings.mlr.press/v139/vlastelica21a.html)] [[arxiv](https://arxiv.org/abs/2102.07456)] [[paper with code](https://paperswithcode.com/paper/neuro-algorithmic-policies-enable-fast)]
 
 - Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons [[paper](https://proceedings.mlr.press/v139/zhang21b.html)] [[arxiv](https://arxiv.org/abs/2102.05363)] [[paper with code](https://paperswithcode.com/paper/towards-certifying-ell-infty-robustness-using-1)] [[code](https://github.com/zbh2047/L_inf-dist-net)]
+
+
+## ACL-2021
+
+
+- LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking [[paper](https://aclanthology.org/2021.acl-long.64/)] [[arxiv](https://arxiv.org/abs/2106.09795)] [[paper with code](https://paperswithcode.com/paper/lnn-el-a-neuro-symbolic-approach-to-short)] [[code](https://github.com/IBM/LNN)]
+
+- PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World [[paper](https://aclanthology.org/2021.acl-long.159/)] [[arxiv](https://arxiv.org/abs/2106.00188)] [[paper with code](https://paperswithcode.com/paper/piglet-language-grounding-through-neuro)]
+
+- Importance-based Neuron Allocation for Multilingual Neural Machine Translation [[paper](https://aclanthology.org/2021.acl-long.445/)] [[arxiv](https://arxiv.org/abs/2107.06569)] [[paper with code](https://paperswithcode.com/paper/importance-based-neuron-allocation-for)] [[code](https://github.com/ictnlp/NA-MNMT)]
 
 
 ## IJCAI-2021
@@ -595,6 +628,12 @@
 - Neuron birth-death dynamics accelerates gradient descent and converges asymptotically [[paper](https://proceedings.mlr.press/v97/rotskoff19a.html)]
 
 - Learning Neurosymbolic Generative Models via Program Synthesis [[paper](https://proceedings.mlr.press/v97/young19a.html)] [[arxiv](https://arxiv.org/abs/1901.08565)] [[paper with code](https://paperswithcode.com/paper/learning-neurosymbolic-generative-models-via)] [[openview](https://openreview.net/forum?id=S1gUCFx4dN)]
+
+
+## ACL-2019
+
+
+- Deep Neural Model Inspection and Comparison via Functional Neuron Pathways [[paper](https://aclanthology.org/P19-1575/)] [[paper with code](https://paperswithcode.com/paper/deep-neural-model-inspection-and-comparison)]
 
 
 ## IJCAI-2019

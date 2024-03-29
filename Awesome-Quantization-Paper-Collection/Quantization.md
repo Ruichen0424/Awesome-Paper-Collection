@@ -9,6 +9,7 @@
   - [CVPR](#cvpr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
+  - [ACL](#acl-2023)
   - [IJCAI](#ijcai-2023)
   - [AAAI](#aaai-2023)
 
@@ -17,6 +18,7 @@
   - [CVPR](#cvpr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
+  - [ACL](#acl-2022)
   - [IJCAI](#ijcai-2022)
   - [AAAI](#aaai-2022)
 
@@ -25,6 +27,7 @@
   - [CVPR](#cvpr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
+  - [ACL](#acl-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
 
@@ -33,6 +36,7 @@
   - [CVPR](#cvpr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
+  - [ACL](#acl-2020)
   - [IJCAI](#ijcai-2020)
   - [AAAI](#aaai-2020)
 
@@ -41,6 +45,7 @@
   - [CVPR](#cvpr-2019)
   - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
+  - [ACL](#acl-2019)
   - [IJCAI](#ijcai-2019)
   - [AAAI](#aaai-2019)
 
@@ -49,6 +54,7 @@
   - [CVPR](#cvpr-2018)
   - [ECCV](#eccv-2018)
   - [ICML](#icml-2018)
+  - [ACL](#acl-2018)
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
 
@@ -381,6 +387,17 @@
 - Quantifying the Variability Collapse of Neural Networks [[paper](https://proceedings.mlr.press/v202/xu23k.html)] [[arxiv](https://arxiv.org/abs/2306.03440)] [[paper with code](https://paperswithcode.com/paper/quantifying-the-variability-collapse-of)]
 
 
+## ACL-2023
+
+
+- A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models [[paper](https://aclanthology.org/2023.acl-long.32/)] [[arxiv](https://arxiv.org/abs/2210.12023)] [[paper with code](https://paperswithcode.com/paper/a-causal-framework-to-quantify-the-robustness)] [[code](https://github.com/alestolfo/causal-math)]
+
+- Hybrid Uncertainty Quantification for Selective Text Classification in Ambiguous Tasks [[paper](https://aclanthology.org/2023.acl-long.652/)]
+
+- Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning [[paper](https://aclanthology.org/2023.acl-long.834/)]
+
+- Self-Distilled Quantization: Achieving High Compression Rates in Transformer-Based Language Models [[paper](https://aclanthology.org/2023.acl-short.114/)] [[arxiv](https://arxiv.org/abs/2307.05972)] [[paper with code](https://paperswithcode.com/paper/self-distilled-quantization-achieving-high)]
+
 
 ## IJCAI-2023
 
@@ -666,6 +683,22 @@
 - Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization [[paper](https://proceedings.mlr.press/v162/yoon22a.html)] [[arxiv](https://arxiv.org/abs/2202.11453)] [[paper with code](https://paperswithcode.com/paper/bitwidth-heterogeneous-federated-learning)]
 
 
+## ACL-2022
+
+
+- Quantified Reproducibility Assessment of NLP Results [[paper](https://aclanthology.org/2022.acl-long.2/)] [[arxiv](https://arxiv.org/abs/2204.05961)] [[paper with code](https://paperswithcode.com/paper/quantified-reproducibility-assessment-of-nlp)]
+
+- Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking [[paper](https://aclanthology.org/2022.acl-long.51/)] [[arxiv](https://arxiv.org/abs/2203.15328)] [[paper with code](https://paperswithcode.com/paper/compact-token-representations-with-contextual-1)]
+
+- Probing as Quantifying Inductive Bias [[paper](https://aclanthology.org/2022.acl-long.129/)] [[arxiv](https://arxiv.org/abs/2110.08388)] [[paper with code](https://paperswithcode.com/paper/probing-as-quantifying-the-inductive-bias-of)] [[code](https://github.com/rycolab/evidence-probing)]
+
+- A Meta-framework for Spatiotemporal Quantity Extraction from Text [[paper](https://aclanthology.org/2022.acl-long.195/)] [[paper with code](https://paperswithcode.com/paper/a-meta-framework-for-spatiotemporal-quantity-1)]
+
+- Compression of Generative Pre-trained Language Models via Quantization [[paper](https://aclanthology.org/2022.acl-long.331/)] [[arxiv](https://arxiv.org/abs/2203.10705)] [[paper with code](https://paperswithcode.com/paper/compression-of-generative-pre-trained)]
+
+- DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization [[paper](https://aclanthology.org/2022.acl-short.22/)] [[arxiv](https://arxiv.org/abs/2203.11239)] [[paper with code](https://paperswithcode.com/paper/dq-bart-efficient-sequence-to-sequence-model)] [[code](https://github.com/amazon-research/dq-bart)]
+
+
 ## IJCAI-2022
 
 
@@ -849,6 +882,18 @@
 - Quantile Bandits for Best Arms Identification [[paper](https://proceedings.mlr.press/v139/zhang21o.html)] [[arxiv](https://arxiv.org/abs/2010.11568)] [[paper with code](https://paperswithcode.com/paper/quantile-bandits-for-best-arms-identification)] [[code](https://github.com/Mengyanz/QSAR)]
 
 - Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution [[paper](https://proceedings.mlr.press/v139/zhang21r.html)] [[arxiv](https://arxiv.org/abs/2106.02295)] [[paper with code](https://paperswithcode.com/paper/differentiable-dynamic-quantization-with-1)]
+
+
+## ACL-2021
+
+
+- Towards Quantifiable Dialogue Coherence Evaluation [[paper](https://aclanthology.org/2021.acl-long.211/)] [[arxiv](https://arxiv.org/abs/2106.00507)] [[paper with code](https://paperswithcode.com/paper/towards-quantifiable-dialogue-coherence)] [[code](https://github.com/James-Yip/QuantiDCE)]
+
+- Evaluating Evaluation Measures for Ordinal Classification and Ordinal Quantification [[paper](https://aclanthology.org/2021.acl-long.214/)] [[paper with code](https://paperswithcode.com/paper/evaluating-evaluation-measures-for-ordinal)]
+
+- BinaryBERT: Pushing the Limit of BERT Quantization [[paper](https://aclanthology.org/2021.acl-long.334/)] [[arxiv](https://arxiv.org/abs/2012.15701)] [[paper with code](https://paperswithcode.com/paper/binarybert-pushing-the-limit-of-bert)] [[code](https://github.com/huawei-noah/Pretrained-Language-Model)]
+
+- Quantifying and Avoiding Unfair Qualification Labour in CrowdsourcingJonathan  [[paper](https://aclanthology.org/2021.acl-short.44/)]
 
 
 ## IJCAI-2021
@@ -1049,6 +1094,14 @@
 - Feature Quantization Improves GAN Training [[paper](https://proceedings.mlr.press/v119/zhao20d.html)] [[arxiv](https://arxiv.org/abs/2004.02088)] [[paper with code](https://paperswithcode.com/paper/feature-quantization-improves-gan-training)] [[code](https://github.com/YangNaruto/FQ-GAN)]
 
 
+## ACL-2020
+
+
+- Quantifying Attention Flow in Transformers [[paper](https://aclanthology.org/2020.acl-main.385/)] [[arxiv](https://arxiv.org/abs/2005.00928)] [[paper with code](https://paperswithcode.com/paper/quantifying-attention-flow-in-transformers)] [[code](https://github.com/samiraabnar/attention_flow)]
+
+- Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder [[paper](https://aclanthology.org/2020.acl-main.544/)] [[arxiv](https://arxiv.org/abs/2006.08101)] [[paper with code](https://paperswithcode.com/paper/evidence-aware-inferential-text-generation)] [[code](https://github.com/microsoft/EA-VQ-VAE)]
+
+
 ## IJCAI-2020
 
 
@@ -1195,6 +1248,16 @@
 - Improving Neural Network Quantization without Retraining using Outlier Channel Splitting [[paper](https://proceedings.mlr.press/v97/zhao19c.html)] [[arxiv](https://arxiv.org/abs/1901.09504)] [[paper with code](https://paperswithcode.com/paper/improving-neural-network-quantization-without)] [[code](https://github.com/NervanaSystems/distiller)]
 
 
+## ACL-2019
+
+
+- Quantifying Similarity between Relations with Fact Distribution [[paper](https://aclanthology.org/P19-1278/)] [[arxiv](https://arxiv.org/abs/1907.08937)] [[paper with code](https://paperswithcode.com/paper/quantifying-similarity-between-relations-with)] [[code](https://github.com/thunlp/relation-similarity)]
+
+- How Large Are Lions? Inducing Distributions over Quantitative Attributes [[paper](https://aclanthology.org/P19-1388/)] [[paper with code](https://paperswithcode.com/paper/how-large-are-lions-inducing-distributions)] [[code](https://github.com/google-research-datasets/distribution-over-quantities)]
+
+- Quantity Tagger: A Latent-Variable Sequence Labeling Approach to Solving Addition-Subtraction Word Problems [[paper](https://aclanthology.org/P19-1517/)] [[arxiv](https://arxiv.org/abs/1909.00176)] [[paper with code](https://paperswithcode.com/paper/quantity-tagger-a-latent-variable-sequence-1)] [[code](https://github.com/zoezou2015/quantity_tagger)]
+
+
 ## IJCAI-2019
 
 
@@ -1315,6 +1378,14 @@
 - Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization [[paper](https://proceedings.mlr.press/v80/wu18d.html)] [[arxiv](https://arxiv.org/abs/1806.08054)] [[paper with code](https://paperswithcode.com/paper/error-compensated-quantized-sgd-and-its)]
 
 
+## ACL-2018
+
+
+- Zero-shot Learning of Classifiers from Natural Language Quantification [[paper](https://aclanthology.org/P18-1029/)] [[paper with code](https://paperswithcode.com/paper/zero-shot-learning-of-classifiers-from)]
+
+- Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers [[paper](https://aclanthology.org/P18-2019/)] [[arxiv](https://arxiv.org/abs/1806.00354)] [[paper with code](https://paperswithcode.com/paper/some-of-them-can-be-guessed-exploring-the)] [[code](https://github.com/sandropezzelle/fill-in-the-quant)]
+
+
 ## IJCAI-2018
 
 
@@ -1344,6 +1415,3 @@ Objective Game [[paper](https://www.ijcai.org/proceedings/2018/5)]
 - Product Quantized Translation for Fast Nearest Neighbor Search [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11752)]
 
 - Distributional Reinforcement Learning With Quantile Regression [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11791)] [[arxiv](https://arxiv.org/abs/2305.16877)] [[paper with code](https://paperswithcode.com/paper/distributional-reinforcement-learning-with-1)] [[code](https://github.com/DLR-RM/stable-baselines3)]
-
-
-

@@ -27,6 +27,7 @@
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
   - [ECCV](#eccv-2020)
+  - [ACL](#acl-2020)
 
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
@@ -172,6 +173,12 @@
 - HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5414_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09952)]
 
 - Differentiable Joint Pruning and Quantization for Hardware Efficiency  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6693_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10463)]
+
+
+## ACL-2020
+
+
+- HAT: Hardware-Aware Transformers for Efficient Natural Language Processing [[paper](https://aclanthology.org/2020.acl-main.686/)] [[arxiv](https://arxiv.org/abs/2005.14187)] [[paper with code](https://paperswithcode.com/paper/hat-hardware-aware-transformers-for-efficient)] [[code](https://github.com/mit-han-lab/hardware-aware-transformers)]
 
 
 # 2019

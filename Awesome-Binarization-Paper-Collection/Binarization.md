@@ -9,6 +9,7 @@
   - [CVPR](#cvpr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
+  - [ACL](#acl-2023)
   - [IJCAI](#ijcai-2023)
   - [AAAI](#aaai-2023)
 
@@ -25,6 +26,7 @@
   - [CVPR](#cvpr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
+  - [ACL](#acl-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
 
@@ -33,6 +35,7 @@
   - [CVPR](#cvpr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
+  - [ACL](#acl-2020)
   - [IJCAI](#ijcai-2020)
   - [AAAI](#aaai-2020)
 
@@ -41,6 +44,7 @@
   - [CVPR](#cvpr-2019)
   - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
+  - [ACL](#acl-2019)
   - [IJCAI](#ijcai-2019)
   - [AAAI](#aaai-2019)
 
@@ -146,6 +150,16 @@
 - BiBench: Benchmarking and Analyzing Network Binarization [[paper](https://proceedings.mlr.press/v202/qin23b.html)] [[arxiv](https://arxiv.org/abs/2301.11233)] [[paper with code](https://paperswithcode.com/paper/bibench-benchmarking-and-analyzing-network)] [[code](https://github.com/htqin/bibench)]
 
 - Fast $(1+\varepsilon)$-Approximation Algorithms for Binary Matrix Factorization [[paper](https://proceedings.mlr.press/v202/velingker23a.html)] [[arxiv](https://arxiv.org/abs/2306.01869)] [[paper with code](https://paperswithcode.com/paper/fast-1-varepsilon-approximation-algorithms)]
+
+
+## ACL-2023
+
+
+- Binary and Ternary Natural Language Generation [[paper](https://aclanthology.org/2023.acl-long.5/)] [[arxiv](https://arxiv.org/abs/2306.01841)] [[paper with code](https://paperswithcode.com/paper/binary-and-ternary-natural-language)] [[code](https://github.com/facebookresearch/ternary_binary_transformer)]
+
+- Learning Optimal Policy for Simultaneous Machine Translation via Binary Search [[paper](https://aclanthology.org/2023.acl-long.130/)] [[arxiv](https://arxiv.org/abs/2305.12774)] [[paper with code](https://paperswithcode.com/paper/learning-optimal-policy-for-simultaneous)] [[code](https://github.com/ictnlp/bs-simt)]
+
+- BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering [[paper](https://aclanthology.org/2023.acl-short.33/)] [[arxiv](https://arxiv.org/abs/2305.15932)] [[paper with code](https://paperswithcode.com/paper/buca-a-binary-classification-approach-to)]
 
 
 ## IJCAI-2023
@@ -326,6 +340,12 @@
 - How Do Adam and Training Strategies Help BNNs Optimization [[paper](https://proceedings.mlr.press/v139/liu21t.html)] [[arxiv](https://arxiv.org/abs/2106.11309)]
 
 
+## ACL-2021
+
+
+- BinaryBERT: Pushing the Limit of BERT Quantization [[paper](https://aclanthology.org/2021.acl-long.334/)] [[arxiv](https://arxiv.org/abs/2012.15701)] [[paper with code](https://paperswithcode.com/paper/binarybert-pushing-the-limit-of-bert)] [[code](https://github.com/huawei-noah/Pretrained-Language-Model)]
+
+
 ## IJCAI-2021
 
 
@@ -426,6 +446,12 @@
 - Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks [[paper](https://proceedings.mlr.press/v119/vasic20a.html)] [[arxiv](https://arxiv.org/abs/2003.13720)] [[paper with code](https://paperswithcode.com/paper/deep-molecular-programming-a-natural)]
 
 
+## ACL-2020
+
+
+- A Novel Cascade Binary Tagging Framework for Relational Triple Extraction [[paper](https://aclanthology.org/2020.acl-main.136/)] [[arxiv](https://arxiv.org/abs/1909.03227)] [[paper with code](https://paperswithcode.com/paper/a-novel-hierarchical-binary-tagging-framework)] [[code](https://github.com/weizhepei/CasRel)]
+
+
 ## IJCAI-2020
 
 
@@ -520,6 +546,12 @@
 
 
 - Faster Algorithms for Binary Matrix Factorization [[paper](https://proceedings.mlr.press/v97/kumar19a.html)]
+
+
+## ACL-2019
+
+
+- Interpretable Neural Predictions with Differentiable Binary Variables [[paper](https://aclanthology.org/P19-1284/)] [[arxiv](https://arxiv.org/abs/1905.08160)] [[paper with code](https://paperswithcode.com/paper/interpretable-neural-predictions-with)] [[code](https://github.com/bastings/interpretable_predictions)]
 
 
 ## IJCAI-2019
