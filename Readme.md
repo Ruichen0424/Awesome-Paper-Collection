@@ -6,6 +6,7 @@
 - [Awesome 3D Generation Paper Collection](./Awesome-3D-Paper-Collection/3D-Generation.md)
 - [Awesome 3D Object Detection Paper Collection](./Awesome-3D-Paper-Collection/3D-Object-Detection.md)
 - [Awesome 3D Object Tracking Paper Collection](./Awesome-3D-Paper-Collection/3D-Object-Tracking.md)
+- [Awesome 3D Object Other Paper Collection](./Awesome-3D-Paper-Collection/3D-Object-Other.md)
 - [Awesome 3D Point Cloud Paper Collection](./Awesome-3D-Paper-Collection/3D-Point-Cloud.md)
 
 
