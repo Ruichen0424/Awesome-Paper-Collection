@@ -3,63 +3,71 @@
 
 ## Awesome 3D Paper Collection
 
-- [Awesome 3D Generation Paper Collection](./Awesome-3D-Paper-Collection/3D-Generation.md)
-- [Awesome 3D Object Detection Paper Collection](./Awesome-3D-Paper-Collection/3D-Object-Detection.md)
-- [Awesome 3D Object Tracking Paper Collection](./Awesome-3D-Paper-Collection/3D-Object-Tracking.md)
-- [Awesome 3D Object Other Paper Collection](./Awesome-3D-Paper-Collection/3D-Object-Other.md)
-- [Awesome 3D Point Cloud Paper Collection](./Awesome-3D-Paper-Collection/3D-Point-Cloud.md)
+- [3D Generation](./Awesome-3D-Paper-Collection/3D-Generation.md)
+- [3D Object Detection](./Awesome-3D-Paper-Collection/3D-Object-Detection.md)
+- [3D Object Tracking](./Awesome-3D-Paper-Collection/3D-Object-Tracking.md)
+- [3D Object Other](./Awesome-3D-Paper-Collection/3D-Object-Other.md)
+- [3D Point Cloud](./Awesome-3D-Paper-Collection/3D-Point-Cloud.md)
 
 
 
 
 ## Awesome Autonomous Driving Paper Collection
 
-- [Awesome Autonomous Driving Paper Collection](./Awesome-Autonomous-Driving-Paper-Collection/Autonomous-Driving.md)
+- [Autonomous Driving](./Awesome-Autonomous-Driving-Paper-Collection/Autonomous-Driving.md)
 
 
 
 
 ## Awesome Binarization Paper Collection
 
-- [Awesome Binarization Paper Collection](./Awesome-Binarization-Paper-Collection/Binarization.md)
+- [Binarization](./Awesome-Binarization-Paper-Collection/Binarization.md)
+
+
+
+
+## Awesome Compression Paper Collection
+
+- [Image Compression](./Awesome-Compression-Paper-Collection/Image-Compression.md)
+- [Video Compression](./Awesome-Compression-Paper-Collection/Video-Compression.md)
+- [Point Cloud Compression](./Awesome-Compression-Paper-Collection/Point-Cloud-Compression.md)
+- [Other Compression](./Awesome-Compression-Paper-Collection/Other-Compression.md)
+
 
 
 
 
 ## Awesome Hardware Paper Collection
 
-- [Awesome Hardware Paper Collection](./Awesome-Hardware-Paper-Collection/Hardware.md)
+- [Hardware](./Awesome-Hardware-Paper-Collection/Hardware.md)
 
 
 
 
 ## Awesome Neuro Paper Collection
 
-- [Awesome Neuro Paper Collection](./Awesome-Neuro-Paper-Collection/Neuro.md)
+- [Neuro](./Awesome-Neuro-Paper-Collection/Neuro.md)
 
 
 
 
 ## Awesome Quantization Paper Collection
 
-- [Awesome Quantization Paper Collection](./Awesome-Quantization-Paper-Collection/Quantization.md)
+- [Quantization](./Awesome-Quantization-Paper-Collection/Quantization.md)
 
 
 
 
 ## Awesome SNN Paper Collection
 
-- [Awesome SNN Paper Collection](./Awesome-SNN-Paper-Collection/SNN.md)
+- [SNN](./Awesome-SNN-Paper-Collection/SNN.md)
+
+
 
 
 ## Awesome Super-Resolution Paper Collection
 
-- [Awesome Face Super Resolution Paper Collection](./Awesome-Super-Resolution-Paper-Collection/Face-Super-Resolution.md)
-- [Awesome Image Super Resolution Paper Collection](./Awesome-Super-Resolution-Paper-Collection/Image-Super-Resolution.md)
-- [Awesome Video Super Resolution Paper Collection](./Awesome-Super-Resolution-Paper-Collection/Video-Super-Resolution.md)
-- [Awesome Other Super Resolution Paper Collection](./Awesome-Super-Resolution-Paper-Collection/Other-Super-Resolution.md)
-
-
-
-
-
+- [Face Super Resolution](./Awesome-Super-Resolution-Paper-Collection/Face-Super-Resolution.md)
+- [Image Super Resolution](./Awesome-Super-Resolution-Paper-Collection/Image-Super-Resolution.md)
+- [Video Super Resolution](./Awesome-Super-Resolution-Paper-Collection/Video-Super-Resolution.md)
+- [Other Super Resolution](./Awesome-Super-Resolution-Paper-Collection/Other-Super-Resolution.md)
