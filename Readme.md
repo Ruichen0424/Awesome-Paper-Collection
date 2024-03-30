@@ -3,10 +3,13 @@
 
 ## Awesome 3D Paper Collection
 
+- [3D Dataset](./Awesome-3D-Paper-Collection/3D-Dataset.md)
 - [3D Generation](./Awesome-3D-Paper-Collection/3D-Generation.md)
 - [3D Object Detection](./Awesome-3D-Paper-Collection/3D-Object-Detection.md)
 - [3D Object Tracking](./Awesome-3D-Paper-Collection/3D-Object-Tracking.md)
 - [3D Object Other](./Awesome-3D-Paper-Collection/3D-Object-Other.md)
+- [3D Cloud](./Awesome-3D-Paper-Collection/3D-Cloud.md)
+- [3D Point](./Awesome-3D-Paper-Collection/3D-Point.md)
 - [3D Point Cloud](./Awesome-3D-Paper-Collection/3D-Point-Cloud.md)
 
 
