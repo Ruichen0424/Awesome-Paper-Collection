@@ -67,9 +67,6 @@
 
 - z-SignFedAvg: A Unified Stochastic Sign-Based Compression for Federated Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29454)] [[arxiv](https://arxiv.org/abs/2302.02589)]
 
-- Conditional Backdoor Attack via JPEG Compression [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29957)]
-
-
 
 # 2023
 
@@ -345,8 +342,6 @@
 
 - MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_MixMix_All_You_Need_for_Data-Free_Compression_Are_Feature_and_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2011.09899)] [[paper with code](https://paperswithcode.com/paper/learning-in-school-multi-teacher-knowledge)]
 
-- Learning Dual Priors for JPEG Compression Artifacts Removal [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fu_Learning_Dual_Priors_for_JPEG_Compression_Artifacts_Removal_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/learning-dual-priors-for-jpeg-compression)]
-
 - Online Multi-Granularity Distillation for GAN Compression [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ren_Online_Multi-Granularity_Distillation_for_GAN_Compression_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2108.06908)] [[paper with code](https://paperswithcode.com/paper/online-multi-granularity-distillation-for-gan)] [[code](https://github.com/bytedance/omgd)]
 
 
@@ -477,8 +472,6 @@
 ## IJCAI-2020
 
 
-- JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks [[paper](https://www.ijcai.org/proceedings/2020/79)]
-
 - Online Semi-supervised Multi-label Classification with Label Compression and Local Smooth Regression [[paper](https://www.ijcai.org/proceedings/2020/189)]
 
 - Compressed Self-Attention for Deep Metric Learning with Low-Rank Approximation [[paper](https://www.ijcai.org/proceedings/2020/285)]
@@ -534,8 +527,6 @@
 
 ## CVPR-2019
 
-
-- Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Feature_Distillation_DNN-Oriented_JPEG_Compression_Against_Adversarial_Examples_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1803.05787)] [[paper with code](https://paperswithcode.com/paper/feature-distillation-dnn-oriented-jpeg)] [[code](https://github.com/zihaoliu123/Feature-Distillation-DNN-Oriented-JPEG-Compression-Against-Adversarial-Examples)]
 
 - Exploiting Kernel Sparsity and Entropy for Interpretable CNN Compression [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Exploiting_Kernel_Sparsity_and_Entropy_for_Interpretable_CNN_Compression_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1812.04368)] [[paper with code](https://paperswithcode.com/paper/exploiting-kernel-sparsity-and-entropy-for)] [[code](https://github.com/yuchaoli/KSE)]
 

@@ -38,6 +38,23 @@
 
 
 
+## Awesome Denoising Paper Collection
+
+- [Diffusion Denoising](./Awesome-Denoising-Paper-Collection/Diffusion-Denoising.md)
+- [Image Denoising](./Awesome-Denoising-Paper-Collection/Image-Denoising.md)
+- [Video Denoising](./Awesome-Denoising-Paper-Collection/Video-Denoising.md)
+- [Other Denoising](./Awesome-Denoising-Paper-Collection/Other-Denoising.md)
+
+
+
+
+## Awesome EEG-ECG Paper Collection
+
+- [EEG](./Awesome-EEG-ECG-Paper-Collection/EEG.md)
+- [ECG](./Awesome-EEG-ECG-Paper-Collection/ECG.md)
+
+
+
 
 ## Awesome Hardware Paper Collection
 
@@ -64,6 +81,14 @@
 ## Awesome Plasticity Paper Collection
 
 - [Plasticity](./Awesome-Plasticity-Paper-Collection/Plasticity.md)
+
+
+
+
+## Awesome Pruning Paper Collection
+
+- [Transformer Pruning](./Awesome-Pruning-Paper-Collection/Transformer-Pruning.md)
+- [Other Pruning](./Awesome-Pruning-Paper-Collection/Other-Pruning.md)
 
 
 

@@ -54,6 +54,7 @@
 
 - Make Lossy Compression Meaningful for Low-Light Images [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28664)] [[arxiv](https://arxiv.org/abs/2305.15030)] [[paper with code](https://paperswithcode.com/paper/jointly-optimizing-image-compression-with-low)] [[code](https://github.com/caishilv/joint-ic-ll)]
 
+- Conditional Backdoor Attack via JPEG Compression [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29957)]
 
 
 # 2023
@@ -244,6 +245,8 @@
 
 - Self-Supervised Domain Adaptation for Forgery Localization of JPEG Compressed Images [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Rao_Self-Supervised_Domain_Adaptation_for_Forgery_Localization_of_JPEG_Compressed_Images_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/self-supervised-domain-adaptation-for-forgery)]
 
+- Learning Dual Priors for JPEG Compression Artifacts Removal [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fu_Learning_Dual_Priors_for_JPEG_Compression_Artifacts_Removal_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/learning-dual-priors-for-jpeg-compression)]
+
 
 ## ICML-2021
 
@@ -289,6 +292,8 @@
 ## IJCAI-2020
 
 
+- JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks [[paper](https://www.ijcai.org/proceedings/2020/79)]
+
 - Channel-Level Variable Quantization Network for Deep Image Compression [[paper](https://www.ijcai.org/proceedings/2020/65)] [[arxiv](https://arxiv.org/abs/2007.12619)] [[paper with code](https://paperswithcode.com/paper/channel-level-variable-quantization-network)] [[code](https://github.com/zzs1994/CVQN)]
 
 - Convolutional Neural Networks with Compression Complexity Pooling for Out-of-Distribution Image Detection [[paper](https://www.ijcai.org/proceedings/2020/337)]
@@ -306,6 +311,8 @@
 
 ## CVPR-2019
 
+
+- Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Feature_Distillation_DNN-Oriented_JPEG_Compression_Against_Adversarial_Examples_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1803.05787)] [[paper with code](https://paperswithcode.com/paper/feature-distillation-dnn-oriented-jpeg)] [[code](https://github.com/zihaoliu123/Feature-Distillation-DNN-Oriented-JPEG-Compression-Against-Adversarial-Examples)]
 
 - ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Jia_ComDefend_An_Efficient_Image_Compression_Model_to_Defend_Adversarial_Examples_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1811.12673)] [[paper with code](https://paperswithcode.com/paper/comdefend-an-efficient-image-compression)] [[code](https://github.com/jiaxiaojunQAQ/Comdefend)]
 
