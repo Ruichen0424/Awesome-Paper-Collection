@@ -1,4 +1,4 @@
-# Awesome Quantization Paper Collection
+# Awesome Other Quantization Paper Collection
 
 
 - [2024](#2024)
@@ -70,8 +70,6 @@
 
 - Expand-and-Quantize: Unsupervised Semantic Segmentation Using High-Dimensional Space and Product Quantization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28056)] [[arxiv](https://arxiv.org/abs/2312.07342)] [[paper with code](https://paperswithcode.com/paper/expand-and-quantize-unsupervised-semantic)]
 
-- Bi-ViT: Pushing the Limit of Vision Transformer Quantization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28109)] [[arxiv](https://arxiv.org/abs/2305.12354)] [[paper with code](https://paperswithcode.com/paper/bi-vit-pushing-the-limit-of-vision)]
-
 - HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28261)] [[arxiv](https://arxiv.org/abs/2401.07212)] [[paper with code](https://paperswithcode.com/paper/hihpq-hierarchical-hyperbolic-product)]
 
 - Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28508)] [[arxiv](https://arxiv.org/abs/2308.09065)] [[paper with code](https://paperswithcode.com/paper/discretization-induced-dirichlet-posterior)] [[code](https://github.com/ensta-u2is/dido)]
@@ -95,8 +93,6 @@
 - One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29336)] [[arxiv](https://arxiv.org/abs/2401.16760)] [[paper with code](https://paperswithcode.com/paper/one-step-forward-and-backtrack-overcoming-zig)] [[code](https://github.com/paperProof24/Appendix_BLAQ)]
 
 - QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29347)]
-
-- AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29487)]
 
 - PTMQ: Post-training Multi-Bit Quantization of Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29553)]
 
@@ -153,10 +149,6 @@
 
 - Pointwise uncertainty quantification for sparse variational Gaussian process regression with a Brownian motion prior [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/176a579942089c4cdc70136c567932ab-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.00097)] [[paper with code](https://paperswithcode.com/paper/pointwise-uncertainty-quantification-for)] [[openview](https://openreview.net/forum?id=CA8tMQiscx)]
 
-- Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1abc87c67cc400a67b869358e627fe37-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.14228)] [[paper with code](https://paperswithcode.com/paper/hierarchical-vector-quantized-transformer-for-1)] [[code](https://github.com/ruiyinglu/hvq-trans)] [[openview](https://openreview.net/forum?id=clJTNssgn6)]
-
-- PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1c92edb990a05f2269f0cc3afbb4c952-Abstract-Conference.html)]
-
 - QLoRA: Efficient Finetuning of Quantized LLMs [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.14314)] [[paper with code](https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms)] [[code](https://github.com/artidoro/qlora)] [[openview](https://openreview.net/forum?id=OUIFPHEgJU)]
 
 - PTQD: Accurate Post-Training Quantization for Diffusion Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2aab8a76c7e761b66eccaca0927787de-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.10657)] [[paper with code](https://paperswithcode.com/paper/ptqd-accurate-post-training-quantization-for)] [[code](https://github.com/ziplab/ptqd)] [[openview](https://openreview.net/forum?id=Y3g1PV5R9l)]
@@ -209,8 +201,6 @@
 
 - Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/da7ce04b3683b173691ecbb801f2690f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2302.01332)] [[paper with code](https://paperswithcode.com/paper/bayesian-metric-learning-for-uncertainty)] [[code](https://github.com/frederikwarburg/bayesian-metric-learning)] [[openview](https://openreview.net/forum?id=58XMiu8kot)]
 
-- Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/edbcb7583fd8921dad78adecfe06a99b-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.12929)] [[paper with code](https://paperswithcode.com/paper/quantizable-transformers-removing-outliers-by)] [[code](https://github.com/qualcomm-ai-research/outlier-free-transformers)] [[openview](https://openreview.net/forum?id=sbusw6LD41)]
-
 - Q-DM: An Efficient Low-bit Quantized Diffusion Model [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f1ee1cca0721de55bb35cf28ab95e1b4-Abstract-Conference.html)]
 
 - Unbounded Differentially Private Quantile and Maximum Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4b6ef2a78684dca2fb3f1c09372e041-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.01177)] [[paper with code](https://paperswithcode.com/paper/unbounded-differentially-private-quantile-and)] [[openview](https://openreview.net/forum?id=Eq9AFZlAjt)]
@@ -229,17 +219,11 @@
 
 - PD-Quant: Post-Training Quantization Based on Prediction Difference Metric [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_PD-Quant_Post-Training_Quantization_Based_on_Prediction_Difference_Metric_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2212.07048)] [[paper with code](https://paperswithcode.com/paper/pd-quant-post-training-quantization-based-on)] [[code](https://github.com/hustvl/pd-quant)]
 
-- Boost Vision Transformer With GPU-Friendly Sparsity and Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_Boost_Vision_Transformer_With_GPU-Friendly_Sparsity_and_Quantization_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2305.10727)] [[paper with code](https://paperswithcode.com/paper/boost-vision-transformer-with-gpu-friendly-1)]
-
-- NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_NoisyQuant_Noisy_Bias-Enhanced_Post-Training_Activation_Quantization_for_Vision_Transformers_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.16056)] [[paper with code](https://paperswithcode.com/paper/noisyquant-noisy-bias-enhanced-post-training)]
-
 - QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2305.11094)] [[paper with code](https://paperswithcode.com/paper/qpgesture-quantization-based-and-phase-guided-1)] [[code](https://github.com/youngseng/qpgesture)]
 
 - Regularized Vector Quantization for Tokenized Image Synthesis [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Regularized_Vector_Quantization_for_Tokenized_Image_Synthesis_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.06424)] [[paper with code](https://paperswithcode.com/paper/regularized-vector-quantization-for-tokenized)]
 
 - Disentangled Representation Learning for Unsupervised Neural Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Noh_Disentangled_Representation_Learning_for_Unsupervised_Neural_Quantization_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/disentangled-representation-learning-for-2)]
-
-- Q-DETR: An Efficient Low-Bit Quantized Detection Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.00253)] [[paper with code](https://paperswithcode.com/paper/q-detr-an-efficient-low-bit-quantized)] [[code](https://github.com/stevetsui/q-detr)]
 
 - Towards Accurate Image Coding: Improved Autoregressive Image Generation With Dynamic Vector Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2305.11718)] [[paper with code](https://paperswithcode.com/paper/towards-accurate-image-coding-improved-1)] [[code](https://github.com/crossmodalgroup/dynamicvectorquantization)]
 
@@ -280,15 +264,11 @@
 ## ICCV-2023
 
 
-- Jumping through Local Minima: Quantization in the Loss Landscape of Vision Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Frumkin_Jumping_through_Local_Minima_Quantization_in_the_Loss_Landscape_of_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2308.10814)] [[paper with code](https://paperswithcode.com/paper/jumping-through-local-minima-quantization-in)] [[code](https://github.com/enyac-group/evol-q)]
-
 - EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_EMQ_Evolving_Training-free_Proxies_for_Automated_Mixed_Precision_Quantization_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2307.10554)] [[paper with code](https://paperswithcode.com/paper/emq-evolving-training-free-proxies-for)] [[code](https://github.com/lilujunai/emq-series)]
 
 - DenseShift: Towards Accurate and Efficient Low-Bit Power-of-Two Quantization [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_DenseShift_Towards_Accurate_and_Efficient_Low-Bit_Power-of-Two_Quantization_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2208.09708)] [[paper with code](https://paperswithcode.com/paper/denseshift-towards-accurate-and-transferable)] [[code](https://github.com/huawei-noah/noah-research/tree/master/S3-Training)]
 
 - EQ-Net: Elastic Quantization Neural Networks [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_EQ-Net_Elastic_Quantization_Neural_Networks_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2308.07650)] [[paper with code](https://paperswithcode.com/paper/eq-net-elastic-quantization-neural-networks)] [[code](https://github.com/xuke225/eq-net)]
-
-- Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2308.14152)] [[paper with code](https://paperswithcode.com/paper/unaligned-2d-to-3d-translation-with)] [[code](https://github.com/samb-t/x2ct-vqvae)]
 
 - Randomized Quantization: A Generic Augmentation for Data Agnostic Self-supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Randomized_Quantization_A_Generic_Augmentation_for_Data_Agnostic_Self-supervised_Learning_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2212.08663)] [[paper with code](https://paperswithcode.com/paper/randomized-quantization-for-data-agnostic)] [[code](https://github.com/microsoft/random_quantize)]
 
@@ -310,19 +290,13 @@
 
 - Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Tuo_Learning_Data-Driven_Vector-Quantized_Degradation_Model_for_Animation_Video_Super-Resolution_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.09826)] [[paper with code](https://paperswithcode.com/paper/learning-data-driven-vector-quantized)] [[code](https://github.com/researchmm/vqd-sr)]
 
-- Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Name_Your_Colour_For_the_Task_Artificially_Discover_Colour_Naming_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2212.03434)] [[paper with code](https://paperswithcode.com/paper/name-your-colour-for-the-task-artificially)] [[code](https://github.com/ryeocthiv/cqformer)]
-
 - Causal-DFQ: Causality Guided Data-Free Network Quantization [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Shang_Causal-DFQ_Causality_Guided_Data-Free_Network_Quantization_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2309.13682)] [[paper with code](https://paperswithcode.com/paper/causal-dfq-causality-guided-data-free-network)] [[code](https://github.com/42shawn/causal-dfq)]
 
 - QD-BEV : Quantization-aware View-guided Distillation for Multi-view 3D Object Detection [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_QD-BEV__Quantization-aware_View-guided_Distillation_for_Multi-view_3D_Object_Detection_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2308.10515)] [[paper with code](https://paperswithcode.com/paper/qd-bev-quantization-aware-view-guided)]
 
 - Few Shot Font Generation Via Transferring Similarity Guided Global Style and Quantization Local Style [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Few_Shot_Font_Generation_Via_Transferring_Similarity_Guided_Global_Style_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2309.00827)] [[paper with code](https://paperswithcode.com/paper/few-shot-font-generation-via-transferring)] [[code](https://github.com/awei669/VQ-Font)]
 
-- I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_I-ViT_Integer-only_Quantization_for_Efficient_Vision_Transformer_Inference_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2207.01405)] [[paper with code](https://paperswithcode.com/paper/i-vit-integer-only-quantization-for-efficient)] [[code](https://github.com/zkkli/i-vit)]
-
 - StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_StylerDALLE_Language-Guided_Style_Transfer_Using_a_Vector-Quantized_Tokenizer_of_a_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.09268)] [[paper with code](https://paperswithcode.com/paper/stylerdalle-language-guided-style-transfer)] [[code](https://github.com/zipengxuc/stylerdalle)]
-
-- RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_RepQ-ViT_Scale_Reparameterization_for_Post-Training_Quantization_of_Vision_Transformers_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2212.08254)] [[paper with code](https://paperswithcode.com/paper/repq-vit-scale-reparameterization-for-post)] [[code](https://github.com/zkkli/repq-vit)]
 
 - DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_DQS3D_Densely-matched_Quantization-aware_Semi-supervised_3D_Detection_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.13031)] [[paper with code](https://paperswithcode.com/paper/dqs3d-densely-matched-quantization-aware-semi)] [[code](https://github.com/air-discover/dqs3d)]
 
@@ -352,11 +326,7 @@
 
 - FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization [[paper](https://proceedings.mlr.press/v202/lee23h.html)] [[arxiv](https://arxiv.org/abs/2306.00317)] [[paper with code](https://paperswithcode.com/paper/flexround-learnable-rounding-based-on-element)]
 
-- SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process [[paper](https://proceedings.mlr.press/v202/li23aj.html)] [[arxiv](https://arxiv.org/abs/2310.16336)] [[paper with code](https://paperswithcode.com/paper/smurf-thp-score-matching-based-uncertainty)] [[code](https://github.com/zichongli5/smurf-thp)]
-
 - Online Local Differential Private Quantile Inference via Self-normalization [[paper](https://proceedings.mlr.press/v202/liu23q.html)] [[arxiv](https://arxiv.org/abs/2306.10260)]
-
-- Oscillation-free Quantization for Low-bit Vision Transformers [[paper](https://proceedings.mlr.press/v202/liu23w.html)] [[arxiv](https://arxiv.org/abs/2302.02210)] [[paper with code](https://paperswithcode.com/paper/oscillation-free-quantization-for-low-bit)] [[code](https://github.com/nbasyl/OFQ)]
 
 - Federated Conformal Predictors for Distributed Uncertainty Quantification [[paper](https://proceedings.mlr.press/v202/lu23i.html)] [[arxiv](https://arxiv.org/abs/2305.17564)] [[paper with code](https://paperswithcode.com/paper/federated-conformal-predictors-for)] [[code](https://github.com/clu5/federated-conformal)]
 
@@ -395,8 +365,6 @@
 - Hybrid Uncertainty Quantification for Selective Text Classification in Ambiguous Tasks [[paper](https://aclanthology.org/2023.acl-long.652/)]
 
 - Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning [[paper](https://aclanthology.org/2023.acl-long.834/)]
-
-- Self-Distilled Quantization: Achieving High Compression Rates in Transformer-Based Language Models [[paper](https://aclanthology.org/2023.acl-short.114/)] [[arxiv](https://arxiv.org/abs/2307.05972)] [[paper with code](https://paperswithcode.com/paper/self-distilled-quantization-achieving-high)]
 
 
 ## IJCAI-2023
@@ -522,8 +490,6 @@
 
 - TTOpt: A Maximum Volume Quantized Tensor Train-based Optimization and its Application to Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a730abbcd6cf4a371ca9545db5922442-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.00293)] [[paper with code](https://paperswithcode.com/paper/ttopt-a-maximum-volume-quantized-tensor-train)] [[code](https://github.com/andreichertkov/ttopt)]
 
-- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01861)] [[paper with code](https://paperswithcode.com/paper/zeroquant-efficient-and-affordable-post)] [[code](https://github.com/microsoft/DeepSpeed)]
-
 - Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bc1d640f841f752c689aae20b31198c1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2203.06102)] [[paper with code](https://paperswithcode.com/paper/on-the-difficulty-of-epistemic-uncertainty)]
 
 - Conformal Prediction with Temporal Quantile Adjustments [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c8d2860e1b51a1ffadc7ed0a06f8d8f5-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.09940)] [[paper with code](https://paperswithcode.com/paper/conformal-prediction-with-temporal-quantile)]
@@ -533,8 +499,6 @@
 - Archimedes Meets Privacy: On Privately Estimating Quantiles in High Dimensions Under Minimal Assumptions [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d1346a0712aec24a0779995e946d6072-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2208.07438)]
 
 - A Quantitative Geometric Approach to Neural-Network Smoothness [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/dd1322ce23cbbdd9d7ebb0ad1223c27a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2203.01212)] [[paper with code](https://paperswithcode.com/paper/a-quantitative-geometric-approach-to-neural)] [[code](https://github.com/z1w/geolip)]
-
-- Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/deb921bff461a7b0a5c344a4871e7101-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.06707)] [[paper with code](https://paperswithcode.com/paper/q-vit-accurate-and-fully-quantized-low-bit)] [[code](https://github.com/yanjingli0202/q-vit)]
 
 - Nonparametric Uncertainty Quantification for Single Deterministic Neural Network [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eb7389b039655fc5c53b11d4a6fa11bc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2202.03101)] [[paper with code](https://paperswithcode.com/paper/nuq-nonparametric-uncertainty-quantification-1)] [[code](https://github.com/stat-ml/nuq)]
 
@@ -606,8 +570,6 @@
 
 - Fine-Grained Data Distribution Alignment for Post-Training Quantization [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/190_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2109.04186)] [[paper with code](https://paperswithcode.com/paper/fine-grained-data-distribution-alignment-for)] [[code](https://github.com/zysxmu/fdda)]
 
-- Patch Similarity Aware Data-Free Quantization for Vision Transformers [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1580_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2203.02250)] [[paper with code](https://paperswithcode.com/paper/patch-similarity-aware-data-free-quantization)] [[code](https://github.com/zkkli/psaq-vit)]
-
 - Symmetry Regularization and Saturating Nonlinearity for Robust Quantization [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2337_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2208.00338)] [[paper with code](https://paperswithcode.com/paper/symmetry-regularization-and-saturating)]
 
 - Mixed-Precision Neural Network Quantization via Learned Layer-Wise Importance [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3598_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2203.08368)] [[paper with code](https://paperswithcode.com/paper/mixed-precision-neural-network-quantization)] [[code](https://github.com/1hunters/LIMPQ)]
@@ -622,8 +584,6 @@
 
 - RDO-Q: Extremely Fine-Grained Channel-Wise Quantization via Rate-Distortion Optimization [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7592_ECCV_2022_paper.php)]
 
-- PTQ4ViT: Post-Training Quantization for Vision Transformers with Twin Uniform Quantization [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7856_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2111.12293)]
-
 - Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/8106_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2207.10188)] [[paper with code](https://paperswithcode.com/paper/bitwidth-adaptive-quantization-aware-neural)] [[code](https://github.com/jsjs0369/MEBQAT)]
 
 - Privacy-Preserving Action Recognition via Motion Difference Quantization [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7127_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2208.02459)] [[paper with code](https://paperswithcode.com/paper/privacy-preserving-action-recognition-via)] [[code](https://github.com/suakaw/bdq_privacyar)]
@@ -633,8 +593,6 @@
 - Vector Quantized Image-to-Image Translation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4584_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2207.13286)] [[paper with code](https://paperswithcode.com/paper/vector-quantized-image-to-image-translation)]
 
 - VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1617_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2205.06803)] [[paper with code](https://paperswithcode.com/paper/vqfr-blind-face-restoration-with-vector)] [[code](https://github.com/tencentarc/vqfr)]
-
-- Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5081_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2111.12701)] [[paper with code](https://paperswithcode.com/paper/unleashing-transformers-parallel-token)] [[code](https://github.com/samb-t/unleashing-transformers)]
 
 - Synergistic Self-Supervised and Quantization Learning [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3332_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2207.05432)] [[paper with code](https://paperswithcode.com/paper/synergistic-self-supervised-and-quantization)] [[code](https://github.com/megvii-research/ssql-eccv2022)]
 
@@ -701,8 +659,6 @@
 
 ## IJCAI-2022
 
-
-- FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer [[paper](https://www.ijcai.org/proceedings/2022/164)] [[arxiv](https://arxiv.org/abs/2111.13824)] [[paper with code](https://paperswithcode.com/paper/fq-vit-fully-quantized-vision-transformer)] [[code](https://github.com/megvii-research/FQ-ViT)]
 
 - RAPQ: Rescuing Accuracy for Power-of-Two Low-bit  Post-training Quantization [[paper](https://www.ijcai.org/proceedings/2022/219)] [[arxiv](https://arxiv.org/abs/2204.12322)]
 
@@ -774,8 +730,6 @@
 - Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithmic Regularizers [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/dcd2f3f312b6705fb06f4f9f1b55b55c-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.14804)] [[paper with code](https://paperswithcode.com/paper/minimax-optimal-quantile-and-semi-adversarial)] [[code](https://github.com/blairbilodeau/neurips-2021)]
 
 - Shapley Residuals: Quantifying the limits of the Shapley value for explanations [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/dfc6aa246e88ab3e32caeaaecf433550-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/shapley-residuals-quantifying-the-limits-of)] [[openview](https://openreview.net/forum?id=0XJDcC07tQs)]
-
-- Post-Training Quantization for Vision Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ec8956637a99787bd197eacd77acce5e-Abstract.html)] [[arxiv](https://arxiv.org/abs/2401.14895)] [[paper with code](https://paperswithcode.com/paper/post-training-quantization-for-vision)]
 
 
 ## CVPR-2021
@@ -1096,8 +1050,6 @@
 
 ## ACL-2020
 
-
-- Quantifying Attention Flow in Transformers [[paper](https://aclanthology.org/2020.acl-main.385/)] [[arxiv](https://arxiv.org/abs/2005.00928)] [[paper with code](https://paperswithcode.com/paper/quantifying-attention-flow-in-transformers)] [[code](https://github.com/samiraabnar/attention_flow)]
 
 - Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder [[paper](https://aclanthology.org/2020.acl-main.544/)] [[arxiv](https://arxiv.org/abs/2006.08101)] [[paper with code](https://paperswithcode.com/paper/evidence-aware-inferential-text-generation)] [[code](https://github.com/microsoft/EA-VQ-VAE)]
 

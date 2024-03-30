@@ -21,7 +21,8 @@
 
 ## Awesome Binarization Paper Collection
 
-- [Binarization](./Awesome-Binarization-Paper-Collection/Binarization.md)
+- [Transformer Binarization](./Awesome-Binarization-Paper-Collection/Transformer-Binarization.md)
+- [Other Binarization](./Awesome-Binarization-Paper-Collection/Other-Binarization.md)
 
 
 
@@ -30,6 +31,7 @@
 
 - [Image Compression](./Awesome-Compression-Paper-Collection/Image-Compression.md)
 - [Video Compression](./Awesome-Compression-Paper-Collection/Video-Compression.md)
+- [Model Compression](./Awesome-Compression-Paper-Collection/Model-Compression.md)
 - [Point Cloud Compression](./Awesome-Compression-Paper-Collection/Point-Cloud-Compression.md)
 - [Other Compression](./Awesome-Compression-Paper-Collection/Other-Compression.md)
 
@@ -44,6 +46,13 @@
 
 
 
+## Awesome Lightweight Paper Collection
+
+- [Lightweight](./Awesome-Lightweight-Paper-Collection/Lightweight.md)
+
+
+
+
 ## Awesome Neuro Paper Collection
 
 - [Neuro](./Awesome-Neuro-Paper-Collection/Neuro.md)
@@ -53,7 +62,8 @@
 
 ## Awesome Quantization Paper Collection
 
-- [Quantization](./Awesome-Quantization-Paper-Collection/Quantization.md)
+- [Transformer Quantization](./Awesome-Quantization-Paper-Collection/Transformer-Quantization.md)
+- [Other Quantization](./Awesome-Quantization-Paper-Collection/Other-Quantization.md)
 
 
 

@@ -1,4 +1,4 @@
-# Awesome Binarization Paper Collection
+# Awesome Other Binarization Paper Collection
 
 
 - [2024](#2024)
@@ -72,10 +72,6 @@
 
 - Efficient Nonparametric Tensor Decomposition for Binary and Count Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29456)] [[arxiv](https://arxiv.org/abs/2401.07711)] [[paper with code](https://paperswithcode.com/paper/efficient-nonparametric-tensor-decomposition)] [[code](https://github.com/taozerui/gptd)]
 
-- BVT-IMA: Binary Vision Transformer with Information-Modified Attention [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29505)]
-
-- BiPFT: Binary Pre-trained Foundation Transformer with Low-Rank Estimation of Binarization Residual Polynomials [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29542)] [[arxiv](https://arxiv.org/abs/2312.08937)] [[paper with code](https://paperswithcode.com/paper/bipft-binary-pre-trained-foundation)] [[code](https://github.com/xingrun-xing/bipft)]
-
 - Probabilities of Causation with Nonbinary Treatment and Effect [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30030)] [[arxiv](https://arxiv.org/abs/2208.09568)] [[paper with code](https://paperswithcode.com/paper/probabilities-of-causation-with-nonbinary)]
 
 - Unit Selection with Nonbinary Treatment and Effect [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30031)] [[arxiv](https://arxiv.org/abs/2208.09569)] [[paper with code](https://paperswithcode.com/paper/unit-selection-with-nonbinary-treatment-and)]
@@ -117,8 +113,6 @@
 
 - Detection of Out-of-Distribution Samples Using Binary Neuron Activation Patterns [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Olber_Detection_of_Out-of-Distribution_Samples_Using_Binary_Neuron_Activation_Patterns_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2212.14268)] [[paper with code](https://paperswithcode.com/paper/detection-of-out-of-distribution-samples)] [[code](https://github.com/safednn-group/nap-ood)]
 
-- DAA: A Delta Age AdaIN Operation for Age Estimation via Binary Code Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_DAA_A_Delta_Age_AdaIN_Operation_for_Age_Estimation_via_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.07929)] [[paper with code](https://paperswithcode.com/paper/daa-a-delta-age-adain-operation-for-age)]
-
 - Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Binarizing_Sparse_Convolutional_Networks_for_Efficient_Point_Cloud_Analysis_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.15493)] [[paper with code](https://paperswithcode.com/paper/binarizing-sparse-convolutional-networks-for)]
 
 - Compacting Binary Neural Networks by Sparse Kernel Selection [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Compacting_Binary_Neural_Networks_by_Sparse_Kernel_Selection_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.14470)] [[paper with code](https://paperswithcode.com/paper/compacting-binary-neural-networks-by-sparse)]
@@ -134,8 +128,6 @@
 - INSTA-BNN: Binary Neural Network with INSTAnce-aware Threshold [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_INSTA-BNN_Binary_Neural_Network_with_INSTAnce-aware_Threshold_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2204.07439)] [[paper with code](https://paperswithcode.com/paper/insta-bnn-binary-neural-network-with-instance)]
 
 - Divide and Conquer: 3D Point Cloud Instance Segmentation With Point-Wise Binarization [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Divide_and_Conquer_3D_Point_Cloud_Instance_Segmentation_With_Point-Wise_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2207.11209)] [[paper with code](https://paperswithcode.com/paper/divide-and-conquer-3d-point-cloud-instance)] [[code](https://github.com/weiguangzhao/PBNet)]
-
-- BiViT: Extremely Compressed Binary Vision Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/He_BiViT_Extremely_Compressed_Binary_Vision_Transformers_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.07091)] [[paper with code](https://paperswithcode.com/paper/bivit-extremely-compressed-binary-vision-1)]
 
 - Fan-Beam Binarization Difference Projection (FB-BDP): A Novel Local Object Descriptor for Fine-Grained Leaf Image Retrieval [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Fan-Beam_Binarization_Difference_Projection_FB-BDP_A_Novel_Local_Object_Descriptor_ICCV_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/fan-beam-binarization-difference-projection)]
 
@@ -200,8 +192,6 @@
 - Log-Linear-Time Gaussian Processes Using Binary Tree Kernels [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/359ddb9caccb4c54cc915dceeacf4892-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.01633)] [[paper with code](https://paperswithcode.com/paper/log-linear-time-gaussian-processes-using)] [[code](https://github.com/mkc1000/btgp)]
 
 - Modeling Transitivity and Cyclicity in Directed Graphs via Binary Code Box Embeddings [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/44a1f18afd6d5cc34d7e5c3d8a80f63b-Abstract-Conference.html)]
-
-- BiT: Robustly Binarized Multi-distilled Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5c1863f711c721648387ac2ef745facb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13016)] [[paper with code](https://paperswithcode.com/paper/bit-robustly-binarized-multi-distilled)] [[code](https://github.com/facebookresearch/bit)]
 
 - Optimal Binary Classification Beyond Accuracy [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7412b6288499d68769430839b98ff1c1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2107.01777)] [[paper with code](https://paperswithcode.com/paper/statistical-theory-for-imbalanced-binary)] [[code](https://gitlab.tuebingen.mpg.de/shashank/imbalanced-binary-classification-experiments)]
 
