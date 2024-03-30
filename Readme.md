@@ -48,7 +48,8 @@
 
 ## Awesome Lightweight Paper Collection
 
-- [Lightweight](./Awesome-Lightweight-Paper-Collection/Lightweight.md)
+- [Lightweight Transformer](./Awesome-Lightweight-Paper-Collection/Lightweight-Transformer.md)
+- [Lightweight Other](./Awesome-Lightweight-Paper-Collection/Lightweight-Other.md)
 
 
 
@@ -56,6 +57,13 @@
 ## Awesome Neuro Paper Collection
 
 - [Neuro](./Awesome-Neuro-Paper-Collection/Neuro.md)
+
+
+
+
+## Awesome Plasticity Paper Collection
+
+- [Plasticity](./Awesome-Plasticity-Paper-Collection/Plasticity.md)
 
 
 

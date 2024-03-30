@@ -1,4 +1,4 @@
-# Awesome Lightweight Paper Collection
+# Awesome Lightweight Other Paper Collection
 
 
 - [2024](#2024)
@@ -56,8 +56,6 @@
 
 - OSFFNet: Omni-Stage Feature Fusion Network for Lightweight Image Super-Resolution [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28377)]
 
-- Efficient Lightweight Image Denoising with Triple Attention Transformer [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28604)]
-
 - V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29475)] [[arxiv](https://arxiv.org/abs/2308.09300)] [[paper with code](https://paperswithcode.com/paper/v2a-mapper-a-lightweight-solution-for-vision)] [[code](https://github.com/heng-hw/V2A-Mapper)]
 
 
@@ -69,8 +67,6 @@
 
 
 - Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/03df5246cc78af497940338dd3eacbaa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.16697)] [[paper with code](https://paperswithcode.com/paper/neural-polarizer-a-lightweight-and-effective)] [[openview](https://openreview.net/forum?id=VFhN15Vlkj)]
-
-- Lightweight Vision Transformer with Bidirectional Interaction [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3170de57bc1899315b97712043d8bb22-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00396)] [[paper with code](https://paperswithcode.com/paper/lightweight-vision-transformer-with-1)] [[code](https://github.com/qhfan/fat)] [[openview](https://openreview.net/forum?id=492Hfmgejy)]
 
 - Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/796455f65fd2cbe049112a2d2d4488cb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.05031)] [[paper with code](https://paperswithcode.com/paper/generalizable-lightweight-proxy-for-robust)] [[code](https://github.com/hyeonjeongha/croze)] [[openview](https://openreview.net/forum?id=ZZWg9jJQ1j)]
 
@@ -84,8 +80,6 @@
 ## CVPR-2023
 
 
-- Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.13202)] [[paper with code](https://paperswithcode.com/paper/lite-mono-a-lightweight-cnn-and-transformer)] [[code](https://github.com/noahzn/lite-mono)]
-
 - GamutMLP: A Lightweight MLP for Color Loss Recovery [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Le_GamutMLP_A_Lightweight_MLP_for_Color_Loss_Recovery_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.11743)] [[paper with code](https://paperswithcode.com/paper/gamutmlp-a-lightweight-mlp-for-color-loss)]
 
 - Omni Aggregation Networks for Lightweight Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Omni_Aggregation_Networks_for_Lightweight_Image_Super-Resolution_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.10244)] [[paper with code](https://paperswithcode.com/paper/omni-aggregation-networks-for-lightweight)] [[code](https://github.com/francis0625/omni-sr)]
@@ -93,8 +87,6 @@
 - SmallCap: Lightweight Image Captioning Prompted With Retrieval Augmentation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ramos_SmallCap_Lightweight_Image_Captioning_Prompted_With_Retrieval_Augmentation_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2209.15323)] [[paper with code](https://paperswithcode.com/paper/smallcap-lightweight-image-captioning)] [[code](https://github.com/ritaramo/smallcap)]
 
 - TOPLight: Lightweight Neural Networks With Task-Oriented Pretraining for Visible-Infrared Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_TOPLight_Lightweight_Neural_Networks_With_Task-Oriented_Pretraining_for_Visible-Infrared_Recognition_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/toplight-lightweight-neural-networks-with)]
-
-- N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_N-Gram_in_Swin_Transformers_for_Efficient_Lightweight_Image_Super-Resolution_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.11436)] [[paper with code](https://paperswithcode.com/paper/n-gram-in-swin-transformers-for-efficient)] [[code](https://github.com/rami0205/ngramswin)]
 
 - Toward Stable, Interpretable, and Lightweight Hyperspectral Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_Toward_Stable_Interpretable_and_Lightweight_Hyperspectral_Super-Resolution_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/toward-stable-interpretable-and-lightweight)] [[code](https://github.com/wenjinguo/daem)]
 
@@ -116,8 +108,6 @@
 
 - CLR: Channel-wise Lightweight Reprogramming for Continual Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ge_CLR_Channel-wise_Lightweight_Reprogramming_for_Continual_Learning_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2307.11386)] [[paper with code](https://paperswithcode.com/paper/clr-channel-wise-lightweight-reprogramming)] [[code](https://github.com/gyhandy/channel-wise-lightweight-reprogramming)]
 
-- Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kang_Exploring_Lightweight_Hierarchical_Vision_Transformers_for_Efficient_Visual_Tracking_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2308.06904)] [[paper with code](https://paperswithcode.com/paper/exploring-lightweight-hierarchical-vision)]
-
 - DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_DLGSANet_Lightweight_Dynamic_Local_and_Global_Self-Attention_Networks_for_Image_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2301.02031)] [[paper with code](https://paperswithcode.com/paper/dlgsanet-lightweight-dynamic-local-and-global)]
 
 - EfficientViT: Lightweight Multi-Scale Attention for High-Resolution Dense Prediction [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Cai_EfficientViT_Lightweight_Multi-Scale_Attention_for_High-Resolution_Dense_Prediction_ICCV_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/efficientvit-lightweight-multi-scale)]
@@ -129,8 +119,6 @@
 - Learning Lightweight Object Detectors via Multi-Teacher Progressive Distillation [[paper](https://proceedings.mlr.press/v202/cao23c.html)] [[arxiv](https://arxiv.org/abs/2308.09105)] [[paper with code](https://paperswithcode.com/paper/learning-lightweight-object-detectors-via)]
 
 - Lowering the Pre-training Tax for Gradient-based Subset Training: A Lightweight Distributed Pre-Training Toolkit [[paper](https://proceedings.mlr.press/v202/ro23a.html)]
-
-- A Closer Look at Self-Supervised Lightweight Vision Transformers [[paper](https://proceedings.mlr.press/v202/wang23e.html)] [[arxiv](https://arxiv.org/abs/2205.14443)] [[paper with code](https://paperswithcode.com/paper/a-closer-look-at-self-supervised-lightweight)] [[code](https://github.com/wangsr126/mae-lite)]
 
 
 ## ACL-2023
@@ -148,15 +136,9 @@
 
 - LGPConv: Learnable Gaussian Perturbation Convolution for Lightweight Pansharpening [[paper](https://www.ijcai.org/proceedings/2023/517)]
 
-- Sign Language-to-Text Dictionary with Lightweight Transformer Models [[paper](https://www.ijcai.org/proceedings/2023/662)]
-
 
 ## AAAI-2023
 
-
-- Head-Free Lightweight Semantic Segmentation with Linear Transformer [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25126)] [[arxiv](https://arxiv.org/abs/2301.04648)] [[paper with code](https://paperswithcode.com/paper/head-free-lightweight-semantic-segmentation)] [[code](https://github.com/dongbo811/afformer)]
-
-- FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25187)] [[arxiv](https://arxiv.org/abs/2212.03145)] [[paper with code](https://paperswithcode.com/paper/fact-factor-tuning-for-lightweight-adaptation)] [[code](https://github.com/jieshibo/petl-vit)]
 
 - From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-resolution [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25254)] [[arxiv](https://arxiv.org/abs/2211.16776)] [[paper with code](https://paperswithcode.com/paper/from-coarse-to-fine-hierarchical-pixel)] [[code](https://github.com/passerer/hpinet)]
 
@@ -212,8 +194,6 @@
 
 - SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening [[paper](https://www.ijcai.org/proceedings/2022/118)]
 
-- Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer [[paper](https://www.ijcai.org/proceedings/2022/128)] [[arxiv](https://arxiv.org/abs/2204.13286)] [[paper with code](https://paperswithcode.com/paper/lightweight-bimodal-network-for-single-image)] [[code](https://github.com/iviplab/lbnet)]
-
 - Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking [[paper](https://www.ijcai.org/proceedings/2022/140)] [[arxiv](https://arxiv.org/abs/2205.11179)] [[paper with code](https://paperswithcode.com/paper/online-hybrid-lightweight-representations)]
 
 - Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation [[paper](https://www.ijcai.org/proceedings/2022/153)] [[arxiv](https://arxiv.org/abs/2204.10762)] [[paper with code](https://paperswithcode.com/paper/dite-hrnet-dynamic-lightweight-high)] [[code](https://github.com/ziyizhang27/dite-hrnet)]
@@ -238,8 +218,6 @@
 
 - LPSNet: A Lightweight Solution for Fast Panoptic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hong_LPSNet_A_Lightweight_Solution_for_Fast_Panoptic_Segmentation_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/lpsnet-a-lightweight-solution-for-fast)]
 
-- HR-NAS: Searching Efficient High-Resolution Neural Architectures With Lightweight Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Ding_HR-NAS_Searching_Efficient_High-Resolution_Neural_Architectures_With_Lightweight_Transformers_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2106.06560)] [[paper with code](https://paperswithcode.com/paper/hr-nas-searching-efficient-high-resolution)] [[code](https://github.com/dingmyu/HR-NAS)]
-
 - Lite-HRNet: A Lightweight High-Resolution Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2104.06403)] [[paper with code](https://paperswithcode.com/paper/lite-hrnet-a-lightweight-high-resolution)] [[code](https://github.com/HRNet/Lite-HRNet)]
 
 - MaxUp: Lightweight Adversarial Training With Data Augmentation Improves Neural Network Training [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Gong_MaxUp_Lightweight_Adversarial_Training_With_Data_Augmentation_Improves_Neural_Network_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/maxup-lightweight-adversarial-training-with)]
@@ -247,8 +225,6 @@
 
 ## ICCV-2021
 
-
-- STAR: A Structure-Aware Lightweight Transformer for Real-Time Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_STAR_A_Structure-Aware_Lightweight_Transformer_for_Real-Time_Image_Enhancement_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/star-a-structure-aware-lightweight)] [[code](https://github.com/zzyfd/STAR-pytorch)]
 
 - Lightweight Multi-Person Total Motion Capture Using Sparse Multi-View Cameras [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Lightweight_Multi-Person_Total_Motion_Capture_Using_Sparse_Multi-View_Cameras_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2108.10378)] [[paper with code](https://paperswithcode.com/paper/lightweight-multi-person-total-motion-capture)]
 
@@ -343,8 +319,6 @@
 
 
 - A Layer Decomposition-Recomposition Framework for Neuron Pruning towards Accurate Lightweight Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4209)] [[arxiv](https://arxiv.org/abs/1812.06611)] [[paper with code](https://paperswithcode.com/paper/a-layer-decomposition-recomposition-framework)]
-
-- Gaussian Transformer: A Lightweight Approach for Natural Language Inference [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4614)]
 
 - A Lightweight Approach to Academic Research Group Management Using Online Tools: Spend More Time on Research and Less on Management [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5028)]
 
