@@ -11,6 +11,7 @@
 - [3D Cloud](./Awesome-3D-Paper-Collection/3D-Cloud.md)
 - [3D Point](./Awesome-3D-Paper-Collection/3D-Point.md)
 - [3D Point Cloud](./Awesome-3D-Paper-Collection/3D-Point-Cloud.md)
+- [3D Human Estimation](./Awesome-3D-Paper-Collection/3D-Human-Estimation.md)
 
 
 
@@ -77,6 +78,13 @@
 ## Awesome Neuro Paper Collection
 
 - [Neuro](./Awesome-Neuro-Paper-Collection/Neuro.md)
+
+
+
+
+## Awesome Online Paper Collection
+
+- [Online Learning](./Awesome-Online-Paper-Collection/Online-Learning.md)
 
 
 
