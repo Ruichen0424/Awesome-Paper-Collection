@@ -60,6 +60,13 @@
 
 
 
+## Awesome FPGA Paper Collection
+
+- [FPGA](./Awesome-FPGA-Paper-Collection/FPGA.md)
+
+
+
+
 ## Awesome Hardware Paper Collection
 
 - [Hardware](./Awesome-Hardware-Paper-Collection/Hardware.md)
@@ -71,6 +78,13 @@
 
 - [Lightweight Transformer](./Awesome-Lightweight-Paper-Collection/Lightweight-Transformer.md)
 - [Lightweight Other](./Awesome-Lightweight-Paper-Collection/Lightweight-Other.md)
+
+
+
+
+## Awesome Low-Latency Collection
+
+- [Low-Latency](./Awesome-Low-Latency-Paper-Collection/Low-Latency.md)
 
 
 
@@ -108,6 +122,13 @@
 
 - [Transformer Quantization](./Awesome-Quantization-Paper-Collection/Transformer-Quantization.md)
 - [Other Quantization](./Awesome-Quantization-Paper-Collection/Other-Quantization.md)
+
+
+
+
+## Awesome Real-Time Collection
+
+- [Real-Time](./Awesome-Real-Time-Paper-Collection/Real-Time.md)
 
 
 
