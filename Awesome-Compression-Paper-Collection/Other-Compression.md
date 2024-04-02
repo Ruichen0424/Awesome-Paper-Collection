@@ -1,11 +1,13 @@
 # Awesome Other Compression Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [ACL](#acl-2023)
@@ -14,6 +16,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [ACL](#acl-2022)
@@ -23,6 +26,7 @@
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
   - [IJCAI](#ijcai-2021)
@@ -31,6 +35,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
   - [ACL](#acl-2020)
@@ -40,6 +45,7 @@
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
   - [ACL](#acl-2019)
@@ -49,6 +55,7 @@
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
   - [CVPR](#cvpr-2018)
+  - [ICLR](#iclr-2018)
   - [ECCV](#eccv-2018)
   - [ICML](#icml-2018)
   - [ACL](#acl-2018)
@@ -58,6 +65,36 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Det-CGD: Compressed Gradient Descent with Matrix Stepsizes for Non-Convex Optimization [[paper](https://iclr.cc/virtual/2024/poster/18407)] [[arxiv](https://arxiv.org/abs/2305.12568)]
+
+- High Fidelity Neural Audio Compression [[paper](https://iclr.cc/virtual/2024/poster/21753)] [[arxiv](https://arxiv.org/abs/2210.13438)] [[paper with code](https://paperswithcode.com/paper/high-fidelity-neural-audio-compression)] [[code](https://github.com/facebookresearch/encodec)]
+
+- Stochastic Controlled Averaging for Federated Learning with Communication Compression [[paper](https://iclr.cc/virtual/2024/poster/18012)] [[arxiv](https://arxiv.org/abs/2308.08165)]
+
+- SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression [[paper](https://iclr.cc/virtual/2024/poster/18686)] [[arxiv](https://arxiv.org/abs/2306.03078)] [[paper with code](https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for)] [[code](https://github.com/vahe1994/spqr)]
+
+- ACRF: Compressing Explicit Neural Radiance Fields via Attribute Compression [[paper](https://iclr.cc/virtual/2024/poster/18709)]
+
+- RECOMP: Improving Retrieval-Augmented LMs with Context Compression and Selective Augmentation [[paper](https://iclr.cc/virtual/2024/poster/17885)]
+
+- StructComp: Substituting propagation with Structural Compression in Training Graph Contrastive Learning [[paper](https://iclr.cc/virtual/2024/poster/18378)] [[arxiv](https://arxiv.org/abs/2312.04865)] [[paper with code](https://paperswithcode.com/paper/structcomp-substituting-propagation-with)]
+
+- Network Memory Footprint Compression Through Jointly Learnable Codebooks and Mappings [[paper](https://iclr.cc/virtual/2024/poster/19588)] [[arxiv](https://arxiv.org/abs/2309.17361)] [[paper with code](https://paperswithcode.com/paper/network-memory-footprint-compression-through)]
+
+- Finite-State Autoregressive Entropy Coding for Efficient Learned Lossless Compression [[paper](https://iclr.cc/virtual/2024/poster/19153)]
+
+- Information Bottleneck Analysis of Deep Neural Networks via Lossy Compression [[paper](https://iclr.cc/virtual/2024/poster/18081)] [[arxiv](https://arxiv.org/abs/2305.08013)] [[paper with code](https://paperswithcode.com/paper/information-bottleneck-analysis-of-deep)]
+
+- EControl: Fast Distributed Optimization with Compression and Error Control [[paper](https://iclr.cc/virtual/2024/poster/17916)] [[arxiv](https://arxiv.org/abs/2311.05645)] [[paper with code](https://paperswithcode.com/paper/econtrol-fast-distributed-optimization-with)]
+
+- RECOMBINER: Robust and Enhanced Compression with Bayesian Implicit Neural Representations [[paper](https://iclr.cc/virtual/2024/poster/18495)] [[arxiv](https://arxiv.org/abs/2309.17182)] [[paper with code](https://paperswithcode.com/paper/recombiner-robust-and-enhanced-compression)] [[code](https://github.com/cambridge-mlg/recombiner)]
+
+- Deep Orthogonal Hypersphere Compression for Anomaly Detection [[paper](https://iclr.cc/virtual/2024/poster/18301)] [[arxiv](https://arxiv.org/abs/2302.06430)]
 
 
 ## AAAI-2024
@@ -113,6 +150,22 @@
 - TINC: Tree-Structured Implicit Neural Compression [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_TINC_Tree-Structured_Implicit_Neural_Compression_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.06689)] [[paper with code](https://paperswithcode.com/paper/tinc-tree-structured-implicit-neural)] [[code](https://github.com/richealyoung/tinc)]
 
 - Discriminator-Cooperated Feature Map Distillation for GAN Compression [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Discriminator-Cooperated_Feature_Map_Distillation_for_GAN_Compression_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2212.14169)] [[paper with code](https://paperswithcode.com/paper/discriminator-cooperated-feature-map)] [[code](https://github.com/poopit/dcd-official)]
+
+
+## ICLR-2023
+
+
+- Progressively Compressed Auto-Encoder for Self-supervised Representation Learning [[paper](https://iclr.cc/virtual/2023/poster/12083)]
+
+- Serving Graph Compression for Graph Neural Networks [[paper](https://iclr.cc/virtual/2023/poster/10950)]
+
+- How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression? [[paper](https://iclr.cc/virtual/2023/poster/11630)] [[paper with code](https://paperswithcode.com/paper/how-informative-is-the-approximation-error)]
+
+- DASHA: Distributed Nonconvex Optimization with Communication Compression and Optimal Oracle Complexity [[paper](https://iclr.cc/virtual/2023/poster/12060)] [[arxiv](https://arxiv.org/abs/2202.01268)]
+
+- CrAM: A Compression-Aware Minimizer [[paper](https://iclr.cc/virtual/2023/poster/11058)] [[arxiv](https://arxiv.org/abs/2207.14200)] [[paper with code](https://paperswithcode.com/paper/cram-a-compression-aware-minimizer)] [[code](https://github.com/ist-daslab/cram)]
+
+- Variance Reduction is an Antidote to Byzantines: Better Rates, Weaker Assumptions and Communication Compression as a Cherry on the Top [[paper](https://iclr.cc/virtual/2023/poster/11657)] [[arxiv](https://arxiv.org/abs/2206.00529)] [[paper with code](https://paperswithcode.com/paper/variance-reduction-is-an-antidote-to)] [[code](https://github.com/samuelhorvath/vr_byzantine)]
 
 
 ## ICCV-2023
@@ -231,6 +284,28 @@
 - Split Hierarchical Variational Compression [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ryder_Split_Hierarchical_Variational_Compression_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2204.02071)] [[paper with code](https://paperswithcode.com/paper/split-hierarchical-variational-compression)]
 
 
+## ICLR-2022
+
+
+- Unified Visual Transformer Compression [[paper](https://iclr.cc/virtual/2022/poster/6958)] [[arxiv](https://arxiv.org/abs/2310.11117)] [[paper with code](https://paperswithcode.com/paper/unified-visual-transformer-compression-1)] [[code](https://github.com/VITA-Group/UVC)] [[openview](https://openreview.net/forum?id=9jsZiUgkCZP)]
+
+- Memory Replay with Data Compression for Continual Learning [[paper](https://iclr.cc/virtual/2022/poster/5928)] [[arxiv](https://arxiv.org/abs/2202.06592)] [[paper with code](https://paperswithcode.com/paper/memory-replay-with-data-compression-for-1)] [[code](https://github.com/lywang3081/MRDC)] [[openview](https://openreview.net/forum?id=a7H7OucbWaU)]
+
+- IntSGD: Adaptive Floatless Compression of Stochastic Gradients [[paper](https://iclr.cc/virtual/2022/poster/6683)] [[arxiv](https://arxiv.org/abs/2102.08374)] [[paper with code](https://paperswithcode.com/paper/intsgd-floatless-compression-of-stochastic)] [[code](https://github.com/bokunwang1/intsgd)] [[openview](https://openreview.net/forum?id=pFyXqxChZc)]
+
+- Lossless Compression with Probabilistic Circuits [[paper](https://iclr.cc/virtual/2022/poster/6879)] [[arxiv](https://arxiv.org/abs/2111.11632)] [[paper with code](https://paperswithcode.com/paper/lossless-compression-with-probabilistic-1)] [[code](https://github.com/juice-jl/pressedjuice.jl)] [[openview](https://openreview.net/forum?id=X_hByk2-5je)]
+
+- EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression [[paper](https://iclr.cc/virtual/2022/poster/6021)] [[paper with code](https://paperswithcode.com/paper/exact-scalable-graph-neural-networks-training)] [[openview](https://openreview.net/forum?id=vkaMaq95_rX)]
+
+- LOSSY COMPRESSION WITH DISTRIBUTION SHIFT AS ENTROPY CONSTRAINED OPTIMAL TRANSPORT [[paper](https://iclr.cc/virtual/2022/poster/6136)]
+
+- DKM: Differentiable k-Means Clustering Layer for Neural Network Compression [[paper](https://iclr.cc/virtual/2022/poster/6260)] [[arxiv](https://arxiv.org/abs/2108.12659)] [[paper with code](https://paperswithcode.com/paper/dkm-differentiable-k-means-clustering-layer)] [[openview](https://openreview.net/forum?id=J_F_qqCE3Z5)]
+
+- On Distributed Adaptive Optimization with Gradient Compression [[paper](https://iclr.cc/virtual/2022/poster/6171)] [[arxiv](https://arxiv.org/abs/2205.05632)] [[paper with code](https://paperswithcode.com/paper/on-distributed-adaptive-optimization-with-1)] [[openview](https://openreview.net/forum?id=CI-xXX9dg9l)]
+
+- Distribution Compression in Near-Linear Time [[paper](https://iclr.cc/virtual/2022/poster/7193)] [[arxiv](https://arxiv.org/abs/2111.07941)] [[paper with code](https://paperswithcode.com/paper/distribution-compression-in-near-linear-time-1)] [[code](https://github.com/microsoft/goodpoints)] [[openview](https://openreview.net/forum?id=lzupY5zjaU9)]
+
+
 ## ECCV-2022
 
 
@@ -333,6 +408,18 @@
 - Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cui_Bayesian_Nested_Neural_Networks_for_Uncertainty_Calibration_and_Adaptive_Compression_CVPR_2021_paper.html)]
 
 - Permute, Quantize, and Fine-Tune: Efficient Compression of Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Martinez_Permute_Quantize_and_Fine-Tune_Efficient_Compression_of_Neural_Networks_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2010.15703)] [[paper with code](https://paperswithcode.com/paper/permute-quantize-and-fine-tune-efficient)] [[code](https://github.com/uber-research/permute-quantize-finetune)]
+
+
+## ICLR-2021
+
+
+- Overfitting for Fun and Profit: Instance-Adaptive Data Compression [[paper](https://iclr.cc/virtual/2021/poster/3371)] [[arxiv](https://arxiv.org/abs/2101.08687)] [[paper with code](https://paperswithcode.com/paper/overfitting-for-fun-and-profit-instance-1)] [[openview](https://openreview.net/forum?id=oFp8Mx_V5FL)]
+
+- IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression [[paper](https://iclr.cc/virtual/2021/poster/2779)] [[arxiv](https://arxiv.org/abs/2006.12459)] [[paper with code](https://paperswithcode.com/paper/idf-analyzing-and-improving-integer-discrete)] [[openview](https://openreview.net/forum?id=MBOyiNnYthd)]
+
+- Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration [[paper](https://iclr.cc/virtual/2021/poster/3127)] [[arxiv](https://arxiv.org/abs/2103.12300)] [[paper with code](https://paperswithcode.com/paper/drop-bottleneck-learning-discrete-compressed-1)] [[code](https://github.com/jaekyeom/drop-bottleneck)] [[openview](https://openreview.net/forum?id=1rxHOBjeDUW)]
+
+- Linear Convergent Decentralized Optimization with Compression [[paper](https://iclr.cc/virtual/2021/poster/2693)] [[arxiv](https://arxiv.org/abs/2205.12623)] [[paper with code](https://paperswithcode.com/paper/linear-convergent-decentralized-optimization)] [[openview](https://openreview.net/forum?id=84gjULz1t5)]
 
 
 ## ICCV-2021
@@ -443,6 +530,24 @@
 - Few Sample Knowledge Distillation for Efficient Network Compression [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Few_Sample_Knowledge_Distillation_for_Efficient_Network_Compression_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1812.01839)] [[paper with code](https://paperswithcode.com/paper/knowledge-distillation-from-few-samples)] [[code](https://github.com/LTH14/FSKD)]
 
 
+## ICLR-2020
+
+
+- Deep probabilistic subsampling for task-adaptive compressed sensing [[paper](https://iclr.cc/virtual/2020/poster/1713)] [[paper with code](https://paperswithcode.com/paper/deep-probabilistic-subsampling-for-task)] [[code](https://github.com/IamHuijben/Deep-Probabilistic-Subsampling)] [[openview](https://openreview.net/forum?id=SJeq9JBFvH)]
+
+- Compression based bound for non-compressed network: unified generalization error analysis of large compressible deep neural network [[paper](https://iclr.cc/virtual/2020/poster/1762)] [[arxiv](https://arxiv.org/abs/1909.11274)] [[paper with code](https://paperswithcode.com/paper/compression-based-bound-for-non-compressed-1)] [[openview](https://openreview.net/forum?id=ByeGzlrKwH)]
+
+- BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget [[paper](https://iclr.cc/virtual/2020/poster/1860)] [[arxiv](https://arxiv.org/abs/1906.04113)] [[paper with code](https://paperswithcode.com/paper/blockswap-fisher-guided-block-substitution)] [[code](https://github.com/BayesWatch/pytorch-blockswap)] [[openview](https://openreview.net/forum?id=SklkDkSFPB)]
+
+- Probabilistic Connection Importance Inference and Lossless Compression of Deep Neural Networks [[paper](https://iclr.cc/virtual/2020/poster/1787)] [[paper with code](https://paperswithcode.com/paper/probabilistic-connection-importance-inference)] [[openview](https://openreview.net/forum?id=HJgCF0VFwr)]
+
+- FSNet: Compression of Deep Convolutional Neural Networks by Filter Summary [[paper](https://iclr.cc/virtual/2020/poster/2063)] [[arxiv](https://arxiv.org/abs/1902.03264)] [[paper with code](https://paperswithcode.com/paper/fsnet-compression-of-deep-convolutional)] [[openview](https://openreview.net/forum?id=S1xtORNFwH)]
+
+- Neural Epitome Search for Architecture-Agnostic Network Compression [[paper](https://iclr.cc/virtual/2020/poster/1604)] [[arxiv](https://arxiv.org/abs/1907.05642)] [[paper with code](https://paperswithcode.com/paper/deep-model-compression-via-filter-auto)] [[openview](https://openreview.net/forum?id=HyxjOyrKvr)]
+
+- Decentralized Deep Learning with Arbitrary Communication Compression [[paper](https://iclr.cc/virtual/2020/poster/1942)] [[arxiv](https://arxiv.org/abs/1907.09356)] [[paper with code](https://paperswithcode.com/paper/decentralized-deep-learning-with-arbitrary)] [[code](https://github.com/epfml/ChocoSGD)] [[openview](https://openreview.net/forum?id=SkgGCkrKvH)]
+
+
 ## ECCV-2020
 
 
@@ -543,6 +648,20 @@
 - Efficient Neural Network Compression [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kim_Efficient_Neural_Network_Compression_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2403.09441)] [[paper with code](https://paperswithcode.com/paper/a-framework-for-fast-and-efficient-neural)] [[code](https://github.com/Hyeji-Kim/ENC)]
 
 
+## ICLR-2019
+
+
+- Learnable Embedding Space for Efficient Neural Architecture Compression [[paper](https://openreview.net/forum?id=S1xLN3C9YX)] [[arxiv](https://arxiv.org/abs/1902.00383)] [[paper with code](https://paperswithcode.com/paper/learnable-embedding-space-for-efficient)] [[code](https://github.com/Friedrich1006/ESNAC)] [[openview](https://openreview.net/forum?id=S1xLN3C9YX)]
+
+- Energy-Constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking [[paper](https://openreview.net/forum?id=BylBr3C9K7)] [[arxiv](https://arxiv.org/abs/1806.04321)] [[paper with code](https://paperswithcode.com/paper/end-to-end-learning-of-energy-constrained)] [[code](https://github.com/hyang1990/model_based_energy_constrained_compression)] [[openview](https://openreview.net/forum?id=BylBr3C9K7)]
+
+- Double Viterbi: Weight Encoding for High Compression Ratio and Fast On-Chip Reconstruction for Deep Neural Network [[paper](https://openreview.net/forum?id=HkfYOoCcYX)] [[paper with code](https://paperswithcode.com/paper/double-viterbi-weight-encoding-for-high)] [[openview](https://openreview.net/forum?id=HkfYOoCcYX)]
+
+- Adaptive Estimators Show Information Compression in Deep Neural Networks [[paper](https://openreview.net/forum?id=SkeZisA5t7)] [[arxiv](https://arxiv.org/abs/1902.09037)] [[paper with code](https://paperswithcode.com/paper/adaptive-estimators-show-information)] [[openview](https://openreview.net/forum?id=SkeZisA5t7)]
+
+- Practical lossless compression with latent variables using bits back coding [[paper](https://openreview.net/forum?id=ryE98iR5tm)] [[arxiv](https://arxiv.org/abs/1901.04866)] [[paper with code](https://paperswithcode.com/paper/practical-lossless-compression-with-latent)] [[code](https://github.com/bits-back/bits-back)] [[openview](https://openreview.net/forum?id=ryE98iR5tm)]
+
+
 ## ICCV-2019
 
 
@@ -629,6 +748,18 @@
 - “Learning-Compression” Algorithms for Neural Net Pruning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.html)]
 
 - Wide Compression: Tensor Ring Nets [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Wide_Compression_Tensor_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1802.09052)] [[paper with code](https://paperswithcode.com/paper/wide-compression-tensor-ring-nets)]
+
+
+## ICLR-2018
+
+
+- Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training [[paper](https://openreview.net/forum?id=SkhQHMW0W)] [[arxiv](https://arxiv.org/abs/1712.01887)] [[paper with code](https://paperswithcode.com/paper/deep-gradient-compression-reducing-the)] [[code](https://github.com/synxlin/deep-gradient-compression)] [[openview](https://openreview.net/forum?id=SkhQHMW0W)]
+
+- A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs [[paper](https://openreview.net/forum?id=B1e5ef-C-)] [[paper with code](https://paperswithcode.com/paper/a-compressed-sensing-view-of-unsupervised)] [[code](https://github.com/NLPrinceton/text_embedding)] [[openview](https://openreview.net/forum?id=B1e5ef-C-)]
+
+- N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning [[paper](https://openreview.net/forum?id=B1hcZZ-AW)] [[arxiv](https://arxiv.org/abs/1709.06030)] [[paper with code](https://paperswithcode.com/paper/n2n-learning-network-to-network-compression)] [[openview](https://openreview.net/forum?id=B1hcZZ-AW)]
+
+- Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio [[paper](https://openreview.net/forum?id=S1D8MPxA-)] [[paper with code](https://paperswithcode.com/paper/viterbi-based-pruning-for-sparse-matrix-with)] [[openview](https://openreview.net/forum?id=S1D8MPxA-)]
 
 
 ## ECCV-2018

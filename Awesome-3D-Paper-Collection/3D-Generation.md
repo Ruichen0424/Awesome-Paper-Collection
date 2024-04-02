@@ -1,11 +1,13 @@
 # Awesome 3D Generation Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [AAAI](#aaai-2023)
@@ -13,6 +15,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [AAAI](#aaai-2022)
@@ -41,6 +44,36 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- MagicDrive: Street View Generation with Diverse 3D Geometry Control [[paper](https://iclr.cc/virtual/2024/poster/17661)] [[arxiv](https://arxiv.org/abs/2310.02601)] [[paper with code](https://paperswithcode.com/paper/magicdrive-street-view-generation-with)]
+
+- Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/17951)] [[arxiv](https://arxiv.org/abs/2309.17296)] [[paper with code](https://paperswithcode.com/paper/navigating-the-design-space-of-equivariant)]
+
+- TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields [[paper](https://iclr.cc/virtual/2024/poster/18478)] [[arxiv](https://arxiv.org/abs/2309.17175)] [[paper with code](https://paperswithcode.com/paper/textfield3d-towards-enhancing-open-vocabulary)]
+
+- Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18459)]
+
+- Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping [[paper](https://iclr.cc/virtual/2024/poster/17566)] [[arxiv](https://arxiv.org/abs/2310.12474)] [[paper with code](https://paperswithcode.com/paper/enhancing-high-resolution-3d-generation)] [[code](https://github.com/fudan-zvg/pgc-3d)]
+
+- MVDream: Multi-view Diffusion for 3D Generation [[paper](https://iclr.cc/virtual/2024/poster/19063)] [[arxiv](https://arxiv.org/abs/2308.16512)] [[paper with code](https://paperswithcode.com/paper/mvdream-multi-view-diffusion-for-3d)] [[code](https://github.com/bytedance/mvdream)]
+
+- Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation [[paper](https://iclr.cc/virtual/2024/poster/18523)] [[arxiv](https://arxiv.org/abs/2303.07937)] [[paper with code](https://paperswithcode.com/paper/let-2d-diffusion-model-know-3d-consistency)] [[code](https://github.com/KU-CVLAB/3DFuse)]
+
+- Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors [[paper](https://iclr.cc/virtual/2024/poster/19607)] [[arxiv](https://arxiv.org/abs/2306.17843)] [[paper with code](https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object)] [[code](https://github.com/guochengqian/magic123)]
+
+- DreamTime: An Improved Optimization Strategy for Diffusion-Guided 3D Generation [[paper](https://iclr.cc/virtual/2024/poster/19581)]
+
+- HIFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance [[paper](https://iclr.cc/virtual/2024/poster/18961)] [[arxiv](https://arxiv.org/abs/2305.18766)] [[paper with code](https://paperswithcode.com/paper/hifa-high-fidelity-text-to-3d-with-advanced)] [[code](https://github.com/JunzheJosephZhu/HiFA)]
+
+- Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model [[paper](https://iclr.cc/virtual/2024/poster/19538)] [[arxiv](https://arxiv.org/abs/2311.06214)] [[paper with code](https://paperswithcode.com/paper/instant3d-fast-text-to-3d-with-sparse-view)]
+
+- DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior [[paper](https://iclr.cc/virtual/2024/poster/19148)] [[arxiv](https://arxiv.org/abs/2310.16818)] [[paper with code](https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with)] [[code](https://github.com/deepseek-ai/dreamcraft3d)]
+
+- DreamFlow: High-quality text-to-3D generation by Approximating Probability Flow [[paper](https://iclr.cc/virtual/2024/poster/19028)] [[arxiv](https://arxiv.org/abs/2403.14966)] [[paper with code](https://paperswithcode.com/paper/dreamflow-high-quality-text-to-3d-generation)]
 
 
 ## AAAI-2024
@@ -119,6 +152,22 @@
 - Diffusion-Based Generation, Optimization, and Planning in 3D Scenes [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Diffusion-Based_Generation_Optimization_and_Planning_in_3D_Scenes_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2301.06015)] [[paper with code](https://paperswithcode.com/paper/diffusion-based-generation-optimization-and)] [[code](https://github.com/scenediffuser/Scene-Diffuser)]
 
 - TAPS3D: Text-Guided 3D Textured Shape Generation From Pseudo Supervision [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_TAPS3D_Text-Guided_3D_Textured_Shape_Generation_From_Pseudo_Supervision_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.13273)] [[paper with code](https://paperswithcode.com/paper/taps3d-text-guided-3d-textured-shape)] [[code](https://github.com/plusmultiply/taps3d)]
+
+
+## ICLR-2023
+
+
+- 3D generation on ImageNet [[paper](https://iclr.cc/virtual/2023/poster/12156)] [[arxiv](https://arxiv.org/abs/2403.00939)]
+
+- EVA3D: Compositional 3D Human Generation from 2D Image Collections [[paper](https://iclr.cc/virtual/2023/poster/12147)] [[arxiv](https://arxiv.org/abs/2210.04888)] [[paper with code](https://paperswithcode.com/paper/eva3d-compositional-3d-human-generation-from)] [[code](https://github.com/hongfz16/EVA3D)]
+
+- ISS: Image as Stepping Stone for Text-Guided 3D Shape Generation [[paper](https://iclr.cc/virtual/2023/poster/12167)] [[arxiv](https://arxiv.org/abs/2209.04145)] [[paper with code](https://paperswithcode.com/paper/iss-image-as-stetting-stone-for-text-guided)] [[code](https://github.com/liuzhengzhe/ISS-Image-as-Stepping-Stone-for-Text-Guided-3D-Shape-Generation)]
+
+- Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design [[paper](https://iclr.cc/virtual/2023/poster/11314)] [[arxiv](https://arxiv.org/abs/2210.04893)] [[paper with code](https://paperswithcode.com/paper/equivariant-shape-conditioned-generation-of)] [[code](https://github.com/keiradams/squid)]
+
+- 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction [[paper](https://iclr.cc/virtual/2023/poster/11022)] [[arxiv](https://arxiv.org/abs/2303.03543)] [[paper with code](https://paperswithcode.com/paper/3d-equivariant-diffusion-for-target-aware)] [[code](https://github.com/guanjq/targetdiff)]
+
+- PV3D: A 3D Generative Model for Portrait Video Generation [[paper](https://iclr.cc/virtual/2023/poster/11700)] [[arxiv](https://arxiv.org/abs/2212.06384)] [[paper with code](https://paperswithcode.com/paper/pv3d-a-3d-generative-model-for-portrait-video)]
 
 
 ## ICCV-2023
@@ -233,6 +282,12 @@
 - FLAG: Flow-Based 3D Avatar Generation From Sparse Observations [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Aliakbarian_FLAG_Flow-Based_3D_Avatar_Generation_From_Sparse_Observations_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2203.05789)] [[paper with code](https://paperswithcode.com/paper/flag-flow-based-3d-avatar-generation-from)]
 
 - AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2112.11593)] [[paper with code](https://paperswithcode.com/paper/adaptpose-cross-dataset-adaptation-for-3d)] [[code](https://github.com/mgholamikn/AdaptPose)]
+
+
+## ICLR-2022
+
+
+- An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch [[paper](https://iclr.cc/virtual/2022/poster/7066)] [[paper with code](https://paperswithcode.com/paper/an-autoregressive-flow-model-for-3d-molecular)] [[openview](https://openreview.net/forum?id=C03Ajc-NS5W)]
 
 
 ## ECCV-2022

@@ -1,11 +1,13 @@
 # Awesome 3D Object Other Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [IJCAI](#ijcai-2023)
   - [AAAI](#aaai-2023)
@@ -13,11 +15,13 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
 
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
@@ -25,6 +29,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
   - [IJCAI](#ijcai-2020)
@@ -47,6 +52,22 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- 3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation [[paper](https://iclr.cc/virtual/2024/poster/18534)] [[arxiv](https://arxiv.org/abs/2310.03534)] [[paper with code](https://paperswithcode.com/paper/3d-aware-hypothesis-verification-for)]
+
+- Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18459)]
+
+- Pre-training LiDAR-based 3D Object Detectors through Colorization [[paper](https://iclr.cc/virtual/2024/poster/18195)] [[arxiv](https://arxiv.org/abs/2310.14592)] [[paper with code](https://paperswithcode.com/paper/pre-training-lidar-based-3d-object-detectors)] [[code](https://github.com/tydpan/gpc)]
+
+- Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors [[paper](https://iclr.cc/virtual/2024/poster/19607)] [[arxiv](https://arxiv.org/abs/2306.17843)] [[paper with code](https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object)] [[code](https://github.com/guochengqian/magic123)]
+
+- AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation [[paper](https://iclr.cc/virtual/2024/poster/19289)] [[arxiv](https://arxiv.org/abs/2306.00977)] [[paper with code](https://paperswithcode.com/paper/agile3d-attention-guided-interactive-multi)]
+
+- H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields [[paper](https://iclr.cc/virtual/2024/poster/18720)] [[arxiv](https://arxiv.org/abs/2402.08138)] [[paper with code](https://paperswithcode.com/paper/h2o-sdf-two-phase-learning-for-3d-indoor)] [[code](https://github.com/Domirae/H2O-SDF)]
 
 
 ## AAAI-2024
@@ -125,6 +146,12 @@
 - gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_gSDF_Geometry-Driven_Signed_Distance_Functions_for_3D_Hand-Object_Reconstruction_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.11970)] [[paper with code](https://paperswithcode.com/paper/gsdf-geometry-driven-signed-distance)]
 
 - Fantastic Breaks: A Dataset of Paired 3D Scans of Real-World Broken Objects and Their Complete Counterparts [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lamb_Fantastic_Breaks_A_Dataset_of_Paired_3D_Scans_of_Real-World_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.14152)] [[paper with code](https://paperswithcode.com/paper/fantastic-breaks-a-dataset-of-paired-3d-scans)]
+
+
+## ICLR-2023
+
+
+- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)]
 
 
 ## ICCV-2023
@@ -233,6 +260,14 @@
 - MonoGround: Detecting Monocular 3D Objects From the Ground [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Qin_MonoGround_Detecting_Monocular_3D_Objects_From_the_Ground_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2206.07372)] [[paper with code](https://paperswithcode.com/paper/monoground-detecting-monocular-3d-objects-1)] [[code](https://github.com/cfzd/monoground)]
 
 
+## ICLR-2022
+
+
+- IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes [[paper](https://iclr.cc/virtual/2022/poster/6870)] [[arxiv](https://arxiv.org/abs/2112.05298)] [[paper with code](https://paperswithcode.com/paper/ifr-explore-learning-inter-object-functional-1)] [[openview](https://openreview.net/forum?id=OT3mLgR8Wg8)]
+
+- VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects [[paper](https://iclr.cc/virtual/2022/poster/6298)] [[arxiv](https://arxiv.org/abs/2106.14440)] [[paper with code](https://paperswithcode.com/paper/vat-mart-learning-visual-action-trajectory)] [[openview](https://openreview.net/forum?id=iEx3PiooLy)]
+
+
 ## ECCV-2022
 
 
@@ -286,6 +321,12 @@
 - RangeIoUDet: Range Image Based Real-Time 3D Object Detector Optimized by Intersection Over Union [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liang_RangeIoUDet_Range_Image_Based_Real-Time_3D_Object_Detector_Optimized_by_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/rangeioudet-range-image-based-real-time-3d)]
 
 - Single-View 3D Object Reconstruction From Shape Priors in Memory [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Single-View_3D_Object_Reconstruction_From_Shape_Priors_in_Memory_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2003.03711)] [[paper with code](https://paperswithcode.com/paper/meta3d-single-view-3d-object-reconstruction)]
+
+
+## ICLR-2021
+
+
+- Unsupervised Discovery of 3D Physical Objects [[paper](https://iclr.cc/virtual/2021/poster/3207)] [[arxiv](https://arxiv.org/abs/2007.12348)] [[paper with code](https://paperswithcode.com/paper/unsupervised-discovery-of-3d-physical-objects-1)] [[openview](https://openreview.net/forum?id=lf7st0bJIA5)]
 
 
 ## ICCV-2021
@@ -370,6 +411,13 @@
 - 3DSSD: Point-Based 3D Single Stage Object Detector [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_3DSSD_Point-Based_3D_Single_Stage_Object_Detector_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2002.10187)] [[paper with code](https://paperswithcode.com/paper/3dssd-point-based-3d-single-stage-object)] [[code](https://github.com/open-mmlab/mmdetection3d)]
 
 - Autolabeling 3D Objects With Differentiable Rendering of SDF Shape Priors [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zakharov_Autolabeling_3D_Objects_With_Differentiable_Rendering_of_SDF_Shape_Priors_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1911.11288)] [[paper with code](https://paperswithcode.com/paper/autolabeling-3d-objects-with-differentiable)] [[code](https://github.com/TRI-ML/sdflabel)]
+
+
+
+## ICLR-2020
+
+
+- Higher-Order Function Networks for Learning Composable 3D Object Representations [[paper](https://iclr.cc/virtual/2020/poster/1427)] [[arxiv](https://arxiv.org/abs/1907.10388)] [[paper with code](https://paperswithcode.com/paper/higher-order-function-networks-for-learning)] [[openview](https://openreview.net/forum?id=HJgfDREKDB)]
 
 
 ## ECCV-2020

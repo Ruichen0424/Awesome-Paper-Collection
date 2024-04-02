@@ -1,11 +1,13 @@
 # Awesome Video Compression Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [AAAI](#aaai-2023)
 
@@ -18,6 +20,7 @@
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
 
 - [2020](#2020)
@@ -37,6 +40,12 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Neural Rate Control for Learned Video Compression [[paper](https://iclr.cc/virtual/2024/poster/19481)]
 
 
 ## AAAI-2024
@@ -79,6 +88,12 @@
 - Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Efficient_Semantic_Segmentation_by_Altering_Resolutions_for_Compressed_Videos_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.07224)] [[paper with code](https://paperswithcode.com/paper/efficient-semantic-segmentation-by-altering)] [[code](https://github.com/thu-lyj-lab/ar-seg)]
 
 - Motion Information Propagation for Neural Video Compression [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/motion-information-propagation-for-neural)]
+
+
+## ICLR-2023
+
+
+- MIMT: Masked Image Modeling Transformer for Video Compression [[paper](https://iclr.cc/virtual/2023/poster/11734)]
 
 
 ## ICCV-2023
@@ -168,6 +183,14 @@
 - FVC: A New Framework Towards Deep Video Compression in Feature Space [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_FVC_A_New_Framework_Towards_Deep_Video_Compression_in_Feature_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2105.09600)] [[paper with code](https://paperswithcode.com/paper/fvc-a-new-framework-towards-deep-video)]
 
 - Deep Learning in Latent Space for Video Prediction and Compression [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Deep_Learning_in_Latent_Space_for_Video_Prediction_and_Compression_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/deep-learning-in-latent-space-for-video)] [[code](https://github.com/BowenL0218/Video_Compression)]
+
+
+## ICLR-2021
+
+
+- Self-Supervised Learning of Compressed Video Representations [[paper](https://iclr.cc/virtual/2021/poster/2915)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-of-compressed-video)] [[openview](https://openreview.net/forum?id=jMPcEkJpdD)]
+
+- Hierarchical Autoregressive Modeling for Neural Video Compression [[paper](https://iclr.cc/virtual/2021/poster/2626)] [[arxiv](https://arxiv.org/abs/2010.10258)] [[paper with code](https://paperswithcode.com/paper/hierarchical-autoregressive-modeling-for-1)] [[code](https://github.com/buggyyang/youtube-nt)] [[openview](https://openreview.net/forum?id=TK_6nNb_C7q)]
 
 
 ## ICCV-2021

@@ -1,11 +1,13 @@
 # Awesome Image Compression Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [AAAI](#aaai-2023)
@@ -13,36 +15,51 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [AAAI](#aaai-2022)
 
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
 
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [IJCAI](#ijcai-2020)
   - [AAAI](#aaai-2020)
 
 - [2019](#2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
   - [AAAI](#aaai-2019)
 
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
   - [CVPR](#cvpr-2018)
+  - [ICLR](#iclr-2018)
   - [ECCV](#eccv-2018)
   - [AAAI](#aaai-2018)
 
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Towards image compression with perfect realism at ultra-low bitrates [[paper](https://iclr.cc/virtual/2024/poster/17959)] [[arxiv](https://arxiv.org/abs/2310.10325)] [[paper with code](https://paperswithcode.com/paper/towards-image-compression-with-perfect)]
+
+- Frequency-Aware Transformer for Learned Image Compression [[paper](https://iclr.cc/virtual/2024/poster/18998)] [[arxiv](https://arxiv.org/abs/2310.16387)]
+
+- Idempotence and Perceptual Image Compression [[paper](https://iclr.cc/virtual/2024/poster/19156)] [[arxiv](https://arxiv.org/abs/2401.08920)] [[paper with code](https://paperswithcode.com/paper/idempotence-and-perceptual-image-compression)] [[code](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression)]
 
 
 ## AAAI-2024
@@ -86,6 +103,14 @@
 - Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tan_Backdoor_Attacks_Against_Deep_Image_Compression_via_Adaptive_Frequency_Trigger_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2302.14677)] [[paper with code](https://paperswithcode.com/paper/backdoor-attacks-against-deep-image)]
 
 - Learned Image Compression With Mixed Transformer-CNN Architectures [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Learned_Image_Compression_With_Mixed_Transformer-CNN_Architectures_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.14978)] [[paper with code](https://paperswithcode.com/paper/learned-image-compression-with-mixed)] [[code](https://github.com/jmliu206/lic_tcm)]
+
+
+## ICLR-2023
+
+
+- MIMT: Masked Image Modeling Transformer for Video Compression [[paper](https://iclr.cc/virtual/2023/poster/11734)]
+
+- EVC: Towards Real-Time Neural Image Compression with Mask Decay [[paper](https://iclr.cc/virtual/2023/poster/12015)] [[arxiv](https://arxiv.org/abs/2302.05071)] [[paper with code](https://paperswithcode.com/paper/evc-towards-real-time-neural-image)] [[code](https://github.com/microsoft/dcvc)]
 
 
 ## ICCV-2023
@@ -174,6 +199,12 @@
 - The Devil Is in the Details: Window-Based Attention for Image Compression [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_The_Devil_Is_in_the_Details_Window-Based_Attention_for_Image_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2203.08450)] [[paper with code](https://paperswithcode.com/paper/the-devil-is-in-the-details-window-based)] [[code](https://github.com/googolxx/stf)]
 
 
+## ICLR-2022
+
+
+- Entroformer: A Transformer-based Entropy Model for Learned Image Compression [[paper](https://iclr.cc/virtual/2022/poster/7022)] [[arxiv](https://arxiv.org/abs/2202.05492)] [[paper with code](https://paperswithcode.com/paper/entroformer-a-transformer-based-entropy-model-1)] [[code](https://github.com/mx54039q/entroformer)] [[openview](https://openreview.net/forum?id=VrjOFfcnSV8)]
+
+
 ## ECCV-2022
 
 
@@ -236,6 +267,12 @@
 - Deep Homography for Efficient Stereo Image Compression [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/deep-homography-for-efficient-stereo-image)] [[code](https://github.com/ywz978020607/HESIC)]
 
 
+## ICLR-2021
+
+
+- Learning Accurate Entropy Model with Global Reference for Image Compression [[paper](https://iclr.cc/virtual/2021/poster/2829)] [[arxiv](https://arxiv.org/abs/2010.08321)] [[paper with code](https://paperswithcode.com/paper/learning-accurate-entropy-model-with-global-1)] [[code](https://github.com/damo-cv/img-comp-reference)] [[openview](https://openreview.net/forum?id=cTbIjyrUVwJ)]
+
+
 ## ICCV-2021
 
 
@@ -273,6 +310,12 @@
 - A Spatial RNN Codec for End-to-End Image Compression [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_A_Spatial_RNN_Codec_for_End-to-End_Image_Compression_CVPR_2020_paper.html)] [[paper with code](https://paperswithcode.com/paper/a-spatial-rnn-codec-for-end-to-end-image)]
 
 - CARP: Compression Through Adaptive Recursive Partitioning for Multi-Dimensional Images [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_CARP_Compression_Through_Adaptive_Recursive_Partitioning_for_Multi-Dimensional_Images_CVPR_2020_paper.html)] [[paper with code](https://paperswithcode.com/paper/carp-compression-through-adaptive-recursive)] [[code](https://github.com/xylimeng/CARP)]
+
+
+## ICLR-2020
+
+
+- HiLLoC: lossless image compression with hierarchical latent variable models [[paper](https://iclr.cc/virtual/2020/poster/2008)] [[arxiv](https://arxiv.org/abs/1912.09953)] [[paper with code](https://paperswithcode.com/paper/hilloc-lossless-image-compression-with-1)] [[code](https://github.com/hilloc-submission/hilloc)] [[openview](https://openreview.net/forum?id=r1lZgyBYwS)]
 
 
 ## ECCV-2020
@@ -325,6 +368,14 @@
 - Machine Vision Guided 3D Medical Image Compression for Efficient Transmission and Accurate Segmentation in the Clouds [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Machine_Vision_Guided_3D_Medical_Image_Compression_for_Efficient_Transmission_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.08487)] [[paper with code](https://paperswithcode.com/paper/190408487)]
 
 
+## ICLR-2019
+
+
+- Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach [[paper](https://openreview.net/forum?id=BJgqqsAct7)] [[arxiv](https://arxiv.org/abs/1804.05862)] [[paper with code](https://paperswithcode.com/paper/non-vacuous-generalization-bounds-at-the)] [[code](https://github.com/wendazhou/nnet-compression-generalization)] [[openview](https://openreview.net/forum?id=BJgqqsAct7)]
+
+- Context-adaptive Entropy Model for End-to-end Optimized Image Compression [[paper](https://openreview.net/forum?id=HyxKIiAqYQ)] [[arxiv](https://arxiv.org/abs/1809.10452)] [[paper with code](https://paperswithcode.com/paper/context-adaptive-entropy-model-for-end-to-end)] [[code](https://github.com/JooyoungLeeETRI/CA_Entropy_Model)] [[openview](https://openreview.net/forum?id=HyxKIiAqYQ)]
+
+
 ## ICCV-2019
 
 
@@ -363,6 +414,14 @@
 - Improved Lossy Image Compression With Priming and Spatially Adaptive Bit Rates for Recurrent Networks [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Johnston_Improved_Lossy_Image_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1703.10114)] [[paper with code](https://paperswithcode.com/paper/improved-lossy-image-compression-with-priming)]
 
 - Conditional Probability Models for Deep Image Compression [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Mentzer_Conditional_Probability_Models_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1801.04260)] [[paper with code](https://paperswithcode.com/paper/conditional-probability-models-for-deep-image)] [[code](https://github.com/fab-jul/imgcomp-cvpr)]
+
+
+## ICLR-2018
+
+
+- Towards Image Understanding from Deep Compression Without Decoding [[paper](https://openreview.net/forum?id=HkXWCMbRW)] [[arxiv](https://arxiv.org/abs/1803.06131)] [[paper with code](https://paperswithcode.com/paper/towards-image-understanding-from-deep)] [[code](https://github.com/pkorus/l3ic)] [[openview](https://openreview.net/forum?id=HkXWCMbRW)]
+
+- Variational image compression with a scale hyperprior [[paper](https://openreview.net/forum?id=rkcQFMZRb)] [[arxiv](https://arxiv.org/abs/1802.01436)] [[paper with code](https://paperswithcode.com/paper/variational-image-compression-with-a-scale)] [[code](https://github.com/InterDigitalInc/CompressAI)] [[openview](https://openreview.net/forum?id=rkcQFMZRb)]
 
 
 ## ECCV-2018

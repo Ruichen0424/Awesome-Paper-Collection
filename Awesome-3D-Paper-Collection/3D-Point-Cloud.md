@@ -1,11 +1,13 @@
 # Awesome 3D Point Cloud Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [IJCAI](#ijcai-2023)
@@ -14,6 +16,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [IJCAI](#ijcai-2022)
   - [AAAI](#aaai-2022)
@@ -21,6 +24,7 @@
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
@@ -35,6 +39,7 @@
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
   - [AAAI](#aaai-2019)
 
@@ -47,6 +52,16 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- 3D Feature Prediction for Masked-AutoEncoder-Based Point Cloud Pretraining [[paper](https://iclr.cc/virtual/2024/poster/18849)] [[arxiv](https://arxiv.org/abs/2304.06911)] [[paper with code](https://paperswithcode.com/paper/3d-feature-prediction-for-masked-autoencoder)]
+
+- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)]
+
+- Towards Category Unification of 3D Single Object Tracking on Point Clouds [[paper](https://iclr.cc/virtual/2024/poster/18670)] [[arxiv](https://arxiv.org/abs/2401.11204)] [[paper with code](https://paperswithcode.com/paper/towards-category-unification-of-3d-single)]
 
 
 ## AAAI-2024
@@ -155,6 +170,14 @@
 - LidarGait: Benchmarking 3D Gait Recognition With Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shen_LidarGait_Benchmarking_3D_Gait_Recognition_With_Point_Clouds_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.10598)] [[paper with code](https://paperswithcode.com/paper/lidar-gait-benchmarking-3d-gait-recognition)] [[code](https://github.com/shiqiyu/opengait)]
 
 - PC2: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Melas-Kyriazi_PC2_Projection-Conditioned_Point_Cloud_Diffusion_for_Single-Image_3D_Reconstruction_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/pc2-projection-conditioned-point-cloud)]
+
+
+## ICLR-2023
+
+
+- CircNet: Meshing 3D Point Clouds with Circumcenter Detection [[paper](https://iclr.cc/virtual/2023/poster/11676)] [[arxiv](https://arxiv.org/abs/2301.09253)] [[paper with code](https://paperswithcode.com/paper/circnet-meshing-3d-point-clouds-with)] [[code](https://github.com/EnyaHermite/CircNet)]
+
+- Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding [[paper](https://iclr.cc/virtual/2023/poster/11854)] [[arxiv](https://arxiv.org/abs/2111.15363)] [[paper with code](https://paperswithcode.com/paper/voint-cloud-multi-view-point-cloud)] [[code](https://github.com/ajhamdi/vointcloud)]
 
 
 ## ICCV-2023
@@ -331,6 +354,12 @@
 - Stratified Transformer for 3D Point Cloud Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2303.15654)] [[paper with code](https://paperswithcode.com/paper/stratified-transformer-for-3d-point-cloud)] [[code](https://github.com/dvlab-research/stratified-transformer)]
 
 
+## ICLR-2022
+
+
+- A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://iclr.cc/virtual/2022/poster/7026)] [[arxiv](https://arxiv.org/abs/2112.03530)] [[paper with code](https://paperswithcode.com/paper/a-conditional-point-diffusion-refinement-1)] [[code](https://github.com/zhaoyanglyu/point_diffusion_refinement)] [[openview](https://openreview.net/forum?id=wqD6TfbYkrn)]
+
+
 ## ECCV-2022
 
 
@@ -441,6 +470,12 @@
 - Back-Tracing Representative Points for Voting-Based 3D Object Detection in Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cheng_Back-Tracing_Representative_Points_for_Voting-Based_3D_Object_Detection_in_Point_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2104.06114)] [[paper with code](https://paperswithcode.com/paper/back-tracing-representative-points-for-voting)] [[code](https://github.com/cheng052/BRNet)]
 
 - SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Ao_SpinNet_Learning_a_General_Surface_Descriptor_for_3D_Point_Cloud_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2011.12149)] [[paper with code](https://paperswithcode.com/paper/spinnet-learning-a-general-surface-descriptor)] [[code](https://github.com/QingyongHu/SpinNet)]
+
+
+## ICLR-2021
+
+
+- PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds [[paper](https://iclr.cc/virtual/2021/poster/3169)] [[arxiv](https://arxiv.org/abs/2103.02766)] [[paper with code](https://paperswithcode.com/paper/pc2wf-3d-wireframe-reconstruction-from-raw-1)] [[code](https://github.com/luo1cheng/lc2wf)] [[openview](https://openreview.net/forum?id=8X2eaSZxTP)]
 
 
 ## ICCV-2021
@@ -629,6 +664,12 @@
 - Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds Using Convolutional Neural Networks [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Ben-Shabat_Nesti-Net_Normal_Estimation_for_Unstructured_3D_Point_Clouds_Using_Convolutional_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1812.00709)] [[paper with code](https://paperswithcode.com/paper/nesti-net-normal-estimation-for-unstructured)] [[code](https://github.com/sitzikbs/Nesti-Net)]
 
 - PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_PCAN_3D_Attention_Map_Learning_Using_Contextual_Information_for_Point_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.09793)] [[paper with code](https://paperswithcode.com/paper/pcan-3d-attention-map-learning-using)] [[code](https://github.com/XLechter/PCAN)]
+
+
+## ICLR-2019
+
+
+- Learning Localized Generative Models for 3D Point Clouds via Graph Convolution [[paper](https://openreview.net/forum?id=SJeXSo09FQ)] [[paper with code](https://paperswithcode.com/paper/learning-localized-generative-models-for-3d)] [[code](https://github.com/diegovalsesia/GraphCNN-GAN)] [[openview](https://openreview.net/forum?id=SJeXSo09FQ)]
 
 
 ## ICCV-2019

@@ -8,6 +8,7 @@
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [IJCAI](#ijcai-2023)
   - [AAAI](#aaai-2023)
@@ -91,6 +92,16 @@
 - NIKI: Neural Inverse Kinematics With Invertible Neural Networks for 3D Human Pose and Shape Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_NIKI_Neural_Inverse_Kinematics_With_Invertible_Neural_Networks_for_3D_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2305.08590)] [[paper with code](https://paperswithcode.com/paper/niki-neural-inverse-kinematics-with)] [[code](https://github.com/jeff-sjtu/niki)]
 
 - PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shetty_PLIKS_A_Pseudo-Linear_Inverse_Kinematic_Solver_for_3D_Human_Body_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.11734)] [[paper with code](https://paperswithcode.com/paper/pliks-a-pseudo-linear-inverse-kinematic)] [[code](https://github.com/karshetty/pliks)]
+
+
+## ICLR-2023
+
+
+- Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens [[paper](https://iclr.cc/virtual/2023/poster/11251)] [[arxiv](https://arxiv.org/abs/2303.00298)] [[paper with code](https://paperswithcode.com/paper/capturing-the-motion-of-every-joint-3d-human)] [[code](https://github.com/yangsenius/int_hmr_model)]
+
+- Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation [[paper](https://iclr.cc/virtual/2023/poster/11695)] [[arxiv](https://arxiv.org/abs/2303.05370)] [[paper with code](https://paperswithcode.com/paper/rethinking-self-supervised-visual)]
+
+- Proactive Multi-Camera Collaboration for 3D Human Pose Estimation [[paper](https://iclr.cc/virtual/2023/poster/11935)] [[arxiv](https://arxiv.org/abs/2303.03767)] [[paper with code](https://paperswithcode.com/paper/proactive-multi-camera-collaboration-for-3d)]
 
 
 ## ICCV-2023

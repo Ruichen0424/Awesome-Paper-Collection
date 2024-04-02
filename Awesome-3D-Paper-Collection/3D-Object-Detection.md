@@ -1,17 +1,20 @@
 # Awesome 3D Object Detection Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [AAAI](#aaai-2023)
 
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [IJCAI](#ijcai-2022)
   - [AAAI](#aaai-2022)
@@ -25,6 +28,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [AAAI](#aaai-2020)
 
@@ -41,6 +45,18 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Fusion is Not Enough: Single Modal Attack on Fusion Models for 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19509)] [[arxiv](https://arxiv.org/abs/2304.14614)]
+
+- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)]
+
+- MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/18685)] [[arxiv](https://arxiv.org/abs/2401.16305)] [[paper with code](https://paperswithcode.com/paper/mixsup-mixed-grained-supervision-for-label)] [[code](https://github.com/bravegroup/pointsam-for-mixsup)]
+
+- V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/18795)] [[arxiv](https://arxiv.org/abs/2308.04409)] [[paper with code](https://paperswithcode.com/paper/v-detr-detr-with-vertex-relative-position)] [[code](https://github.com/yichaoshen-ms/v-detr)]
 
 
 ## AAAI-2024
@@ -187,6 +203,20 @@
 - Understanding the Robustness of 3D Object Detection With Bird's-Eye-View Representations in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Understanding_the_Robustness_of_3D_Object_Detection_With_Birds-Eye-View_Representations_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.17297)] [[paper with code](https://paperswithcode.com/paper/understanding-the-robustness-of-3d-object)] [[code](https://github.com/zzj403/BEV_Robust)]
 
 - PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_PiMAE_Point_Cloud_and_Image_Interactive_Masked_Autoencoders_for_3D_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.08129)] [[paper with code](https://paperswithcode.com/paper/pimae-point-cloud-and-image-interactive)] [[code](https://github.com/blvlab/pimae)]
+
+
+## ICLR-2023
+
+
+- Bidirectional Propagation for Cross-Modal 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/11974)]
+
+- Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/10890)] [[arxiv](https://arxiv.org/abs/2210.02443)] [[paper with code](https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline)] [[code](https://github.com/divadi/solofusion)]
+
+- BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/12222)] [[arxiv](https://arxiv.org/abs/2211.09386)] [[paper with code](https://paperswithcode.com/paper/bevdistill-cross-modal-bev-distillation-for)] [[code](https://github.com/zehuichen123/bevdistill)]
+
+- DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/12089)] [[arxiv](https://arxiv.org/abs/2207.10909)] [[paper with code](https://paperswithcode.com/paper/dbq-ssd-dynamic-ball-query-for-efficient-3d)] [[code](https://github.com/yancie-yjr/dbq-ssd)]
+
+- Exploring Active 3D Object Detection from a Generalization Perspective [[paper](https://iclr.cc/virtual/2023/poster/12071)] [[arxiv](https://arxiv.org/abs/2301.09249)] [[paper with code](https://paperswithcode.com/paper/exploring-active-3d-object-detection-from-a)] [[code](https://github.com/luoyadan/crb-active-3ddet)]
 
 
 ## ICCV-2023
@@ -387,6 +417,14 @@
 - LiDAR Snowfall Simulation for Robust 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hahner_LiDAR_Snowfall_Simulation_for_Robust_3D_Object_Detection_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2203.15118)] [[paper with code](https://paperswithcode.com/paper/lidar-snowfall-simulation-for-robust-3d)] [[code](https://github.com/syscv/lidar_snow_sim)]
 
 - Bridged Transformer for Vision and Point Cloud 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2210.01391)] [[paper with code](https://paperswithcode.com/paper/bridged-transformer-for-vision-and-point-1)] [[code](https://github.com/2023-MindSpore-1/ms-code-179)]
+
+
+## ICLR-2022
+
+
+- MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[paper](https://iclr.cc/virtual/2022/poster/6677)] [[arxiv](https://arxiv.org/abs/2201.10830)] [[paper with code](https://paperswithcode.com/paper/monodistill-learning-spatial-features-for-1)] [[code](https://github.com/monster-ghost/monodistill)] [[openview](https://openreview.net/forum?id=C54V-xTWfi)]
+
+- WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection [[paper](https://iclr.cc/virtual/2022/poster/5913)] [[arxiv](https://arxiv.org/abs/2203.08332)] [[paper with code](https://paperswithcode.com/paper/weakm3d-towards-weakly-supervised-monocular-1)] [[code](https://github.com/spengliang/weakm3d)] [[openview](https://openreview.net/forum?id=ahi2XSHpAUZ)]
 
 
 ## ECCV-2022
@@ -652,6 +690,12 @@
 - MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_MonoPair_Monocular_3D_Object_Detection_Using_Pairwise_Spatial_Relationships_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2003.00504)] [[paper with code](https://paperswithcode.com/paper/monopair-monocular-3d-object-detection-using)] [[code](https://github.com/Nicholasli1995/EgoNet)]
 
 - PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2102.00463)] [[paper with code](https://paperswithcode.com/paper/pv-rcnn-point-voxel-feature-set-abstraction)] [[code](https://github.com/open-mmlab/OpenPCDet)]
+
+
+## ICLR-2020
+
+
+- Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving [[paper](https://iclr.cc/virtual/2020/poster/1727)] [[arxiv](https://arxiv.org/abs/1906.06310)] [[paper with code](https://paperswithcode.com/paper/pseudo-lidar-accurate-depth-for-3d-object)] [[code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[openview](https://openreview.net/forum?id=BJedHRVtPB)]
 
 
 ## ECCV-2020

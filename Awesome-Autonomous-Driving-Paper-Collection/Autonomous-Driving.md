@@ -1,11 +1,13 @@
 # Awesome Autonomous Driving Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [IJCAI](#ijcai-2023)
@@ -25,6 +27,7 @@
 
 - [2020](#2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [AAAI](#aaai-2020)
 
@@ -39,6 +42,18 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion [[paper](https://iclr.cc/virtual/2024/poster/18691)] [[arxiv](https://arxiv.org/abs/2311.01017)] [[paper with code](https://paperswithcode.com/paper/learning-unsupervised-world-models-for)]
+
+- DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18729)] [[arxiv](https://arxiv.org/abs/2309.16292)] [[paper with code](https://paperswithcode.com/paper/dilu-a-knowledge-driven-approach-to)] [[code](https://github.com/PJLab-ADG/DiLu)]
+
+- LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving [[paper](https://iclr.cc/virtual/2024/poster/18846)] [[arxiv](https://arxiv.org/abs/2312.16108)] [[paper with code](https://paperswithcode.com/paper/lanesegnet-map-learning-with-lane-segment)] [[code](https://github.com/OpenDriveLab/LaneSegNet)]
+
+- ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation [[paper](https://iclr.cc/virtual/2024/poster/19579)] [[arxiv](https://arxiv.org/abs/2309.05527)] [[paper with code](https://paperswithcode.com/paper/resimad-zero-shot-3d-domain-transfer-for)] [[code](https://github.com/pjlab-adg/3dtrans)]
 
 
 ## AAAI-2024
@@ -119,6 +134,14 @@
 - Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Nunes_Temporal_Consistent_3D_LiDAR_Representation_Learning_for_Semantic_Perception_in_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/temporal-consistent-3d-lidar-representation)] [[code](https://github.com/prbonn/tarl)]
 
 - Understanding the Robustness of 3D Object Detection With Bird's-Eye-View Representations in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Understanding_the_Robustness_of_3D_Object_Detection_With_Birds-Eye-View_Representations_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.17297)] [[paper with code](https://paperswithcode.com/paper/understanding-the-robustness-of-3d-object)] [[code](https://github.com/zzj403/BEV_Robust)]
+
+
+## ICLR-2023
+
+
+- CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving [[paper](https://iclr.cc/virtual/2023/poster/11868)]
+
+- Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling [[paper](https://iclr.cc/virtual/2023/poster/11975)] [[arxiv](https://arxiv.org/abs/2301.01006)] [[paper with code](https://paperswithcode.com/paper/policy-pre-training-for-end-to-end-autonomous)] [[code](https://github.com/opendrivelab/ppgeo)]
 
 
 ## ICCV-2023
@@ -307,6 +330,12 @@
 - "Looking at the Right Stuff" - Guided Semantic-Gaze for Autonomous Driving [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Pal_Looking_at_the_Right_Stuff_-_Guided_Semantic-Gaze_for_Autonomous_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1911.10455)] [[paper with code](https://paperswithcode.com/paper/looking-at-the-right-stuff-guided-semantic-1)]
 
 - nuScenes: A Multimodal Dataset for Autonomous Driving [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1903.11027)] [[paper with code](https://paperswithcode.com/paper/nuscenes-a-multimodal-dataset-for-autonomous)] [[code](https://github.com/nutonomy/nuscenes-devkit)]
+
+
+## ICLR-2020
+
+
+- Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving [[paper](https://iclr.cc/virtual/2020/poster/1727)] [[arxiv](https://arxiv.org/abs/1906.06310)] [[paper with code](https://paperswithcode.com/paper/pseudo-lidar-accurate-depth-for-3d-object)] [[code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[openview](https://openreview.net/forum?id=BJedHRVtPB)]
 
 
 ## ECCV-2020

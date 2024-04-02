@@ -2,11 +2,13 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [ACL](#acl-2023)
@@ -16,6 +18,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [IJCAI](#ijcai-2022)
@@ -24,6 +27,7 @@
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
   - [ACL](#acl-2021)
@@ -33,6 +37,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
   - [ACL](#acl-2020)
@@ -42,6 +47,7 @@
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
   - [ACL](#acl-2019)
@@ -51,6 +57,7 @@
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
   - [CVPR](#cvpr-2018)
+  - [ICLR](#iclr-2018)
   - [ECCV](#eccv-2018)
   - [ICML](#icml-2018)
   - [IJCAI](#ijcai-2018)
@@ -61,6 +68,26 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)]
+
+- Learning to reconstruct signals from binary measurements alone [[paper](https://iclr.cc/virtual/2024/poster/21758)]
+
+- Learning to Solve Bilevel Programs with Binary Tender [[paper](https://iclr.cc/virtual/2024/poster/18692)]
+
+- PB-LLM: Partially Binarized Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/19207)] [[arxiv](https://arxiv.org/abs/2310.00034)] [[paper with code](https://paperswithcode.com/paper/pb-llm-partially-binarized-large-language)] [[code](https://github.com/hahnyuan/pb-llm)]
+
+- In-Context Learning Dynamics with Random Binary Sequences [[paper](https://iclr.cc/virtual/2024/poster/19405)] [[arxiv](https://arxiv.org/abs/2310.17639)] [[paper with code](https://paperswithcode.com/paper/in-context-learning-dynamics-with-random)]
+
+- NP-GL: Extending Power of Nature from Binary Problems to Real-World Graph Learning [[paper](https://iclr.cc/virtual/2024/poster/17731)]
+
+- ArchLock: Locking DNN Transferability at the Architecture Level with a Zero-Cost Binary Predictor [[paper](https://iclr.cc/virtual/2024/poster/18234)]
+
+- BTR: Binary Token Representations for Efficient Retrieval Augmented Language Models [[paper](https://iclr.cc/virtual/2024/poster/19511)] [[arxiv](https://arxiv.org/abs/2310.01329)] [[paper with code](https://paperswithcode.com/paper/btr-binary-token-representations-for)] [[code](https://github.com/csarron/btr)]
 
 
 ## AAAI-2024
@@ -118,6 +145,20 @@
 - Compacting Binary Neural Networks by Sparse Kernel Selection [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Compacting_Binary_Neural_Networks_by_Sparse_Kernel_Selection_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.14470)] [[paper with code](https://paperswithcode.com/paper/compacting-binary-neural-networks-by-sparse)]
 
 - DLBD: A Self-Supervised Direct-Learned Binary Descriptor [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xiao_DLBD_A_Self-Supervised_Direct-Learned_Binary_Descriptor_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/dlbd-a-self-supervised-direct-learned-binary)] [[code](https://github.com/cqupt-cv/dlbd)]
+
+
+## ICLR-2023
+
+
+- Basic Binary Convolution Unit for Binarized Image Restoration Network [[paper](https://iclr.cc/virtual/2023/poster/11893)] [[arxiv](https://arxiv.org/abs/2210.00405)] [[paper with code](https://paperswithcode.com/paper/basic-binary-convolution-unit-for-binarized)] [[code](https://github.com/zj-binxia/bbcu)]
+
+- Understanding weight-magnitude hyperparameters in training binary networks [[paper](https://iclr.cc/virtual/2023/poster/11164)] [[arxiv](https://arxiv.org/abs/2303.02452)] [[paper with code](https://paperswithcode.com/paper/understanding-weight-magnitude)] [[code](https://github.com/jorisquist/understanding-wm-hp-in-bnns)]
+
+- Estimating individual treatment effects under unobserved confounding using binary instruments [[paper](https://iclr.cc/virtual/2023/poster/12055)] [[arxiv](https://arxiv.org/abs/2208.08544)] [[paper with code](https://paperswithcode.com/paper/estimating-individual-treatment-effects-under)] [[code](https://github.com/dennisfrauen/mriv-net)]
+
+- Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models [[paper](https://iclr.cc/virtual/2023/poster/12032)] [[arxiv](https://arxiv.org/abs/2210.05782)] [[paper with code](https://paperswithcode.com/paper/gradient-guided-importance-sampling-for-1)] [[code](https://github.com/divelab/rmwggis)]
+
+- Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification [[paper](https://iclr.cc/virtual/2023/poster/10824)] [[paper with code](https://paperswithcode.com/paper/is-the-performance-of-my-deep-network-too)] [[code](https://github.com/takashiishida/irreducible)]
 
 
 ## ICCV-2023
@@ -214,6 +255,16 @@
 - PokeBNN: A Binary Pursuit of Lightweight Accuracy [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_PokeBNN_A_Binary_Pursuit_of_Lightweight_Accuracy_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2112.00133)] [[paper with code](https://paperswithcode.com/paper/pokebnn-a-binary-pursuit-of-lightweight)] [[code](https://github.com/google/aqt)]
 
 
+## ICLR-2022
+
+
+- Top-label calibration and multiclass-to-binary reductions [[paper](https://iclr.cc/virtual/2022/poster/6278)] [[arxiv](https://arxiv.org/abs/2107.08353)] [[paper with code](https://paperswithcode.com/paper/top-label-calibration)] [[code](https://github.com/aigen/df-posthoc-calibration)] [[openview](https://openreview.net/forum?id=WqoBaaPHS-)]
+
+- BiBERT: Accurate Fully Binarized BERT [[paper](https://iclr.cc/virtual/2022/poster/6006)] [[arxiv](https://arxiv.org/abs/2203.06390)] [[paper with code](https://paperswithcode.com/paper/bibert-accurate-fully-binarized-bert-1)] [[code](https://github.com/htqin/bibert)] [[openview](https://openreview.net/forum?id=5xEgrl_5FAJ)]
+
+- SphereFace2: Binary Classification is All You Need for Deep Face Recognition [[paper](https://iclr.cc/virtual/2022/poster/6265)] [[arxiv](https://arxiv.org/abs/2108.01513)] [[paper with code](https://paperswithcode.com/paper/sphereface2-binary-classification-is-all-you)] [[openview](https://openreview.net/forum?id=l3SDgUh7qZO)]
+
+
 ## ECCV-2022
 
 
@@ -298,6 +349,20 @@
 - Binary Graph Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Bahri_Binary_Graph_Neural_Networks_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2305.02522)] [[paper with code](https://paperswithcode.com/paper/binary-graph-neural-networks)] [[code](https://github.com/mbahri/binary_gnn)]
 
 - S2-BNN: Bridging the Gap Between Self-Supervised Real and 1-Bit Neural Networks via Guided Distribution Calibration [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Shen_S2-BNN_Bridging_the_Gap_Between_Self-Supervised_Real_and_1-Bit_Neural_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2102.08946)] [[paper with code](https://paperswithcode.com/paper/s2-bnn-bridging-the-gap-between-self)] [[code](https://github.com/szq0214/S2-BNN)]
+
+
+## ICLR-2021
+
+
+- Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks [[paper](https://iclr.cc/virtual/2021/poster/2946)] [[arxiv](https://arxiv.org/abs/2010.13476)] [[paper with code](https://paperswithcode.com/paper/reducing-the-computational-cost-of-deep-1)] [[openview](https://openreview.net/forum?id=sTeoJiB4uR)]
+
+- High-Capacity Expert Binary Networks [[paper](https://iclr.cc/virtual/2021/poster/2953)] [[arxiv](https://arxiv.org/abs/2010.03558)] [[paper with code](https://paperswithcode.com/paper/high-capacity-expert-binary-networks-1)] [[code](https://github.com/1adrianb/expert-binary-networks)] [[openview](https://openreview.net/forum?id=MxaY4FzOTa)]
+
+- Faster Binary Embeddings for Preserving Euclidean Distances [[paper](https://iclr.cc/virtual/2021/poster/3243)] [[arxiv](https://arxiv.org/abs/2010.00712)] [[paper with code](https://paperswithcode.com/paper/faster-binary-embeddings-for-preserving)] [[code](https://github.com/jayzhang0727/Faster-Binary-Embeddings-for-Preserving-Euclidean-Distances)] [[openview](https://openreview.net/forum?id=YCXrx6rRCXO)]
+
+- Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network [[paper](https://iclr.cc/virtual/2021/poster/3050)] [[arxiv](https://arxiv.org/abs/2103.09377)] [[paper with code](https://paperswithcode.com/paper/multi-prize-lottery-ticket-hypothesis-finding-1)] [[code](https://github.com/chrundle/biprop)]
+
+- BiPointNet: Binary Neural Network for Point Clouds [[paper](https://iclr.cc/virtual/2021/poster/3065)] [[arxiv](https://arxiv.org/abs/2010.05501)] [[paper with code](https://paperswithcode.com/paper/bipointnet-binary-neural-network-for-point-2)] [[code](https://github.com/htqin/BiPointNet)] [[openview](https://openreview.net/forum?id=9QLRCVysdlO)]
 
 
 ## ICCV-2021
@@ -408,6 +473,20 @@
 - Binarizing MobileNet via Evolution-Based Searching [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Phan_Binarizing_MobileNet_via_Evolution-Based_Searching_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2005.06305)] [[paper with code](https://paperswithcode.com/paper/binarizing-mobilenet-via-evolution-based)]
 
 - Attention Convolutional Binary Neural Tree for Fine-Grained Visual Categorization [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Ji_Attention_Convolutional_Binary_Neural_Tree_for_Fine-Grained_Visual_Categorization_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1909.11378)] [[paper with code](https://paperswithcode.com/paper/attention-convolutional-binary-neural-tree)] [[code](https://github.com/FlyingMoon-GitHub/ACNet)]
+
+
+## ICLR-2020
+
+
+- Critical initialisation in continuous approximations of binary neural networks [[paper](https://iclr.cc/virtual/2020/poster/1689)] [[arxiv](https://arxiv.org/abs/1902.00177)] [[paper with code](https://paperswithcode.com/paper/signal-propagation-in-continuous)] [[openview](https://openreview.net/forum?id=rylmoxrFDH)]
+
+- In Search for a SAT-friendly Binarized Neural Network Architecture [[paper](https://iclr.cc/virtual/2020/poster/1452)] [[paper with code](https://paperswithcode.com/paper/in-search-for-a-sat-friendly-binarized-neural)] [[openview](https://openreview.net/forum?id=SJx-j64FDr)]
+
+- BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations [[paper](https://iclr.cc/virtual/2020/poster/1956)] [[arxiv](https://arxiv.org/abs/2002.06517)] [[paper with code](https://paperswithcode.com/paper/binaryduo-reducing-gradient-mismatch-in-1)] [[code](https://github.com/Hyungjun-K1m/BinaryDuo)] [[openview](https://openreview.net/forum?id=r1x0lxrFPS)]
+
+- Training binary neural networks with real-to-binary convolutions [[paper](https://iclr.cc/virtual/2020/poster/1667)] [[arxiv](https://arxiv.org/abs/2003.11535)] [[paper with code](https://paperswithcode.com/paper/training-binary-neural-networks-with-real-to-1)] [[code](https://github.com/brais-martinez/real2binary)] [[openview](https://openreview.net/forum?id=BJg4NgBKvH)]
+
+- Learning representations for binary-classification without backpropagation [[paper](https://iclr.cc/virtual/2020/poster/1482)] [[paper with code](https://paperswithcode.com/paper/learning-representations-for-binary)] [[code](https://github.com/mlech26l/iclr_paper_mdfa)] [[openview](https://openreview.net/forum?id=Bke61krFvS)]
 
 
 ## ECCV-2020
@@ -524,6 +603,24 @@
 - Regularizing Activation Distribution for Training Binarized Deep Networks [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Ding_Regularizing_Activation_Distribution_for_Training_Binarized_Deep_Networks_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.02823)] [[paper with code](https://paperswithcode.com/paper/regularizing-activation-distribution-for)] [[code](https://github.com/ruizhoud/DistributionLoss)]
 
 
+## ICLR-2019
+
+
+- On the Minimal Supervision for Training Any Binary Classifier from Only Unlabeled Data [[paper](https://openreview.net/forum?id=B1xWcj0qYm)] [[arxiv](https://arxiv.org/abs/1808.10585)] [[paper with code](https://paperswithcode.com/paper/on-the-minimal-supervision-for-training-any)] [[code](https://github.com/lunanbit/UUlearning)] [[openview](https://openreview.net/forum?id=B1xWcj0qYm)]
+
+- Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network [[paper](https://openreview.net/forum?id=rk4Qso0cKm)] [[arxiv](https://arxiv.org/abs/1907.00895)] [[paper with code](https://paperswithcode.com/paper/adv-bnn-improved-adversarial-defense-through)] [[code](https://github.com/xuanqing94/BayesianDefense)] [[openview](https://openreview.net/forum?id=rk4Qso0cKm)]
+
+- Combinatorial Attacks on Binarized Neural Networks [[paper](https://openreview.net/forum?id=S1lTEh09FQ)] [[arxiv](https://arxiv.org/abs/1810.03538)] [[paper with code](https://paperswithcode.com/paper/combinatorial-attacks-on-binarized-neural)] [[openview](https://openreview.net/forum?id=S1lTEh09FQ)]
+
+- An Empirical study of Binary Neural Networks' Optimisation [[paper](https://openreview.net/forum?id=rJfUCoR5KX)] [[paper with code](https://paperswithcode.com/paper/an-empirical-study-of-binary-neural-networks)] [[code](https://github.com/mi-lad/studying-binary-neural-networks)] [[openview](https://openreview.net/forum?id=rJfUCoR5KX)]
+
+- Learning Recurrent Binary/Ternary Weights [[paper](https://openreview.net/forum?id=HkNGYjR9FX)] [[arxiv](https://arxiv.org/abs/1809.11086)] [[paper with code](https://paperswithcode.com/paper/learning-recurrent-binaryternary-weights)] [[code](https://github.com/arashardakani/Learning-Recurrent-Binary-Ternary-Weights)] [[openview](https://openreview.net/forum?id=HkNGYjR9FX)]
+
+- ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks [[paper](https://openreview.net/forum?id=S1lg0jAcYm)] [[arxiv](https://arxiv.org/abs/1807.11143)] [[paper with code](https://paperswithcode.com/paper/arm-augment-reinforce-merge-gradient-for)] [[code](https://github.com/mingzhang-yin/ARM-gradient)] [[openview](https://openreview.net/forum?id=S1lg0jAcYm)]
+
+- Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection [[paper](https://openreview.net/forum?id=ByloIiCqYQ)] [[paper with code](https://paperswithcode.com/paper/maximal-divergence-sequential-autoencoder-for)] [[openview](https://openreview.net/forum?id=ByloIiCqYQ)]
+
+
 ## ICCV-2019
 
 
@@ -608,6 +705,18 @@
 - Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Learning_Deep_Models_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1803.11097)] [[paper with code](https://paperswithcode.com/paper/learning-deep-models-for-face-anti-spoofing)]
 
 
+## ICLR-2018
+
+
+- Improving GAN Training via Binarized Representation Entropy (BRE) Regularization [[paper](https://openreview.net/forum?id=BkLhaGZRW)] [[arxiv](https://arxiv.org/abs/1805.03644)] [[paper with code](https://paperswithcode.com/paper/improving-gan-training-via-binarized)] [[code](https://github.com/BorealisAI/bre-gan)] [[openview](https://openreview.net/forum?id=BkLhaGZRW)]
+
+- Attacking Binarized Neural Networks [[paper](https://openreview.net/forum?id=HkTEFfZRb)] [[arxiv](https://arxiv.org/abs/1810.03538)] [[paper with code](https://paperswithcode.com/paper/attacking-binarized-neural-networks)] [[code](https://github.com/AngusG/cleverhans-attacking-bnns)] [[openview](https://openreview.net/forum?id=HkTEFfZRb)]
+
+- The High-Dimensional Geometry of Binary Neural Networks [[paper](https://openreview.net/forum?id=B1IDRdeCW)] [[arxiv](https://arxiv.org/abs/1705.07199)] [[paper with code](https://paperswithcode.com/paper/the-high-dimensional-geometry-of-binary)] [[openview](https://openreview.net/forum?id=B1IDRdeCW)]
+
+- Espresso: Efficient Forward Propagation for Binary Deep Neural Networks [[paper](https://openreview.net/forum?id=Sk6fD5yCb)] [[paper with code](https://paperswithcode.com/paper/espresso-efficient-forward-propagation-for-1)] [[openview](https://openreview.net/forum?id=Sk6fD5yCb)]
+
+
 ## ECCV-2018
 
 
@@ -676,4 +785,3 @@
 - Learning Binary Residual Representations for Domain-Specific Video Streaming [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/12259)] [[arxiv](https://arxiv.org/abs/1712.05087)] [[paper with code](https://paperswithcode.com/paper/learning-binary-residual-representations-for)]
 
 - Verifying Properties of Binarized Deep Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/12206)] [[arxiv](https://arxiv.org/abs/1709.06662)] [[paper with code](https://paperswithcode.com/paper/verifying-properties-of-binarized-deep-neural)]
-
