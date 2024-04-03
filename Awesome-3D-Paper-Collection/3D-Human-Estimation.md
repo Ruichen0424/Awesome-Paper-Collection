@@ -67,7 +67,7 @@
 ## NeurIPS-2023
 
 
-- A Single 2D Pose with Context is Worth Hundreds for 3D Human Pose Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5752f9fd2d5c40174738d6f02c202e72-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.03312)]
+- A Single 2D Pose with Context is Worth Hundreds for 3D Human Pose Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5752f9fd2d5c40174738d6f02c202e72-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.03312)] [[openreview](https://openreview.net/forum?id=lclQ2RvWYu)]
 
 
 ## CVPR-2023
@@ -97,11 +97,11 @@
 ## ICLR-2023
 
 
-- Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens [[paper](https://iclr.cc/virtual/2023/poster/11251)] [[arxiv](https://arxiv.org/abs/2303.00298)] [[paper with code](https://paperswithcode.com/paper/capturing-the-motion-of-every-joint-3d-human)] [[code](https://github.com/yangsenius/int_hmr_model)]
+- Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens [[paper](https://iclr.cc/virtual/2023/poster/11251)] [[arxiv](https://arxiv.org/abs/2303.00298)] [[paper with code](https://paperswithcode.com/paper/capturing-the-motion-of-every-joint-3d-human)] [[code](https://github.com/yangsenius/int_hmr_model)] [[openreview](https://openreview.net/forum?id=0Vv4H4Ch0la)]
 
-- Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation [[paper](https://iclr.cc/virtual/2023/poster/11695)] [[arxiv](https://arxiv.org/abs/2303.05370)] [[paper with code](https://paperswithcode.com/paper/rethinking-self-supervised-visual)]
+- Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation [[paper](https://iclr.cc/virtual/2023/poster/11695)] [[arxiv](https://arxiv.org/abs/2303.05370)] [[paper with code](https://paperswithcode.com/paper/rethinking-self-supervised-visual)] [[openreview](https://openreview.net/forum?id=8U4joMeLRF)]
 
-- Proactive Multi-Camera Collaboration for 3D Human Pose Estimation [[paper](https://iclr.cc/virtual/2023/poster/11935)] [[arxiv](https://arxiv.org/abs/2303.03767)] [[paper with code](https://paperswithcode.com/paper/proactive-multi-camera-collaboration-for-3d)]
+- Proactive Multi-Camera Collaboration for 3D Human Pose Estimation [[paper](https://iclr.cc/virtual/2023/poster/11935)] [[arxiv](https://arxiv.org/abs/2303.03767)] [[paper with code](https://paperswithcode.com/paper/proactive-multi-camera-collaboration-for-3d)] [[openreview](https://openreview.net/forum?id=CPIy9TWFYBG)]
 
 
 ## ICCV-2023
@@ -151,9 +151,9 @@
 ## NeurIPS-2022
 
 
-- Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a727a08774b61b0c754c2183d3ecd4fc-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2209.10529)] [[paper with code](https://paperswithcode.com/paper/benchmarking-and-analyzing-3d-human-pose-and)] [[code](https://github.com/smplbody/hmr-benchmarks)]
+- Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a727a08774b61b0c754c2183d3ecd4fc-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2209.10529)] [[paper with code](https://paperswithcode.com/paper/benchmarking-and-analyzing-3d-human-pose-and)] [[code](https://github.com/smplbody/hmr-benchmarks)] [[openreview](https://openreview.net/forum?id=rjBYortWdRV)]
 
-- mRI: Multi-modal 3D Human Pose Estimation Dataset using mmWave, RGB-D, and Inertial Sensors [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/af9c9c6d2da701da5a0acf91ec217815-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2210.08394)] [[paper with code](https://paperswithcode.com/paper/mri-multi-modal-3d-human-pose-estimation)]
+- mRI: Multi-modal 3D Human Pose Estimation Dataset using mmWave, RGB-D, and Inertial Sensors [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/af9c9c6d2da701da5a0acf91ec217815-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2210.08394)] [[paper with code](https://paperswithcode.com/paper/mri-multi-modal-3d-human-pose-estimation)] [[openreview](https://openreview.net/forum?id=Oa2-cdfBxun)]
 
 
 ## CVPR-2022
@@ -200,7 +200,7 @@
 ## NeurIPS-2021
 
 
-- Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/018b59ce1fd616d874afad0f44ba338d-Abstract.html)] [[arxiv](https://arxiv.org/abs/2204.01971)] [[paper with code](https://paperswithcode.com/paper/non-local-latent-relation-distillation-for-1)]
+- Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/018b59ce1fd616d874afad0f44ba338d-Abstract.html)] [[arxiv](https://arxiv.org/abs/2204.01971)] [[paper with code](https://paperswithcode.com/paper/non-local-latent-relation-distillation-for-1)] [[openreview](https://openreview.net/forum?id=AIQOddM5Xm)]
 
 
 ## CVPR-2021
@@ -230,7 +230,7 @@
 
 - 3D Human Texture Estimation From a Single Image With Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_3D_Human_Texture_Estimation_From_a_Single_Image_With_Transformers_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2109.02563)] [[paper with code](https://paperswithcode.com/paper/3d-human-texture-estimation-from-a-single)] [[code](https://github.com/xuxy09/texformer)]
 
-- 3D Human Pose Estimation With Spatial and Temporal Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2401.16700)] [[paper with code](https://paperswithcode.com/paper/3d-human-pose-estimation-with-spatial-and)] [[code](https://github.com/zczcwh/PoseFormer)]
+- 3D Human Pose Estimation With Spatial and Temporal Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_3D_Human_Pose_Estimation_With_Spatial_and_Temporal_Transformers_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2103.10455)] [[paper with code](https://paperswithcode.com/paper/3d-human-pose-estimation-with-spatial-and)] [[code](https://github.com/zczcwh/PoseFormer)]
 
 - PARE: Part Attention Regressor for 3D Human Body Estimation [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kocabas_PARE_Part_Attention_Regressor_for_3D_Human_Body_Estimation_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2104.08527)] [[paper with code](https://paperswithcode.com/paper/pare-part-attention-regressor-for-3d-human)] [[code](https://github.com/mkocabas/PARE)]
 
@@ -304,15 +304,15 @@
 ## ECCV-2020
 
 
-- VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/738_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.06239)]
+- VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/738_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.06239)]
 
-- Towards Part-aware Monocular 3D Human Pose Estimation: An Architecture Search Approach  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1121_ECCV_2020_paper.php)]
+- Towards Part-aware Monocular 3D Human Pose Estimation: An Architecture Search Approach [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1121_ECCV_2020_paper.php)]
 
-- I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/397_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.03713)]
+- I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/397_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.03713)]
 
-- A Comprehensive Study of Weight Sharing in Graph Networks for 3D Human Pose Estimation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1079_ECCV_2020_paper.php)]
+- A Comprehensive Study of Weight Sharing in Graph Networks for 3D Human Pose Estimation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1079_ECCV_2020_paper.php)]
 
-- SRNet: Improving Generalization in 3D Human Pose Estimation with a Split-and-Recombine Approach  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2201_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09389)]
+- SRNet: Improving Generalization in 3D Human Pose Estimation with a Split-and-Recombine Approach [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2201_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09389)]
 
 
 ## AAAI-2020
@@ -370,7 +370,7 @@
 
 - HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_HEMlets_Pose_Learning_Part-Centric_Heatmap_Triplets_for_Accurate_3D_Human_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1910.12032)] [[paper with code](https://paperswithcode.com/paper/hemlets-pose-learning-part-centric-heatmap-1)]
 
-- Cross View Fusion for 3D Human Pose Estimation [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2110.09554)] [[paper with code](https://paperswithcode.com/paper/cross-view-fusion-for-3d-human-pose)] [[code](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)]
+- Cross View Fusion for 3D Human Pose Estimation [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1909.01203)] [[paper with code](https://paperswithcode.com/paper/cross-view-fusion-for-3d-human-pose)] [[code](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)]
 
 - Holistic++ Scene Understanding: Single-View 3D Holistic Scene Parsing and Human Pose Estimation With Human-Object Interaction and Physical Commonsense [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1909.01507)] [[paper with code](https://paperswithcode.com/paper/holistic-scene-understanding-single-view-3d)]
 

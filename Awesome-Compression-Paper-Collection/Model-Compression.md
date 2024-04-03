@@ -63,15 +63,15 @@
 ## ICLR-2024
 
 
-- Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs [[paper](https://iclr.cc/virtual/2024/poster/17575)] [[arxiv](https://arxiv.org/abs/2310.01801)] [[paper with code](https://paperswithcode.com/paper/model-tells-you-what-to-discard-adaptive-kv)]
+- Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs [[paper](https://iclr.cc/virtual/2024/poster/17575)] [[arxiv](https://arxiv.org/abs/2310.01801)] [[paper with code](https://paperswithcode.com/paper/model-tells-you-what-to-discard-adaptive-kv)] [[openreview](https://openreview.net/forum?id=uNrFpDPMyo)]
 
-- Compressed Context Memory for Online Language Model Interaction [[paper](https://iclr.cc/virtual/2024/poster/19404)] [[arxiv](https://arxiv.org/abs/2312.03414)] [[paper with code](https://paperswithcode.com/paper/compressed-context-memory-for-online-language)] [[code](https://github.com/snu-mllab/context-memory)]
+- Compressed Context Memory for Online Language Model Interaction [[paper](https://iclr.cc/virtual/2024/poster/19404)] [[arxiv](https://arxiv.org/abs/2312.03414)] [[paper with code](https://paperswithcode.com/paper/compressed-context-memory-for-online-language)] [[code](https://github.com/snu-mllab/context-memory)] [[openreview](https://openreview.net/forum?id=64kSvC4iPg)]
 
-- In-context Autoencoder for Context Compression in a Large Language Model [[paper](https://iclr.cc/virtual/2024/poster/17573)] [[arxiv](https://arxiv.org/abs/2307.06945)] [[paper with code](https://paperswithcode.com/paper/in-context-autoencoder-for-context)] [[code](https://github.com/getao/icae)]
+- In-context Autoencoder for Context Compression in a Large Language Model [[paper](https://iclr.cc/virtual/2024/poster/17573)] [[arxiv](https://arxiv.org/abs/2307.06945)] [[paper with code](https://paperswithcode.com/paper/in-context-autoencoder-for-context)] [[code](https://github.com/getao/icae)] [[openreview](https://openreview.net/forum?id=uREj4ZuGJE)]
 
-- Language Modeling Is Compression [[paper](https://iclr.cc/virtual/2024/poster/17997)] [[arxiv](https://arxiv.org/abs/2403.19135)] [[paper with code](https://paperswithcode.com/paper/language-modeling-is-compression)] [[code](https://github.com/google-deepmind/language_modeling_is_compression)]
+- Language Modeling Is Compression [[paper](https://iclr.cc/virtual/2024/poster/17997)] [[arxiv](https://arxiv.org/abs/2309.10668)] [[paper with code](https://paperswithcode.com/paper/language-modeling-is-compression)] [[code](https://github.com/google-deepmind/language_modeling_is_compression)] [[openreview](https://openreview.net/forum?id=jznbgiynus)]
 
-- In defense of parameter sharing for model-compression [[paper](https://iclr.cc/virtual/2024/poster/17401)] [[arxiv](https://arxiv.org/abs/2310.11611)] [[paper with code](https://paperswithcode.com/paper/in-defense-of-parameter-sharing-for-model)]
+- In defense of parameter sharing for model-compression [[paper](https://iclr.cc/virtual/2024/poster/17401)] [[arxiv](https://arxiv.org/abs/2310.11611)] [[paper with code](https://paperswithcode.com/paper/in-defense-of-parameter-sharing-for-model)] [[openreview](https://openreview.net/forum?id=ypAT2ixD4X)]
 
 
 ## AAAI-2024
@@ -89,11 +89,11 @@
 ## NeurIPS-2023
 
 
-- Towards Efficient Image Compression Without Autoregressive Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/170dc3e41f2d03e327e04dbab0fccbfb-Abstract-Conference.html)]
+- Towards Efficient Image Compression Without Autoregressive Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/170dc3e41f2d03e327e04dbab0fccbfb-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=1ihGy9vAIg)]
 
-- Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7183f4fc87598f6c6e947b96714acbd6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.14152)] [[paper with code](https://paperswithcode.com/paper/memory-efficient-fine-tuning-of-compressed)] [[openview](https://openreview.net/forum?id=2jUKhUrBxP)]
+- Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7183f4fc87598f6c6e947b96714acbd6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.14152)] [[paper with code](https://paperswithcode.com/paper/memory-efficient-fine-tuning-of-compressed)] [[openreview](https://openreview.net/forum?id=2jUKhUrBxP)]
 
-- Lossy Image Compression with Conditional Diffusion Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ccf6d8b4a1fe9d9c8192f00c713872ea-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.06950)] [[paper with code](https://paperswithcode.com/paper/lossy-image-compression-with-conditional-1)] [[code](https://github.com/buggyyang/cdc_compression)] [[openview](https://openreview.net/forum?id=QIBpzaDCAv)]
+- Lossy Image Compression with Conditional Diffusion Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ccf6d8b4a1fe9d9c8192f00c713872ea-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.06950)] [[paper with code](https://paperswithcode.com/paper/lossy-image-compression-with-conditional-1)] [[code](https://github.com/buggyyang/cdc_compression)] [[openreview](https://openreview.net/forum?id=QIBpzaDCAv)]
 
 
 ## CVPR-2023
@@ -105,11 +105,11 @@
 ## ICLR-2023
 
 
-- Quantized Compressed Sensing with Score-Based Generative Models [[paper](https://iclr.cc/virtual/2023/poster/11274)] [[arxiv](https://arxiv.org/abs/2302.00919)] [[paper with code](https://paperswithcode.com/paper/2211-13006)] [[code](https://github.com/mengxiangming/qcs-sgm)]
+- Quantized Compressed Sensing with Score-Based Generative Models [[paper](https://iclr.cc/virtual/2023/poster/11274)] [[arxiv](https://arxiv.org/abs/2211.13006)] [[paper with code](https://paperswithcode.com/paper/2211-13006)] [[code](https://github.com/mengxiangming/qcs-sgm)] [[openreview](https://openreview.net/forum?id=OOWLRfAI_V_)]
 
-- MIMT: Masked Image Modeling Transformer for Video Compression [[paper](https://iclr.cc/virtual/2023/poster/11734)]
+- MIMT: Masked Image Modeling Transformer for Video Compression [[paper](https://iclr.cc/virtual/2023/poster/11734)] [[openreview](https://openreview.net/forum?id=j9m-mVnndbm)]
 
-- LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification [[paper](https://iclr.cc/virtual/2023/poster/11516)] [[arxiv](https://arxiv.org/abs/2204.02965)] [[paper with code](https://paperswithcode.com/paper/lilnetx-lightweight-networks-with-extreme)] [[code](https://github.com/sharath-girish/lilnetx)]
+- LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification [[paper](https://iclr.cc/virtual/2023/poster/11516)] [[arxiv](https://arxiv.org/abs/2204.02965)] [[paper with code](https://paperswithcode.com/paper/lilnetx-lightweight-networks-with-extreme)] [[code](https://github.com/sharath-girish/lilnetx)] [[openreview](https://openreview.net/forum?id=NVZvalzCLg)]
 
 
 ## ICCV-2023
@@ -167,15 +167,15 @@
 ## NeurIPS-2022
 
 
-- Weighted Mutual Learning with Diversity-Driven Model Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4b25c000967af9036fb9b207b198a626-Abstract-Conference.html)]
+- Weighted Mutual Learning with Diversity-Driven Model Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4b25c000967af9036fb9b207b198a626-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=UQJoGBNRX4)]
 
-- Deep Compression of Pre-trained Transformer Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5b5618e7d061748267d74478b7c5b1ab-Abstract-Conference.html)]
+- Deep Compression of Pre-trained Transformer Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5b5618e7d061748267d74478b7c5b1ab-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=EZQnauHn-77)]
 
-- Information-Theoretic GAN Compression with Variational Energy-based Model [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7416573f05b50beac6d0aef3abc805c0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2303.16050)] [[paper with code](https://paperswithcode.com/paper/information-theoretic-gan-compression-with)]
+- Information-Theoretic GAN Compression with Variational Energy-based Model [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7416573f05b50beac6d0aef3abc805c0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2303.16050)] [[paper with code](https://paperswithcode.com/paper/information-theoretic-gan-compression-with)] [[openreview](https://openreview.net/forum?id=sRKNkpUMQNr)]
 
-- Differentially Private Model Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bd6bb13e78da078d8adcabbe6d9ca737-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01838)] [[paper with code](https://paperswithcode.com/paper/differentially-private-model-compression)]
+- Differentially Private Model Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bd6bb13e78da078d8adcabbe6d9ca737-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01838)] [[paper with code](https://paperswithcode.com/paper/differentially-private-model-compression)] [[openreview](https://openreview.net/forum?id=68EuccCtO5i)]
 
-- Model Preserving Compression for Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f8928b073ccbec15d35f2a9d39430bfd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2108.00065)]
+- Model Preserving Compression for Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f8928b073ccbec15d35f2a9d39430bfd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2108.00065)] [[openreview](https://openreview.net/forum?id=gt-l9Hu2ndd)]
 
 
 ## CVPR-2022
@@ -191,15 +191,15 @@
 ## ICLR-2022
 
 
-- Entroformer: A Transformer-based Entropy Model for Learned Image Compression [[paper](https://iclr.cc/virtual/2022/poster/7022)] [[arxiv](https://arxiv.org/abs/2202.05492)] [[paper with code](https://paperswithcode.com/paper/entroformer-a-transformer-based-entropy-model-1)] [[code](https://github.com/mx54039q/entroformer)] [[openview](https://openreview.net/forum?id=VrjOFfcnSV8)]
+- Entroformer: A Transformer-based Entropy Model for Learned Image Compression [[paper](https://iclr.cc/virtual/2022/poster/7022)] [[arxiv](https://arxiv.org/abs/2202.05492)] [[paper with code](https://paperswithcode.com/paper/entroformer-a-transformer-based-entropy-model-1)] [[code](https://github.com/mx54039q/entroformer)] [[openreview](https://openreview.net/forum?id=VrjOFfcnSV8)]
 
-- Encoding Weights of Irregular Sparsity for Fixed-to-Fixed Model Compression [[paper](https://iclr.cc/virtual/2022/poster/6553)] [[arxiv](https://arxiv.org/abs/2105.01869)] [[paper with code](https://paperswithcode.com/paper/sequential-encryption-of-sparse-neural)] [[openview](https://openreview.net/forum?id=Vs5NK44aP9P)]
+- Encoding Weights of Irregular Sparsity for Fixed-to-Fixed Model Compression [[paper](https://iclr.cc/virtual/2022/poster/6553)] [[arxiv](https://arxiv.org/abs/2105.01869)] [[paper with code](https://paperswithcode.com/paper/sequential-encryption-of-sparse-neural)] [[openreview](https://openreview.net/forum?id=Vs5NK44aP9P)]
 
-- Language model compression with weighted low-rank factorization [[paper](https://iclr.cc/virtual/2022/poster/6157)] [[arxiv](https://arxiv.org/abs/2207.00112)] [[paper with code](https://paperswithcode.com/paper/language-model-compression-with-weighted-low-1)] [[openview](https://openreview.net/forum?id=uPv9Y3gmAI5)]
+- Language model compression with weighted low-rank factorization [[paper](https://iclr.cc/virtual/2022/poster/6157)] [[arxiv](https://arxiv.org/abs/2207.00112)] [[paper with code](https://paperswithcode.com/paper/language-model-compression-with-weighted-low-1)] [[openreview](https://openreview.net/forum?id=uPv9Y3gmAI5)]
 
-- Fast Generic Interaction Detection for Model Interpretability and Compression [[paper](https://iclr.cc/virtual/2022/poster/6556)] [[paper with code](https://paperswithcode.com/paper/fast-generic-interaction-detection-for-model)] [[openview](https://openreview.net/forum?id=fQTlgI2qZqE)]
+- Fast Generic Interaction Detection for Model Interpretability and Compression [[paper](https://iclr.cc/virtual/2022/poster/6556)] [[paper with code](https://paperswithcode.com/paper/fast-generic-interaction-detection-for-model)] [[openreview](https://openreview.net/forum?id=fQTlgI2qZqE)]
 
-- Exploring extreme parameter compression for pre-trained language models [[paper](https://iclr.cc/virtual/2022/poster/6449)] [[arxiv](https://arxiv.org/abs/2205.10036)] [[paper with code](https://paperswithcode.com/paper/exploring-extreme-parameter-compression-for-1)] [[code](https://github.com/twinkle0331/xcompression)] [[openview](https://openreview.net/forum?id=RftryyYyjiG)]
+- Exploring extreme parameter compression for pre-trained language models [[paper](https://iclr.cc/virtual/2022/poster/6449)] [[arxiv](https://arxiv.org/abs/2205.10036)] [[paper with code](https://paperswithcode.com/paper/exploring-extreme-parameter-compression-for-1)] [[code](https://github.com/twinkle0331/xcompression)] [[openreview](https://openreview.net/forum?id=RftryyYyjiG)]
 
 
 ## ECCV-2022
@@ -241,11 +241,11 @@
 ## NeurIPS-2021
 
 
-- Preserved central model for faster bidirectional compression in distributed settings [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/13d63838ef1fb6f34ca2dc6821c60e49-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.12528)] [[paper with code](https://paperswithcode.com/paper/preserved-central-model-for-faster)] [[code](https://github.com/philipco/mcm-bidirectional-compression)]
+- Preserved central model for faster bidirectional compression in distributed settings [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/13d63838ef1fb6f34ca2dc6821c60e49-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.12528)] [[paper with code](https://paperswithcode.com/paper/preserved-central-model-for-faster)] [[code](https://github.com/philipco/mcm-bidirectional-compression)] [[openreview](https://openreview.net/forum?id=q6h7jVe0wE3)]
 
-- OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a2915ad0d57ca8c644f99f9c3f20a918-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.01662)] [[paper with code](https://paperswithcode.com/paper/osoa-one-shot-online-adaptation-of-deep)]
+- OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a2915ad0d57ca8c644f99f9c3f20a918-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.01662)] [[paper with code](https://paperswithcode.com/paper/osoa-one-shot-online-adaptation-of-deep)] [[openreview](https://openreview.net/forum?id=Me-tuhUjhKK)]
 
-- DRONE: Data-aware Low-rank Compression for Large NLP Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f56de5ef149cf0aedcc8f4797031e229-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/drone-data-aware-low-rank-compression-for)] [[openview](https://openreview.net/forum?id=sthiz9zeXGG)]
+- DRONE: Data-aware Low-rank Compression for Large NLP Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f56de5ef149cf0aedcc8f4797031e229-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/drone-data-aware-low-rank-compression-for)] [[openreview](https://openreview.net/forum?id=sthiz9zeXGG)]
 
 
 ## CVPR-2021
@@ -259,15 +259,15 @@
 ## ICLR-2021
 
 
-- Training with Quantization Noise for Extreme Model Compression [[paper](https://iclr.cc/virtual/2021/poster/2772)] [[arxiv](https://arxiv.org/abs/2004.07320)] [[paper with code](https://paperswithcode.com/paper/training-with-quantization-noise-for-extreme)] [[code](https://github.com/pytorch/fairseq)] [[openview](https://openreview.net/forum?id=dV19Yyi1fS3)]
+- Training with Quantization Noise for Extreme Model Compression [[paper](https://iclr.cc/virtual/2021/poster/2772)] [[arxiv](https://arxiv.org/abs/2004.07320)] [[paper with code](https://paperswithcode.com/paper/training-with-quantization-noise-for-extreme)] [[code](https://github.com/pytorch/fairseq)] [[openreview](https://openreview.net/forum?id=dV19Yyi1fS3)]
 
-- Lossless Compression of Structured Convolutional Models via Lifting [[paper](https://iclr.cc/virtual/2021/poster/2929)] [[arxiv](https://arxiv.org/abs/2007.06567)] [[paper with code](https://paperswithcode.com/paper/lossless-compression-of-structured)] [[code](https://github.com/GustikS/NeuraLogic)] [[openview](https://openreview.net/forum?id=oxnp2q-PGL4)]
+- Lossless Compression of Structured Convolutional Models via Lifting [[paper](https://iclr.cc/virtual/2021/poster/2929)] [[arxiv](https://arxiv.org/abs/2007.06567)] [[paper with code](https://paperswithcode.com/paper/lossless-compression-of-structured)] [[code](https://github.com/GustikS/NeuraLogic)] [[openreview](https://openreview.net/forum?id=oxnp2q-PGL4)]
 
-- Learning Accurate Entropy Model with Global Reference for Image Compression [[paper](https://iclr.cc/virtual/2021/poster/2829)] [[arxiv](https://arxiv.org/abs/2010.08321)] [[paper with code](https://paperswithcode.com/paper/learning-accurate-entropy-model-with-global-1)] [[code](https://github.com/damo-cv/img-comp-reference)] [[openview](https://openreview.net/forum?id=cTbIjyrUVwJ)]
+- Learning Accurate Entropy Model with Global Reference for Image Compression [[paper](https://iclr.cc/virtual/2021/poster/2829)] [[arxiv](https://arxiv.org/abs/2010.08321)] [[paper with code](https://paperswithcode.com/paper/learning-accurate-entropy-model-with-global-1)] [[code](https://github.com/damo-cv/img-comp-reference)] [[openreview](https://openreview.net/forum?id=cTbIjyrUVwJ)]
 
-- UMEC: Unified model and embedding compression for efficient recommendation systems [[paper](https://iclr.cc/virtual/2021/poster/2976)] [[paper with code](https://paperswithcode.com/paper/umec-unified-model-and-embedding-compression)] [[openview](https://openreview.net/forum?id=BM---bH_RSh)]
+- UMEC: Unified model and embedding compression for efficient recommendation systems [[paper](https://iclr.cc/virtual/2021/poster/2976)] [[paper with code](https://paperswithcode.com/paper/umec-unified-model-and-embedding-compression)] [[openreview](https://openreview.net/forum?id=BM---bH_RSh)]
 
-- Hierarchical Autoregressive Modeling for Neural Video Compression [[paper](https://iclr.cc/virtual/2021/poster/2626)] [[arxiv](https://arxiv.org/abs/2010.10258)] [[paper with code](https://paperswithcode.com/paper/hierarchical-autoregressive-modeling-for-1)] [[code](https://github.com/buggyyang/youtube-nt)] [[openview](https://openreview.net/forum?id=TK_6nNb_C7q)]
+- Hierarchical Autoregressive Modeling for Neural Video Compression [[paper](https://iclr.cc/virtual/2021/poster/2626)] [[arxiv](https://arxiv.org/abs/2010.10258)] [[paper with code](https://paperswithcode.com/paper/hierarchical-autoregressive-modeling-for-1)] [[code](https://github.com/buggyyang/youtube-nt)] [[openreview](https://openreview.net/forum?id=TK_6nNb_C7q)]
 
 
 ## ICCV-2021
@@ -301,7 +301,7 @@
 ## NeurIPS-2020
 
 
--  Robust compressed sensing using generative models  [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/07cb5f86508f146774a2fac4373a8e50-Abstract.html)] [[arxiv](https://arxiv.org/abs/2006.09461)]
+- Robust compressed sensing using generative models [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/07cb5f86508f146774a2fac4373a8e50-Abstract.html)] [[arxiv](https://arxiv.org/abs/2006.09461)]
 
 - MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/fc152e73692bc3c934d248f639d9e963-Abstract.html)] [[arxiv](https://arxiv.org/abs/2011.07590)] [[paper with code](https://paperswithcode.com/paper/muscle-multi-sweep-compression-of-lidar-using-1)]
 
@@ -325,17 +325,17 @@
 ## ICLR-2020
 
 
-- Scalable Model Compression by Entropy Penalized Reparameterization [[paper](https://iclr.cc/virtual/2020/poster/1811)] [[arxiv](https://arxiv.org/abs/1906.06624)] [[paper with code](https://paperswithcode.com/paper/model-compression-by-entropy-penalized)] [[openview](https://openreview.net/forum?id=HkgxW0EYDS)]
+- Scalable Model Compression by Entropy Penalized Reparameterization [[paper](https://iclr.cc/virtual/2020/poster/1811)] [[arxiv](https://arxiv.org/abs/1906.06624)] [[paper with code](https://paperswithcode.com/paper/model-compression-by-entropy-penalized)] [[openreview](https://openreview.net/forum?id=HkgxW0EYDS)]
 
-- HiLLoC: lossless image compression with hierarchical latent variable models [[paper](https://iclr.cc/virtual/2020/poster/2008)] [[arxiv](https://arxiv.org/abs/1912.09953)] [[paper with code](https://paperswithcode.com/paper/hilloc-lossless-image-compression-with-1)] [[code](https://github.com/hilloc-submission/hilloc)] [[openview](https://openreview.net/forum?id=r1lZgyBYwS)]
+- HiLLoC: lossless image compression with hierarchical latent variable models [[paper](https://iclr.cc/virtual/2020/poster/2008)] [[arxiv](https://arxiv.org/abs/1912.09953)] [[paper with code](https://paperswithcode.com/paper/hilloc-lossless-image-compression-with-1)] [[code](https://github.com/hilloc-submission/hilloc)] [[openreview](https://openreview.net/forum?id=r1lZgyBYwS)]
 
 
 ## ECCV-2020
 
 
-- Online Ensemble Model Compression using Knowledge Distillation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3136_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2011.07449)]
+- Online Ensemble Model Compression using Knowledge Distillation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3136_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2011.07449)]
 
-- High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/7358_ECCV_2020_paper.php)]
+- High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/7358_ECCV_2020_paper.php)]
 
 
 ## ICML-2020
@@ -379,11 +379,11 @@
 ## ICLR-2019
 
 
-- Context-adaptive Entropy Model for End-to-end Optimized Image Compression [[paper](https://openreview.net/forum?id=HyxKIiAqYQ)] [[arxiv](https://arxiv.org/abs/1809.10452)] [[paper with code](https://paperswithcode.com/paper/context-adaptive-entropy-model-for-end-to-end)] [[code](https://github.com/JooyoungLeeETRI/CA_Entropy_Model)] [[openview](https://openreview.net/forum?id=HyxKIiAqYQ)]
+- Context-adaptive Entropy Model for End-to-end Optimized Image Compression [[paper](https://openreview.net/forum?id=HyxKIiAqYQ)] [[arxiv](https://arxiv.org/abs/1809.10452)] [[paper with code](https://paperswithcode.com/paper/context-adaptive-entropy-model-for-end-to-end)] [[code](https://github.com/JooyoungLeeETRI/CA_Entropy_Model)] [[openreview](https://openreview.net/forum?id=HyxKIiAqYQ)]
 
-- Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters [[paper](https://openreview.net/forum?id=r1f0YiCctm)] [[arxiv](https://arxiv.org/abs/1810.00440)] [[paper with code](https://paperswithcode.com/paper/minimal-random-code-learning-getting-bits)] [[code](https://github.com/cambridge-mlg/miracle)] [[openview](https://openreview.net/forum?id=r1f0YiCctm)]
+- Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters [[paper](https://openreview.net/forum?id=r1f0YiCctm)] [[arxiv](https://arxiv.org/abs/1810.00440)] [[paper with code](https://paperswithcode.com/paper/minimal-random-code-learning-getting-bits)] [[code](https://github.com/cambridge-mlg/miracle)] [[openreview](https://openreview.net/forum?id=r1f0YiCctm)]
 
-- Integer Networks for Data Compression with Latent-Variable Models [[paper](https://openreview.net/forum?id=S1zz2i0cY7)] [[paper with code](https://paperswithcode.com/paper/integer-networks-for-data-compression-with)] [[openview](https://openreview.net/forum?id=S1zz2i0cY7)]
+- Integer Networks for Data Compression with Latent-Variable Models [[paper](https://openreview.net/forum?id=S1zz2i0cY7)] [[paper with code](https://paperswithcode.com/paper/integer-networks-for-data-compression-with)] [[openreview](https://openreview.net/forum?id=S1zz2i0cY7)]
 
 
 ## ICCV-2019
@@ -432,7 +432,7 @@
 ## ICLR-2018
 
 
-- Model compression via distillation and quantization [[paper](https://openreview.net/forum?id=S1XolQbRW)] [[arxiv](https://arxiv.org/abs/2106.14681)] [[paper with code](https://paperswithcode.com/paper/model-compression-via-distillation-and)] [[code](https://github.com/antspy/quantized_distillation)] [[openview](https://openreview.net/forum?id=S1XolQbRW)]
+- Model compression via distillation and quantization [[paper](https://openreview.net/forum?id=S1XolQbRW)] [[arxiv](https://arxiv.org/abs/1802.05668)] [[paper with code](https://paperswithcode.com/paper/model-compression-via-distillation-and)] [[code](https://github.com/antspy/quantized_distillation)] [[openreview](https://openreview.net/forum?id=S1XolQbRW)]
 
 
 ## ECCV-2018

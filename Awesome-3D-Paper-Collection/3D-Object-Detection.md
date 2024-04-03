@@ -52,11 +52,11 @@
 
 - Fusion is Not Enough: Single Modal Attack on Fusion Models for 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19509)] [[arxiv](https://arxiv.org/abs/2304.14614)]
 
-- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)]
+- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)] [[openreview](https://openreview.net/forum?id=0d1gQI114C)]
 
-- MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/18685)] [[arxiv](https://arxiv.org/abs/2401.16305)] [[paper with code](https://paperswithcode.com/paper/mixsup-mixed-grained-supervision-for-label)] [[code](https://github.com/bravegroup/pointsam-for-mixsup)]
+- MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/18685)] [[arxiv](https://arxiv.org/abs/2401.16305)] [[paper with code](https://paperswithcode.com/paper/mixsup-mixed-grained-supervision-for-label)] [[code](https://github.com/bravegroup/pointsam-for-mixsup)] [[openreview](https://openreview.net/forum?id=Q1vkAhdI6j)]
 
-- V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/18795)] [[arxiv](https://arxiv.org/abs/2308.04409)] [[paper with code](https://paperswithcode.com/paper/v-detr-detr-with-vertex-relative-position)] [[code](https://github.com/yichaoshen-ms/v-detr)]
+- V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/18795)] [[arxiv](https://arxiv.org/abs/2308.04409)] [[paper with code](https://paperswithcode.com/paper/v-detr-detr-with-vertex-relative-position)] [[code](https://github.com/yichaoshen-ms/v-detr)] [[openreview](https://openreview.net/forum?id=NDkpxG94sF)]
 
 
 ## AAAI-2024
@@ -100,33 +100,33 @@
 ## NeurIPS-2023
 
 
-- Prototypical Variational Autoencoder for 3D Few-shot Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/076a93fd42aa85f5ccee921a01d77dd5-Abstract-Conference.html)]
+- Prototypical Variational Autoencoder for 3D Few-shot Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/076a93fd42aa85f5ccee921a01d77dd5-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=fljrZsJ2I8)]
 
-- MonoUNI: A Unified Vehicle and Infrastructure-side Monocular 3D Object Detection Network with Sufficient Depth Clues [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2703a0e3c2b33506295a77762338cf24-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/monouni-a-unified-vehicle-and-infrastructure)] [[code](https://github.com/Traffic-X/MonoUNI)]
+- MonoUNI: A Unified Vehicle and Infrastructure-side Monocular 3D Object Detection Network with Sufficient Depth Clues [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2703a0e3c2b33506295a77762338cf24-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/monouni-a-unified-vehicle-and-infrastructure)] [[code](https://github.com/Traffic-X/MonoUNI)] [[openreview](https://openreview.net/forum?id=v2oGdhbKxi)]
 
-- 3D Copy-Paste: Physically Plausible Object Insertion for Monocular 3D Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/370fa2e691f57eb319bc263a07dad4a5-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.05277)] [[paper with code](https://paperswithcode.com/paper/3d-copy-paste-physically-plausible-object-1)] [[code](https://github.com/gyhandy/3d-copy-paste)] [[openview](https://openreview.net/forum?id=d86B6Mdweq)]
+- 3D Copy-Paste: Physically Plausible Object Insertion for Monocular 3D Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/370fa2e691f57eb319bc263a07dad4a5-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.05277)] [[paper with code](https://paperswithcode.com/paper/3d-copy-paste-physically-plausible-object-1)] [[code](https://github.com/gyhandy/3d-copy-paste)] [[openreview](https://openreview.net/forum?id=d86B6Mdweq)]
 
-- STXD: Structural and Temporal Cross-Modal Distillation for Multi-View 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d8c01de2dc698c54201c1c7d0b86974-Abstract-Conference.html)]
+- STXD: Structural and Temporal Cross-Modal Distillation for Multi-View 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d8c01de2dc698c54201c1c7d0b86974-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=Grz2ijKrWI)]
 
-- Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6ca5d2665de83394f437dad0c3746907-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.01682)] [[paper with code](https://paperswithcode.com/paper/flow-based-feature-fusion-for-vehicle-1)] [[code](https://github.com/haibao-yu/ffnet-vic3d)] [[openview](https://openreview.net/forum?id=gsglrhvQxX)]
+- Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6ca5d2665de83394f437dad0c3746907-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.01682)] [[paper with code](https://paperswithcode.com/paper/flow-based-feature-fusion-for-vehicle-1)] [[code](https://github.com/haibao-yu/ffnet-vic3d)] [[openreview](https://openreview.net/forum?id=gsglrhvQxX)]
 
-- Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/79206ac5b7e88eeeed74997f3b6f4c7f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.15670)] [[paper with code](https://paperswithcode.com/paper/leveraging-vision-centric-multi-modal-1)] [[code](https://github.com/opendrivelab/birds-eye-view-perception)] [[openview](https://openreview.net/forum?id=pQF9kbM8Ea)]
+- Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/79206ac5b7e88eeeed74997f3b6f4c7f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.15670)] [[paper with code](https://paperswithcode.com/paper/leveraging-vision-centric-multi-modal-1)] [[code](https://github.com/opendrivelab/birds-eye-view-perception)] [[openreview](https://openreview.net/forum?id=pQF9kbM8Ea)]
 
-- CluB: Cluster Meets BEV for LiDAR-Based 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7f2fc4053a66edfa430bcdf9a6ff3b17-Abstract-Conference.html)]
+- CluB: Cluster Meets BEV for LiDAR-Based 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7f2fc4053a66edfa430bcdf9a6ff3b17-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=jIhX7SpfCz)]
 
-- Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/99786eed5e16920f908572fb00e151c3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.02966)] [[paper with code](https://paperswithcode.com/paper/diffusion-ss3d-diffusion-model-for-semi-1)] [[code](https://github.com/luluho1208/diffusion-ss3d)] [[openview](https://openreview.net/forum?id=YoghyvSG0H)]
+- Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/99786eed5e16920f908572fb00e151c3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.02966)] [[paper with code](https://paperswithcode.com/paper/diffusion-ss3d-diffusion-model-for-semi-1)] [[code](https://github.com/luluho1208/diffusion-ss3d)] [[openreview](https://openreview.net/forum?id=YoghyvSG0H)]
 
-- Unleash the Potential of Image Branch for Cross-modal 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a1f0c0cd6caaa4863af5f12608edf63e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2301.09077)] [[paper with code](https://paperswithcode.com/paper/unleash-the-potential-of-image-branch-for-1)] [[code](https://github.com/eaphan/upidet)] [[openview](https://openreview.net/forum?id=eYCGrGdKf3)]
+- Unleash the Potential of Image Branch for Cross-modal 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a1f0c0cd6caaa4863af5f12608edf63e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2301.09077)] [[paper with code](https://paperswithcode.com/paper/unleash-the-potential-of-image-branch-for-1)] [[code](https://github.com/eaphan/upidet)] [[openreview](https://openreview.net/forum?id=eYCGrGdKf3)]
 
-- HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a64e641fa00a7eb9500cb7e1835d0495-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.20234)] [[paper with code](https://paperswithcode.com/paper/hednet-a-hierarchical-encoder-decoder-network-1)] [[code](https://github.com/zhanggang001/hednet)] [[openview](https://openreview.net/forum?id=MUwr2YVJfN)]
+- HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a64e641fa00a7eb9500cb7e1835d0495-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.20234)] [[paper with code](https://paperswithcode.com/paper/hednet-a-hierarchical-encoder-decoder-network-1)] [[code](https://github.com/zhanggang001/hednet)] [[openreview](https://openreview.net/forum?id=MUwr2YVJfN)]
 
-- CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e352b765e625934ce86919995e2371aa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.02960)] [[paper with code](https://paperswithcode.com/paper/coda-collaborative-novel-box-discovery-and-1)] [[code](https://github.com/yangcaoai/CoDA_NeurIPS2023)] [[openview](https://openreview.net/forum?id=QW5ouyyIgG)]
+- CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e352b765e625934ce86919995e2371aa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.02960)] [[paper with code](https://paperswithcode.com/paper/coda-collaborative-novel-box-discovery-and-1)] [[code](https://github.com/yangcaoai/CoDA_NeurIPS2023)] [[openreview](https://openreview.net/forum?id=QW5ouyyIgG)]
 
-- Query-based Temporal Fusion with Explicit Motion for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ef0dcb44a47185f5bacac62571f6e920-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/query-based-temporal-fusion-with-explicit)] [[code](https://github.com/almoonysl/qtnet)] [[openview](https://openreview.net/forum?id=gySmwdmVDF)]
+- Query-based Temporal Fusion with Explicit Motion for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ef0dcb44a47185f5bacac62571f6e920-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/query-based-temporal-fusion-with-explicit)] [[code](https://github.com/almoonysl/qtnet)] [[openreview](https://openreview.net/forum?id=gySmwdmVDF)]
 
-- RangePerception: Taming LiDAR Range View for Efficient and Accurate 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fb8e52adcd9b59bad73f109c53afc43a-Abstract-Conference.html)]
+- RangePerception: Taming LiDAR Range View for Efficient and Accurate 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fb8e52adcd9b59bad73f109c53afc43a-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=9kFQEJSyCM)]
 
-- Depth-discriminative Metric Learning for Monocular 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fda257e65f46e21dbc117b20fd0aba3c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2401.01075)] [[paper with code](https://paperswithcode.com/paper/depth-discriminative-metric-learning-for-1)] [[openview](https://openreview.net/forum?id=ZNBblMEP16)]
+- Depth-discriminative Metric Learning for Monocular 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fda257e65f46e21dbc117b20fd0aba3c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2401.01075)] [[paper with code](https://paperswithcode.com/paper/depth-discriminative-metric-learning-for-1)] [[openreview](https://openreview.net/forum?id=ZNBblMEP16)]
 
 
 ## CVPR-2023
@@ -208,15 +208,15 @@
 ## ICLR-2023
 
 
-- Bidirectional Propagation for Cross-Modal 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/11974)]
+- Bidirectional Propagation for Cross-Modal 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/11974)] [[openreview](https://openreview.net/forum?id=gYs_cRuK7V)]
 
-- Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/10890)] [[arxiv](https://arxiv.org/abs/2210.02443)] [[paper with code](https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline)] [[code](https://github.com/divadi/solofusion)]
+- Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/10890)] [[arxiv](https://arxiv.org/abs/2210.02443)] [[paper with code](https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline)] [[code](https://github.com/divadi/solofusion)] [[openreview](https://openreview.net/forum?id=H3HcEJA2Um)]
 
-- BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/12222)] [[arxiv](https://arxiv.org/abs/2211.09386)] [[paper with code](https://paperswithcode.com/paper/bevdistill-cross-modal-bev-distillation-for)] [[code](https://github.com/zehuichen123/bevdistill)]
+- BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/12222)] [[arxiv](https://arxiv.org/abs/2211.09386)] [[paper with code](https://paperswithcode.com/paper/bevdistill-cross-modal-bev-distillation-for)] [[code](https://github.com/zehuichen123/bevdistill)] [[openreview](https://openreview.net/forum?id=-2zfgNS917)]
 
-- DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/12089)] [[arxiv](https://arxiv.org/abs/2207.10909)] [[paper with code](https://paperswithcode.com/paper/dbq-ssd-dynamic-ball-query-for-efficient-3d)] [[code](https://github.com/yancie-yjr/dbq-ssd)]
+- DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection [[paper](https://iclr.cc/virtual/2023/poster/12089)] [[arxiv](https://arxiv.org/abs/2207.10909)] [[paper with code](https://paperswithcode.com/paper/dbq-ssd-dynamic-ball-query-for-efficient-3d)] [[code](https://github.com/yancie-yjr/dbq-ssd)] [[openreview](https://openreview.net/forum?id=ZccFLU-Yk65)]
 
-- Exploring Active 3D Object Detection from a Generalization Perspective [[paper](https://iclr.cc/virtual/2023/poster/12071)] [[arxiv](https://arxiv.org/abs/2301.09249)] [[paper with code](https://paperswithcode.com/paper/exploring-active-3d-object-detection-from-a)] [[code](https://github.com/luoyadan/crb-active-3ddet)]
+- Exploring Active 3D Object Detection from a Generalization Perspective [[paper](https://iclr.cc/virtual/2023/poster/12071)] [[arxiv](https://arxiv.org/abs/2301.09249)] [[paper with code](https://paperswithcode.com/paper/exploring-active-3d-object-detection-from-a)] [[code](https://github.com/luoyadan/crb-active-3ddet)] [[openreview](https://openreview.net/forum?id=2RwXVje1rAh)]
 
 
 ## ICCV-2023
@@ -336,27 +336,27 @@
 ## NeurIPS-2022
 
 
-- Fully Sparse 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0247fa3c511bbc415c8b768ee7b32f9e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2403.05817)] [[paper with code](https://paperswithcode.com/paper/fully-sparse-3d-object-detection)] [[code](https://github.com/tusimple/sst)]
+- Fully Sparse 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0247fa3c511bbc415c8b768ee7b32f9e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2207.10035)] [[paper with code](https://paperswithcode.com/paper/fully-sparse-3d-object-detection)] [[code](https://github.com/tusimple/sst)] [[openreview](https://openreview.net/forum?id=evWx_rWWJuG)]
 
-- DeepInteraction: 3D Object Detection via Modality Interaction [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0d18ab3b5fabfa6fe47c62e711af02f0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2208.11112)] [[paper with code](https://paperswithcode.com/paper/deepinteraction-3d-object-detection-via)] [[code](https://github.com/fudan-zvg/deepinteraction)]
+- DeepInteraction: 3D Object Detection via Modality Interaction [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0d18ab3b5fabfa6fe47c62e711af02f0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2208.11112)] [[paper with code](https://paperswithcode.com/paper/deepinteraction-3d-object-detection-via)] [[code](https://github.com/fudan-zvg/deepinteraction)] [[openreview](https://openreview.net/forum?id=rY2wXCSruO)]
 
-- MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0d81e6f2511fc78631ee0315fafeef9e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2303.13561)] [[paper with code](https://paperswithcode.com/paper/mogde-boosting-mobile-monocular-3d-object)]
+- MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0d81e6f2511fc78631ee0315fafeef9e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2303.13561)] [[paper with code](https://paperswithcode.com/paper/mogde-boosting-mobile-monocular-3d-object)] [[openreview](https://openreview.net/forum?id=J3s8i8OfZZX)]
 
-- Spatial Pruned Sparse Convolution for Efficient 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce10f144bb93449767f355c01f24cc1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.14201)] [[paper with code](https://paperswithcode.com/paper/spatial-pruned-sparse-convolution-for)]
+- Spatial Pruned Sparse Convolution for Efficient 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2ce10f144bb93449767f355c01f24cc1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.14201)] [[paper with code](https://paperswithcode.com/paper/spatial-pruned-sparse-convolution-for)] [[openreview](https://openreview.net/forum?id=QqWqFLbllZh)]
 
-- MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4bad7c27534efca029ca0d366c47c0e3-Abstract-Conference.html)]
+- MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4bad7c27534efca029ca0d366c47c0e3-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=hOVEBHpHrMu)]
 
-- Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/59e73ff865b56cba6ab7f6b2cce1425d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.05593)] [[paper with code](https://paperswithcode.com/paper/prototypical-votenet-for-few-shot-3d-point)] [[code](https://github.com/cvmi-lab/fs3d)]
+- Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/59e73ff865b56cba6ab7f6b2cce1425d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.05593)] [[paper with code](https://paperswithcode.com/paper/prototypical-votenet-for-few-shot-3d-point)] [[code](https://github.com/cvmi-lab/fs3d)] [[openreview](https://openreview.net/forum?id=kCTZt0b9DQz)]
 
-- Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/752df938681b2cf15e5fc9689f0bcf3a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00630)] [[paper with code](https://paperswithcode.com/paper/unifying-voxel-based-representation-with)] [[code](https://github.com/dvlab-research/uvtr)]
+- Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/752df938681b2cf15e5fc9689f0bcf3a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00630)] [[paper with code](https://paperswithcode.com/paper/unifying-voxel-based-representation-with)] [[code](https://github.com/dvlab-research/uvtr)] [[openreview](https://openreview.net/forum?id=XA4ru9mfxTP)]
 
-- Towards Efficient 3D Object Detection with Knowledge Distillation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15156)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-3d-object-detection-with)] [[code](https://github.com/cvmi-lab/sparsekd)]
+- Towards Efficient 3D Object Detection with Knowledge Distillation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15156)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-3d-object-detection-with)] [[code](https://github.com/cvmi-lab/sparsekd)] [[openreview](https://openreview.net/forum?id=1tnVNogPUz9)]
 
-- CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c1aaf7c3f306fe94f77236dc0756d771-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04264)] [[paper with code](https://paperswithcode.com/paper/cagroup3d-class-aware-grouping-for-3d-object)] [[code](https://github.com/haiyang-w/cagroup3d)]
+- CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c1aaf7c3f306fe94f77236dc0756d771-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04264)] [[paper with code](https://paperswithcode.com/paper/cagroup3d-class-aware-grouping-for-3d-object)] [[code](https://github.com/haiyang-w/cagroup3d)] [[openreview](https://openreview.net/forum?id=nLKkHwYP4Au)]
 
-- Fully Convolutional One-Stage 3D Object Detection on LiDAR Range Images [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e1f418450107c4a0ddc16d008d131573-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13764)] [[paper with code](https://paperswithcode.com/paper/fully-convolutional-one-stage-3d-object)]
+- Fully Convolutional One-Stage 3D Object Detection on LiDAR Range Images [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e1f418450107c4a0ddc16d008d131573-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13764)] [[paper with code](https://paperswithcode.com/paper/fully-convolutional-one-stage-3d-object)] [[openreview](https://openreview.net/forum?id=2-REuflJDT)]
 
-- Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fb71332951af4ae27fbd457daadc5341-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2211.13067)] [[paper with code](https://paperswithcode.com/paper/sparse2dense-learning-to-densify-3d-features)] [[code](https://github.com/stevewongv/sparse2dense)]
+- Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fb71332951af4ae27fbd457daadc5341-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2211.13067)] [[paper with code](https://paperswithcode.com/paper/sparse2dense-learning-to-densify-3d-features)] [[code](https://github.com/stevewongv/sparse2dense)] [[openreview](https://openreview.net/forum?id=P6uZ7agiyCT)]
 
 
 ## CVPR-2022
@@ -422,9 +422,9 @@
 ## ICLR-2022
 
 
-- MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[paper](https://iclr.cc/virtual/2022/poster/6677)] [[arxiv](https://arxiv.org/abs/2201.10830)] [[paper with code](https://paperswithcode.com/paper/monodistill-learning-spatial-features-for-1)] [[code](https://github.com/monster-ghost/monodistill)] [[openview](https://openreview.net/forum?id=C54V-xTWfi)]
+- MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[paper](https://iclr.cc/virtual/2022/poster/6677)] [[arxiv](https://arxiv.org/abs/2201.10830)] [[paper with code](https://paperswithcode.com/paper/monodistill-learning-spatial-features-for-1)] [[code](https://github.com/monster-ghost/monodistill)] [[openreview](https://openreview.net/forum?id=C54V-xTWfi)]
 
-- WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection [[paper](https://iclr.cc/virtual/2022/poster/5913)] [[arxiv](https://arxiv.org/abs/2203.08332)] [[paper with code](https://paperswithcode.com/paper/weakm3d-towards-weakly-supervised-monocular-1)] [[code](https://github.com/spengliang/weakm3d)] [[openview](https://openreview.net/forum?id=ahi2XSHpAUZ)]
+- WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection [[paper](https://iclr.cc/virtual/2022/poster/5913)] [[arxiv](https://arxiv.org/abs/2203.08332)] [[paper with code](https://paperswithcode.com/paper/weakm3d-towards-weakly-supervised-monocular-1)] [[code](https://github.com/spengliang/weakm3d)] [[openreview](https://openreview.net/forum?id=ahi2XSHpAUZ)]
 
 
 ## ECCV-2022
@@ -524,13 +524,13 @@
 ## NeurIPS-2021
 
 
-- Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1415db70fe9ddb119e23e9b2808cde38-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.03098)] [[paper with code](https://paperswithcode.com/paper/voxel-based-3d-detection-and-reconstruction)]
+- Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1415db70fe9ddb119e23e9b2808cde38-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.03098)] [[paper with code](https://paperswithcode.com/paper/voxel-based-3d-detection-and-reconstruction)] [[openreview](https://openreview.net/forum?id=ZdV8fv_7fPt)]
 
-- Progressive Coordinate Transforms for Monocular 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6f3ef77ac0e3619e98159e9b6febf557-Abstract.html)] [[arxiv](https://arxiv.org/abs/2108.05793)] [[paper with code](https://paperswithcode.com/paper/progressive-coordinate-transforms-for)] [[code](https://github.com/amazon-research/progressive-coordinate-transforms)]
+- Progressive Coordinate Transforms for Monocular 3D Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6f3ef77ac0e3619e98159e9b6febf557-Abstract.html)] [[arxiv](https://arxiv.org/abs/2108.05793)] [[paper with code](https://paperswithcode.com/paper/progressive-coordinate-transforms-for)] [[code](https://github.com/amazon-research/progressive-coordinate-transforms)] [[openreview](https://openreview.net/forum?id=4G2dEuRZ7eO)]
 
-- Object DGCNN: 3D Object Detection using Dynamic Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ade1d98c5ab2997e867b1151a5c5028d-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.06923)] [[paper with code](https://paperswithcode.com/paper/object-dgcnn-3d-object-detection-using)] [[code](https://github.com/wangyueft/detr3d)]
+- Object DGCNN: 3D Object Detection using Dynamic Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ade1d98c5ab2997e867b1151a5c5028d-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.06923)] [[paper with code](https://paperswithcode.com/paper/object-dgcnn-3d-object-detection-using)] [[code](https://github.com/wangyueft/detr3d)] [[openreview](https://openreview.net/forum?id=HwGNkx1WcIs)]
 
-- Revisiting 3D Object Detection From an Egocentric Perspective [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/db182d2552835bec774847e06406bfa2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2112.07787)] [[paper with code](https://paperswithcode.com/paper/revisiting-3d-object-detection-from-an-1)]
+- Revisiting 3D Object Detection From an Egocentric Perspective [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/db182d2552835bec774847e06406bfa2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2112.07787)] [[paper with code](https://paperswithcode.com/paper/revisiting-3d-object-detection-from-an-1)] [[openreview](https://openreview.net/forum?id=OMNRFw1fX3a)]
 
 
 ## CVPR-2021
@@ -554,7 +554,7 @@
 
 - LiDAR-Aug: A General Rendering-Based Augmentation Framework for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Fang_LiDAR-Aug_A_General_Rendering-Based_Augmentation_Framework_for_3D_Object_Detection_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/lidar-aug-a-general-rendering-based)]
 
-- ST3D: Self-Training for Unsupervised Domain Adaptation on 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2108.06682)] [[paper with code](https://paperswithcode.com/paper/st3d-self-training-for-unsupervised-domain)] [[code](https://github.com/CVMI-Lab/ST3D)]
+- ST3D: Self-Training for Unsupervised Domain Adaptation on 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2103.05346)] [[paper with code](https://paperswithcode.com/paper/st3d-self-training-for-unsupervised-domain)] [[code](https://github.com/CVMI-Lab/ST3D)]
 
 - GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Kumar_GrooMeD-NMS_Grouped_Mathematically_Differentiable_NMS_for_Monocular_3D_Object_Detection_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2103.17202)] [[paper with code](https://paperswithcode.com/paper/groomed-nms-grouped-mathematically)] [[code](https://github.com/abhi1kumar/groomed_nms)]
 
@@ -596,7 +596,7 @@
 
 - Multi-Echo LiDAR for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Man_Multi-Echo_LiDAR_for_3D_Object_Detection_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2107.11470)] [[paper with code](https://paperswithcode.com/paper/multi-echo-lidar-for-3d-object-detection)]
 
-- Voxel Transformer for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2401.11718)] [[paper with code](https://paperswithcode.com/paper/voxel-transformer-for-3d-object-detection)] [[code](https://github.com/PointsCoder/VOTR)]
+- Voxel Transformer for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2109.02497)] [[paper with code](https://paperswithcode.com/paper/voxel-transformer-for-3d-object-detection)] [[code](https://github.com/PointsCoder/VOTR)]
 
 - RangeDet: In Defense of Range View for LiDAR-Based 3D Object Detection [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fan_RangeDet_In_Defense_of_Range_View_for_LiDAR-Based_3D_Object_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/rangedet-in-defense-of-range-view-for-lidar-1)] [[code](https://github.com/TuSimple/RangeDet)]
 
@@ -689,53 +689,53 @@
 
 - MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_MonoPair_Monocular_3D_Object_Detection_Using_Pairwise_Spatial_Relationships_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2003.00504)] [[paper with code](https://paperswithcode.com/paper/monopair-monocular-3d-object-detection-using)] [[code](https://github.com/Nicholasli1995/EgoNet)]
 
-- PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2102.00463)] [[paper with code](https://paperswithcode.com/paper/pv-rcnn-point-voxel-feature-set-abstraction)] [[code](https://github.com/open-mmlab/OpenPCDet)]
+- PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1912.13192)] [[paper with code](https://paperswithcode.com/paper/pv-rcnn-point-voxel-feature-set-abstraction)] [[code](https://github.com/open-mmlab/OpenPCDet)]
 
 
 ## ICLR-2020
 
 
-- Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving [[paper](https://iclr.cc/virtual/2020/poster/1727)] [[arxiv](https://arxiv.org/abs/1906.06310)] [[paper with code](https://paperswithcode.com/paper/pseudo-lidar-accurate-depth-for-3d-object)] [[code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[openview](https://openreview.net/forum?id=BJedHRVtPB)]
+- Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving [[paper](https://iclr.cc/virtual/2020/poster/1727)] [[arxiv](https://arxiv.org/abs/1906.06310)] [[paper with code](https://paperswithcode.com/paper/pseudo-lidar-accurate-depth-for-3d-object)] [[code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[openreview](https://openreview.net/forum?id=BJedHRVtPB)]
 
 
 ## ECCV-2020
 
 
-- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
+- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
 
-- Generative Sparse Detection Networks for 3D Single-shot Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1977_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.12356)]
+- Generative Sparse Detection Networks for 3D Single-shot Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1977_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.12356)]
 
-- Monocular 3D Object Detection via Feature Domain Adaptation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/709_ECCV_2020_paper.php)]
+- Monocular 3D Object Detection via Feature Domain Adaptation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/709_ECCV_2020_paper.php)]
 
-- InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1137_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08556)]
+- InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1137_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08556)]
 
-- H3DNet: 3D Object Detection Using Hybrid Geometric Primitives  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1561_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.05682)]
+- H3DNet: 3D Object Detection Using Hybrid Geometric Primitives [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1561_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.05682)]
 
-- Weakly Supervised 3D Object Detection from Lidar Point Cloud  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1956_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.11901)]
+- Weakly Supervised 3D Object Detection from Lidar Point Cloud [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1956_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.11901)]
 
-- EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2290_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08856)]
+- EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2290_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08856)]
 
-- Reinforced Axial Refinement Network for Monocular 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2822_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.13748)]
+- Reinforced Axial Refinement Network for Monocular 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2822_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.13748)]
 
-- Finding Your (3D) Center: 3D Object Detection Using a Learned Loss  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2919_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.02693)]
+- Finding Your (3D) Center: 3D Object Detection Using a Learned Loss [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2919_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.02693)]
 
-- An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2966_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.12392)]
+- An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2966_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.12392)]
 
-- Rotation-robust Intersection over Union for 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3506_ECCV_2020_paper.php)]
+- Rotation-robust Intersection over Union for 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3506_ECCV_2020_paper.php)]
 
-- Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3643_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.12791)]
+- Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3643_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.12791)]
 
-- Improving 3D Object Detection through Progressive Population Based Augmentation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3705_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.00831)]
+- Improving 3D Object Detection through Progressive Population Based Augmentation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3705_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.00831)]
 
-- Monocular Differentiable Rendering for Self-Supervised 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3794_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2009.14524)]
+- Monocular Differentiable Rendering for Self-Supervised 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3794_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2009.14524)]
 
-- Towards Generalization Across Depth for Monocular 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4185_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.08035)]
+- Towards Generalization Across Depth for Monocular 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4185_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.08035)]
 
-- Kinematic 3D Object Detection in Monocular Video  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4241_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09548)]
+- Kinematic 3D Object Detection in Monocular Video [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4241_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09548)]
 
-- 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5913_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.12636)]
+- 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5913_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.12636)]
 
-- Distance-Normalized Unified Representation for Monocular 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6559_ECCV_2020_paper.php)]
+- Distance-Normalized Unified Representation for Monocular 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6559_ECCV_2020_paper.php)]
 
 
 

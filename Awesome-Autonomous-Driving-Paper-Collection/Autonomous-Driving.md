@@ -47,13 +47,13 @@
 ## ICLR-2024
 
 
-- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion [[paper](https://iclr.cc/virtual/2024/poster/18691)] [[arxiv](https://arxiv.org/abs/2311.01017)] [[paper with code](https://paperswithcode.com/paper/learning-unsupervised-world-models-for)]
+- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion [[paper](https://iclr.cc/virtual/2024/poster/18691)] [[arxiv](https://arxiv.org/abs/2311.01017)] [[paper with code](https://paperswithcode.com/paper/learning-unsupervised-world-models-for)] [[openreview](https://openreview.net/forum?id=Psl75UCoZM)]
 
-- DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18729)] [[arxiv](https://arxiv.org/abs/2309.16292)] [[paper with code](https://paperswithcode.com/paper/dilu-a-knowledge-driven-approach-to)] [[code](https://github.com/PJLab-ADG/DiLu)]
+- DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18729)] [[arxiv](https://arxiv.org/abs/2309.16292)] [[paper with code](https://paperswithcode.com/paper/dilu-a-knowledge-driven-approach-to)] [[code](https://github.com/PJLab-ADG/DiLu)] [[openreview](https://openreview.net/forum?id=OqTMUPuLuC)]
 
-- LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving [[paper](https://iclr.cc/virtual/2024/poster/18846)] [[arxiv](https://arxiv.org/abs/2312.16108)] [[paper with code](https://paperswithcode.com/paper/lanesegnet-map-learning-with-lane-segment)] [[code](https://github.com/OpenDriveLab/LaneSegNet)]
+- LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving [[paper](https://iclr.cc/virtual/2024/poster/18846)] [[arxiv](https://arxiv.org/abs/2312.16108)] [[paper with code](https://paperswithcode.com/paper/lanesegnet-map-learning-with-lane-segment)] [[code](https://github.com/OpenDriveLab/LaneSegNet)] [[openreview](https://openreview.net/forum?id=LsURkIPYR5)]
 
-- ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation [[paper](https://iclr.cc/virtual/2024/poster/19579)] [[arxiv](https://arxiv.org/abs/2309.05527)] [[paper with code](https://paperswithcode.com/paper/resimad-zero-shot-3d-domain-transfer-for)] [[code](https://github.com/pjlab-adg/3dtrans)]
+- ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation [[paper](https://iclr.cc/virtual/2024/poster/19579)] [[arxiv](https://arxiv.org/abs/2309.05527)] [[paper with code](https://paperswithcode.com/paper/resimad-zero-shot-3d-domain-transfer-for)] [[code](https://github.com/pjlab-adg/3dtrans)] [[openreview](https://openreview.net/forum?id=1d2cLKeNgY)]
 
 
 ## AAAI-2024
@@ -95,15 +95,15 @@
 ## NeurIPS-2023
 
 
-- Online Map Vectorization for Autonomous Driving: A Rasterization Perspective [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/654f61ecd998c9095d30d42c03b832aa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.10502)] [[paper with code](https://paperswithcode.com/paper/online-map-vectorization-for-autonomous)] [[code](https://github.com/zhanggongjie/mapvr)] [[openview](https://openreview.net/forum?id=YvO5yTVv5Y)]
+- Online Map Vectorization for Autonomous Driving: A Rasterization Perspective [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/654f61ecd998c9095d30d42c03b832aa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.10502)] [[paper with code](https://paperswithcode.com/paper/online-map-vectorization-for-autonomous)] [[code](https://github.com/zhanggongjie/mapvr)] [[openreview](https://openreview.net/forum?id=YvO5yTVv5Y)]
 
-- AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/95ab5c3e26fd82c7de3230bbad087d2d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00612)] [[paper with code](https://paperswithcode.com/paper/ad-pt-autonomous-driving-pre-training-with-1)] [[code](https://github.com/pjlab-adg/3dtrans)] [[openview](https://openreview.net/forum?id=eIFZtkshgH)]
+- AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/95ab5c3e26fd82c7de3230bbad087d2d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00612)] [[paper with code](https://paperswithcode.com/paper/ad-pt-autonomous-driving-pre-training-with-1)] [[code](https://github.com/pjlab-adg/3dtrans)] [[openreview](https://openreview.net/forum?id=eIFZtkshgH)]
 
-- What Truly Matters in Trajectory Prediction for Autonomous Driving? [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e197fe307eb3467035f892dc100d570a-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/what-truly-matters-in-trajectory-prediction)] [[openview](https://openreview.net/forum?id=nG35q8pNL9)]
+- What Truly Matters in Trajectory Prediction for Autonomous Driving? [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e197fe307eb3467035f892dc100d570a-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/what-truly-matters-in-trajectory-prediction)] [[openreview](https://openreview.net/forum?id=nG35q8pNL9)]
 
-- Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1838feeb71c4b4ea524d0df2f7074245-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2310.08710)] [[paper with code](https://paperswithcode.com/paper/waymax-an-accelerated-data-driven-simulator)] [[openview](https://openreview.net/forum?id=7VSBaP2OXN)]
+- Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1838feeb71c4b4ea524d0df2f7074245-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2310.08710)] [[paper with code](https://paperswithcode.com/paper/waymax-an-accelerated-data-driven-simulator)] [[openreview](https://openreview.net/forum?id=7VSBaP2OXN)]
 
-- Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cabfaeecaae7d6540ee797a66f0130b0-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2304.14365)] [[paper with code](https://paperswithcode.com/paper/occ3d-a-large-scale-3d-occupancy-prediction-1)] [[code](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[openview](https://openreview.net/forum?id=ApqgcSnhjh)]
+- Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cabfaeecaae7d6540ee797a66f0130b0-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2304.14365)] [[paper with code](https://paperswithcode.com/paper/occ3d-a-large-scale-3d-occupancy-prediction-1)] [[code](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[openreview](https://openreview.net/forum?id=ApqgcSnhjh)]
 
 
 ## CVPR-2023
@@ -127,7 +127,7 @@
 
 - Neural Map Prior for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xiong_Neural_Map_Prior_for_Autonomous_Driving_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.08481)] [[paper with code](https://paperswithcode.com/paper/neural-map-prior-for-autonomous-driving)]
 
-- Planning-Oriented Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2403.02877)] [[paper with code](https://paperswithcode.com/paper/goal-oriented-autonomous-driving)] [[code](https://github.com/opendrivelab/uniad)]
+- Planning-Oriented Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2212.10156)] [[paper with code](https://paperswithcode.com/paper/goal-oriented-autonomous-driving)] [[code](https://github.com/opendrivelab/uniad)]
 
 - Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liang_Visual_Exemplar_Driven_Task-Prompting_for_Unified_Perception_in_Autonomous_Driving_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.01788)] [[paper with code](https://paperswithcode.com/paper/visual-exemplar-driven-task-prompting-for)]
 
@@ -139,9 +139,9 @@
 ## ICLR-2023
 
 
-- CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving [[paper](https://iclr.cc/virtual/2023/poster/11868)]
+- CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving [[paper](https://iclr.cc/virtual/2023/poster/11868)] [[openreview](https://openreview.net/forum?id=QUaDoIdgo0)]
 
-- Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling [[paper](https://iclr.cc/virtual/2023/poster/11975)] [[arxiv](https://arxiv.org/abs/2301.01006)] [[paper with code](https://paperswithcode.com/paper/policy-pre-training-for-end-to-end-autonomous)] [[code](https://github.com/opendrivelab/ppgeo)]
+- Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling [[paper](https://iclr.cc/virtual/2023/poster/11975)] [[arxiv](https://arxiv.org/abs/2301.01006)] [[paper with code](https://paperswithcode.com/paper/policy-pre-training-for-end-to-end-autonomous)] [[code](https://github.com/opendrivelab/ppgeo)] [[openreview](https://openreview.net/forum?id=X5SUR7g2vVw)]
 
 
 ## ICCV-2023
@@ -177,7 +177,7 @@
 ## ICML-2023
 
 
-- Transcendental Idealism of Planner: Evaluating Perception from Planning Perspective for Autonomous Driving [[paper](https://proceedings.mlr.press/v202/li23al.html)] [[arxiv](https://arxiv.org/abs/2306.07276)] [[paper with code](https://paperswithcode.com/paper/transcendental-idealism-of-planner-evaluating)] [[code](https://github.com/qcraftai/tip)]
+- Transcendental Idealism of Planner: Evaluating Perception from Planning Perspective for Autonomous Driving [[paper](https://proceedings.mlr.press/v202/li23al.html)] [[arxiv](https://arxiv.org/abs/2306.07276)] [[paper with code](https://paperswithcode.com/paper/transcendental-idealism-of-planner-evaluating)] [[code](https://github.com/qcraftai/tip)] [[openreview](https://openreview.net/forum?id=E08kaoSiQl0)]
 
 
 ## IJCAI-2023
@@ -205,13 +205,13 @@
 ## NeurIPS-2022
 
 
-- Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/286a371d8a0a559281f682f8fbf89834-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.08129)] [[paper with code](https://paperswithcode.com/paper/trajectory-guided-control-prediction-for-end)] [[code](https://github.com/OpenPerceptionX/TCP)]
+- Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/286a371d8a0a559281f682f8fbf89834-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.08129)] [[paper with code](https://paperswithcode.com/paper/trajectory-guided-control-prediction-for-end)] [[code](https://github.com/OpenPerceptionX/TCP)] [[openreview](https://openreview.net/forum?id=DhmYYrH_M3m)]
 
-- Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7c319b62e2257b34cb0e1040ced2e007-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.08953)] [[paper with code](https://paperswithcode.com/paper/effective-adaptation-in-multi-task-co)]
+- Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7c319b62e2257b34cb0e1040ced2e007-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.08953)] [[paper with code](https://paperswithcode.com/paper/effective-adaptation-in-multi-task-co)] [[openreview](https://openreview.net/forum?id=HwP4XJ04Je1)]
 
-- Unsupervised Adaptation  from Repeated Traversals for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1eb88348ee19a33c81cf5bc3fb8e9d2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2303.15286)]
+- Unsupervised Adaptation from Repeated Traversals for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1eb88348ee19a33c81cf5bc3fb8e9d2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2303.15286)]
 
-- K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2206.08171)] [[paper with code](https://paperswithcode.com/paper/k-radar-4d-radar-object-detection-dataset-and)] [[code](https://github.com/kaist-avelab/k-radar)]
+- K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2206.08171)] [[paper with code](https://paperswithcode.com/paper/k-radar-4d-radar-object-detection-dataset-and)] [[code](https://github.com/kaist-avelab/k-radar)] [[openreview](https://openreview.net/forum?id=W_bsDmzwaZ7)]
 
 
 ## CVPR-2022
@@ -327,7 +327,7 @@
 
 - PhysGAN: Generating Physical-World-Resilient Adversarial Examples for Autonomous Driving [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Kong_PhysGAN_Generating_Physical-World-Resilient_Adversarial_Examples_for_Autonomous_Driving_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1907.04449)] [[paper with code](https://paperswithcode.com/paper/generating-adversarial-fragments-with)]
 
-- "Looking at the Right Stuff" - Guided Semantic-Gaze for Autonomous Driving [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Pal_Looking_at_the_Right_Stuff_-_Guided_Semantic-Gaze_for_Autonomous_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1911.10455)] [[paper with code](https://paperswithcode.com/paper/looking-at-the-right-stuff-guided-semantic-1)]
+- Looking at the Right Stuff - Guided Semantic-Gaze for Autonomous Driving [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Pal_Looking_at_the_Right_Stuff_-_Guided_Semantic-Gaze_for_Autonomous_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1911.10455)] [[paper with code](https://paperswithcode.com/paper/looking-at-the-right-stuff-guided-semantic-1)]
 
 - nuScenes: A Multimodal Dataset for Autonomous Driving [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1903.11027)] [[paper with code](https://paperswithcode.com/paper/nuscenes-a-multimodal-dataset-for-autonomous)] [[code](https://github.com/nutonomy/nuscenes-devkit)]
 
@@ -335,25 +335,25 @@
 ## ICLR-2020
 
 
-- Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving [[paper](https://iclr.cc/virtual/2020/poster/1727)] [[arxiv](https://arxiv.org/abs/1906.06310)] [[paper with code](https://paperswithcode.com/paper/pseudo-lidar-accurate-depth-for-3d-object)] [[code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[openview](https://openreview.net/forum?id=BJedHRVtPB)]
+- Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving [[paper](https://iclr.cc/virtual/2020/poster/1727)] [[arxiv](https://arxiv.org/abs/1906.06310)] [[paper with code](https://paperswithcode.com/paper/pseudo-lidar-accurate-depth-for-3d-object)] [[code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[openreview](https://openreview.net/forum?id=BJedHRVtPB)]
 
 
 ## ECCV-2020
 
 
-- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
+- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
 
-- Active Perception using Light Curtains for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4458_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.02191)]
+- Active Perception using Light Curtains for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4458_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.02191)]
 
-- InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1137_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08556)]
+- InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1137_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08556)]
 
-- DVI: Depth Guided Video Inpainting for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3620_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08854)]
+- DVI: Depth Guided Video Inpainting for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3620_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08854)]
 
-- PiP: Planning-informed Trajectory Prediction for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3805_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.11476)]
+- PiP: Planning-informed Trajectory Prediction for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3805_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.11476)]
 
-- Pillar-based Object Detection for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3892_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2305.07522)]
+- Pillar-based Object Detection for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3892_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10323)]
 
-- DA4AD: End-to-End Deep Attention-based Visual Localization for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6091_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.03026)]
+- DA4AD: End-to-End Deep Attention-based Visual Localization for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6091_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.03026)]
 
 
 ## AAAI-2020

@@ -46,4 +46,4 @@
 ## NeurIPS-2022
 
 
-- BiT: Robustly Binarized Multi-distilled Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5c1863f711c721648387ac2ef745facb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13016)] [[paper with code](https://paperswithcode.com/paper/bit-robustly-binarized-multi-distilled)] [[code](https://github.com/facebookresearch/bit)]
+- BiT: Robustly Binarized Multi-distilled Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5c1863f711c721648387ac2ef745facb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13016)] [[paper with code](https://paperswithcode.com/paper/bit-robustly-binarized-multi-distilled)] [[code](https://github.com/facebookresearch/bit)] [[openreview](https://openreview.net/forum?id=wYgRIJ-oK6M)]

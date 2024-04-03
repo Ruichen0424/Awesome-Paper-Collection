@@ -45,7 +45,7 @@
 ## ICLR-2024
 
 
-- Neural Rate Control for Learned Video Compression [[paper](https://iclr.cc/virtual/2024/poster/19481)]
+- Neural Rate Control for Learned Video Compression [[paper](https://iclr.cc/virtual/2024/poster/19481)] [[openreview](https://openreview.net/forum?id=42lcaojZug)]
 
 
 ## AAAI-2024
@@ -63,11 +63,11 @@
 ## NeurIPS-2023
 
 
-- Compressed Video Prompt Tuning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/656678aa961a99a6a3d59bfbf88daf77-Abstract-Conference.html)]
+- Compressed Video Prompt Tuning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/656678aa961a99a6a3d59bfbf88daf77-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=2vADOf3K00)]
 
-- On the choice of Perception Loss Function for Learned Video Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/96d328a1f6d8396d8c8a62f2beee252a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.19301)] [[paper with code](https://paperswithcode.com/paper/on-the-choice-of-perception-loss-function-for)] [[openview](https://openreview.net/forum?id=kLIieSS2P3)]
+- On the choice of Perception Loss Function for Learned Video Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/96d328a1f6d8396d8c8a62f2beee252a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.19301)] [[paper with code](https://paperswithcode.com/paper/on-the-choice-of-perception-loss-function-for)] [[openreview](https://openreview.net/forum?id=kLIieSS2P3)]
 
-- HiNeRV: Video Compression with Hierarchical Encoding-based Neural Representation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e5dc475c370ff42f2f96dddf8191a40c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.09818)] [[paper with code](https://paperswithcode.com/paper/hinerv-video-compression-with-hierarchical)] [[code](https://github.com/hmkx/hinerv)] [[openview](https://openreview.net/forum?id=CpoS56pYnU)]
+- HiNeRV: Video Compression with Hierarchical Encoding-based Neural Representation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e5dc475c370ff42f2f96dddf8191a40c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.09818)] [[paper with code](https://paperswithcode.com/paper/hinerv-video-compression-with-hierarchical)] [[code](https://github.com/hmkx/hinerv)] [[openreview](https://openreview.net/forum?id=CpoS56pYnU)]
 
 
 ## CVPR-2023
@@ -93,7 +93,7 @@
 ## ICLR-2023
 
 
-- MIMT: Masked Image Modeling Transformer for Video Compression [[paper](https://iclr.cc/virtual/2023/poster/11734)]
+- MIMT: Masked Image Modeling Transformer for Video Compression [[paper](https://iclr.cc/virtual/2023/poster/11734)] [[openreview](https://openreview.net/forum?id=j9m-mVnndbm)]
 
 
 ## ICCV-2023
@@ -121,9 +121,9 @@
 ## NeurIPS-2022
 
 
-- VCT: A Video Compression Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/54dcf25318f9de5a7a01f0a4125c541e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.07307)] [[paper with code](https://paperswithcode.com/paper/vct-a-video-compression-transformer)] [[code](https://github.com/google-research/google-research/tree/master/vct)]
+- VCT: A Video Compression Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/54dcf25318f9de5a7a01f0a4125c541e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.07307)] [[paper with code](https://paperswithcode.com/paper/vct-a-video-compression-transformer)] [[code](https://github.com/google-research/google-research/tree/master/vct)] [[openreview](https://openreview.net/forum?id=lme1MKnSMb)]
 
-- Video compression dataset and benchmark of learning-based video-quality metrics [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/59ac9f01ea2f701310f3d42037546e4a-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2211.12109)] [[paper with code](https://paperswithcode.com/paper/video-compression-dataset-and-benchmark-of)] [[code](https://github.com/msu-video-group/msu_vqm_compression_benchmark)]
+- Video compression dataset and benchmark of learning-based video-quality metrics [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/59ac9f01ea2f701310f3d42037546e4a-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2211.12109)] [[paper with code](https://paperswithcode.com/paper/video-compression-dataset-and-benchmark-of)] [[code](https://github.com/msu-video-group/msu_vqm_compression_benchmark)] [[openreview](https://openreview.net/forum?id=My5AI9aM49R)]
 
 
 ## CVPR-2022
@@ -145,7 +145,7 @@
 
 - Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1687_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2207.05049)] [[paper with code](https://paperswithcode.com/paper/fast-vid2vid-spatial-temporal-compression-for)] [[code](https://github.com/fast-vid2vid/fast-vid2vid)]
 
-- CANF-VC: Conditional Augmented Normalizing Flows for Video Compression [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3904_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2309.05382)] [[paper with code](https://paperswithcode.com/paper/canf-vc-conditional-augmented-normalizing)] [[code](https://github.com/nycu-mapl/canf-vc)]
+- CANF-VC: Conditional Augmented Normalizing Flows for Video Compression [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3904_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2207.05315)] [[paper with code](https://paperswithcode.com/paper/canf-vc-conditional-augmented-normalizing)] [[code](https://github.com/nycu-mapl/canf-vc)]
 
 - A Codec Information Assisted Framework for Efficient Compressed Video Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6420_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2210.08229)] [[paper with code](https://paperswithcode.com/paper/a-codec-information-assisted-framework-for)]
 
@@ -172,9 +172,9 @@
 ## NeurIPS-2021
 
 
-- Compressed Video Contrastive Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/7647966b7343c29048673252e490f736-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/compressed-video-contrastive-learning)] [[openview](https://openreview.net/forum?id=Cn7d_BHE-s)]
+- Compressed Video Contrastive Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/7647966b7343c29048673252e490f736-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/compressed-video-contrastive-learning)] [[openreview](https://openreview.net/forum?id=Cn7d_BHE-s)]
 
-- Deep Contextual Video Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/96b250a90d3cf0868c83f8c965142d2a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.15047)] [[paper with code](https://paperswithcode.com/paper/deep-contextual-video-compression)] [[code](https://github.com/DeepMC-DCVC/DCVC)]
+- Deep Contextual Video Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/96b250a90d3cf0868c83f8c965142d2a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.15047)] [[paper with code](https://paperswithcode.com/paper/deep-contextual-video-compression)] [[code](https://github.com/DeepMC-DCVC/DCVC)] [[openreview](https://openreview.net/forum?id=evqzNxmXsl3)]
 
 
 ## CVPR-2021
@@ -188,9 +188,9 @@
 ## ICLR-2021
 
 
-- Self-Supervised Learning of Compressed Video Representations [[paper](https://iclr.cc/virtual/2021/poster/2915)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-of-compressed-video)] [[openview](https://openreview.net/forum?id=jMPcEkJpdD)]
+- Self-Supervised Learning of Compressed Video Representations [[paper](https://iclr.cc/virtual/2021/poster/2915)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-of-compressed-video)] [[openreview](https://openreview.net/forum?id=jMPcEkJpdD)]
 
-- Hierarchical Autoregressive Modeling for Neural Video Compression [[paper](https://iclr.cc/virtual/2021/poster/2626)] [[arxiv](https://arxiv.org/abs/2010.10258)] [[paper with code](https://paperswithcode.com/paper/hierarchical-autoregressive-modeling-for-1)] [[code](https://github.com/buggyyang/youtube-nt)] [[openview](https://openreview.net/forum?id=TK_6nNb_C7q)]
+- Hierarchical Autoregressive Modeling for Neural Video Compression [[paper](https://iclr.cc/virtual/2021/poster/2626)] [[arxiv](https://arxiv.org/abs/2010.10258)] [[paper with code](https://paperswithcode.com/paper/hierarchical-autoregressive-modeling-for-1)] [[code](https://github.com/buggyyang/youtube-nt)] [[openreview](https://openreview.net/forum?id=TK_6nNb_C7q)]
 
 
 ## ICCV-2021
@@ -225,15 +225,15 @@
 ## ECCV-2020
 
 
-- Improving Deep Video Compression by Resolution-adaptive Flow Coding  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3112_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2009.05982)]
+- Improving Deep Video Compression by Resolution-adaptive Flow Coding [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3112_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2009.05982)]
 
-- Content Adaptive and Error Propagation Aware Deep Video Compression  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3544_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.11282)]
+- Content Adaptive and Error Propagation Aware Deep Video Compression [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3544_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.11282)]
 
-- Multi-level Wavelet-based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2160_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.00499)]
+- Multi-level Wavelet-based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2160_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.00499)]
 
-- Conditional Entropy Coding for Efficient Video Compression  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2805_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.09180)]
+- Conditional Entropy Coding for Efficient Video Compression [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2805_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.09180)]
 
-- High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/7358_ECCV_2020_paper.php)]
+- High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/7358_ECCV_2020_paper.php)]
 
 
 ## AAAI-2020
@@ -251,7 +251,7 @@
 ## NeurIPS-2019
 
 
-- Deep Generative Video Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/f1ea154c843f7cf3677db7ce922a2d17-Abstract.html)] [[arxiv](https://arxiv.org/abs/2202.05514)]
+- Deep Generative Video Compression [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/f1ea154c843f7cf3677db7ce922a2d17-Abstract.html)] [[arxiv](https://arxiv.org/abs/1810.02845)]
 
 
 ## CVPR-2019
@@ -269,7 +269,7 @@
 
 - Remote Heart Rate Measurement From Highly Compressed Facial Videos: An End-to-End Deep Learning Solution With Video Enhancement [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Remote_Heart_Rate_Measurement_From_Highly_Compressed_Facial_Videos_An_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1907.11921)] [[paper with code](https://paperswithcode.com/paper/remote-heart-rate-measurement-from-highly)] [[code](https://github.com/ZitongYu/STVEN_rPPGNet)]
 
-- Learned Video Compression [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Rippel_Learned_Video_Compression_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2402.00680)]
+- Learned Video Compression [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Rippel_Learned_Video_Compression_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1811.06981)]
 
 - Neural Inter-Frame Compression for Video Coding [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.html)] [[paper with code](https://paperswithcode.com/paper/neural-inter-frame-compression-for-video)]
 
@@ -286,9 +286,9 @@
 ## CVPR-2018
 
 
-- Compressed Video Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Compressed_Video_Action_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/2205.03569)] [[paper with code](https://paperswithcode.com/paper/compressed-video-action-recognition)] [[code](https://github.com/chaoyuaw/pytorch-coviar)]
+- Compressed Video Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Compressed_Video_Action_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1712.00636)] [[paper with code](https://paperswithcode.com/paper/compressed-video-action-recognition)] [[code](https://github.com/chaoyuaw/pytorch-coviar)]
 
-- Multi-Frame Quality Enhancement for Compressed Video [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/2201.11389)] [[paper with code](https://paperswithcode.com/paper/multi-frame-quality-enhancement-for)] [[code](https://github.com/ryangBUAA/MFQE)]
+- Multi-Frame Quality Enhancement for Compressed Video [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1803.04680)] [[paper with code](https://paperswithcode.com/paper/multi-frame-quality-enhancement-for)] [[code](https://github.com/ryangBUAA/MFQE)]
 
 
 ## ECCV-2018

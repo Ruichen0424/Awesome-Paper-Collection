@@ -66,9 +66,9 @@
 ## NeurIPS-2023
 
 
-- VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/54d2d38a56a74387d5916ee40e462295-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.16605)] [[paper with code](https://paperswithcode.com/paper/vpp-efficient-conditional-3d-generation-via)] [[code](https://github.com/qizekun/vpp)] [[openview](https://openreview.net/forum?id=etd0ebzGOG)]
+- VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/54d2d38a56a74387d5916ee40e462295-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.16605)] [[paper with code](https://paperswithcode.com/paper/vpp-efficient-conditional-3d-generation-via)] [[code](https://github.com/qizekun/vpp)] [[openreview](https://openreview.net/forum?id=etd0ebzGOG)]
 
-- All Points Matter: Entropy-Regularized Distribution Alignment for Weakly-supervised 3D Segmentation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f86c5c4d4dca70d30b1c12a33a2bc1a4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15832)] [[paper with code](https://paperswithcode.com/paper/all-points-matter-entropy-regularized-1)] [[code](https://github.com/LiyaoTang/ERDA)] [[openview](https://openreview.net/forum?id=utQms7PPx5)]
+- All Points Matter: Entropy-Regularized Distribution Alignment for Weakly-supervised 3D Segmentation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f86c5c4d4dca70d30b1c12a33a2bc1a4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15832)] [[paper with code](https://paperswithcode.com/paper/all-points-matter-entropy-regularized-1)] [[code](https://github.com/LiyaoTang/ERDA)] [[openreview](https://openreview.net/forum?id=utQms7PPx5)]
 
 
 ## CVPR-2023
@@ -144,13 +144,13 @@
 ## NeurIPS-2022
 
 
-- SNAKE: Shape-aware Neural 3D Keypoint Field [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2e3eccb54649186564ad6627ed80848c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01724)] [[paper with code](https://paperswithcode.com/paper/snake-shape-aware-neural-3d-keypoint-field)] [[code](https://github.com/zhongcl-thu/snake)]
+- SNAKE: Shape-aware Neural 3D Keypoint Field [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2e3eccb54649186564ad6627ed80848c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01724)] [[paper with code](https://paperswithcode.com/paper/snake-shape-aware-neural-3d-keypoint-field)] [[code](https://github.com/zhongcl-thu/snake)] [[openreview](https://openreview.net/forum?id=oWx_9VJgyV7)]
 
-- LION: Latent Point Diffusion Models for 3D Shape Generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/40e56dabe12095a5fc44a6e4c3835948-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.06978)] [[paper with code](https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d)] [[code](https://github.com/nv-tlabs/LION)]
+- LION: Latent Point Diffusion Models for 3D Shape Generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/40e56dabe12095a5fc44a6e4c3835948-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.06978)] [[paper with code](https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d)] [[code](https://github.com/nv-tlabs/LION)] [[openreview](https://openreview.net/forum?id=tHK5ntjp-5K)]
 
-- Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c8e1620b29d546c2999a9339ab29aa82-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.11895)] [[paper with code](https://paperswithcode.com/paper/learning-viewpoint-agnostic-visual)] [[code](https://github.com/elicassion/3dtrl)]
+- Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c8e1620b29d546c2999a9339ab29aa82-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.11895)] [[paper with code](https://paperswithcode.com/paper/learning-viewpoint-agnostic-visual)] [[code](https://github.com/elicassion/3dtrl)] [[openreview](https://openreview.net/forum?id=YBsLfudKlBu)]
 
-- Learning Superpoint Graph Cut for 3D Instance Segmentation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ef0af61ccfba2bf9fad4f4df6dfcb7c3-Abstract-Conference.html)]
+- Learning Superpoint Graph Cut for 3D Instance Segmentation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ef0af61ccfba2bf9fad4f4df6dfcb7c3-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=ByMYEibhiXO)]
 
 
 ## CVPR-2022
@@ -192,11 +192,11 @@
 ## NeurIPS-2021
 
 
-- Learning 3D Dense Correspondence via Canonical Point Autoencoder [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3413ce14d52b87557e87e2c1518c2cbe-Abstract.html)] [[arxiv](https://arxiv.org/abs/2107.04867)] [[paper with code](https://paperswithcode.com/paper/learning-3d-dense-correspondence-via)]
+- Learning 3D Dense Correspondence via Canonical Point Autoencoder [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3413ce14d52b87557e87e2c1518c2cbe-Abstract.html)] [[arxiv](https://arxiv.org/abs/2107.04867)] [[paper with code](https://paperswithcode.com/paper/learning-3d-dense-correspondence-via)] [[openreview](https://openreview.net/forum?id=vLVEZr_66Ik)]
 
-- To The Point: Correspondence-driven monocular 3D category reconstruction [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/40008b9a5380fcacce3976bf7c08af5b-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.05662)] [[paper with code](https://paperswithcode.com/paper/to-the-point-correspondence-driven-monocular)]
+- To The Point: Correspondence-driven monocular 3D category reconstruction [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/40008b9a5380fcacce3976bf7c08af5b-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.05662)] [[paper with code](https://paperswithcode.com/paper/to-the-point-correspondence-driven-monocular)] [[openreview](https://openreview.net/forum?id=AWMU04iXQ08)]
 
-- Multimodal Virtual Point 3D Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/895daa408f494ad58006c47a30f51c1f-Abstract.html)] [[arxiv](https://arxiv.org/abs/2310.04800)] [[paper with code](https://paperswithcode.com/paper/multimodal-virtual-point-3d-detection)] [[code](https://github.com/tianweiy/MVP)]
+- Multimodal Virtual Point 3D Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/895daa408f494ad58006c47a30f51c1f-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.06881)] [[paper with code](https://paperswithcode.com/paper/multimodal-virtual-point-3d-detection)] [[code](https://github.com/tianweiy/MVP)] [[openreview](https://openreview.net/forum?id=8xoN9ZdSW8)]
 
 
 ## CVPR-2021
@@ -263,7 +263,7 @@
 
 - KeyPose: Multi-View 3D Labeling and Keypoint Estimation for Transparent Objects [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_KeyPose_Multi-View_3D_Labeling_and_Keypoint_Estimation_for_Transparent_Objects_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1912.02805)] [[paper with code](https://paperswithcode.com/paper/keypose-multi-view-3d-labeling-and-keypoint)] [[code](https://github.com/google-research/google-research/tree/master/keypose)]
 
-- PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2102.00463)] [[paper with code](https://paperswithcode.com/paper/pv-rcnn-point-voxel-feature-set-abstraction)] [[code](https://github.com/open-mmlab/OpenPCDet)]
+- PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1912.13192)] [[paper with code](https://paperswithcode.com/paper/pv-rcnn-point-voxel-feature-set-abstraction)] [[code](https://github.com/open-mmlab/OpenPCDet)]
 
 - 3DSSD: Point-Based 3D Single Stage Object Detector [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_3DSSD_Point-Based_3D_Single_Stage_Object_Detector_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2002.10187)] [[paper with code](https://paperswithcode.com/paper/3dssd-point-based-3d-single-stage-object)] [[code](https://github.com/open-mmlab/mmdetection3d)]
 
@@ -271,23 +271,23 @@
 ## ECCV-2020
 
 
-- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
+- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
 
-- AUTO3D: Novel view synthesis through unsupervisely learned variational viewpoint and global 3D representation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/719_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.06620)]
+- AUTO3D: Novel view synthesis through unsupervisely learned variational viewpoint and global 3D representation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/719_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.06620)]
 
-- EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2290_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08856)]
+- EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2290_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.08856)]
 
-- Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3152_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.07053)]
+- Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3152_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.07053)]
 
-- Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4220_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.13764)]
+- Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4220_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.13764)]
 
-- PointTriNet: Learned Triangulation of 3D Point Sets  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4424_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2005.02138)]
+- PointTriNet: Learned Triangulation of 3D Point Sets [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4424_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2005.02138)]
 
-- Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5118_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.07619)]
+- Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5118_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.07619)]
 
-- Accurate Reconstruction of Oriented 3D Points using Affine Correspondences  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6294_ECCV_2020_paper.php)]
+- Accurate Reconstruction of Oriented 3D Points using Affine Correspondences [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6294_ECCV_2020_paper.php)]
 
-- Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6421_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.16100)]
+- Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6421_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.16100)]
 
 
 ## AAAI-2020
@@ -317,7 +317,7 @@
 
 - Deep Reinforcement Learning of Volume-Guided Progressive View Inpainting for 3D Point Scene Completion From a Single Depth Image [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Han_Deep_Reinforcement_Learning_of_Volume-Guided_Progressive_View_Inpainting_for_3D_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1903.04019)] [[paper with code](https://paperswithcode.com/paper/deep-reinforcement-learning-of-volume-guided)]
 
-- 3D Point Capsule Networks [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1912.12098)] [[paper with code](https://paperswithcode.com/paper/3d-point-capsule-networks)] [[code](https://github.com/yongheng1991/3D-point-capsule-networks)]
+- 3D Point Capsule Networks [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1812.10775)] [[paper with code](https://paperswithcode.com/paper/3d-point-capsule-networks)] [[code](https://github.com/yongheng1991/3D-point-capsule-networks)]
 
 - Patch-Based Progressive 3D Point Set Upsampling [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yifan_Patch-Based_Progressive_3D_Point_Set_Upsampling_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1811.11286)] [[paper with code](https://paperswithcode.com/paper/patch-based-progressive-3d-point-set)] [[code](https://github.com/yifita/3PU_pytorch)]
 

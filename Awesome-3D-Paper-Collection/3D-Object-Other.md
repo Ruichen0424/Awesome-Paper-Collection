@@ -57,17 +57,17 @@
 ## ICLR-2024
 
 
-- 3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation [[paper](https://iclr.cc/virtual/2024/poster/18534)] [[arxiv](https://arxiv.org/abs/2310.03534)] [[paper with code](https://paperswithcode.com/paper/3d-aware-hypothesis-verification-for)]
+- 3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation [[paper](https://iclr.cc/virtual/2024/poster/18534)] [[arxiv](https://arxiv.org/abs/2310.03534)] [[paper with code](https://paperswithcode.com/paper/3d-aware-hypothesis-verification-for)] [[openreview](https://openreview.net/forum?id=U6hEOZlDf5)]
 
-- Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18459)]
+- Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18459)] [[openreview](https://openreview.net/forum?id=X41c4uB4k0)]
 
-- Pre-training LiDAR-based 3D Object Detectors through Colorization [[paper](https://iclr.cc/virtual/2024/poster/18195)] [[arxiv](https://arxiv.org/abs/2310.14592)] [[paper with code](https://paperswithcode.com/paper/pre-training-lidar-based-3d-object-detectors)] [[code](https://github.com/tydpan/gpc)]
+- Pre-training LiDAR-based 3D Object Detectors through Colorization [[paper](https://iclr.cc/virtual/2024/poster/18195)] [[arxiv](https://arxiv.org/abs/2310.14592)] [[paper with code](https://paperswithcode.com/paper/pre-training-lidar-based-3d-object-detectors)] [[code](https://github.com/tydpan/gpc)] [[openreview](https://openreview.net/forum?id=fB1iiH9xo7)]
 
-- Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors [[paper](https://iclr.cc/virtual/2024/poster/19607)] [[arxiv](https://arxiv.org/abs/2306.17843)] [[paper with code](https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object)] [[code](https://github.com/guochengqian/magic123)]
+- Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors [[paper](https://iclr.cc/virtual/2024/poster/19607)] [[arxiv](https://arxiv.org/abs/2306.17843)] [[paper with code](https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object)] [[code](https://github.com/guochengqian/magic123)] [[openreview](https://openreview.net/forum?id=0jHkUDyEO9)]
 
-- AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation [[paper](https://iclr.cc/virtual/2024/poster/19289)] [[arxiv](https://arxiv.org/abs/2306.00977)] [[paper with code](https://paperswithcode.com/paper/agile3d-attention-guided-interactive-multi)]
+- AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation [[paper](https://iclr.cc/virtual/2024/poster/19289)] [[arxiv](https://arxiv.org/abs/2306.00977)] [[paper with code](https://paperswithcode.com/paper/agile3d-attention-guided-interactive-multi)] [[openreview](https://openreview.net/forum?id=9cQtXpRshE)]
 
-- H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields [[paper](https://iclr.cc/virtual/2024/poster/18720)] [[arxiv](https://arxiv.org/abs/2402.08138)] [[paper with code](https://paperswithcode.com/paper/h2o-sdf-two-phase-learning-for-3d-indoor)] [[code](https://github.com/Domirae/H2O-SDF)]
+- H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields [[paper](https://iclr.cc/virtual/2024/poster/18720)] [[arxiv](https://arxiv.org/abs/2402.08138)] [[paper with code](https://paperswithcode.com/paper/h2o-sdf-two-phase-learning-for-3d-indoor)] [[code](https://github.com/Domirae/H2O-SDF)] [[openreview](https://openreview.net/forum?id=P1ANzoGg3W)]
 
 
 ## AAAI-2024
@@ -95,19 +95,19 @@
 ## NeurIPS-2023
 
 
-- OBJECT 3DIT: Language-guided 3D-aware Image Editing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0b0153a91f827b14e8bfea4e211362f3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.11073)] [[paper with code](https://paperswithcode.com/paper/object-3dit-language-guided-3d-aware-image)] [[openview](https://openreview.net/forum?id=yjWVd8Fhqt)]
+- OBJECT 3DIT: Language-guided 3D-aware Image Editing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0b0153a91f827b14e8bfea4e211362f3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.11073)] [[paper with code](https://paperswithcode.com/paper/object-3dit-language-guided-3d-aware-image)] [[openreview](https://openreview.net/forum?id=yjWVd8Fhqt)]
 
-- Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1cb5b3d64bdf3c6642c8d9a8fbecd019-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.04633)] [[paper with code](https://paperswithcode.com/paper/contrastive-lift-3d-object-instance)] [[code](https://github.com/yashbhalgat/contrastive-lift)] [[openview](https://openreview.net/forum?id=bbbbbov4Xu)]
+- Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1cb5b3d64bdf3c6642c8d9a8fbecd019-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.04633)] [[paper with code](https://paperswithcode.com/paper/contrastive-lift-3d-object-instance)] [[code](https://github.com/yashbhalgat/contrastive-lift)] [[openreview](https://openreview.net/forum?id=bbbbbov4Xu)]
 
-- NAP: Neural 3D Articulated Object Prior [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/655846cc914cb7ff977a1ada40866441-Abstract-Conference.html)]
+- NAP: Neural 3D Articulated Object Prior [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/655846cc914cb7ff977a1ada40866441-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=TTkklyFv7e)]
 
-- Exploiting Contextual Objects and Relations for 3D Visual Grounding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9b91ee0da3bcd61905fcd89e770168fc-Abstract-Conference.html)]
+- Exploiting Contextual Objects and Relations for 3D Visual Grounding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9b91ee0da3bcd61905fcd89e770168fc-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=GlWzQhf2lV)]
 
-- Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bf78fc727cf882df66e6dbc826161e86-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2309.07510)] [[paper with code](https://paperswithcode.com/paper/learning-environment-aware-affordance-for-3d)] [[openview](https://openreview.net/forum?id=Re2NHYoZ5l)]
+- Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bf78fc727cf882df66e6dbc826161e86-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2309.07510)] [[paper with code](https://paperswithcode.com/paper/learning-environment-aware-affordance-for-3d)] [[openreview](https://openreview.net/forum?id=Re2NHYoZ5l)]
 
-- Objaverse-XL: A Universe of 10M+ 3D Objects [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/70364304877b5e767de4e9a2a511be0c-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2307.05663)] [[paper with code](https://paperswithcode.com/paper/objaverse-xl-a-universe-of-10m-3d-objects)] [[code](https://github.com/allenai/objaverse-xl)] [[openview](https://openreview.net/forum?id=Sq3CLKJeiz)]
+- Objaverse-XL: A Universe of 10M+ 3D Objects [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/70364304877b5e767de4e9a2a511be0c-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2307.05663)] [[paper with code](https://paperswithcode.com/paper/objaverse-xl-a-universe-of-10m-3d-objects)] [[code](https://github.com/allenai/objaverse-xl)] [[openreview](https://openreview.net/forum?id=Sq3CLKJeiz)]
 
-- Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/92a821f6c25b29241df6985ceb673a85-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2310.16044)] [[paper with code](https://paperswithcode.com/paper/stanford-orb-a-real-world-3d-object-inverse)] [[code](https://github.com/StanfordORB/Stanford-ORB)] [[openview](https://openreview.net/forum?id=zRYSJbcRcV)]
+- Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/92a821f6c25b29241df6985ceb673a85-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2310.16044)] [[paper with code](https://paperswithcode.com/paper/stanford-orb-a-real-world-3d-object-inverse)] [[code](https://github.com/StanfordORB/Stanford-ORB)] [[openreview](https://openreview.net/forum?id=zRYSJbcRcV)]
 
 
 ## CVPR-2023
@@ -151,7 +151,7 @@
 ## ICLR-2023
 
 
-- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)]
+- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)] [[openreview](https://openreview.net/forum?id=mXPoBtnpMnuy)]
 
 
 ## ICCV-2023
@@ -171,7 +171,7 @@
 
 - MAAL: Multimodality-Aware Autoencoder-Based Affordance Learning for 3D Articulated Objects [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liang_MAAL_Multimodality-Aware_Autoencoder-Based_Affordance_Learning_for_3D_Articulated_Objects_ICCV_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/maal-multimodality-aware-autoencoder-based)] [[code](https://github.com/akira-l/maal)]
 
-- CHORUS : Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Han_CHORUS__Learning_Canonicalized_3D_Human-Object_Spatial_Relations_from_Unbounded_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2308.12288)] [[paper with code](https://paperswithcode.com/paper/chorus-learning-canonicalized-3d-human-object-1)]
+- CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Han_CHORUS__Learning_Canonicalized_3D_Human-Object_Spatial_Relations_from_Unbounded_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2308.12288)] [[paper with code](https://paperswithcode.com/paper/chorus-learning-canonicalized-3d-human-object-1)]
 
 - AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Dang_AutoSynth_Learning_to_Generate_3D_Training_Data_for_Object_Point_ICCV_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2309.11170)] [[paper with code](https://paperswithcode.com/paper/autosynth-learning-to-generate-3d-training)]
 
@@ -211,11 +211,11 @@
 ## NeurIPS-2022
 
 
-- MultiScan: Scalable RGBD scanning for 3D environments with articulated objects [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3b3a83a5d86e1d424daefed43d998079-Abstract-Conference.html)]
+- MultiScan: Scalable RGBD scanning for 3D environments with articulated objects [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3b3a83a5d86e1d424daefed43d998079-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=YxUdazpgweG)]
 
-- Language Conditioned Spatial Relation Reasoning for 3D Object Grounding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/819aaee144cb40e887a4aa9e781b1547-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2211.09646)] [[paper with code](https://paperswithcode.com/paper/language-conditioned-spatial-relation)] [[code](https://github.com/cshizhe/vil3dref)]
+- Language Conditioned Spatial Relation Reasoning for 3D Object Grounding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/819aaee144cb40e887a4aa9e781b1547-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2211.09646)] [[paper with code](https://paperswithcode.com/paper/language-conditioned-spatial-relation)] [[code](https://github.com/cshizhe/vil3dref)] [[openreview](https://openreview.net/forum?id=8li9SYYY3eQ)]
 
-- OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c6e3856954d23bec921f2d13d8c0e0e7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04458)] [[paper with code](https://paperswithcode.com/paper/ogc-unsupervised-3d-object-segmentation-from)] [[code](https://github.com/vlar-group/ogc)]
+- OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c6e3856954d23bec921f2d13d8c0e0e7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04458)] [[paper with code](https://paperswithcode.com/paper/ogc-unsupervised-3d-object-segmentation-from)] [[code](https://github.com/vlar-group/ogc)] [[openreview](https://openreview.net/forum?id=ecNbEOOtqBU)]
 
 
 ## CVPR-2022
@@ -263,9 +263,9 @@
 ## ICLR-2022
 
 
-- IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes [[paper](https://iclr.cc/virtual/2022/poster/6870)] [[arxiv](https://arxiv.org/abs/2112.05298)] [[paper with code](https://paperswithcode.com/paper/ifr-explore-learning-inter-object-functional-1)] [[openview](https://openreview.net/forum?id=OT3mLgR8Wg8)]
+- IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes [[paper](https://iclr.cc/virtual/2022/poster/6870)] [[arxiv](https://arxiv.org/abs/2112.05298)] [[paper with code](https://paperswithcode.com/paper/ifr-explore-learning-inter-object-functional-1)] [[openreview](https://openreview.net/forum?id=OT3mLgR8Wg8)]
 
-- VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects [[paper](https://iclr.cc/virtual/2022/poster/6298)] [[arxiv](https://arxiv.org/abs/2106.14440)] [[paper with code](https://paperswithcode.com/paper/vat-mart-learning-visual-action-trajectory)] [[openview](https://openreview.net/forum?id=iEx3PiooLy)]
+- VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects [[paper](https://iclr.cc/virtual/2022/poster/6298)] [[arxiv](https://arxiv.org/abs/2106.14440)] [[paper with code](https://paperswithcode.com/paper/vat-mart-learning-visual-action-trajectory)] [[openreview](https://openreview.net/forum?id=iEx3PiooLy)]
 
 
 ## ECCV-2022
@@ -296,9 +296,9 @@
 ## NeurIPS-2021
 
 
-- Unsupervised Object-Based Transition Models For 3D Partially Observable Environments [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e5841df2166dd424a57127423d276bbe-Abstract.html)] [[arxiv](https://arxiv.org/abs/2103.04693)] [[paper with code](https://paperswithcode.com/paper/unsupervised-object-based-transition-models)]
+- Unsupervised Object-Based Transition Models For 3D Partially Observable Environments [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e5841df2166dd424a57127423d276bbe-Abstract.html)] [[arxiv](https://arxiv.org/abs/2103.04693)] [[paper with code](https://paperswithcode.com/paper/unsupervised-object-based-transition-models)] [[openreview](https://openreview.net/forum?id=X17EOUP2Cgt)]
 
-- Shape from Blur: Recovering Textured 3D Shape and Motion of Fast Moving Objects [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/fb60d411a5c5b72b2e7d3527cfc84fd0-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.08762)] [[paper with code](https://paperswithcode.com/paper/shape-from-blur-recovering-textured-3d-shape)] [[code](https://github.com/rozumden/ShapeFromBlur)]
+- Shape from Blur: Recovering Textured 3D Shape and Motion of Fast Moving Objects [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/fb60d411a5c5b72b2e7d3527cfc84fd0-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.08762)] [[paper with code](https://paperswithcode.com/paper/shape-from-blur-recovering-textured-3d-shape)] [[code](https://github.com/rozumden/ShapeFromBlur)] [[openreview](https://openreview.net/forum?id=CyZF4CLnQ8D)]
 
 
 ## CVPR-2021
@@ -326,7 +326,7 @@
 ## ICLR-2021
 
 
-- Unsupervised Discovery of 3D Physical Objects [[paper](https://iclr.cc/virtual/2021/poster/3207)] [[arxiv](https://arxiv.org/abs/2007.12348)] [[paper with code](https://paperswithcode.com/paper/unsupervised-discovery-of-3d-physical-objects-1)] [[openview](https://openreview.net/forum?id=lf7st0bJIA5)]
+- Unsupervised Discovery of 3D Physical Objects [[paper](https://iclr.cc/virtual/2021/poster/3207)] [[arxiv](https://arxiv.org/abs/2007.12348)] [[paper with code](https://paperswithcode.com/paper/unsupervised-discovery-of-3d-physical-objects-1)] [[openreview](https://openreview.net/forum?id=lf7st0bJIA5)]
 
 
 ## ICCV-2021
@@ -417,33 +417,33 @@
 ## ICLR-2020
 
 
-- Higher-Order Function Networks for Learning Composable 3D Object Representations [[paper](https://iclr.cc/virtual/2020/poster/1427)] [[arxiv](https://arxiv.org/abs/1907.10388)] [[paper with code](https://paperswithcode.com/paper/higher-order-function-networks-for-learning)] [[openview](https://openreview.net/forum?id=HJgfDREKDB)]
+- Higher-Order Function Networks for Learning Composable 3D Object Representations [[paper](https://iclr.cc/virtual/2020/poster/1427)] [[arxiv](https://arxiv.org/abs/1907.10388)] [[paper with code](https://paperswithcode.com/paper/higher-order-function-networks-for-learning)] [[openreview](https://openreview.net/forum?id=HJgfDREKDB)]
 
 
 ## ECCV-2020
 
 
-- ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1501_ECCV_2020_paper.php)]
+- ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1501_ECCV_2020_paper.php)]
 
-- Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1474_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.15649)]
+- Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1474_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.15649)]
 
-- Interactive Annotation of 3D Object Geometry using 2D Scribbles  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2888_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.10719)]
+- Interactive Annotation of 3D Object Geometry using 2D Scribbles [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2888_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.10719)]
 
-- Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2941_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.07760)]
+- Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2941_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.07760)]
 
-- Unsupervised Multi-View CNN for Salient View Selection of 3D Objects and Scenes  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3254_ECCV_2020_paper.php)]
+- Unsupervised Multi-View CNN for Salient View Selection of 3D Objects and Scenes [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3254_ECCV_2020_paper.php)]
 
-- ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3408_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.08830)]
+- ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3408_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.08830)]
 
-- Human Correspondence Consensus for 3D Object Semantic Understanding  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4107_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.12577)]
+- Human Correspondence Consensus for 3D Object Semantic Understanding [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4107_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.12577)]
 
-- Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4220_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.13764)]
+- Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4220_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.13764)]
 
-- Efficient Outdoor 3D Point Cloud Semantic Segmentation for Critical Road Objects and Distributed Contexts  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5831_ECCV_2020_paper.php)]
+- Efficient Outdoor 3D Point Cloud Semantic Segmentation for Critical Road Objects and Distributed Contexts [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5831_ECCV_2020_paper.php)]
 
-- Procrustean Regression Networks: Learning 3D Structure of Non-Rigid Objects from 2D Annotations  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6446_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10961)]
+- Procrustean Regression Networks: Learning 3D Structure of Non-Rigid Objects from 2D Annotations [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6446_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10961)]
 
-- Info3D: Representation Learning on 3D Objects using Mutual Information Maximization and Contrastive Learning  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6884_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.02598)]
+- Info3D: Representation Learning on 3D Objects using Mutual Information Maximization and Contrastive Learning [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6884_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.02598)]
 
 
 ## ICML-2020

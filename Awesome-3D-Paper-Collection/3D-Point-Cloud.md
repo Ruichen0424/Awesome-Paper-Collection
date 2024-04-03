@@ -57,11 +57,11 @@
 ## ICLR-2024
 
 
-- 3D Feature Prediction for Masked-AutoEncoder-Based Point Cloud Pretraining [[paper](https://iclr.cc/virtual/2024/poster/18849)] [[arxiv](https://arxiv.org/abs/2304.06911)] [[paper with code](https://paperswithcode.com/paper/3d-feature-prediction-for-masked-autoencoder)]
+- 3D Feature Prediction for Masked-AutoEncoder-Based Point Cloud Pretraining [[paper](https://iclr.cc/virtual/2024/poster/18849)] [[arxiv](https://arxiv.org/abs/2304.06911)] [[paper with code](https://paperswithcode.com/paper/3d-feature-prediction-for-masked-autoencoder)] [[openreview](https://openreview.net/forum?id=LokR2TTFMs)]
 
-- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)]
+- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)] [[openreview](https://openreview.net/forum?id=0d1gQI114C)]
 
-- Towards Category Unification of 3D Single Object Tracking on Point Clouds [[paper](https://iclr.cc/virtual/2024/poster/18670)] [[arxiv](https://arxiv.org/abs/2401.11204)] [[paper with code](https://paperswithcode.com/paper/towards-category-unification-of-3d-single)]
+- Towards Category Unification of 3D Single Object Tracking on Point Clouds [[paper](https://iclr.cc/virtual/2024/poster/18670)] [[arxiv](https://arxiv.org/abs/2401.11204)] [[paper with code](https://paperswithcode.com/paper/towards-category-unification-of-3d-single)] [[openreview](https://openreview.net/forum?id=QlqdXrzzD1)]
 
 
 ## AAAI-2024
@@ -99,17 +99,17 @@
 ## NeurIPS-2023
 
 
-- ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4b4f1272c73d5afd222b6dd3391c3f77-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.11112)] [[paper with code](https://paperswithcode.com/paper/condaformer-disassembled-transformer-with-1)] [[code](https://github.com/lhduan/condaformer)] [[openview](https://openreview.net/forum?id=kKXJkiniOx)]
+- ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4b4f1272c73d5afd222b6dd3391c3f77-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.11112)] [[paper with code](https://paperswithcode.com/paper/condaformer-disassembled-transformer-with-1)] [[code](https://github.com/lhduan/condaformer)] [[openreview](https://openreview.net/forum?id=kKXJkiniOx)]
 
-- Explore In-Context Learning for 3D Point Cloud Understanding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.08659)] [[paper with code](https://paperswithcode.com/paper/explore-in-context-learning-for-3d-point-1)] [[code](https://github.com/fanglaosi/point-in-context)] [[openview](https://openreview.net/forum?id=ooXpTZYwXa)]
+- Explore In-Context Learning for 3D Point Cloud Understanding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8407d254b5baacf69ee977aa34f0e521-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.08659)] [[paper with code](https://paperswithcode.com/paper/explore-in-context-learning-for-3d-point-1)] [[code](https://github.com/fanglaosi/point-in-context)] [[openreview](https://openreview.net/forum?id=ooXpTZYwXa)]
 
-- HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a64e641fa00a7eb9500cb7e1835d0495-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.20234)] [[paper with code](https://paperswithcode.com/paper/hednet-a-hierarchical-encoder-decoder-network-1)] [[code](https://github.com/zhanggang001/hednet)] [[openview](https://openreview.net/forum?id=MUwr2YVJfN)]
+- HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a64e641fa00a7eb9500cb7e1835d0495-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.20234)] [[paper with code](https://paperswithcode.com/paper/hednet-a-hierarchical-encoder-decoder-network-1)] [[code](https://github.com/zhanggang001/hednet)] [[openreview](https://openreview.net/forum?id=MUwr2YVJfN)]
 
-- Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/611b896d447df43c898062358df4c114-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2309.13226)] [[paper with code](https://paperswithcode.com/paper/real3d-ad-a-dataset-of-point-cloud-anomaly-1)] [[code](https://github.com/m-3lab/real3d-ad)] [[openview](https://openreview.net/forum?id=zGthDp4yYe)]
+- Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/611b896d447df43c898062358df4c114-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2309.13226)] [[paper with code](https://paperswithcode.com/paper/real3d-ad-a-dataset-of-point-cloud-anomaly-1)] [[code](https://github.com/m-3lab/real3d-ad)] [[openreview](https://openreview.net/forum?id=zGthDp4yYe)]
 
-- Lung250M-4B: A Combined 3D Dataset for CT- and Point Cloud-Based Intra-Patient Lung Registration [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/abf37695a4562ac4c05194d717d47eec-Abstract-Datasets_and_Benchmarks.html)]
+- Lung250M-4B: A Combined 3D Dataset for CT- and Point Cloud-Based Intra-Patient Lung Registration [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/abf37695a4562ac4c05194d717d47eec-Abstract-Datasets_and_Benchmarks.html)] [[openreview](https://openreview.net/forum?id=FC0dsvguFi)]
 
-- CityRefer: Geography-aware 3D Visual Grounding Dataset on  City-scale Point Cloud Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4cef76305dcad4efd3537da087ff520-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2310.18773)]
+- CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4cef76305dcad4efd3537da087ff520-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2310.18773)] [[openreview](https://openreview.net/forum?id=fr3OT4rosO)]
 
 
 ## CVPR-2023
@@ -175,9 +175,9 @@
 ## ICLR-2023
 
 
-- CircNet: Meshing 3D Point Clouds with Circumcenter Detection [[paper](https://iclr.cc/virtual/2023/poster/11676)] [[arxiv](https://arxiv.org/abs/2301.09253)] [[paper with code](https://paperswithcode.com/paper/circnet-meshing-3d-point-clouds-with)] [[code](https://github.com/EnyaHermite/CircNet)]
+- CircNet: Meshing 3D Point Clouds with Circumcenter Detection [[paper](https://iclr.cc/virtual/2023/poster/11676)] [[arxiv](https://arxiv.org/abs/2301.09253)] [[paper with code](https://paperswithcode.com/paper/circnet-meshing-3d-point-clouds-with)] [[code](https://github.com/EnyaHermite/CircNet)] [[openreview](https://openreview.net/forum?id=zQWqV2tzDv)]
 
-- Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding [[paper](https://iclr.cc/virtual/2023/poster/11854)] [[arxiv](https://arxiv.org/abs/2111.15363)] [[paper with code](https://paperswithcode.com/paper/voint-cloud-multi-view-point-cloud)] [[code](https://github.com/ajhamdi/vointcloud)]
+- Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding [[paper](https://iclr.cc/virtual/2023/poster/11854)] [[arxiv](https://arxiv.org/abs/2111.15363)] [[paper with code](https://paperswithcode.com/paper/voint-cloud-multi-view-point-cloud)] [[code](https://github.com/ajhamdi/vointcloud)] [[openreview](https://openreview.net/forum?id=IpGgfpMucHj)]
 
 
 ## ICCV-2023
@@ -281,21 +281,21 @@
 ## NeurIPS-2022
 
 
-- HSurf-Net: Normal Estimation for 3D Point Clouds by Learning Hyper Surfaces [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1b115b1feab2198dd0881c57b869ddb7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07158)] [[paper with code](https://paperswithcode.com/paper/hsurf-net-normal-estimation-for-3d-point)] [[code](https://github.com/leoqli/hsurf-net)]
+- HSurf-Net: Normal Estimation for 3D Point Clouds by Learning Hyper Surfaces [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1b115b1feab2198dd0881c57b869ddb7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07158)] [[paper with code](https://paperswithcode.com/paper/hsurf-net-normal-estimation-for-3d-point)] [[code](https://github.com/leoqli/hsurf-net)] [[openreview](https://openreview.net/forum?id=_yEcbgIT68e)]
 
-- Geodesic Self-Attention for 3D Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/28e4ee96c94e31b2d040b4521d2b299e-Abstract-Conference.html)]
+- Geodesic Self-Attention for 3D Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/28e4ee96c94e31b2d040b4521d2b299e-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=2ndfW2bw4mi)]
 
-- MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4bad7c27534efca029ca0d366c47c0e3-Abstract-Conference.html)]
+- MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4bad7c27534efca029ca0d366c47c0e3-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=hOVEBHpHrMu)]
 
-- Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/59e73ff865b56cba6ab7f6b2cce1425d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.05593)] [[paper with code](https://paperswithcode.com/paper/prototypical-votenet-for-few-shot-3d-point)] [[code](https://github.com/cvmi-lab/fs3d)]
+- Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/59e73ff865b56cba6ab7f6b2cce1425d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.05593)] [[paper with code](https://paperswithcode.com/paper/prototypical-votenet-for-few-shot-3d-point)] [[code](https://github.com/cvmi-lab/fs3d)] [[openreview](https://openreview.net/forum?id=kCTZt0b9DQz)]
 
-- Learning Generalizable Part-based Feature Representation for 3D Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bc943cd038a5531d5433b1431c822c01-Abstract-Conference.html)]
+- Learning Generalizable Part-based Feature Representation for 3D Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bc943cd038a5531d5433b1431c822c01-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=V03mpOjCwtg)]
 
-- CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c1aaf7c3f306fe94f77236dc0756d771-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04264)] [[paper with code](https://paperswithcode.com/paper/cagroup3d-class-aware-grouping-for-3d-object)] [[code](https://github.com/haiyang-w/cagroup3d)]
+- CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c1aaf7c3f306fe94f77236dc0756d771-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04264)] [[paper with code](https://paperswithcode.com/paper/cagroup3d-class-aware-grouping-for-3d-object)] [[code](https://github.com/haiyang-w/cagroup3d)] [[openreview](https://openreview.net/forum?id=nLKkHwYP4Au)]
 
-- OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c6e3856954d23bec921f2d13d8c0e0e7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04458)] [[paper with code](https://paperswithcode.com/paper/ogc-unsupervised-3d-object-segmentation-from)] [[code](https://github.com/vlar-group/ogc)]
+- OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c6e3856954d23bec921f2d13d8c0e0e7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04458)] [[paper with code](https://paperswithcode.com/paper/ogc-unsupervised-3d-object-segmentation-from)] [[code](https://github.com/vlar-group/ogc)] [[openreview](https://openreview.net/forum?id=ecNbEOOtqBU)]
 
-- 3DOS: Towards 3D Open Set Learning - Benchmarking and Understanding Semantic Novelty Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/85b6841eaf79327b1777f9e64af3835d-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2207.11554)]
+- 3DOS: Towards 3D Open Set Learning - Benchmarking and Understanding Semantic Novelty Detection on Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/85b6841eaf79327b1777f9e64af3835d-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2207.11554)] [[openreview](https://openreview.net/forum?id=X2dHozbd1at)]
 
 
 ## CVPR-2022
@@ -347,17 +347,17 @@
 
 - Boosting 3D Object Detection by Simulating Multimodality on Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2206.14971)] [[paper with code](https://paperswithcode.com/paper/boosting-3d-object-detection-by-simulating-1)]
 
-- SoftGroup for 3D Instance Segmentation on Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Vu_SoftGroup_for_3D_Instance_Segmentation_on_Point_Clouds_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2209.08263)] [[paper with code](https://paperswithcode.com/paper/softgroup-for-3d-instance-segmentation-on)] [[code](https://github.com/thangvubk/softgroup)]
+- SoftGroup for 3D Instance Segmentation on Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Vu_SoftGroup_for_3D_Instance_Segmentation_on_Point_Clouds_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2203.01509)] [[paper with code](https://paperswithcode.com/paper/softgroup-for-3d-instance-segmentation-on)] [[code](https://github.com/thangvubk/softgroup)]
 
 - Bridged Transformer for Vision and Point Cloud 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2210.01391)] [[paper with code](https://paperswithcode.com/paper/bridged-transformer-for-vision-and-point-1)] [[code](https://github.com/2023-MindSpore-1/ms-code-179)]
 
-- Stratified Transformer for 3D Point Cloud Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2303.15654)] [[paper with code](https://paperswithcode.com/paper/stratified-transformer-for-3d-point-cloud)] [[code](https://github.com/dvlab-research/stratified-transformer)]
+- Stratified Transformer for 3D Point Cloud Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2203.14508)] [[paper with code](https://paperswithcode.com/paper/stratified-transformer-for-3d-point-cloud)] [[code](https://github.com/dvlab-research/stratified-transformer)]
 
 
 ## ICLR-2022
 
 
-- A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://iclr.cc/virtual/2022/poster/7026)] [[arxiv](https://arxiv.org/abs/2112.03530)] [[paper with code](https://paperswithcode.com/paper/a-conditional-point-diffusion-refinement-1)] [[code](https://github.com/zhaoyanglyu/point_diffusion_refinement)] [[openview](https://openreview.net/forum?id=wqD6TfbYkrn)]
+- A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://iclr.cc/virtual/2022/poster/7026)] [[arxiv](https://arxiv.org/abs/2112.03530)] [[paper with code](https://paperswithcode.com/paper/a-conditional-point-diffusion-refinement-1)] [[code](https://github.com/zhaoyanglyu/point_diffusion_refinement)] [[openreview](https://openreview.net/forum?id=wqD6TfbYkrn)]
 
 
 ## ECCV-2022
@@ -429,15 +429,15 @@
 ## NeurIPS-2021
 
 
-- Interpreting Representation Quality of DNNs for 3D Point Cloud Processing [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/4a3e00961a08879c34f91ca0070ea2f5-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.03549)] [[paper with code](https://paperswithcode.com/paper/interpreting-representation-quality-of-dnns)]
+- Interpreting Representation Quality of DNNs for 3D Point Cloud Processing [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/4a3e00961a08879c34f91ca0070ea2f5-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.03549)] [[paper with code](https://paperswithcode.com/paper/interpreting-representation-quality-of-dnns)] [[openreview](https://openreview.net/forum?id=QMG2bzvk5HV)]
 
-- Adversarially Robust 3D Point Cloud Recognition Using Self-Supervisions [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/82cadb0649a3af4968404c9f6031b233-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/adversarially-robust-3d-point-cloud)] [[openview](https://openreview.net/forum?id=6_sF7BuscXe)]
+- Adversarially Robust 3D Point Cloud Recognition Using Self-Supervisions [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/82cadb0649a3af4968404c9f6031b233-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/adversarially-robust-3d-point-cloud)] [[openreview](https://openreview.net/forum?id=6_sF7BuscXe)]
 
-- Knowledge-inspired 3D Scene Graph Prediction in Point Cloud [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9a555403384fc12f931656dea910e334-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/knowledge-inspired-3d-scene-graph-prediction)] [[openview](https://openreview.net/forum?id=OLyhLK2eQP)]
+- Knowledge-inspired 3D Scene Graph Prediction in Point Cloud [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9a555403384fc12f931656dea910e334-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/knowledge-inspired-3d-scene-graph-prediction)] [[openreview](https://openreview.net/forum?id=OLyhLK2eQP)]
 
-- Learning Transferable Features for Point Cloud Detection via 3D Contrastive Co-training [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b3b25a26a0828ea5d48d8f8aa0d6f9af-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/learning-transferable-features-for-point)] [[openview](https://openreview.net/forum?id=iH1_KBzbwQq)]
+- Learning Transferable Features for Point Cloud Detection via 3D Contrastive Co-training [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b3b25a26a0828ea5d48d8f8aa0d6f9af-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/learning-transferable-features-for-point)] [[openreview](https://openreview.net/forum?id=iH1_KBzbwQq)]
 
-- 3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f0fcf351df4eb6786e9bb6fc4e2dee02-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.04426)] [[paper with code](https://paperswithcode.com/paper/3d-siamese-voxel-to-bev-tracker-for-sparse)] [[code](https://github.com/fpthink/v2b)]
+- 3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f0fcf351df4eb6786e9bb6fc4e2dee02-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.04426)] [[paper with code](https://paperswithcode.com/paper/3d-siamese-voxel-to-bev-tracker-for-sparse)] [[code](https://github.com/fpthink/v2b)] [[openreview](https://openreview.net/forum?id=wEFC5PY0g_0)]
 
 
 ## CVPR-2021
@@ -455,7 +455,7 @@
 
 - Equivariant Point Network for 3D Point Cloud Analysis [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Equivariant_Point_Network_for_3D_Point_Cloud_Analysis_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2103.14147)] [[paper with code](https://paperswithcode.com/paper/equivariant-point-network-for-3d-point-cloud)] [[code](https://github.com/nintendops/EPN_PointCloud)]
 
-- Few-Shot 3D Point Cloud Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2403.00592)] [[paper with code](https://paperswithcode.com/paper/few-shot-3d-point-cloud-semantic-segmentation)] [[code](https://github.com/Na-Z/attMPTI)]
+- Few-Shot 3D Point Cloud Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2006.12052)] [[paper with code](https://paperswithcode.com/paper/few-shot-3d-point-cloud-semantic-segmentation)] [[code](https://github.com/Na-Z/attMPTI)]
 
 - Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-on-3d-point-clouds)]
 
@@ -475,7 +475,7 @@
 ## ICLR-2021
 
 
-- PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds [[paper](https://iclr.cc/virtual/2021/poster/3169)] [[arxiv](https://arxiv.org/abs/2103.02766)] [[paper with code](https://paperswithcode.com/paper/pc2wf-3d-wireframe-reconstruction-from-raw-1)] [[code](https://github.com/luo1cheng/lc2wf)] [[openview](https://openreview.net/forum?id=8X2eaSZxTP)]
+- PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds [[paper](https://iclr.cc/virtual/2021/poster/3169)] [[arxiv](https://arxiv.org/abs/2103.02766)] [[paper with code](https://paperswithcode.com/paper/pc2wf-3d-wireframe-reconstruction-from-raw-1)] [[code](https://github.com/luo1cheng/lc2wf)] [[openreview](https://openreview.net/forum?id=8X2eaSZxTP)]
 
 
 ## ICCV-2021
@@ -583,31 +583,31 @@
 ## ECCV-2020
 
 
-- Quaternion Equivariant Capsule Networks for 3D Point Clouds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/267_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.12098)]
+- Quaternion Equivariant Capsule Networks for 3D Point Clouds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/267_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.12098)]
 
-- PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/893_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10985)]
+- PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/893_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10985)]
 
-- Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1526_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2308.13866)]
+- Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1526_ECCV_2020_paper.php)]
 
-- PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/32_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.08624)]
+- PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/32_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.08624)]
 
-- ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/186_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.12181)]
+- ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/186_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.12181)]
 
-- AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1541_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.00461)]
+- AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1541_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.00461)]
 
-- Weakly Supervised 3D Object Detection from Lidar Point Cloud  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1956_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.11901)]
+- Weakly Supervised 3D Object Detection from Lidar Point Cloud [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1956_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.11901)]
 
-- An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2966_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.12392)]
+- An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2966_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.12392)]
 
-- Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3039_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.01349)]
+- Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3039_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.01349)]
 
-- PUGeo-Net: A Geometry-centric Network for 3D Point Cloud Upsampling  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3338_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2002.10277)]
+- PUGeo-Net: A Geometry-centric Network for 3D Point Cloud Upsampling [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3338_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2002.10277)]
 
-- JSENet: Joint Semantic Segmentation and Edge Detection Network for 3D Point Clouds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3411_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.06888)]
+- JSENet: Joint Semantic Segmentation and Edge Detection Network for 3D Point Clouds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3411_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.06888)]
 
-- Deep Novel View Synthesis from Colored 3D Point Clouds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4474_ECCV_2020_paper.php)]
+- Deep Novel View Synthesis from Colored 3D Point Clouds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4474_ECCV_2020_paper.php)]
 
-- Efficient Outdoor 3D Point Cloud Semantic Segmentation for Critical Road Objects and Distributed Contexts  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5831_ECCV_2020_paper.php)]
+- Efficient Outdoor 3D Point Cloud Semantic Segmentation for Critical Road Objects and Distributed Contexts [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5831_ECCV_2020_paper.php)]
 
 
 ## IJCAI-2020
@@ -655,7 +655,7 @@
 
 - JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds With Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Pham_JSIS3D_Joint_Semantic-Instance_Segmentation_of_3D_Point_Clouds_With_Multi-Task_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.00699)] [[paper with code](https://paperswithcode.com/paper/jsis3d-joint-semantic-instance-segmentation)] [[code](https://github.com/pqhieu/JSIS3D)]
 
-- Generating 3D Adversarial Point Clouds [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Xiang_Generating_3D_Adversarial_Point_Clouds_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2403.05247)] [[paper with code](https://paperswithcode.com/paper/generating-3d-adversarial-point-clouds)] [[code](https://github.com/xiangchong1/3d-adv-pc)]
+- Generating 3D Adversarial Point Clouds [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Xiang_Generating_3D_Adversarial_Point_Clouds_CVPR_2019_paper.html)] [[paper with code](https://paperswithcode.com/paper/generating-3d-adversarial-point-clouds)] [[code](https://github.com/xiangchong1/3d-adv-pc)]
 
 - PointConv: Deep Convolutional Networks on 3D Point Clouds [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1811.07246)] [[paper with code](https://paperswithcode.com/paper/pointconv-deep-convolutional-networks-on-3d)] [[code](https://github.com/DylanWusee/pointconv)]
 
@@ -669,7 +669,7 @@
 ## ICLR-2019
 
 
-- Learning Localized Generative Models for 3D Point Clouds via Graph Convolution [[paper](https://openreview.net/forum?id=SJeXSo09FQ)] [[paper with code](https://paperswithcode.com/paper/learning-localized-generative-models-for-3d)] [[code](https://github.com/diegovalsesia/GraphCNN-GAN)] [[openview](https://openreview.net/forum?id=SJeXSo09FQ)]
+- Learning Localized Generative Models for 3D Point Clouds via Graph Convolution [[paper](https://openreview.net/forum?id=SJeXSo09FQ)] [[paper with code](https://paperswithcode.com/paper/learning-localized-generative-models-for-3d)] [[code](https://github.com/diegovalsesia/GraphCNN-GAN)] [[openreview](https://openreview.net/forum?id=SJeXSo09FQ)]
 
 
 ## ICCV-2019
