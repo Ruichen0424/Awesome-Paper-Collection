@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -25,6 +26,12 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Boosting Vanilla Lightweight Vision Transformers via Re-parameterization [[paper](https://iclr.cc/virtual/2024/poster/19492)]
 
 
 ## AAAI-2024

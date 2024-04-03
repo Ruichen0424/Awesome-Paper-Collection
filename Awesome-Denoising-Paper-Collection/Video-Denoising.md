@@ -1,6 +1,7 @@
 # Awesome Video Denoising Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -27,6 +28,12 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Boundary Denoising for Video Activity Localization [[paper](https://iclr.cc/virtual/2024/poster/18335)] [[arxiv](https://arxiv.org/abs/2304.02934)]
 
 
 ## AAAI-2024

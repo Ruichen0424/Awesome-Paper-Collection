@@ -2,11 +2,13 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [ACL](#acl-2023)
@@ -25,6 +27,12 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Transformer-VQ: Linear-Time Transformers via Vector Quantization [[paper](https://iclr.cc/virtual/2024/poster/17829)] [[arxiv](https://arxiv.org/abs/2309.16354)] [[paper with code](https://paperswithcode.com/paper/transformer-vq-linear-time-transformers-via)] [[code](https://github.com/transformer-vq/transformer_vq)]
 
 
 ## AAAI-2024
@@ -57,6 +65,12 @@
 - NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_NoisyQuant_Noisy_Bias-Enhanced_Post-Training_Activation_Quantization_for_Vision_Transformers_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.16056)] [[paper with code](https://paperswithcode.com/paper/noisyquant-noisy-bias-enhanced-post-training)]
 
 - Q-DETR: An Efficient Low-Bit Quantized Detection Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.00253)] [[paper with code](https://paperswithcode.com/paper/q-detr-an-efficient-low-bit-quantized)] [[code](https://github.com/stevetsui/q-detr)]
+
+
+## ICLR-2023
+
+
+- OPTQ: Accurate Quantization for Generative Pre-trained Transformers [[paper](https://iclr.cc/virtual/2023/poster/10855)]
 
 
 ## ICCV-2023

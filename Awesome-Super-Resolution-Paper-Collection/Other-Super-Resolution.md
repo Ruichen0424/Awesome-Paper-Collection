@@ -1,11 +1,13 @@
 # Awesome Other-Super-Resolution Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [IJCAI](#ijcai-2023)
@@ -30,6 +32,7 @@
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
 
 - [2018](#2018)
@@ -41,6 +44,12 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/19182)] [[arxiv](https://arxiv.org/abs/2309.03020)] [[paper with code](https://paperswithcode.com/paper/seal-a-framework-for-systematic-evaluation-of)] [[code](https://github.com/xpixelgroup/seal)]
 
 
 ## AAAI-2024
@@ -87,6 +96,16 @@
 - Toward Stable, Interpretable, and Lightweight Hyperspectral Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_Toward_Stable_Interpretable_and_Lightweight_Hyperspectral_Super-Resolution_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/toward-stable-interpretable-and-lightweight)] [[code](https://github.com/wenjinguo/daem)]
 
 - Zero-Shot Dual-Lens Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Zero-Shot_Dual-Lens_Super-Resolution_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/zero-shot-dual-lens-super-resolution)] [[code](https://github.com/xrkang/zedusr)]
+
+
+## ICLR-2023
+
+
+- Forward Super-Resolution: How Can GANs Learn Hierarchical Generative Models for Real-World Distributions [[paper](https://iclr.cc/virtual/2023/poster/10861)] [[arxiv](https://arxiv.org/abs/2106.02619)] [[paper with code](https://paperswithcode.com/paper/forward-super-resolution-how-can-gans-learn)]
+
+- Knowledge Distillation based Degradation Estimation for Blind Super-Resolution [[paper](https://iclr.cc/virtual/2023/poster/12136)] [[arxiv](https://arxiv.org/abs/2211.16928)] [[paper with code](https://paperswithcode.com/paper/knowledge-distillation-based-degradation)] [[code](https://github.com/zj-binxia/kdsr)]
+
+- DySR: Adaptive Super-Resolution via Algorithm and System Co-design [[paper](https://iclr.cc/virtual/2023/poster/10992)]
 
 
 ## ICCV-2023
@@ -335,6 +354,12 @@
 - Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1903.12529)] [[paper with code](https://paperswithcode.com/paper/deep-plug-and-play-super-resolution-for)] [[code](https://github.com/cszn/DPSR)]
 
 - 3D Appearance Super-Resolution With Deep Learning [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_3D_Appearance_Super-Resolution_With_Deep_Learning_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1906.00925)] [[paper with code](https://paperswithcode.com/paper/190600925)] [[code](https://github.com/ofsoundof/3D_Appearance_SR)]
+
+
+## ICLR-2019
+
+
+- Label super-resolution networks [[paper](https://openreview.net/forum?id=rkxwShA9Ym)] [[arxiv](https://arxiv.org/abs/2011.02364)]
 
 
 ## ICCV-2019

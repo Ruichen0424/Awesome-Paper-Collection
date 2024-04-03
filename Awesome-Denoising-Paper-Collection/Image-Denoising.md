@@ -1,11 +1,13 @@
 # Awesome Image Denoising Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [IJCAI](#ijcai-2023)
@@ -21,6 +23,7 @@
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
@@ -28,6 +31,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [IJCAI](#ijcai-2020)
   - [AAAI](#aaai-2020)
@@ -46,6 +50,20 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process [[paper](https://iclr.cc/virtual/2024/poster/18299)] [[arxiv](https://arxiv.org/abs/2306.05423)] [[paper with code](https://paperswithcode.com/paper/addp-learning-general-representations-for)]
+
+- Xformer: Hybrid X-Shaped Transformer for Image Denoising [[paper](https://iclr.cc/virtual/2024/poster/17532)] [[arxiv](https://arxiv.org/abs/2303.06440)] [[paper with code](https://paperswithcode.com/paper/xformer-hybrid-x-shaped-transformer-for-image)] [[code](https://github.com/gladzhang/xformer)]
+
+- Denoising Diffusion via Image-Based Rendering [[paper](https://iclr.cc/virtual/2024/poster/19594)] [[arxiv](https://arxiv.org/abs/2402.03445)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-via-image-based-rendering)]
+
+- Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[paper](https://iclr.cc/virtual/2024/poster/18564)] [[arxiv](https://arxiv.org/abs/2308.01316)] [[paper with code](https://paperswithcode.com/paper/patched-denoising-diffusion-models-for-high)] [[code](https://github.com/mlpc-ucsd/patch-dm)]
+
+- Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration [[paper](https://iclr.cc/virtual/2024/poster/21756)] [[arxiv](https://arxiv.org/abs/2303.11435)] [[paper with code](https://paperswithcode.com/paper/inversion-by-direct-iteration-an-alternative)] [[code](https://github.com/Nikolai10/Diffusion-TF)]
 
 
 ## AAAI-2024
@@ -92,6 +110,14 @@
 - Patch-Craft Self-Supervised Training for Correlated Image Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Vaksman_Patch-Craft_Self-Supervised_Training_for_Correlated_Image_Denoising_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.09919)] [[paper with code](https://paperswithcode.com/paper/patch-craft-self-supervised-training-for)] [[code](https://github.com/grishavak/pcst)]
 
 - Polarized Color Image Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Polarized_Color_Image_Denoising_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2207.00215)] [[paper with code](https://paperswithcode.com/paper/polarized-color-image-denoising)]
+
+
+## ICLR-2023
+
+
+- Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model [[paper](https://iclr.cc/virtual/2023/poster/12016)] [[arxiv](https://arxiv.org/abs/2212.00490)] [[paper with code](https://paperswithcode.com/paper/zero-shot-image-restoration-using-denoising)] [[code](https://github.com/wyhuai/ddnm)]
+
+- Masked Image Modeling with Denoising Contrast [[paper](https://iclr.cc/virtual/2023/poster/11879)] [[arxiv](https://arxiv.org/abs/2205.09616)] [[paper with code](https://paperswithcode.com/paper/masked-image-modeling-with-denoising-contrast)] [[code](https://github.com/tencentarc/conmim)]
 
 
 ## ICCV-2023
@@ -224,6 +250,14 @@
 - Pseudo 3D Auto-Correlation Network for Real Image Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Pseudo_3D_Auto-Correlation_Network_for_Real_Image_Denoising_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/pseudo-3d-auto-correlation-network-for-real)]
 
 
+## ICLR-2021
+
+
+- An Unsupervised Deep Learning Approach for Real-World Image Denoising [[paper](https://iclr.cc/virtual/2021/poster/2927)] [[paper with code](https://paperswithcode.com/paper/an-unsupervised-deep-learning-approach-for-1)] [[code](https://github.com/zhengdharia/Unsupervised_denoising)] [[openreview](https://openreview.net/forum?id=tIjRAiFmU3y)]
+
+- GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images [[paper](https://iclr.cc/virtual/2021/poster/3355)] [[arxiv](https://arxiv.org/abs/1905.10488)] [[paper with code](https://paperswithcode.com/paper/gan2gan-generative-noise-learning-for-blind)] [[code](https://github.com/csm9493/GAN2GAN)] [[openreview](https://openreview.net/forum?id=SHvF5xaueVn)]
+
+
 ## ICCV-2021
 
 
@@ -266,6 +300,12 @@
 - Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Quan_Self2Self_With_Dropout_Learning_Self-Supervised_Denoising_From_Single_Image_CVPR_2020_paper.html)] [[paper with code](https://paperswithcode.com/paper/self2self-with-dropout-learning-self)] [[code](https://github.com/scut-mingqinchen/self2self)]
 
 - Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Memory-Efficient_Hierarchical_Neural_Architecture_Search_for_Image_Denoising_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1909.08228)] [[paper with code](https://paperswithcode.com/paper/ir-nas-neural-architecture-search-for-image)] [[code](https://github.com/hkzhang91/hinas)]
+
+
+## ICLR-2020
+
+
+- Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks [[paper](https://iclr.cc/virtual/2020/poster/1438)] [[arxiv](https://arxiv.org/abs/1906.05478)] [[paper with code](https://paperswithcode.com/paper/robust-and-interpretable-blind-image)] [[code](https://github.com/LabForComputationalVision/bias_free_denoising)] [[openreview](https://openreview.net/forum?id=HJlSmC4FPS)]
 
 
 ## ECCV-2020

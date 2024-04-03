@@ -2,11 +2,13 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [ACL](#acl-2023)
@@ -16,6 +18,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [IJCAI](#ijcai-2022)
@@ -23,6 +26,7 @@
 
 - [2021](#2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ACL](#acl-2021)
   - [AAAI](#aaai-2021)
@@ -35,6 +39,7 @@
 
 - [2019](#2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
   - [ACL](#acl-2019)
   - [AAAI](#aaai-2019)
@@ -49,6 +54,14 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Lightweight Language Model Calibration for Open-ended Question Answering with Varied Answer Lengths [[paper](https://iclr.cc/virtual/2024/poster/18033)]
+
+- A Lightweight Method for Tackling Unknown Participation Statistics in Federated Averaging [[paper](https://iclr.cc/virtual/2024/poster/18403)] [[arxiv](https://arxiv.org/abs/2306.03401)] [[paper with code](https://paperswithcode.com/paper/a-lightweight-method-for-tackling-unknown)]
 
 
 ## AAAI-2024
@@ -95,6 +108,14 @@
 - Learning Geometric-Aware Properties in 2D Representation Using Lightweight CAD Models, or Zero Real 3D Pairs [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Arsomngern_Learning_Geometric-Aware_Properties_in_2D_Representation_Using_Lightweight_CAD_Models_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/learning-geometric-aware-properties-in-2d)]
 
 - FeatureBooster: Boosting Feature Descriptors With a Lightweight Neural Network [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_FeatureBooster_Boosting_Feature_Descriptors_With_a_Lightweight_Neural_Network_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.15069)] [[paper with code](https://paperswithcode.com/paper/featurebooster-boosting-feature-descriptors)] [[code](https://github.com/sjtu-visys/featurebooster)]
+
+
+## ICLR-2023
+
+
+- Towards Lightweight, Model-Agnostic and Diversity-Aware Active Anomaly Detection [[paper](https://iclr.cc/virtual/2023/poster/11672)]
+
+- LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification [[paper](https://iclr.cc/virtual/2023/poster/11516)] [[arxiv](https://arxiv.org/abs/2204.02965)] [[paper with code](https://paperswithcode.com/paper/lilnetx-lightweight-networks-with-extreme)] [[code](https://github.com/sharath-girish/lilnetx)]
 
 
 ## ICCV-2023
@@ -167,6 +188,12 @@
 - PokeBNN: A Binary Pursuit of Lightweight Accuracy [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_PokeBNN_A_Binary_Pursuit_of_Lightweight_Accuracy_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2112.00133)] [[paper with code](https://paperswithcode.com/paper/pokebnn-a-binary-pursuit-of-lightweight)] [[code](https://github.com/google/aqt)]
 
 
+## ICLR-2022
+
+
+- Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable [[paper](https://iclr.cc/virtual/2022/poster/6428)] [[paper with code](https://paperswithcode.com/paper/audio-lottery-speech-recognition-made-ultra)] [[openreview](https://openreview.net/forum?id=9Nk6AJkVYB)]
+
+
 ## ECCV-2022
 
 
@@ -221,6 +248,12 @@
 - Lite-HRNet: A Lightweight High-Resolution Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2104.06403)] [[paper with code](https://paperswithcode.com/paper/lite-hrnet-a-lightweight-high-resolution)] [[code](https://github.com/HRNet/Lite-HRNet)]
 
 - MaxUp: Lightweight Adversarial Training With Data Augmentation Improves Neural Network Training [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Gong_MaxUp_Lightweight_Adversarial_Training_With_Data_Augmentation_Improves_Neural_Network_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/maxup-lightweight-adversarial-training-with)]
+
+
+## ICLR-2021
+
+
+- Zero-Cost Proxies for Lightweight NAS [[paper](https://iclr.cc/virtual/2021/poster/2861)] [[arxiv](https://arxiv.org/abs/2101.08134)] [[paper with code](https://paperswithcode.com/paper/zero-cost-proxies-for-lightweight-nas-1)] [[code](https://github.com/mohsaied/zero-cost-nas)] [[openreview](https://openreview.net/forum?id=0cmMMy8J5q)]
 
 
 ## ICCV-2021
@@ -299,6 +332,12 @@
 
 
 - Led3D: A Lightweight and Efficient Deep Approach to Recognizing Low-Quality 3D Faces [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Mu_Led3D_A_Lightweight_and_Efficient_Deep_Approach_to_Recognizing_Low-Quality_CVPR_2019_paper.html)] [[paper with code](https://paperswithcode.com/paper/led3d-a-lightweight-and-efficient-deep)]
+
+
+## ICLR-2019
+
+
+- Pay Less Attention with Lightweight and Dynamic Convolutions [[paper](https://openreview.net/forum?id=SkVhlh09tX)] [[arxiv](https://arxiv.org/abs/1901.10430)] [[paper with code](https://paperswithcode.com/paper/pay-less-attention-with-lightweight-and)] [[code](https://github.com/pytorch/fairseq)] [[openreview](https://openreview.net/forum?id=SkVhlh09tX)]
 
 
 ## ICCV-2019

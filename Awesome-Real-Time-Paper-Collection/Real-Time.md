@@ -3,11 +3,13 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [IJCAI](#ijcai-2023)
@@ -16,6 +18,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [IJCAI](#ijcai-2022)
   - [AAAI](#aaai-2022)
@@ -31,6 +34,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
   - [ACL](#acl-2020)
@@ -48,6 +52,7 @@
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
   - [CVPR](#cvpr-2018)
+  - [ICLR](#iclr-2018)
   - [ECCV](#eccv-2018)
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
@@ -55,6 +60,18 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Brain decoding: toward real-time reconstruction of visual perception [[paper](https://iclr.cc/virtual/2024/poster/19487)] [[arxiv](https://arxiv.org/abs/2310.19812)] [[paper with code](https://paperswithcode.com/paper/brain-decoding-toward-real-time)]
+
+- Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [[paper](https://iclr.cc/virtual/2024/poster/18466)] [[arxiv](https://arxiv.org/abs/2310.10642)] [[paper with code](https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene)] [[code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
+
+- Exploring the Promise and Limits of Real-Time Recurrent Learning [[paper](https://iclr.cc/virtual/2024/poster/18510)] [[arxiv](https://arxiv.org/abs/2305.19044)] [[paper with code](https://paperswithcode.com/paper/exploring-the-promise-and-limits-of-real-time)] [[code](https://github.com/idsia/rtrl-elstm)]
+
+- Scalable Real-Time Recurrent Learning Using Columnar-Constructive Networks [[paper](https://iclr.cc/virtual/2024/poster/20658)] [[arxiv](https://arxiv.org/abs/2302.05326)] [[paper with code](https://paperswithcode.com/paper/online-real-time-recurrent-learning-using)] [[code](https://github.com/khurramjaved96/atari-prediction-benchmark)]
 
 
 ## AAAI-2024
@@ -143,6 +160,20 @@
 - Propagate and Calibrate: Real-Time Passive Non-Line-of-Sight Tracking [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Propagate_and_Calibrate_Real-Time_Passive_Non-Line-of-Sight_Tracking_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.11791)] [[paper with code](https://paperswithcode.com/paper/propagate-and-calibrate-real-time-passive-non)]
 
 - UV Volumes for Real-Time Rendering of Editable Free-View Human Performance [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_UV_Volumes_for_Real-Time_Rendering_of_Editable_Free-View_Human_Performance_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2203.14402)] [[paper with code](https://paperswithcode.com/paper/uv-volumes-for-real-time-rendering-of)] [[code](https://github.com/fanegg/UV-Volumes)]
+
+
+## ICLR-2023
+
+
+- EVC: Towards Real-Time Neural Image Compression with Mask Decay [[paper](https://iclr.cc/virtual/2023/poster/12015)] [[arxiv](https://arxiv.org/abs/2302.05071)] [[paper with code](https://paperswithcode.com/paper/evc-towards-real-time-neural-image)] [[code](https://github.com/microsoft/dcvc)]
+
+- Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time [[paper](https://iclr.cc/virtual/2023/poster/11865)]
+
+- CoRTX: Contrastive Framework for Real-time Explanation [[paper](https://iclr.cc/virtual/2023/poster/12109)] [[arxiv](https://arxiv.org/abs/2303.02794)] [[paper with code](https://paperswithcode.com/paper/cortx-contrastive-framework-for-real-time)] [[code](https://github.com/ynchuang/cortx-720)]
+
+- Real-time variational method for learning neural trajectory and its dynamics [[paper](https://iclr.cc/virtual/2023/poster/10849)] [[arxiv](https://arxiv.org/abs/2305.11278)] [[paper with code](https://paperswithcode.com/paper/real-time-variational-method-for-learning)]
+
+- Real-Time Image Demoir$\acute{e}$ing on Mobile Devices [[paper](https://iclr.cc/virtual/2023/poster/12202)]
 
 
 ## ICCV-2023
@@ -257,6 +288,16 @@
 - Real-Time Hyperspectral Imaging in Hardware via Trained Metasurface Encoders [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Makarenko_Real-Time_Hyperspectral_Imaging_in_Hardware_via_Trained_Metasurface_Encoders_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2204.02084)] [[paper with code](https://paperswithcode.com/paper/real-time-hyperspectral-imaging-in-hardware)] [[code](https://github.com/makamoa/hyplex)]
 
 - Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-Time [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Fourier_PlenOctrees_for_Dynamic_Radiance_Field_Rendering_in_Real-Time_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2202.08614)] [[paper with code](https://paperswithcode.com/paper/fourier-plenoctrees-for-dynamic-radiance)]
+
+
+## ICLR-2022
+
+
+- Real-Time Neural Voice Camouflage [[paper](https://iclr.cc/virtual/2022/poster/6986)] [[arxiv](https://arxiv.org/abs/2112.07076)] [[paper with code](https://paperswithcode.com/paper/real-time-neural-voice-camouflage-1)] [[openreview](https://openreview.net/forum?id=qj1IZ-6TInc)]
+
+- FastSHAP: Real-Time Shapley Value Estimation [[paper](https://iclr.cc/virtual/2022/poster/6282)] [[arxiv](https://arxiv.org/abs/2107.07436)] [[paper with code](https://paperswithcode.com/paper/fastshap-real-time-shapley-value-estimation)] [[code](https://github.com/iancovert/fastshap)] [[openreview](https://openreview.net/forum?id=Zq2G_VTV53T)]
+
+- Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future [[paper](https://iclr.cc/virtual/2022/poster/6343)] [[arxiv](https://arxiv.org/abs/2106.04420)] [[paper with code](https://paperswithcode.com/paper/back2future-leveraging-backfill-dynamics-for)] [[code](https://github.com/AdityaLab/Back2Future)] [[openreview](https://openreview.net/forum?id=L01Nn_VJ9i)]
 
 
 ## ECCV-2022
@@ -491,6 +532,14 @@
 - CenterMask: Real-Time Anchor-Free Instance Segmentation [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_CenterMask_Real-Time_Anchor-Free_Instance_Segmentation_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1911.06667)] [[paper with code](https://paperswithcode.com/paper/centermask-real-time-anchor-free-instance-3)] [[code](https://github.com/youngwanLEE/CenterMask)]
 
 
+## ICLR-2020
+
+
+- FasterSeg: Searching for Faster Real-time Semantic Segmentation [[paper](https://iclr.cc/virtual/2020/poster/1544)] [[arxiv](https://arxiv.org/abs/1912.10917)] [[paper with code](https://paperswithcode.com/paper/fasterseg-searching-for-faster-real-time-1)] [[code](https://github.com/TAMU-VITA/FasterSeg)] [[openreview](https://openreview.net/forum?id=BJgqQ6NYvB)]
+
+- Adjustable Real-time Style Transfer [[paper](https://iclr.cc/virtual/2020/poster/1633)] [[arxiv](https://arxiv.org/abs/1811.08560)] [[paper with code](https://paperswithcode.com/paper/adjustable-real-time-style-transfer)] [[code](https://github.com/gnhdnb/adjustable-real-time-style-transfer)] [[openreview](https://openreview.net/forum?id=HJe_Z04Yvr)]
+
+
 ## ECCV-2020
 
 
@@ -703,6 +752,12 @@
 - DoubleFusion: Real-Time Capture of Human Performances With Inner Body Shapes From a Single Depth Sensor [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Yu_DoubleFusion_Real-Time_Capture_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1804.06023)] [[paper with code](https://paperswithcode.com/paper/doublefusion-real-time-capture-of-human)]
 
 - PIXOR: Real-Time 3D Object Detection From Point Clouds [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1902.06326)] [[paper with code](https://paperswithcode.com/paper/pixor-real-time-3d-object-detection-from)] [[code](https://github.com/DerrickXuNu/OpenCOOD)]
+
+
+## ICLR-2018
+
+
+- Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples [[paper](https://openreview.net/forum?id=rywDjg-RW)] [[arxiv](https://arxiv.org/abs/1804.01186)] [[paper with code](https://paperswithcode.com/paper/neural-guided-deductive-search-for-real-time)] [[openreview](https://openreview.net/forum?id=rywDjg-RW)]
 
 
 ## ECCV-2018

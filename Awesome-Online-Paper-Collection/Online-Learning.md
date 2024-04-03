@@ -3,11 +3,13 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [ACL](#acl-2023)
@@ -17,6 +19,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [ACL](#acl-2022)
@@ -26,6 +29,7 @@
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
   - [ACL](#acl-2021)
@@ -35,6 +39,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
   - [ACL](#acl-2020)
@@ -43,6 +48,7 @@
 
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
   - [IJCAI](#ijcai-2019)
@@ -51,6 +57,7 @@
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
   - [CVPR](#cvpr-2018)
+  - [ICLR](#iclr-2018)
   - [ECCV](#eccv-2018)
   - [ICML](#icml-2018)
   - [IJCAI](#ijcai-2018)
@@ -59,6 +66,28 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Harnessing Density Ratios for Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2024/poster/18580)] [[arxiv](https://arxiv.org/abs/2401.09681)] [[paper with code](https://paperswithcode.com/paper/harnessing-density-ratios-for-online)]
+
+- Pessimistic Nonlinear Least-Squares Value Iteration for Offline Reinforcement Learning [[paper](https://iclr.cc/virtual/2024/poster/19449)] [[arxiv](https://arxiv.org/abs/2310.01380)] [[paper with code](https://paperswithcode.com/paper/pessimistic-nonlinear-least-squares-value)]
+
+- Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction [[paper](https://iclr.cc/virtual/2024/poster/18552)]
+
+- Negatively Correlated Ensemble Reinforcement Learning for Online Diverse Game Level Generation [[paper](https://iclr.cc/virtual/2024/poster/18072)]
+
+- Locality Sensitive Sparse Encoding for Learning World Models Online [[paper](https://iclr.cc/virtual/2024/poster/18076)] [[arxiv](https://arxiv.org/abs/2401.13034)] [[paper with code](https://paperswithcode.com/paper/locality-sensitive-sparse-encoding-for)]
+
+- Kalman Filter Online Learning from non-Stationary Data [[paper](https://iclr.cc/virtual/2024/poster/18380)]
+
+- Online Continual Learning for Interactive Instruction Following Agents [[paper](https://iclr.cc/virtual/2024/poster/19364)] [[arxiv](https://arxiv.org/abs/2403.07548)] [[paper with code](https://paperswithcode.com/paper/online-continual-learning-for-interactive)] [[code](https://github.com/snumprlab/cl-alfred)]
+
+- Improved Regret Bounds for Non-Convex Online-Within-Online Meta Learning [[paper](https://iclr.cc/virtual/2024/poster/17793)]
+
+- Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization [[paper](https://iclr.cc/virtual/2024/poster/17610)] [[arxiv](https://arxiv.org/abs/2311.03351)] [[paper with code](https://paperswithcode.com/paper/uni-o4-unifying-online-and-offline-deep)]
 
 
 ## AAAI-2024
@@ -171,6 +200,26 @@
 - PCR: Proxy-Based Contrastive Replay for Online Class-Incremental Continual Learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_PCR_Proxy-Based_Contrastive_Replay_for_Online_Class-Incremental_Continual_Learning_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.04408)] [[paper with code](https://paperswithcode.com/paper/pcr-proxy-based-contrastive-replay-for-online)] [[code](https://github.com/felixhuiweilin/pcr)]
 
 - CrOC: Cross-View Online Clustering for Dense Visual Representation Learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Stegmuller_CrOC_Cross-View_Online_Clustering_for_Dense_Visual_Representation_Learning_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.13245)] [[paper with code](https://paperswithcode.com/paper/croc-cross-view-online-clustering-for-dense)] [[code](https://github.com/stegmuel/croc)]
+
+
+## ICLR-2023
+
+
+- Multi-Objective Online Learning [[paper](https://iclr.cc/virtual/2023/poster/10757)] [[arxiv](https://arxiv.org/abs/2312.09355)]
+
+- Online Boundary-Free Continual Learning by Scheduled Data Prior [[paper](https://iclr.cc/virtual/2023/poster/11136)]
+
+- Online Bias Correction for Task-Free Continual Learning [[paper](https://iclr.cc/virtual/2023/poster/10703)]
+
+- The Role of Coverage in Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2023/poster/10809)] [[arxiv](https://arxiv.org/abs/2210.04157)] [[paper with code](https://paperswithcode.com/paper/the-role-of-coverage-in-online-reinforcement)]
+
+- Policy Expansion for Bridging Offline-to-Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2023/poster/11562)] [[arxiv](https://arxiv.org/abs/2302.00935)] [[paper with code](https://paperswithcode.com/paper/policy-expansion-for-bridging-offline-to)] [[code](https://github.com/haichao-zhang/pex)]
+
+- Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities [[paper](https://iclr.cc/virtual/2023/poster/12026)] [[arxiv](https://arxiv.org/abs/2210.01074)] [[paper with code](https://paperswithcode.com/paper/nonlinear-reconstruction-for-operator)]
+
+- Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity [[paper](https://iclr.cc/virtual/2023/poster/11126)] [[arxiv](https://arxiv.org/abs/2302.00032)] [[paper with code](https://paperswithcode.com/paper/neuromechanical-autoencoders-learning-to)]
+
+- Understanding the Role of Nonlinearity in Training Dynamics of Contrastive Learning [[paper](https://iclr.cc/virtual/2023/poster/11334)] [[arxiv](https://arxiv.org/abs/2206.01342)] [[paper with code](https://paperswithcode.com/paper/understanding-the-role-of-nonlinearity-in)] [[code](https://github.com/facebookresearch/luckmatters)]
 
 
 ## ICCV-2023
@@ -389,6 +438,34 @@
 - Unsupervised Action Segmentation by Joint Representation Learning and Online Clustering [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2105.13353)] [[paper with code](https://paperswithcode.com/paper/unsupervised-activity-segmentation-by-joint)]
 
 
+## ICLR-2022
+
+
+- Representation Learning for Online and Offline RL in Low-rank MDPs [[paper](https://iclr.cc/virtual/2022/poster/7191)] [[arxiv](https://arxiv.org/abs/2110.04652)] [[paper with code](https://paperswithcode.com/paper/representation-learning-for-online-and-1)] [[openreview](https://openreview.net/forum?id=J4iSIR9fhY0)]
+
+- Online Target Q-learning with Reverse Experience Replay: Efficiently finding the Optimal Policy for Linear MDPs [[paper](https://iclr.cc/virtual/2022/poster/7207)] [[arxiv](https://arxiv.org/abs/2110.08440)] [[paper with code](https://paperswithcode.com/paper/online-target-q-learning-with-reverse-1)] [[openreview](https://openreview.net/forum?id=HMJdXzbWKH)]
+
+- New Insights on Reducing Abrupt Representation Change in Online Continual Learning [[paper](https://iclr.cc/virtual/2022/poster/7188)] [[arxiv](https://arxiv.org/abs/2203.03798)] [[paper with code](https://paperswithcode.com/paper/new-insights-on-reducing-abrupt-1)] [[code](https://github.com/aimagelab/mammoth)] [[openreview](https://openreview.net/forum?id=N8MaByOzUfb)]
+
+- Information-theoretic Online Memory Selection for Continual Learning [[paper](https://iclr.cc/virtual/2022/poster/5961)] [[arxiv](https://arxiv.org/abs/2204.04763)] [[paper with code](https://paperswithcode.com/paper/information-theoretic-online-memory-selection-1)] [[openreview](https://openreview.net/forum?id=IpctgL7khPp)]
+
+- Continual Normalization: Rethinking Batch Normalization for Online Continual Learning [[paper](https://iclr.cc/virtual/2022/poster/5912)] [[arxiv](https://arxiv.org/abs/2203.16102)] [[paper with code](https://paperswithcode.com/paper/continual-normalization-rethinking-batch-1)] [[code](https://github.com/phquang/continual-normalization)] [[openreview](https://openreview.net/forum?id=vwLLQ-HwqhZ)]
+
+- Online Coreset Selection for Rehearsal-based Continual Learning [[paper](https://iclr.cc/virtual/2022/poster/6362)] [[arxiv](https://arxiv.org/abs/2106.01085)] [[paper with code](https://paperswithcode.com/paper/online-coreset-selection-for-rehearsal-based)] [[openreview](https://openreview.net/forum?id=f9D-5WNG4Nv)]
+
+- Inverse Online Learning: Understanding Non-Stationary and Reactionary Policies [[paper](https://iclr.cc/virtual/2022/poster/7211)] [[arxiv](https://arxiv.org/abs/2203.07338)] [[paper with code](https://paperswithcode.com/paper/inverse-online-learning-understanding-non-1)] [[code](https://github.com/vanderschaarlab/mlforhealthlabpub)] [[openreview](https://openreview.net/forum?id=DYypjaRdph2)]
+
+- Learning Efficient Online 3D Bin Packing on Packing Configuration Trees [[paper](https://iclr.cc/virtual/2022/poster/6490)] [[paper with code](https://paperswithcode.com/paper/learning-efficient-online-3d-bin-packing-on)] [[code](https://github.com/alexfrom0815/Online-3D-BPP-PCT)] [[openreview](https://openreview.net/forum?id=bfuGjlCwAq)]
+
+- Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference [[paper](https://iclr.cc/virtual/2022/poster/6797)] [[arxiv](https://arxiv.org/abs/2110.10031)] [[paper with code](https://paperswithcode.com/paper/online-continual-learning-on-class-1)] [[code](https://github.com/naver-ai/i-blurry)] [[openreview](https://openreview.net/forum?id=nrGGfMbY_qK)]
+
+- Learning a subspace of policies for online adaptation in Reinforcement Learning [[paper](https://iclr.cc/virtual/2022/poster/6408)] [[arxiv](https://arxiv.org/abs/2110.05169)] [[paper with code](https://paperswithcode.com/paper/learning-a-subspace-of-policies-for-online-1)] [[code](https://github.com/facebookresearch/salina)] [[openreview](https://openreview.net/forum?id=4Muj-t_4o4)]
+
+- Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning [[paper](https://iclr.cc/virtual/2022/poster/6855)] [[arxiv](https://arxiv.org/abs/2201.12354)] [[paper with code](https://paperswithcode.com/paper/discovering-nonlinear-pdes-from-scarce-data-1)] [[openreview](https://openreview.net/forum?id=Vog_3GXsgmb)]
+
+- Online Hyperparameter Meta-Learning with Hypergradient Distillation [[paper](https://iclr.cc/virtual/2022/poster/6204)] [[arxiv](https://arxiv.org/abs/2110.02508)] [[paper with code](https://paperswithcode.com/paper/online-hyperparameter-meta-learning-with)] [[openreview](https://openreview.net/forum?id=01AMRlen9wJ)]
+
+
 ## ECCV-2022
 
 
@@ -557,6 +634,20 @@
 - DeepSurfels: Learning Online Appearance Fusion [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mihajlovic_DeepSurfels_Learning_Online_Appearance_Fusion_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2012.14240)] [[paper with code](https://paperswithcode.com/paper/deepsurfels-learning-online-appearance-fusion)] [[code](https://github.com/onlinereconstruction/deep_surfels)]
 
 
+## ICLR-2021
+
+
+- X2T: Training an X-to-Text Typing Interface with Online Learning from User Feedback [[paper](https://iclr.cc/virtual/2021/poster/3231)] [[arxiv](https://arxiv.org/abs/2203.02072)] [[paper with code](https://paperswithcode.com/paper/x2t-training-an-x-to-text-typing-interface)]
+
+- Online Adversarial Purification based on Self-supervised Learning [[paper](https://iclr.cc/virtual/2021/poster/2996)] [[paper with code](https://paperswithcode.com/paper/online-adversarial-purification-based-on-self)] [[openreview](https://openreview.net/forum?id=_i3ASPp12WS)]
+
+- Contextual Transformation Networks for Online Continual Learning [[paper](https://iclr.cc/virtual/2021/poster/2887)] [[paper with code](https://paperswithcode.com/paper/contextual-transformation-networks-for-online)] [[openreview](https://openreview.net/forum?id=zx_uX-BO7CH)]
+
+- Fuzzy Tiling Activations: A Simple Approach to Learning Sparse Representations Online [[paper](https://iclr.cc/virtual/2021/poster/2951)] [[arxiv](https://arxiv.org/abs/1911.08068)] [[paper with code](https://paperswithcode.com/paper/deep-tile-coder-an-efficient-sparse)] [[code](https://github.com/labmlai/annotated_deep_learning_paper_implementations)] [[openreview](https://openreview.net/forum?id=zElset1Klrp)]
+
+- Wandering within a world: Online contextualized few-shot learning [[paper](https://iclr.cc/virtual/2021/poster/2534)] [[arxiv](https://arxiv.org/abs/2007.04546)] [[paper with code](https://paperswithcode.com/paper/wandering-within-a-world-online)] [[code](https://github.com/renmengye/oc-fewshot-public)] [[openreview](https://openreview.net/forum?id=oZIvHV04XgC)]
+
+
 ## ICCV-2021
 
 
@@ -723,6 +814,14 @@
 - Online Knowledge Distillation via Collaborative Learning [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.html)] [[paper with code](https://paperswithcode.com/paper/online-knowledge-distillation-via)] [[code](https://github.com/shaoeric/Online-Knowledge-Distillation-via-Collaborative-Learning)]
 
 
+## ICLR-2020
+
+
+- Geometric Insights into the Convergence of Nonlinear TD Learning [[paper](https://iclr.cc/virtual/2020/poster/1791)] [[arxiv](https://arxiv.org/abs/1905.12185)] [[paper with code](https://paperswithcode.com/paper/on-the-expected-dynamics-of-nonlinear-td)] [[openreview](https://openreview.net/forum?id=SJezGp4YPr)]
+
+- Training Recurrent Neural Networks Online by Learning Explicit State Variables [[paper](https://iclr.cc/virtual/2020/poster/1645)] [[paper with code](https://paperswithcode.com/paper/training-recurrent-neural-networks-online-by)] [[openreview](https://openreview.net/forum?id=SJgmR0NKPr)]
+
+
 ## ECCV-2020
 
 
@@ -843,6 +942,16 @@
 - Efficient online learning with kernels for adversarial large scale problems [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/faad95253aee7437871781018bdf3309-Abstract.html)] [[arxiv](https://arxiv.org/abs/1902.09917)] [[paper with code](https://paperswithcode.com/paper/efficient-online-learning-with-kernels-for)] [[code](https://github.com/Remjez/kernel-online-learning)]
 
 
+## ICLR-2019
+
+
+- Plan Online, Learn Offline: Efficient Learning and Exploration via Model-Based Control [[paper](https://openreview.net/forum?id=Byey7n05FQ)] [[arxiv](https://arxiv.org/abs/1811.01848)] [[paper with code](https://paperswithcode.com/paper/plan-online-learn-offline-efficient-learning)] [[openreview](https://openreview.net/forum?id=Byey7n05FQ)]
+
+- Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL [[paper](https://openreview.net/forum?id=HyxAfnA5tm)] [[arxiv](https://arxiv.org/abs/1812.07671)] [[paper with code](https://paperswithcode.com/paper/deep-online-learning-via-meta-learning)] [[openreview](https://openreview.net/forum?id=HyxAfnA5tm)]
+
+- NOODL: Provable Online Dictionary Learning and Sparse Coding [[paper](https://openreview.net/forum?id=HJeu43ActQ)] [[arxiv](https://arxiv.org/abs/1902.11261)] [[paper with code](https://paperswithcode.com/paper/noodl-provable-online-dictionary-learning-and)]
+
+
 ## ICCV-2019
 
 
@@ -947,6 +1056,14 @@
 - Memory Based Online Learning of Deep Representations From Video Streams [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Pernici_Memory_Based_Online_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1711.07368)] [[paper with code](https://paperswithcode.com/paper/memory-based-online-learning-of-deep)]
 
 - Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Learning_Attentions_Residual_CVPR_2018_paper.html)] [[paper with code](https://paperswithcode.com/paper/learning-attentions-residual-attentional)] [[code](https://github.com/foolwood/RASNet)]
+
+
+## ICLR-2018
+
+
+- Online Learning Rate Adaptation with Hypergradient Descent [[paper](https://openreview.net/forum?id=BkrsAzWAb)] [[arxiv](https://arxiv.org/abs/1703.04782)] [[paper with code](https://paperswithcode.com/paper/online-learning-rate-adaptation-with)] [[code](https://github.com/gbaydin/hypergradient-descent)] [[openreview](https://openreview.net/forum?id=BkrsAzWAb)]
+
+- An Online Learning Approach to Generative Adversarial Networks [[paper](https://openreview.net/forum?id=H1Yp-j1Cb)] [[arxiv](https://arxiv.org/abs/1706.03269)]
 
 
 ## ECCV-2018

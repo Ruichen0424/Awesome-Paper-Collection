@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -20,6 +21,16 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- The Need for Speed: Pruning Transformers with One Recipe [[paper](https://iclr.cc/virtual/2024/poster/18819)] [[arxiv](https://arxiv.org/abs/2403.17921)] [[paper with code](https://paperswithcode.com/paper/the-need-for-speed-pruning-transformers-with)] [[code](https://github.com/skhaki18/optin-transformer-pruning)]
+
+- Synergistic Patch Pruning for Vision Transformer: Unifying Intra- & Inter-Layer Patch Importance [[paper](https://iclr.cc/virtual/2024/poster/19175)]
+
+- Data-independent Module-aware Pruning for Hierarchical Vision Transformers [[paper](https://iclr.cc/virtual/2024/poster/19362)]
 
 
 ## AAAI-2024

@@ -1,11 +1,13 @@
 # Awesome Diffusion Denoising Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [AAAI](#aaai-2023)
@@ -13,10 +15,12 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ICML](#icml-2022)
 
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
 
@@ -26,6 +30,34 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process [[paper](https://iclr.cc/virtual/2024/poster/18299)] [[arxiv](https://arxiv.org/abs/2306.05423)] [[paper with code](https://paperswithcode.com/paper/addp-learning-general-representations-for)]
+
+- DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation [[paper](https://iclr.cc/virtual/2024/poster/19029)] [[arxiv](https://arxiv.org/abs/2310.01381)] [[paper with code](https://paperswithcode.com/paper/diffar-denoising-diffusion-autoregressive)] [[code](https://github.com/rbenita/diffar)]
+
+- Denoising Diffusion Step-aware Models [[paper](https://iclr.cc/virtual/2024/poster/18311)] [[arxiv](https://arxiv.org/abs/2310.03337)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-step-aware-models)] [[code](https://github.com/envision-research/ddsm)]
+
+- Denoising Diffusion Bridge Models [[paper](https://iclr.cc/virtual/2024/poster/19070)] [[arxiv](https://arxiv.org/abs/2402.07129)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-bridge-models)] [[code](https://github.com/alexzhou907/DDBM)]
+
+- Denoising Diffusion via Image-Based Rendering [[paper](https://iclr.cc/virtual/2024/poster/19594)] [[arxiv](https://arxiv.org/abs/2402.03445)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-via-image-based-rendering)]
+
+- Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration [[paper](https://iclr.cc/virtual/2024/poster/21756)] [[arxiv](https://arxiv.org/abs/2303.11435)] [[paper with code](https://paperswithcode.com/paper/inversion-by-direct-iteration-an-alternative)] [[code](https://github.com/Nikolai10/Diffusion-TF)]
+
+- Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[paper](https://iclr.cc/virtual/2024/poster/18564)] [[arxiv](https://arxiv.org/abs/2308.01316)] [[paper with code](https://paperswithcode.com/paper/patched-denoising-diffusion-models-for-high)] [[code](https://github.com/mlpc-ucsd/patch-dm)]
+
+- DMV3D: Denoising Multi-view Diffusion Using 3D Large Reconstruction Model [[paper](https://iclr.cc/virtual/2024/poster/19006)] [[arxiv](https://arxiv.org/abs/2311.09217)] [[paper with code](https://paperswithcode.com/paper/dmv3d-denoising-multi-view-diffusion-using-3d)]
+
+- Monte Carlo guided Denoising Diffusion models for Bayesian linear inverse problems. [[paper](https://iclr.cc/virtual/2024/poster/17864)]
+
+- Denoising Task Routing for Diffusion Models [[paper](https://iclr.cc/virtual/2024/poster/18818)] [[arxiv](https://arxiv.org/abs/2310.07138)] [[paper with code](https://paperswithcode.com/paper/denoising-task-routing-for-diffusion-models)] [[code](https://github.com/byeongjun-park/DTR)]
+
+- GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion [[paper](https://iclr.cc/virtual/2024/poster/19045)] [[arxiv](https://arxiv.org/abs/2402.14810)] [[paper with code](https://paperswithcode.com/paper/geneoh-diffusion-towards-generalizable-hand)] [[code](https://github.com/meowuu7/geneoh-diffusion)]
+
+- Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models [[paper](https://iclr.cc/virtual/2024/poster/18364)] [[arxiv](https://arxiv.org/abs/2309.14068)] [[paper with code](https://paperswithcode.com/paper/soft-mixture-denoising-beyond-the-expressive)]
 
 
 ## AAAI-2024
@@ -74,6 +106,22 @@
 - Person Image Synthesis via Denoising Diffusion Model [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bhunia_Person_Image_Synthesis_via_Denoising_Diffusion_Model_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.12500)] [[paper with code](https://paperswithcode.com/paper/person-image-synthesis-via-denoising)] [[code](https://github.com/ankanbhunia/PIDM)]
 
 - HouseDiffusion: Vector Floorplan Generation via a Diffusion Model With Discrete and Continuous Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shabani_HouseDiffusion_Vector_Floorplan_Generation_via_a_Diffusion_Model_With_Discrete_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2211.13287)] [[paper with code](https://paperswithcode.com/paper/housediffusion-vector-floorplan-generation)] [[code](https://github.com/aminshabani/house_diffusion)]
+
+
+## ICLR-2023
+
+
+- Denoising Diffusion Error Correction Codes [[paper](https://iclr.cc/virtual/2023/poster/12069)] [[arxiv](https://arxiv.org/abs/2209.13533)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-error-correction-codes)]
+
+- gDDIM: Generalized denoising diffusion implicit models [[paper](https://iclr.cc/virtual/2023/poster/10905)] [[arxiv](https://arxiv.org/abs/2206.05564)] [[paper with code](https://paperswithcode.com/paper/gddim-generalized-denoising-diffusion)] [[code](https://github.com/qsh-zh/gDDIM)]
+
+- Denoising Diffusion Samplers [[paper](https://iclr.cc/virtual/2023/poster/10913)] [[arxiv](https://arxiv.org/abs/2402.06320)]
+
+- Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model [[paper](https://iclr.cc/virtual/2023/poster/12016)] [[arxiv](https://arxiv.org/abs/2212.00490)] [[paper with code](https://paperswithcode.com/paper/zero-shot-image-restoration-using-denoising)] [[code](https://github.com/wyhuai/ddnm)]
+
+- DiGress: Discrete Denoising diffusion for graph generation [[paper](https://iclr.cc/virtual/2023/poster/11556)] [[arxiv](https://arxiv.org/abs/2209.14734)] [[paper with code](https://paperswithcode.com/paper/digress-discrete-denoising-diffusion-for)] [[code](https://github.com/cvignac/digress)]
+
+- DDM$^2$: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models [[paper](https://iclr.cc/virtual/2023/poster/12099)] [[arxiv](https://arxiv.org/abs/2302.03018)] [[paper with code](https://paperswithcode.com/paper/ddm-2-self-supervised-diffusion-mri-denoising)] [[code](https://github.com/stanfordmimi/ddm2)]
 
 
 ## ICCV-2023
@@ -126,6 +174,16 @@
 - RePaint: Inpainting Using Denoising Diffusion Probabilistic Models [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2201.09865)] [[paper with code](https://paperswithcode.com/paper/repaint-inpainting-using-denoising-diffusion)] [[code](https://github.com/andreas128/RePaint)]
 
 
+## ICLR-2022
+
+
+- PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior [[paper](https://iclr.cc/virtual/2022/poster/6445)] [[arxiv](https://arxiv.org/abs/2106.06406)] [[paper with code](https://paperswithcode.com/paper/priorgrad-improving-conditional-denoising)] [[code](https://github.com/microsoft/NeuralSpeech)] [[openreview](https://openreview.net/forum?id=_BNiN4IjC5)]
+
+- Tackling the Generative Learning Trilemma with Denoising Diffusion GANs [[paper](https://iclr.cc/virtual/2022/poster/7183)] [[arxiv](https://arxiv.org/abs/2112.07804)] [[paper with code](https://paperswithcode.com/paper/tackling-the-generative-learning-trilemma-1)] [[code](https://github.com/NVlabs/denoising-diffusion-gan)] [[openreview](https://openreview.net/forum?id=JprM0p-q0Co)]
+
+- BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis [[paper](https://iclr.cc/virtual/2022/poster/6010)] [[arxiv](https://arxiv.org/abs/2203.13508)] [[paper with code](https://paperswithcode.com/paper/bddm-bilateral-denoising-diffusion-models-for-1)] [[code](https://github.com/tencent-ailab/bddm)] [[openreview](https://openreview.net/forum?id=L7wzpQttNO)]
+
+
 ## ICML-2022
 
 
@@ -139,6 +197,12 @@
 
 
 - Structured Denoising Diffusion Models in Discrete State-Spaces [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/958c530554f78bcd8e97125b70e6973d-Abstract.html)] [[arxiv](https://arxiv.org/abs/2107.03006)] [[paper with code](https://paperswithcode.com/paper/structured-denoising-diffusion-models-in)] [[code](https://github.com/microsoft/evodiff)]
+
+
+## ICLR-2021
+
+
+- Denoising Diffusion Implicit Models [[paper](https://iclr.cc/virtual/2021/poster/2804)] [[arxiv](https://arxiv.org/abs/2402.07129)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-implicit-models-1)] [[code](https://github.com/ermongroup/ddim)] [[openreview](https://openreview.net/forum?id=St1giarCHLP)]
 
 
 ## ICCV-2021

@@ -3,10 +3,12 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [IJCAI](#ijcai-2023)
@@ -14,11 +16,13 @@
 
 - [2022](#2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ICML](#icml-2022)
   - [AAAI](#aaai-2022)
 
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
+  - [ICLR](#iclr-2021)
   - [ICML](#icml-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
@@ -26,12 +30,14 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ACL](#acl-2020)
 
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
 
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
@@ -42,6 +48,12 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Curriculum reinforcement learning for quantum architecture search under hardware errors [[paper](https://iclr.cc/virtual/2024/poster/17697)] [[arxiv](https://arxiv.org/abs/2402.03500)] [[paper with code](https://paperswithcode.com/paper/curriculum-reinforcement-learning-for-quantum)]
 
 
 ## AAAI-2024
@@ -61,6 +73,12 @@
 - Hardware Resilience Properties of Text-Guided Image Classifiers [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d664de48bf5ad8e8e48c77e175eb0e80-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.14062)] [[paper with code](https://paperswithcode.com/paper/hardware-resilience-properties-of-text-guided-1)] [[code](https://github.com/talalwasim/textguidedresilience)] [[openview](https://openreview.net/forum?id=hVVp8TXIPs)]
 
 - Pgx: Hardware-Accelerated Parallel Game Simulators for Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8f153093758af93861a74a1305dfdc18-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2303.17503)] [[paper with code](https://paperswithcode.com/paper/pgx-hardware-accelerated-parallel-game-1)] [[code](https://github.com/sotetsuk/pgx)] [[openview](https://openreview.net/forum?id=UvX8QfhfUx)]
+
+
+## ICLR-2023
+
+
+- Benchmarking Offline Reinforcement Learning on Real-Robot Hardware [[paper](https://iclr.cc/virtual/2023/poster/11771)] [[arxiv](https://arxiv.org/abs/2307.15690)] [[paper with code](https://paperswithcode.com/paper/benchmarking-offline-reinforcement-learning-1)] [[code](https://github.com/rr-learning/trifinger_rl_datasets)]
 
 
 ## ICCV-2023
@@ -103,6 +121,12 @@
 - Real-Time Hyperspectral Imaging in Hardware via Trained Metasurface Encoders [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Makarenko_Real-Time_Hyperspectral_Imaging_in_Hardware_via_Trained_Metasurface_Encoders_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2204.02084)] [[paper with code](https://paperswithcode.com/paper/real-time-hyperspectral-imaging-in-hardware)] [[code](https://github.com/makamoa/hyplex)]
 
 
+## ICLR-2022
+
+
+- Data-Driven Offline Optimization for Architecting Hardware Accelerators [[paper](https://iclr.cc/virtual/2022/poster/6616)] [[arxiv](https://arxiv.org/abs/2110.11346)] [[paper with code](https://paperswithcode.com/paper/data-driven-offline-optimization-for-1)] [[code](https://github.com/google-research/google-research/tree/master/prime)] [[openreview](https://openreview.net/forum?id=GsH-K1VIyy)]
+
+
 ## ICML-2022
 
 
@@ -127,6 +151,12 @@
 - Learning Semantic Representations to Verify Hardware Designs [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/c5aa65949d20f6b20e1a922c13d974e7-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/learning-semantic-representations-to-verify)] [[openview](https://openreview.net/forum?id=oIhzg4GJeOf)]
 
 - Hardware-adaptive Efficient Latency Prediction for NAS via Meta-Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e3251075554389fe91d17a794861d47b-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.08630)] [[paper with code](https://paperswithcode.com/paper/hardware-adaptive-efficient-latency)] [[code](https://github.com/hayeonlee/help)] [[openview](https://openreview.net/forum?id=oE5lMpPRm0)]
+
+
+## ICLR-2021
+
+
+- HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark [[paper](https://iclr.cc/virtual/2021/poster/3199)] [[paper with code](https://paperswithcode.com/paper/hw-nas-bench-hardware-aware-neural)] [[openreview](https://openreview.net/forum?id=_0kaDkv3dVf)]
 
 
 ## ICML-2021
@@ -165,6 +195,12 @@
 - Hardware-in-the-Loop End-to-End Optimization of Camera Image Processing Pipelines [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Mosleh_Hardware-in-the-Loop_End-to-End_Optimization_of_Camera_Image_Processing_Pipelines_CVPR_2020_paper.html)] [[paper with code](https://paperswithcode.com/paper/hardware-in-the-loop-end-to-end-optimization)]
 
 
+## ICLR-2020
+
+
+- Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware [[paper](https://iclr.cc/virtual/2020/poster/1425)] [[paper with code](https://paperswithcode.com/paper/linear-symmetric-quantization-of-neural)] [[openreview](https://openreview.net/forum?id=H1lBj2VFPS)]
+
+
 ## ECCV-2020
 
 
@@ -198,6 +234,14 @@
 - HAQ: Hardware-Aware Automated Quantization With Mixed Precision [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1811.08886)] [[paper with code](https://paperswithcode.com/paper/haq-hardware-aware-automated-quantization)] [[code](https://github.com/mit-han-lab/once-for-all)]
 
 - FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_FBNet_Hardware-Aware_Efficient_ConvNet_Design_via_Differentiable_Neural_Architecture_Search_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1812.03443)] [[paper with code](https://paperswithcode.com/paper/fbnet-hardware-aware-efficient-convnet-design)] [[code](https://github.com/facebookresearch/mobile-vision)]
+
+
+## ICLR-2019
+
+
+- Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware [[paper](https://openreview.net/forum?id=rJVorjCcKQ)] [[arxiv](https://arxiv.org/abs/1806.03287)] [[paper with code](https://paperswithcode.com/paper/slalom-fast-verifiable-and-private-execution)] [[code](https://github.com/ftramer/slalom)] [[openreview](https://openreview.net/forum?id=rJVorjCcKQ)]
+
+- ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware [[paper](https://openreview.net/forum?id=HylVB3AqYm)] [[arxiv](https://arxiv.org/abs/1812.00332)] [[paper with code](https://paperswithcode.com/paper/proxylessnas-direct-neural-architecture)] [[code](https://github.com/MIT-HAN-LAB/ProxylessNAS)] [[openreview](https://openreview.net/forum?id=HylVB3AqYm)]
 
 
 # 2018

@@ -1,6 +1,7 @@
 # Awesome EEG Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -11,12 +12,14 @@
 
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
+  - [ICLR](#iclr-2022)
   - [ICML](#icml-2022)
   - [ACL](#acl-2022)
   - [AAAI](#aaai-2022)
 
 - [2021](#2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [AAAI](#aaai-2021)
 
 - [2020](#2020)
@@ -36,6 +39,14 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [[paper](https://iclr.cc/virtual/2024/poster/18658)]
+
+- Decoding Natural Images from EEG for Object Recognition [[paper](https://iclr.cc/virtual/2024/poster/18251)] [[arxiv](https://arxiv.org/abs/2308.13234)] [[paper with code](https://paperswithcode.com/paper/decoding-natural-images-from-eeg-for-object)] [[code](https://github.com/eeyhsong/nice-eeg)]
 
 
 ## AAAI-2024
@@ -96,6 +107,14 @@
 - MAtt: A Manifold Attention Network for EEG Decoding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c981fd12b1d5703f19bd8289da9fc996-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.01986)] [[paper with code](https://paperswithcode.com/paper/matt-a-manifold-attention-network-for-eeg)] [[code](https://github.com/cecnl/matt)]
 
 
+## ICLR-2022
+
+
+- CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals [[paper](https://iclr.cc/virtual/2022/poster/7154)] [[arxiv](https://arxiv.org/abs/2106.13695)] [[paper with code](https://paperswithcode.com/paper/cadda-class-wise-automatic-differentiable)] [[openreview](https://openreview.net/forum?id=6IYp-35L-xJ)]
+
+- DriPP: Driven Point Processes to Model Stimuli Induced Patterns in M/EEG Signals [[paper](https://iclr.cc/virtual/2022/poster/6724)] [[arxiv](https://arxiv.org/abs/2112.06652)] [[paper with code](https://paperswithcode.com/paper/dripp-driven-point-processes-to-model-stimuli-1)] [[openreview](https://openreview.net/forum?id=d_2lcDh0Y9c)]
+
+
 ## ICML-2022
 
 
@@ -121,6 +140,12 @@
 
 
 - Object Classification From Randomized EEG Trials [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmed_Object_Classification_From_Randomized_EEG_Trials_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2004.06046)] [[paper with code](https://paperswithcode.com/paper/object-classification-from-randomized-eeg)]
+
+
+## ICLR-2021
+
+
+- Representation learning for improved interpretability and classification accuracy of clinical factors from EEG [[paper](https://iclr.cc/virtual/2021/poster/3197)] [[arxiv](https://arxiv.org/abs/2010.15274)] [[paper with code](https://paperswithcode.com/paper/representation-learning-for-improved-1)] [[openreview](https://openreview.net/forum?id=TVjLza1t4hI)]
 
 
 ## AAAI-2021

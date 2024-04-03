@@ -2,10 +2,12 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICML](#icml-2023)
 
 - [2022](#2022)
@@ -26,6 +28,7 @@
 
 - [2019](#2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
 
 - [2018](#2018)
   - [ICML](#icml-2018)
@@ -35,6 +38,15 @@
 
 # 2024
 
+
+## ICLR-2024
+
+
+- Synaptic Weight Distributions Depend on the Geometry of Plasticity [[paper](https://iclr.cc/virtual/2024/poster/17469)] [[arxiv](https://arxiv.org/abs/2305.19394)] [[paper with code](https://paperswithcode.com/paper/synaptic-weight-distributions-depend-on-the)] [[code](https://github.com/romanpogodin/synaptic-weight-distr)]
+
+- Addressing Catastrophic Forgetting and Loss of Plasticity in Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/17656)]
+
+- Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[paper](https://iclr.cc/virtual/2024/poster/19614)] [[arxiv](https://arxiv.org/abs/2310.07418)] [[paper with code](https://paperswithcode.com/paper/revisiting-plasticity-in-visual-reinforcement)] [[code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)]
 
 
 # 2023
@@ -70,6 +82,16 @@
 - On the Stability-Plasticity Dilemma of Class-Incremental Learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_On_the_Stability-Plasticity_Dilemma_of_Class-Incremental_Learning_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.01663)] [[paper with code](https://paperswithcode.com/paper/on-the-stability-plasticity-dilemma-of-class)]
 
 - Rethinking Gradient Projection Continual Learning: Stability / Plasticity Feature Space Decoupling [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/rethinking-gradient-projection-continual)]
+
+
+## ICLR-2023
+
+
+- New Insights for the Stability-Plasticity Dilemma in Online Continual Learning [[paper](https://iclr.cc/virtual/2023/poster/11634)] [[arxiv](https://arxiv.org/abs/2302.08741)] [[paper with code](https://paperswithcode.com/paper/new-insights-for-the-stability-plasticity)] [[code](https://github.com/whitesnowdrop/mufan)]
+
+- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)]
+
+- Hebbian and Gradient-based Plasticity Enables Robust Memory and Rapid Learning in RNNs [[paper](https://iclr.cc/virtual/2023/poster/11522)] [[arxiv](https://arxiv.org/abs/2302.03235)] [[paper with code](https://paperswithcode.com/paper/hebbian-and-gradient-based-plasticity-enables)] [[code](https://github.com/yuvenduan/plasticrnns)]
 
 
 ## ICML-2023
@@ -173,6 +195,12 @@
 
 
 - Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.03137)] [[paper with code](https://paperswithcode.com/paper/learning-to-remember-a-synaptic-plasticity)] [[code](https://github.com/SAP/machine-learning-dgm)]
+
+
+## ICLR-2019
+
+
+- Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity [[paper](https://openreview.net/forum?id=r1lrAiA5Ym)] [[arxiv](https://arxiv.org/abs/2002.10585)] [[paper with code](https://paperswithcode.com/paper/backpropamine-training-self-modifying-neural-1)] [[openreview](https://openreview.net/forum?id=r1lrAiA5Ym)]
 
 
 # 2018

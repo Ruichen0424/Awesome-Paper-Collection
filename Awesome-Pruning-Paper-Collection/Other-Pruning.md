@@ -2,11 +2,13 @@
 
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [ACL](#acl-2023)
@@ -16,6 +18,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [ACL](#acl-2022)
@@ -25,6 +28,7 @@
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
   - [ACL](#acl-2021)
@@ -34,6 +38,7 @@
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
   - [IJCAI](#ijcai-2020)
@@ -42,6 +47,7 @@
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
   - [CVPR](#cvpr-2019)
+  - [ICLR](#iclr-2019)
   - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
   - [ACL](#acl-2019)
@@ -51,6 +57,7 @@
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
   - [CVPR](#cvpr-2018)
+  - [ICLR](#iclr-2018)
   - [ECCV](#eccv-2018)
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
@@ -58,6 +65,52 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity [[paper](https://iclr.cc/virtual/2024/poster/18092)]
+
+- A Simple and Effective Pruning Approach for Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18687)] [[arxiv](https://arxiv.org/abs/2306.11695)] [[paper with code](https://paperswithcode.com/paper/a-simple-and-effective-pruning-approach-for)] [[code](https://github.com/locuslab/wanda)]
+
+- Effective pruning of web-scale datasets based on complexity of concept clusters [[paper](https://iclr.cc/virtual/2024/poster/19159)] [[arxiv](https://arxiv.org/abs/2401.04578)] [[paper with code](https://paperswithcode.com/paper/effective-pruning-of-web-scale-datasets-based)] [[code](https://github.com/amro-kamal/effective_pruning)]
+
+- Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN [[paper](https://iclr.cc/virtual/2024/poster/19606)] [[arxiv](https://arxiv.org/abs/2403.03409)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-neural-network-exploiting)]
+
+- Adaptive Window Pruning for Efficient Local Motion Deblurring [[paper](https://iclr.cc/virtual/2024/poster/18103)] [[arxiv](https://arxiv.org/abs/2306.14268)] [[paper with code](https://paperswithcode.com/paper/adaptive-window-pruning-for-efficient-local)]
+
+- Accurate Retraining-free Pruning for Pretrained Encoder-based Language Models [[paper](https://iclr.cc/virtual/2024/poster/17667)] [[arxiv](https://arxiv.org/abs/2308.03449)] [[paper with code](https://paperswithcode.com/paper/knowledge-preserving-pruning-for-pre-trained)] [[code](https://github.com/snudm-starlab/k-prune)]
+
+- Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning [[paper](https://iclr.cc/virtual/2024/poster/19623)] [[arxiv](https://arxiv.org/abs/2310.06694)] [[paper with code](https://paperswithcode.com/paper/sheared-llama-accelerating-language-model-pre)] [[code](https://github.com/princeton-nlp/llm-shearing)]
+
+- Sparse Weight Averaging with Multiple Particles for Iterative Magnitude Pruning [[paper](https://iclr.cc/virtual/2024/poster/18434)] [[arxiv](https://arxiv.org/abs/2305.14852)]
+
+- Adaptive Sharpness-Aware Pruning for Robust Sparse Networks [[paper](https://iclr.cc/virtual/2024/poster/18682)] [[arxiv](https://arxiv.org/abs/2306.14306)] [[paper with code](https://paperswithcode.com/paper/adaptive-sharpness-aware-pruning-for-robust)]
+
+- Sparse Model Soups: A Recipe for Improved Pruning via Model Averaging [[paper](https://iclr.cc/virtual/2024/poster/17433)] [[arxiv](https://arxiv.org/abs/2306.16788)] [[paper with code](https://paperswithcode.com/paper/sparse-model-soups-a-recipe-for-improved)] [[code](https://github.com/zib-iol/sms)]
+
+- What Makes a Good Prune? Optimal Unstructured Pruning for Maximal Cosine Similarity [[paper](https://iclr.cc/virtual/2024/poster/18003)]
+
+- SWAP: Sparse Entropic Wasserstein Regression for Robust Network Pruning [[paper](https://iclr.cc/virtual/2024/poster/18868)] [[arxiv](https://arxiv.org/abs/2310.04918)] [[paper with code](https://paperswithcode.com/paper/robust-network-pruning-with-sparse-entropic)] [[code](https://github.com/youlei202/entropic-wasserstein-pruning)]
+
+- Candidate Label Set Pruning: A Data-centric Perspective for Deep Partial-label Learning [[paper](https://iclr.cc/virtual/2024/poster/19052)]
+
+- Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework [[paper](https://iclr.cc/virtual/2024/poster/18207)]
+
+- Towards Meta-Pruning via Optimal Transport [[paper](https://iclr.cc/virtual/2024/poster/17651)] [[arxiv](https://arxiv.org/abs/2402.07839)] [[paper with code](https://paperswithcode.com/paper/towards-meta-pruning-via-optimal-transport)] [[code](https://github.com/alexandertheus/intra-fusion)]
+
+- $\mathbb{D}^2$ Pruning: Message Passing for Balancing Diversity & Difficulty in Data Pruning [[paper](https://iclr.cc/virtual/2024/poster/17608)]
+
+- BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation [[paper](https://iclr.cc/virtual/2024/poster/18153)] [[arxiv](https://arxiv.org/abs/2402.16880)] [[paper with code](https://paperswithcode.com/paper/besa-pruning-large-language-models-with)] [[code](https://github.com/opengvlab/llmprune-besa)]
+
+- ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models [[paper](https://iclr.cc/virtual/2024/poster/18067)] [[arxiv](https://arxiv.org/abs/2310.02998)] [[paper with code](https://paperswithcode.com/paper/ecoflap-efficient-coarse-to-fine-layer-wise)]
+
+- Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18549)]
+
+- Adversarial Feature Map Pruning for Backdoor [[paper](https://iclr.cc/virtual/2024/poster/18966)] [[arxiv](https://arxiv.org/abs/2307.11565)] [[paper with code](https://paperswithcode.com/paper/fmt-removing-backdoor-feature-maps-via)] [[code](https://github.com/retsuh-bqw/fmp)]
+
+- InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning [[paper](https://iclr.cc/virtual/2024/poster/19186)] [[arxiv](https://arxiv.org/abs/2303.04947)] [[paper with code](https://paperswithcode.com/paper/infobatch-lossless-training-speed-up-by)] [[code](https://github.com/nus-hpc-ai-lab/infobatch)]
 
 
 ## AAAI-2024
@@ -152,6 +205,36 @@
 - Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Out-of-Distributed_Semantic_Pruning_for_Robust_Semi-Supervised_Learning_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2305.18158)] [[paper with code](https://paperswithcode.com/paper/out-of-distributed-semantic-pruning-for-1)] [[code](https://github.com/rain305f/osp)]
 
 - CP3: Channel Pruning Plug-In for Point-Based Networks [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_CP3_Channel_Pruning_Plug-In_for_Point-Based_Networks_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/cp3-channel-pruning-plug-in-for-point-based)]
+
+
+## ICLR-2023
+
+
+- Bit-Pruning: A Sparse Multiplication-Less Dot-Product [[paper](https://iclr.cc/virtual/2023/poster/12205)]
+
+- Trainability Preserving Neural Pruning [[paper](https://iclr.cc/virtual/2023/poster/12213)] [[arxiv](https://arxiv.org/abs/2207.12534)] [[paper with code](https://paperswithcode.com/paper/trainability-preserving-neural-structured)] [[code](https://github.com/mingsun-tse/tpp)]
+
+- Holistic Adversarially Robust Pruning [[paper](https://iclr.cc/virtual/2023/poster/11204)]
+
+- Coverage-centric Coreset Selection for High Pruning Rates [[paper](https://iclr.cc/virtual/2023/poster/11710)] [[arxiv](https://arxiv.org/abs/2210.15809)] [[paper with code](https://paperswithcode.com/paper/coverage-centric-coreset-selection-for-high)] [[code](https://github.com/haizhongzheng/coverage-centric-coreset-selection)]
+
+- DFPC: Data flow driven pruning of coupled channels without data. [[paper](https://iclr.cc/virtual/2023/poster/10681)]
+
+- Symmetric Pruning in Quantum Neural Networks [[paper](https://iclr.cc/virtual/2023/poster/11285)] [[arxiv](https://arxiv.org/abs/2208.14057)] [[paper with code](https://paperswithcode.com/paper/symmetric-pruning-in-quantum-neural-networks)]
+
+- A Unified Framework for Soft Threshold Pruning [[paper](https://iclr.cc/virtual/2023/poster/12217)] [[arxiv](https://arxiv.org/abs/2302.13019)] [[paper with code](https://paperswithcode.com/paper/a-unified-framework-for-soft-threshold)] [[code](https://github.com/yanqi-chen/lats)]
+
+- TVSPrune - Pruning Non-discriminative filters via Total Variation separability of intermediate representations without fine tuning [[paper](https://iclr.cc/virtual/2023/poster/10682)]
+
+- Dataset Pruning: Reducing Training Data by Examining Generalization Influence [[paper](https://iclr.cc/virtual/2023/poster/12019)] [[arxiv](https://arxiv.org/abs/2205.09329)] [[paper with code](https://paperswithcode.com/paper/dataset-pruning-reducing-training-data-by)]
+
+- Pruning Deep Neural Networks from a Sparsity Perspective [[paper](https://iclr.cc/virtual/2023/poster/10851)] [[arxiv](https://arxiv.org/abs/2302.05601)] [[paper with code](https://paperswithcode.com/paper/pruning-deep-neural-networks-from-a-sparsity-1)] [[code](https://github.com/dem123456789/Pruning-Deep-Neural-Networks-from-a-Sparsity-Perspective)] [[openreview](https://openreview.net/forum?id=i-DleYh34BM)]
+
+- NTK-SAP: Improving neural network pruning by aligning training dynamics [[paper](https://iclr.cc/virtual/2023/poster/12107)] [[arxiv](https://arxiv.org/abs/2304.02840)] [[paper with code](https://paperswithcode.com/paper/ntk-sap-improving-neural-network-pruning-by)] [[code](https://github.com/yitewang/ntk-sap)]
+
+- REVISITING PRUNING AT INITIALIZATION THROUGH THE LENS OF RAMANUJAN GRAPH [[paper](https://iclr.cc/virtual/2023/poster/11541)]
+
+- Learning to Jointly Share and Prune Weights for Grounding Based Vision and Language Models [[paper](https://iclr.cc/virtual/2023/poster/11958)]
 
 
 ## ICCV-2023
@@ -284,6 +367,26 @@
 - When To Prune? A Policy Towards Early Structural Pruning [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Shen_When_To_Prune_A_Policy_Towards_Early_Structural_Pruning_CVPR_2022_paper.html)] [[paper with code](https://paperswithcode.com/paper/when-to-prune-a-policy-towards-early)]
 
 
+## ICLR-2022
+
+
+- Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions [[paper](https://iclr.cc/virtual/2022/poster/6611)] [[paper with code](https://paperswithcode.com/paper/revisit-kernel-pruning-with-lottery-regulated)] [[code](https://github.com/choH/lottery_regulated_grouped_kernel_pruning)] [[openreview](https://openreview.net/forum?id=LdEhiMG9WLO)]
+
+- The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training [[paper](https://iclr.cc/virtual/2022/poster/6925)] [[arxiv](https://arxiv.org/abs/2202.02643)] [[paper with code](https://paperswithcode.com/paper/the-unreasonable-effectiveness-of-random-1)] [[code](https://github.com/vita-group/random_pruning)] [[openreview](https://openreview.net/forum?id=VBZJ_3tz-t)]
+
+- SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning [[paper](https://iclr.cc/virtual/2022/poster/7189)] [[arxiv](https://arxiv.org/abs/2110.11395)] [[paper with code](https://paperswithcode.com/paper/sosp-efficiently-capturing-global-1)] [[code](https://github.com/boschresearch/sosp)] [[openreview](https://openreview.net/forum?id=sUgpxb9QD)]
+
+- Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients [[paper](https://iclr.cc/virtual/2022/poster/6758)] [[arxiv](https://arxiv.org/abs/2202.08132)] [[paper with code](https://paperswithcode.com/paper/prospect-pruning-finding-trainable-weights-at-1)] [[code](https://github.com/mil-ad/prospr)] [[openreview](https://openreview.net/forum?id=AIgn9uwfcD1)]
+
+- An Operator Theoretic View On Pruning Deep Neural Networks [[paper](https://iclr.cc/virtual/2022/poster/6940)] [[arxiv](https://arxiv.org/abs/2110.14856)] [[paper with code](https://paperswithcode.com/paper/an-operator-theoretic-perspective-on-pruning)] [[openreview](https://openreview.net/forum?id=pWBNOgdeURp)]
+
+- Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning [[paper](https://iclr.cc/virtual/2022/poster/5963)] [[paper with code](https://paperswithcode.com/paper/learning-efficient-image-super-resolution)] [[openreview](https://openreview.net/forum?id=AjGC97Aofee)]
+
+- Effective Model Sparsification by Scheduled Grow-and-Prune Methods [[paper](https://iclr.cc/virtual/2022/poster/6315)] [[arxiv](https://arxiv.org/abs/2106.09857)] [[paper with code](https://paperswithcode.com/paper/effective-model-sparsification-by-scheduled)] [[code](https://github.com/boone891214/gap)] [[openreview](https://openreview.net/forum?id=xa6otUDdP2W)]
+
+- Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, And No Retraining [[paper](https://iclr.cc/virtual/2022/poster/6158)] [[paper with code](https://paperswithcode.com/paper/learning-pruning-friendly-networks-via-frank)] [[code](https://github.com/VITA-Group/SFW-Once-for-All-Pruning)] [[openreview](https://openreview.net/forum?id=O1DEtITim__)]
+
+
 ## ECCV-2022
 
 
@@ -412,6 +515,26 @@
 - Joint-DetNAS: Upgrade Your Detector With NAS, Pruning and Dynamic Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yao_Joint-DetNAS_Upgrade_Your_Detector_With_NAS_Pruning_and_Dynamic_Distillation_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2105.12971)] [[paper with code](https://paperswithcode.com/paper/joint-detnas-upgrade-your-detector-with-nas)]
 
 
+## ICLR-2021
+
+
+- Pruning Neural Networks at Initialization: Why Are We Missing the Mark? [[paper](https://iclr.cc/virtual/2021/poster/3159)] [[paper with code](https://paperswithcode.com/paper/pruning-neural-networks-at-initialization-why)] [[openreview](https://openreview.net/forum?id=Ig-VyQc-MLK)]
+
+- Layer-adaptive Sparsity for the Magnitude-based Pruning [[paper](https://iclr.cc/virtual/2021/poster/3108)] [[arxiv](https://arxiv.org/abs/2010.07611)] [[paper with code](https://paperswithcode.com/paper/a-deeper-look-at-the-layerwise-sparsity-of-1)] [[code](https://github.com/jaeho-lee/layer-adaptive-sparsity)] [[openreview](https://openreview.net/forum?id=H6ATjJ0TKdf)]
+
+- Robust Pruning at Initialization [[paper](https://iclr.cc/virtual/2021/poster/2902)] [[arxiv](https://arxiv.org/abs/2202.01341)]
+
+- A Gradient Flow Framework For Analyzing Network Pruning [[paper](https://iclr.cc/virtual/2021/poster/3215)] [[arxiv](https://arxiv.org/abs/2009.11839)] [[paper with code](https://paperswithcode.com/paper/a-gradient-flow-framework-for-analyzing)] [[code](https://github.com/EkdeepSLubana/flowandprune)] [[openreview](https://openreview.net/forum?id=rumv7QmLUue)]
+
+- Network Pruning That Matters:  A Case Study on Retraining Variants [[paper](https://iclr.cc/virtual/2021/poster/2991)] [[arxiv](https://arxiv.org/abs/2105.03193)]
+
+- ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations [[paper](https://iclr.cc/virtual/2021/poster/2768)] [[arxiv](https://arxiv.org/abs/2102.07156)] [[paper with code](https://paperswithcode.com/paper/chipnet-budget-aware-pruning-with-heaviside-1)] [[code](https://github.com/transmuteAI/ChipNet)] [[openreview](https://openreview.net/forum?id=xCxXwTzx4L1)]
+
+- Neural Pruning via Growing Regularization [[paper](https://iclr.cc/virtual/2021/poster/2526)] [[arxiv](https://arxiv.org/abs/2012.09243)] [[paper with code](https://paperswithcode.com/paper/neural-pruning-via-growing-regularization-1)] [[code](https://github.com/mingsun-tse/regularization-pruning)] [[openreview](https://openreview.net/forum?id=o966_Is_nPA)]
+
+- Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network [[paper](https://iclr.cc/virtual/2021/poster/3050)] [[arxiv](https://arxiv.org/abs/2103.09377)] [[paper with code](https://paperswithcode.com/paper/multi-prize-lottery-ticket-hypothesis-finding-1)] [[code](https://github.com/chrundle/biprop)]
+
+
 ## ICCV-2021
 
 
@@ -535,6 +658,28 @@
 - Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2003.08935)] [[paper with code](https://paperswithcode.com/paper/group-sparsity-the-hinge-between-filter)] [[code](https://github.com/ofsoundof/group_sparsity)]
 
 
+## ICLR-2020
+
+
+- Comparing Rewinding and Fine-tuning in Neural Network Pruning [[paper](https://iclr.cc/virtual/2020/poster/1969)] [[arxiv](https://arxiv.org/abs/2109.09670)] [[paper with code](https://paperswithcode.com/paper/comparing-rewinding-and-fine-tuning-in-neural)] [[code](https://github.com/lottery-ticket/rewinding-iclr20-public)] [[openreview](https://openreview.net/forum?id=S1gSj0NKvB)]
+
+- Data-Independent Neural Pruning via Coresets [[paper](https://iclr.cc/virtual/2020/poster/1817)] [[arxiv](https://arxiv.org/abs/2008.08316)] [[paper with code](https://paperswithcode.com/paper/on-activation-function-coresets-for-network)] [[openreview](https://openreview.net/forum?id=H1gmHaEKwB)]
+
+- One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation [[paper](https://iclr.cc/virtual/2020/poster/1554)] [[arxiv](https://arxiv.org/abs/1912.00120)] [[paper with code](https://paperswithcode.com/paper/one-shot-pruning-of-recurrent-neural-networks-1)] [[openreview](https://openreview.net/forum?id=r1e9GCNKvH)]
+
+- Provable Filter Pruning for Efficient Neural Networks [[paper](https://iclr.cc/virtual/2020/poster/2051)] [[arxiv](https://arxiv.org/abs/1911.07412)] [[paper with code](https://paperswithcode.com/paper/provable-filter-pruning-for-efficient-neural-1)] [[code](https://github.com/lucaslie/provable_pruning)] [[openreview](https://openreview.net/forum?id=BJxkOlSYDH)]
+
+- A Signal Propagation Perspective for Pruning Neural Networks at Initialization [[paper](https://iclr.cc/virtual/2020/poster/1807)] [[arxiv](https://arxiv.org/abs/1906.06307)] [[paper with code](https://paperswithcode.com/paper/a-signal-propagation-perspective-for-pruning)] [[code](https://github.com/namhoonlee/spp-public)] [[openreview](https://openreview.net/forum?id=HJeTo2VFwH)]
+
+- Dynamic Model Pruning with Feedback [[paper](https://iclr.cc/virtual/2020/poster/1702)] [[arxiv](https://arxiv.org/abs/2006.07253)] [[paper with code](https://paperswithcode.com/paper/dynamic-model-pruning-with-feedback-1)] [[openreview](https://openreview.net/forum?id=SJem8lSFwB)]
+
+- Lookahead: A Far-sighted Alternative of Magnitude-based Pruning [[paper](https://iclr.cc/virtual/2020/poster/1943)] [[arxiv](https://arxiv.org/abs/2002.04809)] [[paper with code](https://paperswithcode.com/paper/lookahead-a-far-sighted-alternative-of-1)] [[code](https://github.com/alinlab/lookahead_pruning)] [[openreview](https://openreview.net/forum?id=ryl3ygHYDB)]
+
+- Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning [[paper](https://iclr.cc/virtual/2020/poster/2081)] [[arxiv](https://arxiv.org/abs/1909.11334)] [[paper with code](https://paperswithcode.com/paper/dynamically-pruned-message-passing-networks)] [[code](https://github.com/netpaladinx/DPMPN)] [[openreview](https://openreview.net/forum?id=rkeuAhVKvB)]
+
+- Pruned Graph Scattering Transforms [[paper](https://iclr.cc/virtual/2020/poster/1579)] [[arxiv](https://arxiv.org/abs/2001.09882)] [[paper with code](https://paperswithcode.com/paper/pruned-graph-scattering-transforms)] [[openreview](https://openreview.net/forum?id=rJeg7TEYwB)]
+
+
 ## ECCV-2020
 
 
@@ -649,6 +794,16 @@
 - Importance Estimation for Neural Network Pruning [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Molchanov_Importance_Estimation_for_Neural_Network_Pruning_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2310.20203)] [[paper with code](https://paperswithcode.com/paper/importance-estimation-for-neural-network-1)] [[code](https://github.com/NVlabs/Taylor_pruning)]
 
 
+## ICLR-2019
+
+
+- Dynamic Channel Pruning: Feature Boosting and Suppression [[paper](https://openreview.net/forum?id=BJxh2j0qYm)] [[arxiv](https://arxiv.org/abs/1810.05331)] [[paper with code](https://paperswithcode.com/paper/dynamic-channel-pruning-feature-boosting-and)] [[code](https://github.com/deep-fry/mayo)] [[openreview](https://openreview.net/forum?id=BJxh2j0qYm)]
+
+- Rethinking the Value of Network Pruning [[paper](https://openreview.net/forum?id=rJlnB3C5Ym)] [[arxiv](https://arxiv.org/abs/1810.05270)] [[paper with code](https://paperswithcode.com/paper/rethinking-the-value-of-network-pruning)] [[code](https://github.com/Eric-mingjie/rethinking-network-pruning)] [[openreview](https://openreview.net/forum?id=rJlnB3C5Ym)]
+
+- SNIP: SINGLE-SHOT NETWORK PRUNING BASED ON CONNECTION SENSITIVITY [[paper](https://openreview.net/forum?id=B1VZqjAcYX)] [[arxiv](https://arxiv.org/abs/1810.02340)] [[paper with code](https://paperswithcode.com/paper/snip-single-shot-network-pruning-based-on)] [[code](https://github.com/namhoonlee/snip-public)] [[openreview](https://openreview.net/forum?id=B1VZqjAcYX)]
+
+
 ## ICCV-2019
 
 
@@ -720,6 +875,16 @@
 - “Learning-Compression” Algorithms for Neural Net Pruning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.html)]
 
 - NISP: Pruning Networks Using Neuron Importance Score Propagation [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Yu_NISP_Pruning_Networks_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1711.05908)] [[paper with code](https://paperswithcode.com/paper/nisp-pruning-networks-using-neuron-importance)]
+
+
+## ICLR-2018
+
+
+- Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers [[paper](https://openreview.net/forum?id=HJ94fqApW)] [[arxiv](https://arxiv.org/abs/1802.00124)] [[paper with code](https://paperswithcode.com/paper/rethinking-the-smaller-norm-less-informative)] [[code](https://github.com/bobye/batchnorm_prune)] [[openreview](https://openreview.net/forum?id=HJ94fqApW)]
+
+- Stochastic Activation Pruning for Robust Adversarial Defense [[paper](https://openreview.net/forum?id=H1uR4GZRZ)] [[arxiv](https://arxiv.org/abs/1803.01442)] [[paper with code](https://paperswithcode.com/paper/stochastic-activation-pruning-for-robust)] [[code](https://github.com/Guneet-Dhillon/Stochastic-Activation-Pruning)] [[openreview](https://openreview.net/forum?id=H1uR4GZRZ)]
+
+- Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio [[paper](https://openreview.net/forum?id=S1D8MPxA-)] [[paper with code](https://paperswithcode.com/paper/viterbi-based-pruning-for-sparse-matrix-with)] [[openreview](https://openreview.net/forum?id=S1D8MPxA-)]
 
 
 ## ECCV-2018

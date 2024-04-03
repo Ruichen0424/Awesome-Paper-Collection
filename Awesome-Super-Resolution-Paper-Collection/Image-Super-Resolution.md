@@ -1,6 +1,7 @@
 # Awesome Image-Super-Resolution Paper Collection
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -13,6 +14,7 @@
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [IJCAI](#ijcai-2022)
@@ -46,6 +48,14 @@
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/19196)] [[arxiv](https://arxiv.org/abs/2305.15357)] [[paper with code](https://paperswithcode.com/paper/solving-diffusion-odes-with-optimal-boundary)]
+
+- Recursive Generalization Transformer for Image Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/17801)] [[arxiv](https://arxiv.org/abs/2303.06373)] [[paper with code](https://paperswithcode.com/paper/recursive-generalization-transformer-for)] [[code](https://github.com/zhengchen1999/rgt)]
 
 
 ## AAAI-2024
@@ -236,6 +246,12 @@
 - A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_A_Text_Attention_Network_for_Spatial_Deformation_Robust_Scene_Text_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2203.09388)] [[paper with code](https://paperswithcode.com/paper/a-text-attention-network-for-spatial)] [[code](https://github.com/mjq11302010044/tatt)]
 
 - Deep Constrained Least Squares for Blind Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_Deep_Constrained_Least_Squares_for_Blind_Image_Super-Resolution_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2202.07508)] [[paper with code](https://paperswithcode.com/paper/deep-constrained-least-squares-for-blind)] [[code](https://github.com/megvii-research/dcls-sr)]
+
+
+## ICLR-2022
+
+
+- Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning [[paper](https://iclr.cc/virtual/2022/poster/5963)] [[paper with code](https://paperswithcode.com/paper/learning-efficient-image-super-resolution)] [[openreview](https://openreview.net/forum?id=AjGC97Aofee)]
 
 
 ## ECCV-2022
