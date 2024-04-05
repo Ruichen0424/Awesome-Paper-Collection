@@ -61,7 +61,7 @@
 
 - Lightweight Language Model Calibration for Open-ended Question Answering with Varied Answer Lengths [[paper](https://iclr.cc/virtual/2024/poster/18033)]
 
-- A Lightweight Method for Tackling Unknown Participation Statistics in Federated Averaging [[paper](https://iclr.cc/virtual/2024/poster/18403)] [[arxiv](https://arxiv.org/abs/2306.03401)] [[paper with code](https://paperswithcode.com/paper/a-lightweight-method-for-tackling-unknown)]
+- A Lightweight Method for Tackling Unknown Participation Statistics in Federated Averaging [[paper](https://iclr.cc/virtual/2024/poster/18403)] [[arxiv](https://arxiv.org/abs/2306.03401)] [[paper with code](https://paperswithcode.com/paper/a-lightweight-method-for-tackling-unknown)] [[openreview](https://openreview.net/forum?id=ZKEuFKfCKA)]
 
 
 ## AAAI-2024
@@ -79,15 +79,15 @@
 ## NeurIPS-2023
 
 
-- Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/03df5246cc78af497940338dd3eacbaa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.16697)] [[paper with code](https://paperswithcode.com/paper/neural-polarizer-a-lightweight-and-effective)] [[openview](https://openreview.net/forum?id=VFhN15Vlkj)]
+- Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/03df5246cc78af497940338dd3eacbaa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.16697)] [[paper with code](https://paperswithcode.com/paper/neural-polarizer-a-lightweight-and-effective)] [[openreview](https://openreview.net/forum?id=VFhN15Vlkj)]
 
-- Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/796455f65fd2cbe049112a2d2d4488cb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.05031)] [[paper with code](https://paperswithcode.com/paper/generalizable-lightweight-proxy-for-robust)] [[code](https://github.com/hyeonjeongha/croze)] [[openview](https://openreview.net/forum?id=ZZWg9jJQ1j)]
+- Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/796455f65fd2cbe049112a2d2d4488cb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.05031)] [[paper with code](https://paperswithcode.com/paper/generalizable-lightweight-proxy-for-robust)] [[code](https://github.com/hyeonjeongha/croze)] [[openreview](https://openreview.net/forum?id=ZZWg9jJQ1j)]
 
-- Slimmed Asymmetrical Contrastive Learning and Cross Distillation for Lightweight Model Training [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8393d955a00c463a982cefe77d0404e1-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/slimmed-asymmetrical-contrastive-learning-and)] [[code](https://github.com/mengjian0502/sacl-xd)] [[openview](https://openreview.net/forum?id=mOVEJletyD)]
+- Slimmed Asymmetrical Contrastive Learning and Cross Distillation for Lightweight Model Training [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8393d955a00c463a982cefe77d0404e1-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/slimmed-asymmetrical-contrastive-learning-and)] [[code](https://github.com/mengjian0502/sacl-xd)] [[openreview](https://openreview.net/forum?id=mOVEJletyD)]
 
-- SUPA: A Lightweight Diagnostic Simulator for Machine Learning in Particle Physics [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cca79c22037280d066fbd8bc35ac2e72-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2202.05012)]
+- SUPA: A Lightweight Diagnostic Simulator for Machine Learning in Particle Physics [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cca79c22037280d066fbd8bc35ac2e72-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2202.05012)] [[openreview](https://openreview.net/forum?id=msWIK6SKBK)]
 
-- Object Reprojection Error (ORE): Camera pose benchmarks from lightweight tracking annotations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/eb206443c93d07da8b1974b768d8a0d4-Abstract-Datasets_and_Benchmarks.html)]
+- Object Reprojection Error (ORE): Camera pose benchmarks from lightweight tracking annotations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/eb206443c93d07da8b1974b768d8a0d4-Abstract-Datasets_and_Benchmarks.html)] [[openreview](https://openreview.net/forum?id=cuheT1BAp4)]
 
 
 ## CVPR-2023
@@ -113,9 +113,9 @@
 ## ICLR-2023
 
 
-- Towards Lightweight, Model-Agnostic and Diversity-Aware Active Anomaly Detection [[paper](https://iclr.cc/virtual/2023/poster/11672)]
+- Towards Lightweight, Model-Agnostic and Diversity-Aware Active Anomaly Detection [[paper](https://iclr.cc/virtual/2023/poster/11672)] [[openreview](https://openreview.net/forum?id=-vKlt84fHs)]
 
-- LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification [[paper](https://iclr.cc/virtual/2023/poster/11516)] [[arxiv](https://arxiv.org/abs/2204.02965)] [[paper with code](https://paperswithcode.com/paper/lilnetx-lightweight-networks-with-extreme)] [[code](https://github.com/sharath-girish/lilnetx)]
+- LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification [[paper](https://iclr.cc/virtual/2023/poster/11516)] [[arxiv](https://arxiv.org/abs/2204.02965)] [[paper with code](https://paperswithcode.com/paper/lilnetx-lightweight-networks-with-extreme)] [[code](https://github.com/sharath-girish/lilnetx)] [[openreview](https://openreview.net/forum?id=NVZvalzCLg)]
 
 
 ## ICCV-2023
@@ -147,13 +147,13 @@
 
 - On Prefix-tuning for Lightweight Out-of-distribution Detection [[paper](https://aclanthology.org/2023.acl-long.85/)]
 
-- GreenKGC: A Lightweight Knowledge Graph Completion MethodYun  [[paper](https://aclanthology.org/2023.acl-long.591/)]
+- GreenKGC: A Lightweight Knowledge Graph Completion MethodYun [[paper](https://aclanthology.org/2023.acl-long.591/)]
 
 
 ## IJCAI-2023
 
 
-- PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird’s-Eye View [[paper](https://www.ijcai.org/proceedings/2023/120)] [[arxiv](https://arxiv.org/abs/2306.10761)]
+- PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird's-Eye View [[paper](https://www.ijcai.org/proceedings/2023/120)] [[arxiv](https://arxiv.org/abs/2306.10761)]
 
 - LGPConv: Learnable Gaussian Perturbation Convolution for Lightweight Pansharpening [[paper](https://www.ijcai.org/proceedings/2023/517)]
 
@@ -175,7 +175,7 @@
 ## NeurIPS-2022
 
 
-- Towards Lightweight Black-Box Attack Against Deep Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a9745f251508a053425a256490b0665-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.14826)]
+- Towards Lightweight Black-Box Attack Against Deep Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a9745f251508a053425a256490b0665-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.14826)] [[openreview](https://openreview.net/forum?id=Gpqqm4p91Ez)]
 
 
 ## CVPR-2022
@@ -309,13 +309,13 @@
 ## ECCV-2020
 
 
-- Thanks for Nothing: Predicting Zero-Valued Activations with Lightweight Convolutional Neural Networks  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1046_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1909.07636)]
+- Thanks for Nothing: Predicting Zero-Valued Activations with Lightweight Convolutional Neural Networks [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1046_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1909.07636)]
 
-- LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4035_ECCV_2020_paper.php)]
+- LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4035_ECCV_2020_paper.php)]
 
-- DBQ: A Differentiable Branch Quantizer for Lightweight Deep Neural Networks  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5625_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09818)]
+- DBQ: A Differentiable Branch Quantizer for Lightweight Deep Neural Networks [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5625_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09818)]
 
-- MABNet: A Lightweight Stereo Network Based on Multibranch Adjustable Bottleneck Module  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6153_ECCV_2020_paper.php)]
+- MABNet: A Lightweight Stereo Network Based on Multibranch Adjustable Bottleneck Module [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6153_ECCV_2020_paper.php)]
 
 
 ## AAAI-2020

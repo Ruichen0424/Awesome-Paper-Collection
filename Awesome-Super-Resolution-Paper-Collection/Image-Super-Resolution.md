@@ -53,9 +53,9 @@
 ## ICLR-2024
 
 
-- Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/19196)] [[arxiv](https://arxiv.org/abs/2305.15357)] [[paper with code](https://paperswithcode.com/paper/solving-diffusion-odes-with-optimal-boundary)]
+- Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/19196)] [[arxiv](https://arxiv.org/abs/2305.15357)] [[paper with code](https://paperswithcode.com/paper/solving-diffusion-odes-with-optimal-boundary)] [[openreview](https://openreview.net/forum?id=BtT6o5tfHu)]
 
-- Recursive Generalization Transformer for Image Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/17801)] [[arxiv](https://arxiv.org/abs/2303.06373)] [[paper with code](https://paperswithcode.com/paper/recursive-generalization-transformer-for)] [[code](https://github.com/zhengchen1999/rgt)]
+- Recursive Generalization Transformer for Image Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/17801)] [[arxiv](https://arxiv.org/abs/2303.06373)] [[paper with code](https://paperswithcode.com/paper/recursive-generalization-transformer-for)] [[code](https://github.com/zhengchen1999/rgt)] [[openreview](https://openreview.net/forum?id=owziuM1nsR)]
 
 
 ## AAAI-2024
@@ -101,15 +101,15 @@
 ## NeurIPS-2023
 
 
-- ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2ac2eac5098dba08208807b65c5851cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.12348)] [[paper with code](https://paperswithcode.com/paper/resshift-efficient-diffusion-model-for-image-1)] [[code](https://github.com/zsyoaoa/resshift)] [[openview](https://openreview.net/forum?id=ZIyAHaLlsn)]
+- ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2ac2eac5098dba08208807b65c5851cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.12348)] [[paper with code](https://paperswithcode.com/paper/resshift-efficient-diffusion-model-for-image-1)] [[code](https://github.com/zsyoaoa/resshift)] [[openreview](https://openreview.net/forum?id=ZIyAHaLlsn)]
 
-- Real-World Image Super-Resolution as Multi-Task Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/42806406dd99e30c3796bc98b2670fa2-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/real-world-image-super-resolution-as-multi)] [[code](https://github.com/xpixelgroup/tgsr)] [[openview](https://openreview.net/forum?id=8SCz56sUGP)]
+- Real-World Image Super-Resolution as Multi-Task Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/42806406dd99e30c3796bc98b2670fa2-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/real-world-image-super-resolution-as-multi)] [[code](https://github.com/xpixelgroup/tgsr)] [[openreview](https://openreview.net/forum?id=8SCz56sUGP)]
 
-- AND: Adversarial Neural Degradation for Learning Blind Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/42eb37cdbefd7abae0835f4b67548c39-Abstract-Conference.html)]
+- AND: Adversarial Neural Degradation for Learning Blind Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/42eb37cdbefd7abae0835f4b67548c39-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=s8QsYV1VZ2)]
 
-- Learning Re-sampling Methods with Parameter Attribution for Image Super-resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8434e0db3227276c00ef2b18c7f01c65-Abstract-Conference.html)]
+- Learning Re-sampling Methods with Parameter Attribution for Image Super-resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8434e0db3227276c00ef2b18c7f01c65-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=f7wFwPJwBe)]
 
-- QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b2169d573d75ff90c7b12dc3a5fc2898-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/quantsr-accurate-low-bit-quantization-for)] [[code](https://github.com/htqin/quantsr)] [[openview](https://openreview.net/forum?id=3gamyee9Yh)]
+- QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b2169d573d75ff90c7b12dc3a5fc2898-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/quantsr-accurate-low-bit-quantization-for)] [[code](https://github.com/htqin/quantsr)] [[openreview](https://openreview.net/forum?id=3gamyee9Yh)]
 
 
 ## CVPR-2023
@@ -221,9 +221,9 @@
 ## NeurIPS-2022
 
 
-- ShuffleMixer: An Efficient ConvNet for Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6e60a9023d2c63f7f0856910129ae753-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15175)] [[paper with code](https://paperswithcode.com/paper/shufflemixer-an-efficient-convnet-for-image)] [[code](https://github.com/sunny2109/mobilesr-ntire2022)]
+- ShuffleMixer: An Efficient ConvNet for Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6e60a9023d2c63f7f0856910129ae753-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15175)] [[paper with code](https://paperswithcode.com/paper/shufflemixer-an-efficient-convnet-for-image)] [[code](https://github.com/sunny2109/mobilesr-ntire2022)] [[openreview](https://openreview.net/forum?id=ZK6lzx0jqdZ)]
 
-- Open High-Resolution Satellite Imagery: The WorldStrat Dataset – With Application to Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a6fe99561d9eb9c90b322afe664587fd-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2207.06418)]
+- Open High-Resolution Satellite Imagery: The WorldStrat Dataset – With Application to Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a6fe99561d9eb9c90b322afe664587fd-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2207.06418)] [[openreview](https://openreview.net/forum?id=DEigo9L8xZA)]
 
 
 ## CVPR-2022
@@ -329,15 +329,15 @@
 ## NeurIPS-2021
 
 
-- Aligned Structured Sparsity Learning for Efficient Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/15de21c670ae7c3f6f3f1f37029303c9-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/aligned-structured-sparsity-learning-for)] [[code](https://github.com/mingsun-tse/assl)] [[openview](https://openreview.net/forum?id=o4t543Oon5G)]
+- Aligned Structured Sparsity Learning for Efficient Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/15de21c670ae7c3f6f3f1f37029303c9-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/aligned-structured-sparsity-learning-for)] [[code](https://github.com/mingsun-tse/assl)] [[openreview](https://openreview.net/forum?id=o4t543Oon5G)]
 
-- Implicit Transformer Network for Screen Content Image Continuous Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6e7d5d259be7bf56ed79029c4e621f44-Abstract.html)] [[arxiv](https://arxiv.org/abs/2210.08812)] [[paper with code](https://paperswithcode.com/paper/implicit-transformer-network-for-screen-1)] [[code](https://github.com/codyshen0000/itsrn)]
+- Implicit Transformer Network for Screen Content Image Continuous Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6e7d5d259be7bf56ed79029c4e621f44-Abstract.html)] [[arxiv](https://arxiv.org/abs/2112.06174)] [[paper with code](https://paperswithcode.com/paper/implicit-transformer-network-for-screen-1)] [[code](https://github.com/codyshen0000/itsrn)] [[openreview](https://openreview.net/forum?id=x4t0fxWPNdi)]
 
-- Uncertainty-Driven Loss for Single Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/88a199611ac2b85bd3f76e8ee7e55650-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/uncertainty-driven-loss-for-single-image)] [[openview](https://openreview.net/forum?id=WA39qkJvLi)]
+- Uncertainty-Driven Loss for Single Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/88a199611ac2b85bd3f76e8ee7e55650-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/uncertainty-driven-loss-for-single-image)] [[openreview](https://openreview.net/forum?id=WA39qkJvLi)]
 
-- Spectrum-to-Kernel Translation for Accurate Blind Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/bf25356fd2a6e038f1a3a59c26687e80-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.12151)] [[paper with code](https://paperswithcode.com/paper/spectrum-to-kernel-translation-for-accurate)]
+- Spectrum-to-Kernel Translation for Accurate Blind Image Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/bf25356fd2a6e038f1a3a59c26687e80-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.12151)] [[paper with code](https://paperswithcode.com/paper/spectrum-to-kernel-translation-for-accurate)] [[openreview](https://openreview.net/forum?id=94Sj1CcC_Jl)]
 
-- Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ead81fe8cfe9fda9e4c2093e17e4d024-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.11485)] [[paper with code](https://paperswithcode.com/paper/spatial-temporal-super-resolution-of)] [[code](https://github.com/KellyYutongHe/satellite-pixel-synthesis-pytorch)]
+- Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ead81fe8cfe9fda9e4c2093e17e4d024-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.11485)] [[paper with code](https://paperswithcode.com/paper/spatial-temporal-super-resolution-of)] [[code](https://github.com/KellyYutongHe/satellite-pixel-synthesis-pytorch)] [[openreview](https://openreview.net/forum?id=IKz9uYkf3vZ)]
 
 
 ## CVPR-2021
@@ -424,7 +424,7 @@
 ## CVPR-2020
 
 
-- Deep Unfolding Network for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Unfolding_Network_for_Image_Super-Resolution_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2403.09096)] [[paper with code](https://paperswithcode.com/paper/deep-unfolding-network-for-image-super)] [[code](https://github.com/cszn/USRNet)]
+- Deep Unfolding Network for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Unfolding_Network_for_Image_Super-Resolution_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2003.10428)] [[paper with code](https://paperswithcode.com/paper/deep-unfolding-network-for-image-super)] [[code](https://github.com/cszn/USRNet)]
 
 - Residual Feature Aggregation Network for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.html)] [[paper with code](https://paperswithcode.com/paper/residual-feature-aggregation-network-for)]
 
@@ -448,23 +448,23 @@
 ## ECCV-2020
 
 
-- Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1761_ECCV_2020_paper.php)]
+- Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1761_ECCV_2020_paper.php)]
 
-- Component Divide-and-Conquer for Real-World Image Super-Resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/471_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.01928)]
+- Component Divide-and-Conquer for Real-World Image Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/471_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.01928)]
 
-- Scene Text Image Super-resolution in the wild  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2005.03341)]
+- Scene Text Image Super-resolution in the wild [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2005.03341)]
 
-- Single Image Super-Resolution via a Holistic Attention Network  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1520_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.08767)]
+- Single Image Super-Resolution via a Holistic Attention Network [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1520_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.08767)]
 
-- Zero-Shot Image Super-Resolution with Depth Guided Internal Degradation Learning  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2721_ECCV_2020_paper.php)]
+- Zero-Shot Image Super-Resolution with Depth Guided Internal Degradation Learning [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2721_ECCV_2020_paper.php)]
 
-- LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4035_ECCV_2020_paper.php)]
+- LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4035_ECCV_2020_paper.php)]
 
-- Spatial-Angular Interaction for Light Field Image Super-Resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4306_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.07849)]
+- Spatial-Angular Interaction for Light Field Image Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4306_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.07849)]
 
-- VarSR: Variational Super-Resolution Network for Very Low Resolution Images  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4350_ECCV_2020_paper.php)]
+- VarSR: Variational Super-Resolution Network for Very Low Resolution Images [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4350_ECCV_2020_paper.php)]
 
-- Learning with Privileged Information for Efficient Image Super-Resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4644_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.07524)]
+- Learning with Privileged Information for Efficient Image Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4644_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.07524)]
 
 
 
@@ -495,7 +495,7 @@
 
 - ODE-Inspired Network Design for Single Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)] [[paper with code](https://paperswithcode.com/paper/ode-inspired-network-design-for-single-image)]
 
-- Feedback Network for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Feedback_Network_for_Image_Super-Resolution_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2106.06966)] [[paper with code](https://paperswithcode.com/paper/feedback-network-for-image-super-resolution)] [[code](https://github.com/Paper99/SRFBN_CVPR19)]
+- Feedback Network for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Feedback_Network_for_Image_Super-Resolution_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1903.09814)] [[paper with code](https://paperswithcode.com/paper/feedback-network-for-image-super-resolution)] [[code](https://github.com/Paper99/SRFBN_CVPR19)]
 
 - Image Super-Resolution by Neural Texture Transfer [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1903.00834)] [[paper with code](https://paperswithcode.com/paper/image-super-resolution-by-neural-texture)] [[code](https://github.com/ZZUTK/SRNTT)]
 
@@ -547,7 +547,7 @@
 
 - Image Super-Resolution via Dual-State Recurrent Networks [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Han_Image_Super-Resolution_via_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1805.02704)] [[paper with code](https://paperswithcode.com/paper/image-super-resolution-via-dual-state)] [[code](https://github.com/WeiHan3/dsrn)]
 
-- Residual Dense Network for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Residual_Dense_Network_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/2304.10870)] [[paper with code](https://paperswithcode.com/paper/residual-dense-network-for-image-super)] [[code](https://github.com/yulunzhang/RDN)]
+- Residual Dense Network for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Residual_Dense_Network_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1802.08797)] [[paper with code](https://paperswithcode.com/paper/residual-dense-network-for-image-super)] [[code](https://github.com/yulunzhang/RDN)]
 
 - Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Qu_Unsupervised_Sparse_Dirichlet-Net_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1804.05042)] [[paper with code](https://paperswithcode.com/paper/unsupervised-sparse-dirichlet-net-for)]
 

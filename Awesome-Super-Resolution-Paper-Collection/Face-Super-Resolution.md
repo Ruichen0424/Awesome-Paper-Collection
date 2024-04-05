@@ -54,7 +54,7 @@
 ## IJCAI-2023
 
 
-- Learning Attention from Attention:  Efficient Self-Refinement Transformer for Face Super-Resolution [[paper](https://www.ijcai.org/proceedings/2023/115)]
+- Learning Attention from Attention: Efficient Self-Refinement Transformer for Face Super-Resolution [[paper](https://www.ijcai.org/proceedings/2023/115)]
 
 
 # 2022
@@ -86,7 +86,7 @@
 ## ECCV-2020
 
 
-- Face Super-Resolution Guided by 3D Facial Priors  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2755_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09454)]
+- Face Super-Resolution Guided by 3D Facial Priors [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2755_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09454)]
 
 
 ## AAAI-2020

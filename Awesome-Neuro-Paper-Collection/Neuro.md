@@ -69,37 +69,37 @@
 ## ICLR-2024
 
 
-- Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization [[paper](https://iclr.cc/virtual/2024/poster/18606)] [[arxiv](https://arxiv.org/abs/2306.02879)] [[paper with code](https://paperswithcode.com/paper/neuron-activation-coverage-rethinking-out-of)] [[code](https://github.com/bierone/ood_coverage)]
+- Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization [[paper](https://iclr.cc/virtual/2024/poster/18606)] [[arxiv](https://arxiv.org/abs/2306.02879)] [[paper with code](https://paperswithcode.com/paper/neuron-activation-coverage-rethinking-out-of)] [[code](https://github.com/bierone/ood_coverage)] [[openreview](https://openreview.net/forum?id=SNGXbZtK6Q)]
 
 - Neurosymbolic Grounding for Compositional Generalization [[paper](https://iclr.cc/virtual/2024/poster/19472)]
 
-- NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/17641)] [[arxiv](https://arxiv.org/abs/2110.14053)] [[paper with code](https://paperswithcode.com/paper/improving-sat-solving-with-graph-neural)]
+- NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/17641)] [[arxiv](https://arxiv.org/abs/2110.14053)] [[paper with code](https://paperswithcode.com/paper/improving-sat-solving-with-graph-neural)] [[openreview](https://openreview.net/forum?id=samyfu6G93)]
 
-- The Expressive Leaky Memory Neuron: an Efficient and Expressive Phenomenological Neuron Model Can Solve Long-Horizon Tasks. [[paper](https://iclr.cc/virtual/2024/poster/17545)] [[arxiv](https://arxiv.org/abs/2306.16922)]
+- The Expressive Leaky Memory Neuron: an Efficient and Expressive Phenomenological Neuron Model Can Solve Long-Horizon Tasks [[paper](https://iclr.cc/virtual/2024/poster/17545)] [[arxiv](https://arxiv.org/abs/2306.16922)] [[openreview](https://openreview.net/forum?id=vE1e1mLJ0U)]
 
-- LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic Constraints [[paper](https://iclr.cc/virtual/2024/poster/19220)] [[arxiv](https://arxiv.org/abs/2309.15458)] [[paper with code](https://paperswithcode.com/paper/logicmp-a-neuro-symbolic-approach-for)]
+- LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic Constraints [[paper](https://iclr.cc/virtual/2024/poster/19220)] [[arxiv](https://arxiv.org/abs/2309.15458)] [[paper with code](https://paperswithcode.com/paper/logicmp-a-neuro-symbolic-approach-for)] [[openreview](https://openreview.net/forum?id=BLGQ3oqldb)]
 
-- Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules [[paper](https://iclr.cc/virtual/2024/poster/18827)] [[arxiv](https://arxiv.org/abs/2311.04901)]
+- Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules [[paper](https://iclr.cc/virtual/2024/poster/18827)] [[arxiv](https://arxiv.org/abs/2311.04901)] [[openreview](https://openreview.net/forum?id=MNShbDSxKH)]
 
-- Learning dynamic representations of the functional connectome in neurobiological networks [[paper](https://iclr.cc/virtual/2024/poster/18382)] [[arxiv](https://arxiv.org/abs/2402.14102)] [[paper with code](https://paperswithcode.com/paper/learning-dynamic-representations-of-the)] [[code](https://github.com/dyballa/dynamic-connectomes)]
+- Learning dynamic representations of the functional connectome in neurobiological networks [[paper](https://iclr.cc/virtual/2024/poster/18382)] [[arxiv](https://arxiv.org/abs/2402.14102)] [[paper with code](https://paperswithcode.com/paper/learning-dynamic-representations-of-the)] [[code](https://github.com/dyballa/dynamic-connectomes)] [[openreview](https://openreview.net/forum?id=ZwhHSOHMTM)]
 
-- What does the Knowledge Neuron Thesis Have to do with Knowledge? [[paper](https://iclr.cc/virtual/2024/poster/19556)]
+- What does the Knowledge Neuron Thesis Have to do with Knowledge? [[paper](https://iclr.cc/virtual/2024/poster/19556)] [[openreview](https://openreview.net/forum?id=2HJRwwbV3G)]
 
-- Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice [[paper](https://iclr.cc/virtual/2024/poster/17974)]
+- Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice [[paper](https://iclr.cc/virtual/2024/poster/17974)] [[openreview](https://openreview.net/forum?id=kPrxk6tUcg)]
 
-- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[paper](https://iclr.cc/virtual/2024/poster/19587)]
+- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[paper](https://iclr.cc/virtual/2024/poster/19587)] [[openreview](https://openreview.net/forum?id=1SIBN5Xyw7)]
 
-- The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Language Models [[paper](https://iclr.cc/virtual/2024/poster/18605)]
+- The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Language Models [[paper](https://iclr.cc/virtual/2024/poster/18605)] [[openreview](https://openreview.net/forum?id=SQGUDc9tC8)]
 
-- NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization [[paper](https://iclr.cc/virtual/2024/poster/19406)]
+- NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization [[paper](https://iclr.cc/virtual/2024/poster/19406)] [[openreview](https://openreview.net/forum?id=60lNoatp7u)]
 
-- Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning [[paper](https://iclr.cc/virtual/2024/poster/18409)]
+- Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning [[paper](https://iclr.cc/virtual/2024/poster/18409)] [[openreview](https://openreview.net/forum?id=Z9AZsU1Tju)]
 
-- Early Neuron Alignment in Two-layer ReLU Networks with Small Initialization [[paper](https://iclr.cc/virtual/2024/poster/18671)] [[arxiv](https://arxiv.org/abs/2307.12851)] [[paper with code](https://paperswithcode.com/paper/early-neuron-alignment-in-two-layer-relu)]
+- Early Neuron Alignment in Two-layer ReLU Networks with Small Initialization [[paper](https://iclr.cc/virtual/2024/poster/18671)] [[arxiv](https://arxiv.org/abs/2307.12851)] [[paper with code](https://paperswithcode.com/paper/early-neuron-alignment-in-two-layer-relu)] [[openreview](https://openreview.net/forum?id=QibPzdVrRu)]
 
-- Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data [[paper](https://iclr.cc/virtual/2024/poster/18486)] [[arxiv](https://arxiv.org/abs/2311.00136)] [[paper with code](https://paperswithcode.com/paper/neuroformer-multimodal-and-multitask)] [[code](https://github.com/a-antoniades/neuroformer)]
+- Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data [[paper](https://iclr.cc/virtual/2024/poster/18486)] [[arxiv](https://arxiv.org/abs/2311.00136)] [[paper with code](https://paperswithcode.com/paper/neuroformer-multimodal-and-multitask)] [[code](https://github.com/a-antoniades/neuroformer)] [[openreview](https://openreview.net/forum?id=W8S8SxS9Ng)]
 
-- Deep Geodesic Canonical Correlation Analysis for Covariance-Based Neuroimaging Data [[paper](https://iclr.cc/virtual/2024/poster/18694)]
+- Deep Geodesic Canonical Correlation Analysis for Covariance-Based Neuroimaging Data [[paper](https://iclr.cc/virtual/2024/poster/18694)] [[openreview](https://openreview.net/forum?id=PnR1MNen7u)]
 
 
 ## AAAI-2024
@@ -142,51 +142,51 @@
 ## NeurIPS-2023
 
 
-- AMAG: Additive, Multiplicative and Adaptive Graph Neural Network For Forecasting Neuron Activity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1c70ba3591d0694a535089e1c25888d7-Abstract-Conference.html)]
+- AMAG: Additive, Multiplicative and Adaptive Graph Neural Network For Forecasting Neuron Activity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1c70ba3591d0694a535089e1c25888d7-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=7ntI4kcoqG)]
 
-- NeuroGF: A Neural Representation for Fast Geodesic Distance and Path Queries [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e22abb329d44080460b0eb11bf21da1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00658)] [[paper with code](https://paperswithcode.com/paper/neurogf-a-neural-representation-for-fast-1)] [[code](https://github.com/keeganhk/neurogf)] [[openview](https://openreview.net/forum?id=cGdGh3Mp2W)]
+- NeuroGF: A Neural Representation for Fast Geodesic Distance and Path Queries [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e22abb329d44080460b0eb11bf21da1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00658)] [[paper with code](https://paperswithcode.com/paper/neurogf-a-neural-representation-for-fast-1)] [[code](https://github.com/keeganhk/neurogf)] [[openreview](https://openreview.net/forum?id=cGdGh3Mp2W)]
 
-- Learning threshold neurons via edge of stability [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e592c571de69a43d7a870ea89c7e33a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2212.07469)]
+- Learning threshold neurons via edge of stability [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e592c571de69a43d7a870ea89c7e33a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2212.07469)] [[openreview](https://openreview.net/forum?id=9cQ6kToLnJ)]
 
-- Neuro-symbolic Learning Yielding Logical Constraints [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4459c3c143db74ee52afebdf56836375-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/neuro-symbolic-learning-yielding-logical)] [[code](https://github.com/lizn-zn/nesy-programming)] [[openview](https://openreview.net/forum?id=2ioRi2uwLR)]
+- Neuro-symbolic Learning Yielding Logical Constraints [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4459c3c143db74ee52afebdf56836375-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/neuro-symbolic-learning-yielding-logical)] [[code](https://github.com/lizn-zn/nesy-programming)] [[openreview](https://openreview.net/forum?id=2ioRi2uwLR)]
 
-- Complex-valued Neurons Can Learn More but Slower than Real-valued Neurons via Gradient Descent [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ac4365b98bc242acd5ab974a05c68a8-Abstract-Conference.html)]
+- Complex-valued Neurons Can Learn More but Slower than Real-valued Neurons via Gradient Descent [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ac4365b98bc242acd5ab974a05c68a8-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=qA0uHmaVKk)]
 
-- Learning a Neuron by a Shallow ReLU Network: Dynamics and Implicit Bias for Correlated Inputs [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4af24e6ce753c181e703f3f0be3b5e20-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.06479)] [[paper with code](https://paperswithcode.com/paper/learning-a-neuron-by-a-shallow-relu-network)] [[openview](https://openreview.net/forum?id=xgY4QcOiEZ)]
+- Learning a Neuron by a Shallow ReLU Network: Dynamics and Implicit Bias for Correlated Inputs [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4af24e6ce753c181e703f3f0be3b5e20-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.06479)] [[paper with code](https://paperswithcode.com/paper/learning-a-neuron-by-a-shallow-relu-network)] [[openreview](https://openreview.net/forum?id=xgY4QcOiEZ)]
 
-- A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic Inference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4d9944ab3330fe6af8efb9260aa9f307-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2212.12393)] [[paper with code](https://paperswithcode.com/paper/a-nesi-a-scalable-approximate-method-for)] [[code](https://github.com/hemile/a-nesi)] [[openview](https://openreview.net/forum?id=chlTA9Cegc)]
+- A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic Inference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4d9944ab3330fe6af8efb9260aa9f307-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2212.12393)] [[paper with code](https://paperswithcode.com/paper/a-nesi-a-scalable-approximate-method-for)] [[code](https://github.com/hemile/a-nesi)] [[openreview](https://openreview.net/forum?id=chlTA9Cegc)]
 
-- Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)]
+- Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=bETvUctiTR)]
 
-- Rewiring Neurons in Non-Stationary Environments [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/599221d7ebf6b3403190f38a3f282a1c-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/rewiring-neurons-in-non-stationary)] [[code](https://github.com/feifeiobama/rewireneuron)] [[openview](https://openreview.net/forum?id=t7ozN4AXd0)]
+- Rewiring Neurons in Non-Stationary Environments [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/599221d7ebf6b3403190f38a3f282a1c-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/rewiring-neurons-in-non-stationary)] [[code](https://github.com/feifeiobama/rewireneuron)] [[openreview](https://openreview.net/forum?id=t7ozN4AXd0)]
 
-- GUST: Combinatorial Generalization by Unsupervised Grouping with Neuronal Coherence [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67d5c7dd7930dfce2725defdb0552b6e-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/gust-combinatorial-generalization-by)] [[code](https://github.com/monstersecond/gust)] [[openview](https://openreview.net/forum?id=90O5cvFZkZ)]
+- GUST: Combinatorial Generalization by Unsupervised Grouping with Neuronal Coherence [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67d5c7dd7930dfce2725defdb0552b6e-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/gust-combinatorial-generalization-by)] [[code](https://github.com/monstersecond/gust)] [[openreview](https://openreview.net/forum?id=90O5cvFZkZ)]
 
-- Uncovering motifs of concurrent signaling across multiple neuronal populations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6cf7a37e761f55b642cf0939b4c64bb8-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/uncovering-motifs-of-concurrent-signaling)] [[code](https://github.com/egokcen/mdlag)] [[openview](https://openreview.net/forum?id=u39QQh5L8Q)]
+- Uncovering motifs of concurrent signaling across multiple neuronal populations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6cf7a37e761f55b642cf0939b4c64bb8-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/uncovering-motifs-of-concurrent-signaling)] [[code](https://github.com/egokcen/mdlag)] [[openreview](https://openreview.net/forum?id=u39QQh5L8Q)]
 
-- Learning Time-Invariant Representations for Individual Neurons from Population Dynamics [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9032e5c9ec394ce768a2fa9bdc56af6c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.02258)] [[paper with code](https://paperswithcode.com/paper/learning-time-invariant-representations-for)] [[code](https://github.com/lumimim/neuprint)] [[openview](https://openreview.net/forum?id=EcN3l6Xmnx)]
+- Learning Time-Invariant Representations for Individual Neurons from Population Dynamics [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9032e5c9ec394ce768a2fa9bdc56af6c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.02258)] [[paper with code](https://paperswithcode.com/paper/learning-time-invariant-representations-for)] [[code](https://github.com/lumimim/neuprint)] [[openreview](https://openreview.net/forum?id=EcN3l6Xmnx)]
 
-- Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a4316bb210a59fb7aafeca5dd21c2703-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2402.10062)] [[paper with code](https://paperswithcode.com/paper/optimal-parameter-and-neuron-pruning-for-out-1)] [[openview](https://openreview.net/forum?id=TtCPFN5fhO)]
+- Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a4316bb210a59fb7aafeca5dd21c2703-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2402.10062)] [[paper with code](https://paperswithcode.com/paper/optimal-parameter-and-neuron-pruning-for-out-1)] [[openreview](https://openreview.net/forum?id=TtCPFN5fhO)]
 
-- Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2304.12760)] [[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] [[code](https://github.com/fangwei123456/parallel-spiking-neuron)] [[openview](https://openreview.net/forum?id=rfTFJvTkr2)]
+- Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2304.12760)] [[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] [[code](https://github.com/fangwei123456/parallel-spiking-neuron)] [[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
-- Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9f253c2758a323f9d2095f91de9a974-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.11390)] [[paper with code](https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation)] [[code](https://github.com/webstorms/blocks)] [[openview](https://openreview.net/forum?id=Ht79ZTVMsn)]
+- Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9f253c2758a323f9d2095f91de9a974-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.11390)] [[paper with code](https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation)] [[code](https://github.com/webstorms/blocks)] [[openreview](https://openreview.net/forum?id=Ht79ZTVMsn)]
 
-- Dis-inhibitory neuronal circuits can control the sign of synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca22641c182b3b9608634edb4d09bc33-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.19614)] [[paper with code](https://paperswithcode.com/paper/dis-inhibitory-neuronal-circuits-can-control)] [[code](https://github.com/fmi-basel/disinhibitory-control)] [[openview](https://openreview.net/forum?id=7otRtfrRqo)]
+- Dis-inhibitory neuronal circuits can control the sign of synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca22641c182b3b9608634edb4d09bc33-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.19614)] [[paper with code](https://paperswithcode.com/paper/dis-inhibitory-neuronal-circuits-can-control)] [[code](https://github.com/fmi-basel/disinhibitory-control)] [[openreview](https://openreview.net/forum?id=7otRtfrRqo)]
 
-- Towards a fuller understanding of neurons with Clustered Compositional Explanations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/debd0ae2083160397a22a4a8831c7230-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.18443)] [[paper with code](https://paperswithcode.com/paper/towards-a-fuller-understanding-of-neurons)] [[code](https://github.com/krlgroup/clustered-compositional-explanations)] [[openview](https://openreview.net/forum?id=51PLYhMFWz)]
+- Towards a fuller understanding of neurons with Clustered Compositional Explanations [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/debd0ae2083160397a22a4a8831c7230-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.18443)] [[paper with code](https://paperswithcode.com/paper/towards-a-fuller-understanding-of-neurons)] [[code](https://github.com/krlgroup/clustered-compositional-explanations)] [[openreview](https://openreview.net/forum?id=51PLYhMFWz)]
 
-- Not All Neuro-Symbolic Concepts Are Created Equal: Analysis and Mitigation of Reasoning Shortcuts [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e560202b6e779a82478edb46c6f8f4dd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.19951)] [[paper with code](https://paperswithcode.com/paper/not-all-neuro-symbolic-concepts-are-created)] [[code](https://github.com/ema-marconato/reasoning-shortcuts)] [[openview](https://openreview.net/forum?id=tLTtqySDFb)]
+- Not All Neuro-Symbolic Concepts Are Created Equal: Analysis and Mitigation of Reasoning Shortcuts [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e560202b6e779a82478edb46c6f8f4dd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.19951)] [[paper with code](https://paperswithcode.com/paper/not-all-neuro-symbolic-concepts-are-created)] [[code](https://github.com/ema-marconato/reasoning-shortcuts)] [[openreview](https://openreview.net/forum?id=tLTtqySDFb)]
 
-- Evaluating Neuron Interpretation Methods of NLP Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/eef6cb60fd59b32d35718e176b4b08d6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2301.12608)]
+- Evaluating Neuron Interpretation Methods of NLP Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/eef6cb60fd59b32d35718e176b4b08d6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2301.12608)] [[openreview](https://openreview.net/forum?id=YiwMpyMdPX)]
 
-- Bullying10K: A Large-Scale Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/05ffe69463062b7f9fb506c8351ffdd7-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2306.11546)] [[paper with code](https://paperswithcode.com/paper/bullying10k-a-neuromorphic-dataset-towards)] [[openview](https://openreview.net/forum?id=HuG4eOFLO9)]
+- Bullying10K: A Large-Scale Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/05ffe69463062b7f9fb506c8351ffdd7-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2306.11546)] [[paper with code](https://paperswithcode.com/paper/bullying10k-a-neuromorphic-dataset-towards)] [[openreview](https://openreview.net/forum?id=HuG4eOFLO9)]
 
-- NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/14f656f21d09a4114666f60a45aab1aa-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2306.06202)] [[paper with code](https://paperswithcode.com/paper/neurograph-benchmarks-for-graph-machine)] [[code](https://github.com/anwar-said/neurograph)] [[openview](https://openreview.net/forum?id=MEa0cQeURw)]
+- NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/14f656f21d09a4114666f60a45aab1aa-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2306.06202)] [[paper with code](https://paperswithcode.com/paper/neurograph-benchmarks-for-graph-machine)] [[code](https://github.com/anwar-said/neurograph)] [[openreview](https://openreview.net/forum?id=MEa0cQeURw)]
 
-- Data-Driven Network Neuroscience: On Data Collection and Benchmark [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/44e3a3115ca26e5127851acd0cedd0d9-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2211.12421)] [[paper with code](https://paperswithcode.com/paper/data-driven-network-neuroscience-on-data)] [[code](https://github.com/brainnetuoa/data_driven_network_neuroscience)] [[openview](https://openreview.net/forum?id=vZf7jrX1el)]
+- Data-Driven Network Neuroscience: On Data Collection and Benchmark [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/44e3a3115ca26e5127851acd0cedd0d9-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2211.12421)] [[paper with code](https://paperswithcode.com/paper/data-driven-network-neuroscience-on-data)] [[code](https://github.com/brainnetuoa/data_driven_network_neuroscience)] [[openreview](https://openreview.net/forum?id=vZf7jrX1el)]
 
-- NeuroEvoBench:  Benchmarking Evolutionary Optimizers for Deep Learning Applications [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/660ba7851661638c559df47743c69e40-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2311.02394)]
+- NeuroEvoBench: Benchmarking Evolutionary Optimizers for Deep Learning Applications [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/660ba7851661638c559df47743c69e40-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2311.02394)]
 
 
 ## CVPR-2023
@@ -212,29 +212,29 @@
 ## ICLR-2023
 
 
-- Artificial Neuronal Ensembles with Learned Context Dependent Gating [[paper](https://iclr.cc/virtual/2023/poster/10907)] [[arxiv](https://arxiv.org/abs/2301.07187)] [[paper with code](https://paperswithcode.com/paper/artificial-neuronal-ensembles-with-learned)] [[code](https://github.com/m-j-tilley/LXDG)]
+- Artificial Neuronal Ensembles with Learned Context Dependent Gating [[paper](https://iclr.cc/virtual/2023/poster/10907)] [[arxiv](https://arxiv.org/abs/2301.07187)] [[paper with code](https://paperswithcode.com/paper/artificial-neuronal-ensembles-with-learned)] [[code](https://github.com/m-j-tilley/LXDG)] [[openreview](https://openreview.net/forum?id=dBk3hsg-n6)]
 
-- Neuro-Symbolic Procedural Planning with Commonsense Prompting [[paper](https://iclr.cc/virtual/2023/poster/12074)] [[arxiv](https://arxiv.org/abs/2206.02928)] [[paper with code](https://paperswithcode.com/paper/neuro-symbolic-causal-language-planning-with)]
+- Neuro-Symbolic Procedural Planning with Commonsense Prompting [[paper](https://iclr.cc/virtual/2023/poster/12074)] [[arxiv](https://arxiv.org/abs/2206.02928)] [[paper with code](https://paperswithcode.com/paper/neuro-symbolic-causal-language-planning-with)] [[openreview](https://openreview.net/forum?id=iOc57X9KM54)]
 
-- Learning where and when to reason in neuro-symbolic inference [[paper](https://iclr.cc/virtual/2023/poster/10952)]
+- Learning where and when to reason in neuro-symbolic inference [[paper](https://iclr.cc/virtual/2023/poster/10952)] [[openreview](https://openreview.net/forum?id=en9V5F8PR-)]
 
-- Transformer-Patcher: One Mistake Worth One Neuron [[paper](https://iclr.cc/virtual/2023/poster/11663)] [[arxiv](https://arxiv.org/abs/2301.09785)] [[paper with code](https://paperswithcode.com/paper/transformer-patcher-one-mistake-worth-one)] [[code](https://github.com/zeroyuhuang/transformer-patcher)]
+- Transformer-Patcher: One Mistake Worth One Neuron [[paper](https://iclr.cc/virtual/2023/poster/11663)] [[arxiv](https://arxiv.org/abs/2301.09785)] [[paper with code](https://paperswithcode.com/paper/transformer-patcher-one-mistake-worth-one)] [[code](https://github.com/zeroyuhuang/transformer-patcher)] [[openreview](https://openreview.net/forum?id=4oYUGeGBPm)]
 
-- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)]
+- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)] [[openreview](https://openreview.net/forum?id=mXPoBtnpMnuy)]
 
-- Softened Symbol Grounding for Neuro-symbolic Systems [[paper](https://iclr.cc/virtual/2023/poster/10685)] [[arxiv](https://arxiv.org/abs/2403.00323)] [[paper with code](https://paperswithcode.com/paper/softened-symbol-grounding-for-neuro-symbolic)] [[code](https://github.com/softwiser-group/soften-nesy-learning)]
+- Softened Symbol Grounding for Neuro-symbolic Systems [[paper](https://iclr.cc/virtual/2023/poster/10685)] [[arxiv](https://arxiv.org/abs/2403.00323)] [[paper with code](https://paperswithcode.com/paper/softened-symbol-grounding-for-neuro-symbolic)] [[code](https://github.com/softwiser-group/soften-nesy-learning)] [[openreview](https://openreview.net/forum?id=HTJE5Krui0g)]
 
-- Interneurons accelerate learning dynamics in recurrent neural networks for statistical adaptation [[paper](https://iclr.cc/virtual/2023/poster/11104)] [[arxiv](https://arxiv.org/abs/2209.10634)] [[paper with code](https://paperswithcode.com/paper/interneurons-accelerate-learning-dynamics-in)]
+- Interneurons accelerate learning dynamics in recurrent neural networks for statistical adaptation [[paper](https://iclr.cc/virtual/2023/poster/11104)] [[arxiv](https://arxiv.org/abs/2209.10634)] [[paper with code](https://paperswithcode.com/paper/interneurons-accelerate-learning-dynamics-in)] [[openreview](https://openreview.net/forum?id=3mlITJRYYbs)]
 
-- Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery [[paper](https://iclr.cc/virtual/2023/poster/10722)] [[arxiv](https://arxiv.org/abs/2210.03516)] [[paper with code](https://paperswithcode.com/paper/neuroevolution-is-a-competitive-alternative)] [[code](https://github.com/instadeepai/qd-skill-discovery-benchmark)]
+- Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery [[paper](https://iclr.cc/virtual/2023/poster/10722)] [[arxiv](https://arxiv.org/abs/2210.03516)] [[paper with code](https://paperswithcode.com/paper/neuroevolution-is-a-competitive-alternative)] [[code](https://github.com/instadeepai/qd-skill-discovery-benchmark)] [[openreview](https://openreview.net/forum?id=6BHlZgyPOZY)]
 
-- Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity [[paper](https://iclr.cc/virtual/2023/poster/11126)] [[arxiv](https://arxiv.org/abs/2302.00032)] [[paper with code](https://paperswithcode.com/paper/neuromechanical-autoencoders-learning-to)]
+- Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity [[paper](https://iclr.cc/virtual/2023/poster/11126)] [[arxiv](https://arxiv.org/abs/2302.00032)] [[paper with code](https://paperswithcode.com/paper/neuromechanical-autoencoders-learning-to)] [[openreview](https://openreview.net/forum?id=QubsmJT_A0)]
 
-- Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles [[paper](https://iclr.cc/virtual/2023/poster/11083)] [[arxiv](https://arxiv.org/abs/2302.11618)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-neuronal-and-synaptic-dynamics)]
+- Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles [[paper](https://iclr.cc/virtual/2023/poster/11083)] [[arxiv](https://arxiv.org/abs/2302.11618)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-neuronal-and-synaptic-dynamics)] [[openreview](https://openreview.net/forum?id=QIRtAqoXwj)]
 
-- The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers [[paper](https://iclr.cc/virtual/2023/poster/11756)] [[arxiv](https://arxiv.org/abs/2210.06313)] [[paper with code](https://paperswithcode.com/paper/large-models-are-parsimonious-learners)]
+- The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers [[paper](https://iclr.cc/virtual/2023/poster/11756)] [[arxiv](https://arxiv.org/abs/2210.06313)] [[paper with code](https://paperswithcode.com/paper/large-models-are-parsimonious-learners)] [[openreview](https://openreview.net/forum?id=TJ2nxciYCk-)]
 
-- CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks [[paper](https://iclr.cc/virtual/2023/poster/11328)] [[arxiv](https://arxiv.org/abs/2204.10965)] [[paper with code](https://paperswithcode.com/paper/clip-dissect-automatic-description-of-neuron)] [[code](https://github.com/trustworthy-ml-lab/clip-dissect)]
+- CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks [[paper](https://iclr.cc/virtual/2023/poster/11328)] [[arxiv](https://arxiv.org/abs/2204.10965)] [[paper with code](https://paperswithcode.com/paper/clip-dissect-automatic-description-of-neuron)] [[code](https://github.com/trustworthy-ml-lab/clip-dissect)] [[openreview](https://openreview.net/forum?id=iPWiwWHc1V)]
 
 
 ## ICCV-2023
@@ -254,7 +254,7 @@
 
 - Parallel Neurosymbolic Integration with Concordia [[paper](https://proceedings.mlr.press/v202/feldstein23a.html)] [[arxiv](https://arxiv.org/abs/2306.00480)] [[paper with code](https://paperswithcode.com/paper/parallel-neurosymbolic-integration-with)]
 
-- Multi-Task Structural Learning using Local Task Similarity induced Neuron Creation and Removal [[paper](https://proceedings.mlr.press/v202/gurulingan23a.html)] [[arxiv](https://arxiv.org/abs/2305.00441)] [[paper with code](https://paperswithcode.com/paper/multi-task-structural-learning-using-local)] [[code](https://github.com/neurai-lab/mtsl)]
+- Multi-Task Structural Learning using Local Task Similarity induced Neuron Creation and Removal [[paper](https://proceedings.mlr.press/v202/gurulingan23a.html)] [[arxiv](https://arxiv.org/abs/2305.00441)] [[paper with code](https://paperswithcode.com/paper/multi-task-structural-learning-using-local)] [[code](https://github.com/neurai-lab/mtsl)] [[openreview](https://openreview.net/forum?id=_DYi95e8CAe)]
 
 - Dual Propagation: Accelerating Contrastive Hebbian Learning with Dyadic Neurons [[paper](https://proceedings.mlr.press/v202/hoier23a.html)] [[arxiv](https://arxiv.org/abs/2302.01228)] [[paper with code](https://paperswithcode.com/paper/dual-propagation-accelerating-contrastive)] [[code](https://github.com/rasmuskh/dual-propagation)]
 
@@ -272,7 +272,7 @@
 
 - Finite-Sample Analysis of Learning High-Dimensional Single ReLU Neuron [[paper](https://proceedings.mlr.press/v202/wu23ab.html)] [[arxiv](https://arxiv.org/abs/2303.02255)] [[paper with code](https://paperswithcode.com/paper/learning-high-dimensional-single-neuron-relu)]
 
-- Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations [[paper](https://proceedings.mlr.press/v202/yang23m.html)] [[paper with code](https://paperswithcode.com/paper/are-neurons-actually-collapsed-on-the-fine)]
+- Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations [[paper](https://proceedings.mlr.press/v202/yang23m.html)] [[paper with code](https://paperswithcode.com/paper/are-neurons-actually-collapsed-on-the-fine)] [[openreview](https://openreview.net/forum?id=TTSyyMBNUjd)]
 
 
 ## ACL-2023
@@ -284,7 +284,7 @@
 
 - Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion [[paper](https://aclanthology.org/2023.acl-short.23/)]
 
-- Learning Neuro-Symbolic World Models with Conversational ProprioceptionDon  [[paper](https://aclanthology.org/2023.acl-short.57/)]
+- Learning Neuro-Symbolic World Models with Conversational ProprioceptionDon [[paper](https://aclanthology.org/2023.acl-short.57/)]
 
 
 ## IJCAI-2023
@@ -312,7 +312,7 @@
 
 - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25081)] [[arxiv](https://arxiv.org/abs/2302.01194)] [[paper with code](https://paperswithcode.com/paper/complex-dynamic-neurons-improved-spiking)] [[code](https://github.com/MingLunHan/CIF-PyTorch)]
 
-- Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25128)]
+- Exploring Tuning Characteristics of Ventral Stream's Neurons for Few-Shot Image Classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25128)]
 
 - Learning to Super-resolve Dynamic Scenes for Neuromorphic Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25468)]
 
@@ -334,57 +334,57 @@
 ## NeurIPS-2022
 
 
-- Causality Preserving Chaotic Transformation and Classification using Neurochaos Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0d9057d84a9fc37523bf826232ea6820-Abstract-Conference.html)]
+- Causality Preserving Chaotic Transformation and Classification using Neurochaos Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0d9057d84a9fc37523bf826232ea6820-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=XdMusblCkB)]
 
-- Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2c625366ae28066fcb1827b44517d674-Abstract-Conference.html)]
+- Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2c625366ae28066fcb1827b44517d674-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=cPVuuk1lZb3)]
 
-- ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3ff48dde82306fe8f26f3e51dd1054d7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.15049)] [[paper with code](https://paperswithcode.com/paper/zeroc-a-neuro-symbolic-model-for-zero-shot)] [[code](https://github.com/snap-stanford/zeroc)]
+- ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3ff48dde82306fe8f26f3e51dd1054d7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.15049)] [[paper with code](https://paperswithcode.com/paper/zeroc-a-neuro-symbolic-model-for-zero-shot)] [[code](https://github.com/snap-stanford/zeroc)] [[openreview](https://openreview.net/forum?id=T7114JzrwB)]
 
-- NS3: Neuro-symbolic Semantic Code Search [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/43f5f6c5cb333115914c8448b8506411-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.10674)] [[paper with code](https://paperswithcode.com/paper/ns3-neuro-symbolic-semantic-code-search)] [[code](https://github.com/shushanarakelyan/modular_code_search)]
+- NS3: Neuro-symbolic Semantic Code Search [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/43f5f6c5cb333115914c8448b8506411-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.10674)] [[paper with code](https://paperswithcode.com/paper/ns3-neuro-symbolic-semantic-code-search)] [[code](https://github.com/shushanarakelyan/modular_code_search)] [[openreview](https://openreview.net/forum?id=rubeJ2ObyWc)]
 
-- Local Spatiotemporal Representation Learning for Longitudinally-consistent Neuroimage Analysis [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/57da66da25d0ce77e0129b246f358851-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.04281)] [[paper with code](https://paperswithcode.com/paper/local-spatiotemporal-representation-learning)] [[code](https://github.com/mengweiren/longitudinal-representation-learning)]
+- Local Spatiotemporal Representation Learning for Longitudinally-consistent Neuroimage Analysis [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/57da66da25d0ce77e0129b246f358851-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.04281)] [[paper with code](https://paperswithcode.com/paper/local-spatiotemporal-representation-learning)] [[code](https://github.com/mengweiren/longitudinal-representation-learning)] [[openreview](https://openreview.net/forum?id=1xqE9fRZch5)]
 
-- NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ddfb189c022a317ff1c72e6639079de-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.10098)] [[paper with code](https://paperswithcode.com/paper/neurolight-a-physics-agnostic-neural-operator)] [[code](https://github.com/jeremiemelo/neurolight)]
+- NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ddfb189c022a317ff1c72e6639079de-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.10098)] [[paper with code](https://paperswithcode.com/paper/neurolight-a-physics-agnostic-neural-operator)] [[code](https://github.com/jeremiemelo/neurolight)] [[openreview](https://openreview.net/forum?id=Il0ymeSnKyL)]
 
-- Drawing out of Distribution with Neuro-Symbolic Generative Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6248a3b8279a39b3668a8a7c0e29164d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01829)] [[paper with code](https://paperswithcode.com/paper/drawing-out-of-distribution-with-neuro)]
+- Drawing out of Distribution with Neuro-Symbolic Generative Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6248a3b8279a39b3668a8a7c0e29164d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01829)] [[paper with code](https://paperswithcode.com/paper/drawing-out-of-distribution-with-neuro)] [[openreview](https://openreview.net/forum?id=tIZtD2kZ6zx)]
 
-- No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/66808849a9f5d8e2d00dbdc844de6333-Abstract-Conference.html)]
+- No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/66808849a9f5d8e2d00dbdc844de6333-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=syU-XvinTI1)]
 
-- Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6fca3ed3c54ffeae947ae668a0841ab2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01338)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-backpropagation)] [[code](https://github.com/helena-yuhan-liu/modprop)]
+- Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6fca3ed3c54ffeae947ae668a0841ab2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01338)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-backpropagation)] [[code](https://github.com/helena-yuhan-liu/modprop)] [[openreview](https://openreview.net/forum?id=jPx7vYUNUCt)]
 
-- Pre-activation Distributions Expose Backdoor Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/76917808731dae9e6d62c2a7a6afb542-Abstract-Conference.html)]
+- Pre-activation Distributions Expose Backdoor Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/76917808731dae9e6d62c2a7a6afb542-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=wwW-1k1ljIg)]
 
-- Neuron with Steady Response Leads to Better Generalization [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/848784373188ddf641079524e89e0ac9-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2111.15414)] [[paper with code](https://paperswithcode.com/paper/neuron-with-steady-response-leads-to-better)]
+- Neuron with Steady Response Leads to Better Generalization [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/848784373188ddf641079524e89e0ac9-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2111.15414)] [[paper with code](https://paperswithcode.com/paper/neuron-with-steady-response-leads-to-better)] [[openreview](https://openreview.net/forum?id=9YQPaqVZKP)]
 
-- Self-Supervised Learning of Brain Dynamics from Broad Neuroimaging Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8600a9df1a087a9a66900cc8c948c3f0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.11417)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-of-brain-dynamics)] [[code](https://github.com/athms/learning-from-brains)]
+- Self-Supervised Learning of Brain Dynamics from Broad Neuroimaging Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8600a9df1a087a9a66900cc8c948c3f0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.11417)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-of-brain-dynamics)] [[code](https://github.com/athms/learning-from-brains)] [[openreview](https://openreview.net/forum?id=lMrpZ-ycIaT)]
 
-- To update or not to update? Neurons at equilibrium in deep models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8b2fc235787852ead92da2268cd9e90c-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/to-update-or-not-to-update-neurons-at)] [[code](https://github.com/eidoslab/neq)]
+- To update or not to update? Neurons at equilibrium in deep models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8b2fc235787852ead92da2268cd9e90c-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/to-update-or-not-to-update-neurons-at)] [[code](https://github.com/eidoslab/neq)] [[openreview](https://openreview.net/forum?id=LGDfv0U7MJR)]
 
-- Hybrid Neural Autoencoders for Stimulus Encoding in Visual and Other Sensory Neuroprostheses [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8e9a6582caa59fda0302349702965171-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13623)] [[paper with code](https://paperswithcode.com/paper/a-hybrid-neural-autoencoder-for-sensory)]
+- Hybrid Neural Autoencoders for Stimulus Encoding in Visual and Other Sensory Neuroprostheses [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8e9a6582caa59fda0302349702965171-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13623)] [[paper with code](https://paperswithcode.com/paper/a-hybrid-neural-autoencoder-for-sensory)] [[openreview](https://openreview.net/forum?id=9xVWIHFSyfl)]
 
-- Mesoscopic modeling of hidden spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/953e742190ca02fc8f9f710052f2fead-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13493)] [[paper with code](https://paperswithcode.com/paper/mesoscopic-modeling-of-hidden-spiking-neurons)] [[code](https://github.com/epfl-lcn/neulvm)]
+- Mesoscopic modeling of hidden spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/953e742190ca02fc8f9f710052f2fead-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13493)] [[paper with code](https://paperswithcode.com/paper/mesoscopic-modeling-of-hidden-spiking-neurons)] [[code](https://github.com/epfl-lcn/neulvm)] [[openreview](https://openreview.net/forum?id=cYPja_wj9d)]
 
-- NeuroSchedule: A Novel Effective GNN-based Scheduling Method for High-level Synthesis [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/964b1c8dd5667fd647c09c8772829fd1-Abstract-Conference.html)]
+- NeuroSchedule: A Novel Effective GNN-based Scheduling Method for High-level Synthesis [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/964b1c8dd5667fd647c09c8772829fd1-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=z9CkpUorPI)]
 
-- SQ Lower Bounds for Learning Single Neurons with Massart Noise [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/97b983c974551153d20ddfabb62a5203-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.09949)] [[paper with code](https://paperswithcode.com/paper/sq-lower-bounds-for-learning-single-neurons)]
+- SQ Lower Bounds for Learning Single Neurons with Massart Noise [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/97b983c974551153d20ddfabb62a5203-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.09949)] [[paper with code](https://paperswithcode.com/paper/sq-lower-bounds-for-learning-single-neurons)] [[openreview](https://openreview.net/forum?id=OYqCR-f-dg)]
 
-- House of Cans: Covert Transmission of Internal Datasets via Capacity-Aware Neuron Steganography [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d65080f3be61f4dcc5ca4c293308104-Abstract-Conference.html)]
+- House of Cans: Covert Transmission of Internal Datasets via Capacity-Aware Neuron Steganography [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d65080f3be61f4dcc5ca4c293308104-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=iAktFMVfeff)]
 
-- TreeMoCo: Contrastive Neuron Morphology Representation Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f989633ffbd47a83caddacad0f0261f-Abstract-Conference.html)]
+- TreeMoCo: Contrastive Neuron Morphology Representation Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f989633ffbd47a83caddacad0f0261f-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=p6hArCtwLAU)]
 
-- LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b5fd95d6b16d3172e307103a97f19e1b-Abstract-Conference.html)]
+- LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b5fd95d6b16d3172e307103a97f19e1b-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=BbaSRgUHW3)]
 
-- Semantic Probabilistic Layers for Neuro-Symbolic Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c182ec594f38926b7fcb827635b9a8f4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00426)] [[paper with code](https://paperswithcode.com/paper/semantic-probabilistic-layers-for-neuro)] [[code](https://github.com/KareemYousrii/SPL)]
+- Semantic Probabilistic Layers for Neuro-Symbolic Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c182ec594f38926b7fcb827635b9a8f4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00426)] [[paper with code](https://paperswithcode.com/paper/semantic-probabilistic-layers-for-neuro)] [[code](https://github.com/KareemYousrii/SPL)] [[openreview](https://openreview.net/forum?id=o-mxIWAY1T8)]
 
-- GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.13768)] [[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] [[code](https://github.com/ikarosy/gated-lif)]
+- GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.13768)] [[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] [[code](https://github.com/ikarosy/gated-lif)] [[openreview](https://openreview.net/forum?id=UmFSx2c4ubT)]
 
-- SInGE: Sparsity via Integrated Gradients Estimation of Neuron Relevance [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e5b0ec2c61957bfd6cf88e118107cc71-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2207.04089)] [[paper with code](https://paperswithcode.com/paper/singe-sparsity-via-integrated-gradients)]
+- SInGE: Sparsity via Integrated Gradients Estimation of Neuron Relevance [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e5b0ec2c61957bfd6cf88e118107cc71-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2207.04089)] [[paper with code](https://paperswithcode.com/paper/singe-sparsity-via-integrated-gradients)] [[openreview](https://openreview.net/forum?id=oQIJsMlyaW_)]
 
-- Neurosymbolic Deep Generative Models for Sequence Data with Relational Constraints [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f13ceb1b94145aad0e54186373cc86d7-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/neurosymbolic-deep-generative-models-for)] [[openview](https://openreview.net/forum?id=Y5TgO3J_Glc)]
+- Neurosymbolic Deep Generative Models for Sequence Data with Relational Constraints [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f13ceb1b94145aad0e54186373cc86d7-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/neurosymbolic-deep-generative-models-for)] [[openreview](https://openreview.net/forum?id=Y5TgO3J_Glc)]
 
-- PhysGNN: A Physics--Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image--Guided Neurosurgery [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f200119a40846e508954abcd61f5f3fd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2109.04352)]
+- PhysGNN: A Physics--Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image--Guided Neurosurgery [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f200119a40846e508954abcd61f5f3fd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2109.04352)] [[openreview](https://openreview.net/forum?id=yZgxl3bgumu)]
 
-- MTNeuro:  A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/22fb65e39d318c4b5b56fbe9cb082e3f-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2301.00345)]
+- MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/22fb65e39d318c4b5b56fbe9cb082e3f-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2301.00345)] [[openreview](https://openreview.net/forum?id=5xuowSQ17vy)]
 
 
 ## CVPR-2022
@@ -491,39 +491,39 @@
 ## NeurIPS-2021
 
 
-- Removing Inter-Experimental Variability from Functional Data in Systems Neuroscience [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1e5eeb40a3fce716b244599862fd2200-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/removing-inter-experimental-variability-from)] [[code](https://github.com/eulerlab/rave)] [[openview](https://openreview.net/forum?id=lVmIjQiJJSr)]
+- Removing Inter-Experimental Variability from Functional Data in Systems Neuroscience [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1e5eeb40a3fce716b244599862fd2200-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/removing-inter-experimental-variability-from)] [[code](https://github.com/eulerlab/rave)] [[openreview](https://openreview.net/forum?id=lVmIjQiJJSr)]
 
-- Dynamic Analysis of Higher-Order Coordination in Neuronal Assemblies via De-Sparsified Orthogonal Matching Pursuit [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/2172fde49301047270b2897085e4319d-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/dynamic-analysis-of-higher-order-coordination)] [[openview](https://openreview.net/forum?id=u14Kuxl8fN)]
+- Dynamic Analysis of Higher-Order Coordination in Neuronal Assemblies via De-Sparsified Orthogonal Matching Pursuit [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/2172fde49301047270b2897085e4319d-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/dynamic-analysis-of-higher-order-coordination)] [[openreview](https://openreview.net/forum?id=u14Kuxl8fN)]
 
-- NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3d863b367aa379f71c7afc0c9cdca41d-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.07983)] [[paper with code](https://paperswithcode.com/paper/neurolkh-combining-deep-learning-model-with)] [[code](https://github.com/liangxinedu/neurolkh)]
+- NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3d863b367aa379f71c7afc0c9cdca41d-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.07983)] [[paper with code](https://paperswithcode.com/paper/neurolkh-combining-deep-learning-model-with)] [[code](https://github.com/liangxinedu/neurolkh)] [[openreview](https://openreview.net/forum?id=VKVShLsAuZ)]
 
-- When Expressivity Meets Trainability: Fewer than $n$ Neurons Can Work [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/4c7a167bb329bd92580a99ce422d6fa6-Abstract.html)] [[arxiv](https://arxiv.org/abs/2210.12001)] [[paper with code](https://paperswithcode.com/paper/when-expressivity-meets-trainability-fewer-1)]
+- When Expressivity Meets Trainability: Fewer than $n$ Neurons Can Work [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/4c7a167bb329bd92580a99ce422d6fa6-Abstract.html)] [[arxiv](https://arxiv.org/abs/2210.12001)] [[paper with code](https://paperswithcode.com/paper/when-expressivity-meets-trainability-fewer-1)] [[openreview](https://openreview.net/forum?id=ZBYphQE_hgp)]
 
-- Sparse Training via Boosting Pruning Plasticity  with Neuroregeneration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10404)]
+- Sparse Training via Boosting Pruning Plasticity with Neuroregeneration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10404)]
 
-- Mitigating Forgetting in Online Continual Learning with  Neuron Calibration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/54ee290e80589a2a1225c338a71839f5-Abstract.html)]
+- Mitigating Forgetting in Online Continual Learning with Neuron Calibration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/54ee290e80589a2a1225c338a71839f5-Abstract.html)]
 
-- Adversarial Neuron Pruning Purifies Backdoored Deep Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8cbe9ce23f42628c98f80fa0fac8b19a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.14430)] [[paper with code](https://paperswithcode.com/paper/adversarial-neuron-pruning-purifies)] [[code](https://github.com/csdongxian/anp_backdoor)]
+- Adversarial Neuron Pruning Purifies Backdoored Deep Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8cbe9ce23f42628c98f80fa0fac8b19a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.14430)] [[paper with code](https://paperswithcode.com/paper/adversarial-neuron-pruning-purifies)] [[code](https://github.com/csdongxian/anp_backdoor)] [[openreview](https://openreview.net/forum?id=4cEapqXfP30)]
 
-- Latent Equilibrium: A unified learning theory for arbitrarily fast computation with arbitrarily slow neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/94cdbdb84e8e1de8a725fa2ed61498a4-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.14549)] [[paper with code](https://paperswithcode.com/paper/latent-equilibrium-a-unified-learning-theory)] [[code](https://github.com/JulianGoeltz/automised_latex_template)] [[openview](https://openreview.net/forum?id=IVV1putQ90)]
+- Latent Equilibrium: A unified learning theory for arbitrarily fast computation with arbitrarily slow neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/94cdbdb84e8e1de8a725fa2ed61498a4-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.14549)] [[paper with code](https://paperswithcode.com/paper/latent-equilibrium-a-unified-learning-theory)] [[code](https://github.com/JulianGoeltz/automised_latex_template)] [[openreview](https://openreview.net/forum?id=IVV1putQ90)]
 
--  NeuroMLR: Robust & Reliable Route Recommendation on Road Networks  [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b922ede9c9eb9eabec1c1fecbdecb45d-Abstract.html)]
+- NeuroMLR: Robust & Reliable Route Recommendation on Road Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b922ede9c9eb9eabec1c1fecbdecb45d-Abstract.html)] [[openreview](https://openreview.net/forum?id=Sl0WX9H6ZJg)]
 
-- Three-dimensional spike localization and improved motion correction for Neuropixels recordings [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b950ea26ca12daae142bd74dba4427c8-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/three-dimensional-spike-localization-and)] [[openview](https://openreview.net/forum?id=ohfi44BZPC4)]
+- Three-dimensional spike localization and improved motion correction for Neuropixels recordings [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b950ea26ca12daae142bd74dba4427c8-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/three-dimensional-spike-localization-and)] [[openreview](https://openreview.net/forum?id=ohfi44BZPC4)]
 
-- The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/be3e9d3f7d70537357c67bb3f4086846-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.02869)] [[paper with code](https://paperswithcode.com/paper/the-sensory-neuron-as-a-transformer)] [[code](https://github.com/google/brain-tokyo-workshop)]
+- The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/be3e9d3f7d70537357c67bb3f4086846-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.02869)] [[paper with code](https://paperswithcode.com/paper/the-sensory-neuron-as-a-transformer)] [[code](https://github.com/google/brain-tokyo-workshop)] [[openreview](https://openreview.net/forum?id=wtLW-Amuds)]
 
-- Efficient hierarchical Bayesian inference for spatio-temporal regression models in neuroimaging [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d03a857a23b5285736c4d55e0bb067c8-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.01692)] [[paper with code](https://paperswithcode.com/paper/efficient-hierarchical-bayesian-inference-for)] [[code](https://github.com/alihashemi-ai/dugh-neurips-2021)]
+- Efficient hierarchical Bayesian inference for spatio-temporal regression models in neuroimaging [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d03a857a23b5285736c4d55e0bb067c8-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.01692)] [[paper with code](https://paperswithcode.com/paper/efficient-hierarchical-bayesian-inference-for)] [[code](https://github.com/alihashemi-ai/dugh-neurips-2021)] [[openreview](https://openreview.net/forum?id=kO3l8oz8EVP)]
 
-- Improving Coherence and Consistency in Neural Sequence Models with Dual-System, Neuro-Symbolic Reasoning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d3e2e8f631bd9336ed25b8162aef8782-Abstract.html)] [[arxiv](https://arxiv.org/abs/2107.02794)] [[paper with code](https://paperswithcode.com/paper/improving-coherence-and-consistency-in-neural)]
+- Improving Coherence and Consistency in Neural Sequence Models with Dual-System, Neuro-Symbolic Reasoning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d3e2e8f631bd9336ed25b8162aef8782-Abstract.html)] [[arxiv](https://arxiv.org/abs/2107.02794)] [[paper with code](https://paperswithcode.com/paper/improving-coherence-and-consistency-in-neural)] [[openreview](https://openreview.net/forum?id=P7GUAXxS3ym)]
 
-- Learning a Single Neuron with Bias Using Gradient Descent [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f0f6cc51dacebe556699ccb45e2d43a8-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.01101)] [[paper with code](https://paperswithcode.com/paper/learning-a-single-neuron-with-bias-using)]
+- Learning a Single Neuron with Bias Using Gradient Descent [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f0f6cc51dacebe556699ccb45e2d43a8-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.01101)] [[paper with code](https://paperswithcode.com/paper/learning-a-single-neuron-with-bias-using)] [[openreview](https://openreview.net/forum?id=m0l7vTv70BK)]
 
-- On the Cryptographic Hardness of Learning Single Periodic Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f78688fb6a5507413ade54a230355acd-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10744)] [[paper with code](https://paperswithcode.com/paper/on-the-cryptographic-hardness-of-learning)]
+- On the Cryptographic Hardness of Learning Single Periodic Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f78688fb6a5507413ade54a230355acd-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10744)] [[paper with code](https://paperswithcode.com/paper/on-the-cryptographic-hardness-of-learning)] [[openreview](https://openreview.net/forum?id=gXdOOeqRN8g)]
 
-- Beta-CROWN: Efficient Bound Propagation with Per-neuron Split Constraints for Neural Network Robustness Verification [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/fac7fead96dafceaf80c1daffeae82a4-Abstract.html)] [[arxiv](https://arxiv.org/abs/2103.06624)] [[paper with code](https://paperswithcode.com/paper/beta-crown-efficient-bound-propagation-with-1)] [[openview](https://openreview.net/forum?id=ahYIlRBeCFw)]
+- Beta-CROWN: Efficient Bound Propagation with Per-neuron Split Constraints for Neural Network Robustness Verification [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/fac7fead96dafceaf80c1daffeae82a4-Abstract.html)] [[arxiv](https://arxiv.org/abs/2103.06624)] [[paper with code](https://paperswithcode.com/paper/beta-crown-efficient-bound-propagation-with-1)] [[openreview](https://openreview.net/forum?id=ahYIlRBeCFw)]
 
-- Shared Independent Component Analysis for Multi-Subject Neuroimaging [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/fb508ef074ee78a0e58c68be06d8a2eb-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.13502)] [[paper with code](https://paperswithcode.com/paper/shared-independent-component-analysis-for)] [[code](https://github.com/hugorichard/shica)]
+- Shared Independent Component Analysis for Multi-Subject Neuroimaging [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/fb508ef074ee78a0e58c68be06d8a2eb-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.13502)] [[paper with code](https://paperswithcode.com/paper/shared-independent-component-analysis-for)] [[code](https://github.com/hugorichard/shica)] [[openreview](https://openreview.net/forum?id=24-ZY0UZVKD)]
 
 
 ## CVPR-2021
@@ -583,7 +583,7 @@
 
 - Interpretable Self-Supervised Facial Micro-Expression Learning to Predict Cognitive State and Neurological Disorders [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16164)]
 
-- Conversational Neuro-Symbolic Commonsense Reasoning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16623)] [[arxiv](https://arxiv.org/abs/2208.13266)] [[paper with code](https://paperswithcode.com/paper/conversational-neuro-symbolic-commonsense)] [[code](https://github.com/ForoughA/CORGI)]
+- Conversational Neuro-Symbolic Commonsense Reasoning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16623)] [[arxiv](https://arxiv.org/abs/2006.10022)] [[paper with code](https://paperswithcode.com/paper/conversational-neuro-symbolic-commonsense)] [[code](https://github.com/ForoughA/CORGI)]
 
 - Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16625)] [[arxiv](https://arxiv.org/abs/1911.03876)] [[paper with code](https://paperswithcode.com/paper/dynamic-knowledge-graph-construction-for-zero)]
 
@@ -611,7 +611,7 @@
 
 - Neurosymbolic Reinforcement Learning with Formally Verified Exploration [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/448d5eda79895153938a8431919f4c9f-Abstract.html)] [[arxiv](https://arxiv.org/abs/2009.12612)] [[paper with code](https://paperswithcode.com/paper/neurosymbolic-reinforcement-learning-with)] [[code](https://github.com/gavlegoat/safe-learning)]
 
-- Neuronal Gaussian Process Regression [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/4ef2f8259495563cb3a8ea4449ec4f9f-Abstract.html)] [[arxiv](https://arxiv.org/abs/2301.05567)] [[paper with code](https://paperswithcode.com/paper/neuronal-gaussian-process-regression)] [[code](https://github.com/j-friedrich/neuronalGPR)]
+- Neuronal Gaussian Process Regression [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/4ef2f8259495563cb3a8ea4449ec4f9f-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/neuronal-gaussian-process-regression)] [[code](https://github.com/j-friedrich/neuronalGPR)]
 
 - Neuron-level Structured Pruning using Polarization Regularizer [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/703957b6dd9e3a7980e040bee50ded65-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/neuron-level-structured-pruning-using)] [[code](https://github.com/polarizationpruning/PolarizationPruning)]
 
@@ -621,7 +621,7 @@
 
 - Optimizing Mode Connectivity via Neuron Alignment [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/aecad42329922dfc97eee948606e1f8e-Abstract.html)] [[arxiv](https://arxiv.org/abs/2009.02439)] [[paper with code](https://paperswithcode.com/paper/optimizing-mode-connectivity-via-neuron)] [[code](https://github.com/IBM/NeuronAlignment)]
 
-- Compositional Explanations of Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html)] [[arxiv](https://arxiv.org/abs/2310.18443)] [[paper with code](https://paperswithcode.com/paper/compositional-explanations-of-neurons)] [[code](https://github.com/jayelm/compexp)]
+- Compositional Explanations of Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html)] [[arxiv](https://arxiv.org/abs/2006.14032)] [[paper with code](https://paperswithcode.com/paper/compositional-explanations-of-neurons)] [[code](https://github.com/jayelm/compexp)]
 
 - Modeling Shared responses in Neuroimaging Studies through MultiView ICA [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/de03beffeed9da5f3639a621bcab5dd4-Abstract.html)] [[arxiv](https://arxiv.org/abs/2006.06635)] [[paper with code](https://paperswithcode.com/paper/modeling-shared-responses-in-neuroimaging)] [[code](https://github.com/hugorichard/multiviewica)]
 
@@ -655,7 +655,7 @@
 ## ECCV-2020
 
 
-- NeuRoRA: Neural Robust Rotation Averaging  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4532_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.04485)]
+- NeuRoRA: Neural Robust Rotation Averaging [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4532_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.04485)]
 
 
 ## ICML-2020
@@ -741,7 +741,7 @@
 
 - Neuron birth-death dynamics accelerates gradient descent and converges asymptotically [[paper](https://proceedings.mlr.press/v97/rotskoff19a.html)]
 
-- Learning Neurosymbolic Generative Models via Program Synthesis [[paper](https://proceedings.mlr.press/v97/young19a.html)] [[arxiv](https://arxiv.org/abs/1901.08565)] [[paper with code](https://paperswithcode.com/paper/learning-neurosymbolic-generative-models-via)] [[openview](https://openreview.net/forum?id=S1gUCFx4dN)]
+- Learning Neurosymbolic Generative Models via Program Synthesis [[paper](https://proceedings.mlr.press/v97/young19a.html)] [[arxiv](https://arxiv.org/abs/1901.08565)] [[paper with code](https://paperswithcode.com/paper/learning-neurosymbolic-generative-models-via)] [[openreview](https://openreview.net/forum?id=S1gUCFx4dN)]
 
 
 ## ACL-2019
@@ -791,7 +791,7 @@
 
 - Adding One Neuron Can Eliminate All Bad Local Minima [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/a012869311d64a44b5a0d567cd20de04-Abstract.html)] [[arxiv](https://arxiv.org/abs/1805.08671)] [[paper with code](https://paperswithcode.com/paper/adding-one-neuron-can-eliminate-all-bad-local)]
 
-- On Neuronal Capacity [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/a292f1c5874b2be8395ffd75f313937f-Abstract.html)] [[arxiv](https://arxiv.org/abs/2210.16246)]
+- On Neuronal Capacity [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/a292f1c5874b2be8395ffd75f313937f-Abstract.html)]
 
 - Multi-Task Zipping via Layer-wise Neuron Sharing [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/ad8e88c0f76fa4fc8e5474384142a00a-Abstract.html)] [[arxiv](https://arxiv.org/abs/1805.09791)] [[paper with code](https://paperswithcode.com/paper/multi-task-zipping-via-layer-wise-neuron)]
 
@@ -809,7 +809,7 @@
 ## ECCV-2018
 
 
-- Adding Attentiveness to the Neurons in Recurrent Neural Networks [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.php)] [[arxiv](https://arxiv.org/abs/1909.01939)] [[paper with code](https://paperswithcode.com/paper/adding-attentiveness-to-the-neurons-in)]
+- Adding Attentiveness to the Neurons in Recurrent Neural Networks [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.php)] [[arxiv](https://arxiv.org/abs/1807.04445)] [[paper with code](https://paperswithcode.com/paper/adding-attentiveness-to-the-neurons-in)]
 
 - Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Ramprasaath_Ramasamy_Selvaraju_Choose_Your_Neuron_ECCV_2018_paper.php)] [[arxiv](https://arxiv.org/abs/1808.02861)] [[paper with code](https://paperswithcode.com/paper/choose-your-neuron-incorporating-domain)] [[code](https://github.com/ramprs/neuron-importance-zsl)]
 

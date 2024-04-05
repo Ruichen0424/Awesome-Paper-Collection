@@ -49,7 +49,7 @@
 ## ICLR-2024
 
 
-- SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/19182)] [[arxiv](https://arxiv.org/abs/2309.03020)] [[paper with code](https://paperswithcode.com/paper/seal-a-framework-for-systematic-evaluation-of)] [[code](https://github.com/xpixelgroup/seal)]
+- SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution [[paper](https://iclr.cc/virtual/2024/poster/19182)] [[arxiv](https://arxiv.org/abs/2309.03020)] [[paper with code](https://paperswithcode.com/paper/seal-a-framework-for-systematic-evaluation-of)] [[code](https://github.com/xpixelgroup/seal)] [[openreview](https://openreview.net/forum?id=CGlczSBBSj)]
 
 
 ## AAAI-2024
@@ -69,11 +69,11 @@
 ## NeurIPS-2023
 
 
-- Spatio-Angular Convolutions for Super-resolution in Diffusion MRI [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/294de0fa7149adcb88aa3119c239c63e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00854)] [[paper with code](https://paperswithcode.com/paper/spatio-angular-convolutions-for-super)] [[code](https://github.com/m-lyon/dmri-pcconv)] [[openview](https://openreview.net/forum?id=YPHIrNKI0d)]
+- Spatio-Angular Convolutions for Super-resolution in Diffusion MRI [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/294de0fa7149adcb88aa3119c239c63e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00854)] [[paper with code](https://paperswithcode.com/paper/spatio-angular-convolutions-for-super)] [[code](https://github.com/m-lyon/dmri-pcconv)] [[openreview](https://openreview.net/forum?id=YPHIrNKI0d)]
 
-- Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ec3d49763c653ad7c8d587f52220c129-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.19011)] [[paper with code](https://paperswithcode.com/paper/efficient-test-time-adaptation-for-super-1)] [[code](https://github.com/dengzeshuai/srtta)] [[openview](https://openreview.net/forum?id=IZRlMABK4l)]
+- Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ec3d49763c653ad7c8d587f52220c129-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.19011)] [[paper with code](https://paperswithcode.com/paper/efficient-test-time-adaptation-for-super-1)] [[code](https://github.com/dengzeshuai/srtta)] [[openreview](https://openreview.net/forum?id=IZRlMABK4l)]
 
-- Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f458af2455b1e12608c2a16c308d663d-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2309.13457)] [[paper with code](https://paperswithcode.com/paper/turbulence-in-focus-benchmarking-scaling)] [[openview](https://openreview.net/forum?id=ugRnHKMK95)]
+- Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f458af2455b1e12608c2a16c308d663d-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2309.13457)] [[paper with code](https://paperswithcode.com/paper/turbulence-in-focus-benchmarking-scaling)] [[openreview](https://openreview.net/forum?id=ugRnHKMK95)]
 
 
 ## CVPR-2023
@@ -89,7 +89,7 @@
 
 - Memory-Friendly Scalable Super-Resolution via Rewinding Lottery Ticket Hypothesis [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Memory-Friendly_Scalable_Super-Resolution_via_Rewinding_Lottery_Ticket_Hypothesis_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/memory-friendly-scalable-super-resolution-via)]
 
-- Super-Resolution Neural Operator [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Super-Resolution_Neural_Operator_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.16636)] [[paper with code](https://paperswithcode.com/paper/super-resolution-neural-operator)] [[code](https://github.com/2y7c3/super-resolution-neural-operator)]
+- Super-Resolution Neural Operator [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Super-Resolution_Neural_Operator_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.02584)] [[paper with code](https://paperswithcode.com/paper/super-resolution-neural-operator)] [[code](https://github.com/2y7c3/super-resolution-neural-operator)]
 
 - Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Cascaded_Local_Implicit_Transformer_for_Arbitrary-Scale_Super-Resolution_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.16513)] [[paper with code](https://paperswithcode.com/paper/cascaded-local-implicit-transformer-for)] [[code](https://github.com/jaroslaw1007/clit)]
 
@@ -101,11 +101,11 @@
 ## ICLR-2023
 
 
-- Forward Super-Resolution: How Can GANs Learn Hierarchical Generative Models for Real-World Distributions [[paper](https://iclr.cc/virtual/2023/poster/10861)] [[arxiv](https://arxiv.org/abs/2106.02619)] [[paper with code](https://paperswithcode.com/paper/forward-super-resolution-how-can-gans-learn)]
+- Forward Super-Resolution: How Can GANs Learn Hierarchical Generative Models for Real-World Distributions [[paper](https://iclr.cc/virtual/2023/poster/10861)] [[arxiv](https://arxiv.org/abs/2106.02619)] [[paper with code](https://paperswithcode.com/paper/forward-super-resolution-how-can-gans-learn)] [[openreview](https://openreview.net/forum?id=7h5KSs2PCRi)]
 
-- Knowledge Distillation based Degradation Estimation for Blind Super-Resolution [[paper](https://iclr.cc/virtual/2023/poster/12136)] [[arxiv](https://arxiv.org/abs/2211.16928)] [[paper with code](https://paperswithcode.com/paper/knowledge-distillation-based-degradation)] [[code](https://github.com/zj-binxia/kdsr)]
+- Knowledge Distillation based Degradation Estimation for Blind Super-Resolution [[paper](https://iclr.cc/virtual/2023/poster/12136)] [[arxiv](https://arxiv.org/abs/2211.16928)] [[paper with code](https://paperswithcode.com/paper/knowledge-distillation-based-degradation)] [[code](https://github.com/zj-binxia/kdsr)] [[openreview](https://openreview.net/forum?id=Fg3mYW8owg)]
 
-- DySR: Adaptive Super-Resolution via Algorithm and System Co-design [[paper](https://iclr.cc/virtual/2023/poster/10992)]
+- DySR: Adaptive Super-Resolution via Algorithm and System Co-design [[paper](https://iclr.cc/virtual/2023/poster/10992)] [[openreview](https://openreview.net/forum?id=Pgtn4l6eKjv)]
 
 
 ## ICCV-2023
@@ -209,9 +209,9 @@
 ## NeurIPS-2021
 
 
-- Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/008bd5ad93b754d500338c253d9c1770-Abstract.html)] [[arxiv](https://arxiv.org/abs/2108.01070)] [[paper with code](https://paperswithcode.com/paper/finding-discriminative-filters-for-specific)] [[code](https://github.com/TencentARC/FAIG)]
+- Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/008bd5ad93b754d500338c253d9c1770-Abstract.html)] [[arxiv](https://arxiv.org/abs/2108.01070)] [[paper with code](https://paperswithcode.com/paper/finding-discriminative-filters-for-specific)] [[code](https://github.com/TencentARC/FAIG)] [[openreview](https://openreview.net/forum?id=az0BBDjDvwD)]
 
-- Deep inference of latent dynamics with spatio-temporal super-resolution using selective backpropagation through time [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1325cdae3b6f0f91a1b629307bf2d498-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.00070)] [[paper with code](https://paperswithcode.com/paper/deep-inference-of-latent-dynamics-with-spatio)] [[code](https://github.com/snel-repo/sbtt-demo)]
+- Deep inference of latent dynamics with spatio-temporal super-resolution using selective backpropagation through time [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1325cdae3b6f0f91a1b629307bf2d498-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.00070)] [[paper with code](https://paperswithcode.com/paper/deep-inference-of-latent-dynamics-with-spatio)] [[code](https://github.com/snel-repo/sbtt-demo)] [[openreview](https://openreview.net/forum?id=ZVrFO_Uru36)]
 
 
 ## CVPR-2021
@@ -286,29 +286,29 @@
 ## ECCV-2020
 
 
-- Semantic Object Prediction and Spatial Sound Super-Resolution with Binaural Sounds  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2632_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.04210)]
+- Semantic Object Prediction and Spatial Sound Super-Resolution with Binaural Sounds [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2632_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.04210)]
 
-- SRFlow: Learning the Super-Resolution Space with Normalizing Flow  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4442_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.14200)]
+- SRFlow: Learning the Super-Resolution Space with Normalizing Flow [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4442_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2006.14200)]
 
-- Across Scales & Across Dimensions: Temporal Super-Resolution using Deep Internal Learning  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/132_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2403.14877)]
+- Across Scales & Across Dimensions: Temporal Super-Resolution using Deep Internal Learning [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/132_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.08872)]
 
-- Texture Hallucination for Large-Factor Painting Super-Resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/181_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.00515)]
+- Texture Hallucination for Large-Factor Painting Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/181_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1912.00515)]
 
-- PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2318_ECCV_2020_paper.php)]
+- PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2318_ECCV_2020_paper.php)]
 
-- Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2629_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.07119)]
+- Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2629_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.07119)]
 
-- Towards Content-Independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4865_ECCV_2020_paper.php)]
+- Towards Content-Independent Multi-Reference Super-Resolution: Adaptive Pattern Matching and Feature Aggregation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4865_ECCV_2020_paper.php)]
 
-- PAMS: Quantized Super-Resolution via Parameterized Max Scale  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5130_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2011.04212)]
+- PAMS: Quantized Super-Resolution via Parameterized Max Scale [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5130_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2011.04212)]
 
-- Journey Towards Tiny Perceptual Super-Resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5305_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.04356)]
+- Journey Towards Tiny Perceptual Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5305_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.04356)]
 
-- Mining self-similarity: Label super-resolution with epitomic representations  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5450_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.11498)]
+- Mining self-similarity: Label super-resolution with epitomic representations [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5450_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.11498)]
 
-- Fast Adaptation to Super-Resolution Networks via Meta-Learning  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5930_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.02905)]
+- Fast Adaptation to Super-Resolution Networks via Meta-Learning [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5930_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.02905)]
 
-- Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6628_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.05230)]
+- Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6628_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.05230)]
 
 
 ## IJCAI-2020
@@ -359,7 +359,7 @@
 ## ICLR-2019
 
 
-- Label super-resolution networks [[paper](https://openreview.net/forum?id=rkxwShA9Ym)] [[arxiv](https://arxiv.org/abs/2011.02364)]
+- Label super-resolution networks [[paper](https://openreview.net/forum?id=rkxwShA9Ym)]
 
 
 ## ICCV-2019
@@ -390,7 +390,7 @@
 
 - Deep Back-Projection Networks for Super-Resolution [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1904.05677)] [[paper with code](https://paperswithcode.com/paper/deep-back-projection-networks-for-super)] [[code](https://github.com/sanghyun-son/EDSR-PyTorch)]
 
-- “Zero-Shot” Super-Resolution Using Deep Internal Learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Shocher_Zero-Shot_Super-Resolution_Using_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1712.06087)]
+- "Zero-Shot" Super-Resolution Using Deep Internal Learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Shocher_Zero-Shot_Super-Resolution_Using_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1712.06087)]
 
 - Learning a Single Convolutional Super-Resolution Network for Multiple Degradations [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Learning_a_Single_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1712.06116)] [[paper with code](https://paperswithcode.com/paper/learning-a-single-convolutional-super)] [[code](https://github.com/cszn/SRMD)]
 

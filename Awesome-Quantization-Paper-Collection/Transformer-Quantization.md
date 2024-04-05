@@ -32,7 +32,7 @@
 ## ICLR-2024
 
 
-- Transformer-VQ: Linear-Time Transformers via Vector Quantization [[paper](https://iclr.cc/virtual/2024/poster/17829)] [[arxiv](https://arxiv.org/abs/2309.16354)] [[paper with code](https://paperswithcode.com/paper/transformer-vq-linear-time-transformers-via)] [[code](https://github.com/transformer-vq/transformer_vq)]
+- Transformer-VQ: Linear-Time Transformers via Vector Quantization [[paper](https://iclr.cc/virtual/2024/poster/17829)] [[arxiv](https://arxiv.org/abs/2309.16354)] [[paper with code](https://paperswithcode.com/paper/transformer-vq-linear-time-transformers-via)] [[code](https://github.com/transformer-vq/transformer_vq)] [[openreview](https://openreview.net/forum?id=oDdzXQzP2F)]
 
 
 ## AAAI-2024
@@ -50,11 +50,11 @@
 ## NeurIPS-2023
 
 
-- Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1abc87c67cc400a67b869358e627fe37-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.14228)] [[paper with code](https://paperswithcode.com/paper/hierarchical-vector-quantized-transformer-for-1)] [[code](https://github.com/ruiyinglu/hvq-trans)] [[openview](https://openreview.net/forum?id=clJTNssgn6)]
+- Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1abc87c67cc400a67b869358e627fe37-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.14228)] [[paper with code](https://paperswithcode.com/paper/hierarchical-vector-quantized-transformer-for-1)] [[code](https://github.com/ruiyinglu/hvq-trans)] [[openreview](https://openreview.net/forum?id=clJTNssgn6)]
 
-- PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1c92edb990a05f2269f0cc3afbb4c952-Abstract-Conference.html)]
+- PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1c92edb990a05f2269f0cc3afbb4c952-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=N56hAiQvot)]
 
-- Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/edbcb7583fd8921dad78adecfe06a99b-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.12929)] [[paper with code](https://paperswithcode.com/paper/quantizable-transformers-removing-outliers-by)] [[code](https://github.com/qualcomm-ai-research/outlier-free-transformers)] [[openview](https://openreview.net/forum?id=sbusw6LD41)]
+- Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/edbcb7583fd8921dad78adecfe06a99b-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.12929)] [[paper with code](https://paperswithcode.com/paper/quantizable-transformers-removing-outliers-by)] [[code](https://github.com/qualcomm-ai-research/outlier-free-transformers)] [[openreview](https://openreview.net/forum?id=sbusw6LD41)]
 
 
 ## CVPR-2023
@@ -70,7 +70,7 @@
 ## ICLR-2023
 
 
-- OPTQ: Accurate Quantization for Generative Pre-trained Transformers [[paper](https://iclr.cc/virtual/2023/poster/10855)]
+- OPTQ: Accurate Quantization for Generative Pre-trained Transformers [[paper](https://iclr.cc/virtual/2023/poster/10855)] [[openreview](https://openreview.net/forum?id=tcbBPnfwxS)]
 
 
 ## ICCV-2023
@@ -107,9 +107,9 @@
 ## NeurIPS-2022
 
 
-- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01861)] [[paper with code](https://paperswithcode.com/paper/zeroquant-efficient-and-affordable-post)] [[code](https://github.com/microsoft/DeepSpeed)]
+- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01861)] [[paper with code](https://paperswithcode.com/paper/zeroquant-efficient-and-affordable-post)] [[code](https://github.com/microsoft/DeepSpeed)] [[openreview](https://openreview.net/forum?id=f-fVCElZ-G1)]
 
-- Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/deb921bff461a7b0a5c344a4871e7101-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.06707)] [[paper with code](https://paperswithcode.com/paper/q-vit-accurate-and-fully-quantized-low-bit)] [[code](https://github.com/yanjingli0202/q-vit)]
+- Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/deb921bff461a7b0a5c344a4871e7101-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.06707)] [[paper with code](https://paperswithcode.com/paper/q-vit-accurate-and-fully-quantized-low-bit)] [[code](https://github.com/yanjingli0202/q-vit)] [[openreview](https://openreview.net/forum?id=fU-m9kQe0ke)]
 
 
 ## ECCV-2022
@@ -134,7 +134,7 @@
 ## NeurIPS-2021
 
 
-- Post-Training Quantization for Vision Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ec8956637a99787bd197eacd77acce5e-Abstract.html)] [[arxiv](https://arxiv.org/abs/2401.14895)] [[paper with code](https://paperswithcode.com/paper/post-training-quantization-for-vision)]
+- Post-Training Quantization for Vision Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ec8956637a99787bd197eacd77acce5e-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.14156)] [[paper with code](https://paperswithcode.com/paper/post-training-quantization-for-vision)] [[openreview](https://openreview.net/forum?id=wCrH0JBCFNm)]
 
 
 # 2020

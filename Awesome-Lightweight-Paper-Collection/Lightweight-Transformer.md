@@ -31,7 +31,7 @@
 ## ICLR-2024
 
 
-- Boosting Vanilla Lightweight Vision Transformers via Re-parameterization [[paper](https://iclr.cc/virtual/2024/poster/19492)]
+- Boosting Vanilla Lightweight Vision Transformers via Re-parameterization [[paper](https://iclr.cc/virtual/2024/poster/19492)] [[openreview](https://openreview.net/forum?id=3rmpixOjPS)]
 
 
 ## AAAI-2024
@@ -47,7 +47,7 @@
 ## NeurIPS-2023
 
 
-- Lightweight Vision Transformer with Bidirectional Interaction [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3170de57bc1899315b97712043d8bb22-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00396)] [[paper with code](https://paperswithcode.com/paper/lightweight-vision-transformer-with-1)] [[code](https://github.com/qhfan/fat)] [[openview](https://openreview.net/forum?id=492Hfmgejy)]
+- Lightweight Vision Transformer with Bidirectional Interaction [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3170de57bc1899315b97712043d8bb22-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.00396)] [[paper with code](https://paperswithcode.com/paper/lightweight-vision-transformer-with-1)] [[code](https://github.com/qhfan/fat)] [[openreview](https://openreview.net/forum?id=492Hfmgejy)]
 
 
 ## CVPR-2023
@@ -67,7 +67,7 @@
 ## ICML-2023
 
 
-- A Closer Look at Self-Supervised Lightweight Vision Transformers [[paper](https://proceedings.mlr.press/v202/wang23e.html)] [[arxiv](https://arxiv.org/abs/2205.14443)] [[paper with code](https://paperswithcode.com/paper/a-closer-look-at-self-supervised-lightweight)] [[code](https://github.com/wangsr126/mae-lite)]
+- A Closer Look at Self-Supervised Lightweight Vision Transformers [[paper](https://proceedings.mlr.press/v202/wang23e.html)] [[arxiv](https://arxiv.org/abs/2205.14443)] [[paper with code](https://paperswithcode.com/paper/a-closer-look-at-self-supervised-lightweight)] [[code](https://github.com/wangsr126/mae-lite)] [[openreview](https://openreview.net/forum?id=NHfSJAWhKTw)]
 
 
 ## IJCAI-2023

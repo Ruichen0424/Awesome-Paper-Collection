@@ -37,7 +37,7 @@
 ## ICLR-2024
 
 
-- Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram [[paper](https://iclr.cc/virtual/2024/poster/18470)] [[arxiv](https://arxiv.org/abs/2402.09450)] [[paper with code](https://paperswithcode.com/paper/guiding-masked-representation-learning-to)] [[code](https://github.com/bakqui/st-mem)]
+- Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram [[paper](https://iclr.cc/virtual/2024/poster/18470)] [[arxiv](https://arxiv.org/abs/2402.09450)] [[paper with code](https://paperswithcode.com/paper/guiding-masked-representation-learning-to)] [[code](https://github.com/bakqui/st-mem)] [[openreview](https://openreview.net/forum?id=WcOohbsF4H)]
 
 
 ## AAAI-2024
@@ -53,7 +53,7 @@
 ## NeurIPS-2023
 
 
-- ECG-QA: A Comprehensive Question Answering Dataset Combined With Electrocardiogram [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d0b67349dd16b83b2cf6167fb4e2be50-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2306.15681)] [[paper with code](https://paperswithcode.com/paper/ecg-qa-a-comprehensive-question-answering)] [[code](https://github.com/jwoo5/ecg-qa)] [[openview](https://openreview.net/forum?id=YWJ7Yi4OtH)]
+- ECG-QA: A Comprehensive Question Answering Dataset Combined With Electrocardiogram [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d0b67349dd16b83b2cf6167fb4e2be50-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2306.15681)] [[paper with code](https://paperswithcode.com/paper/ecg-qa-a-comprehensive-question-answering)] [[code](https://github.com/jwoo5/ecg-qa)] [[openreview](https://openreview.net/forum?id=YWJ7Yi4OtH)]
 
 
 # 2022

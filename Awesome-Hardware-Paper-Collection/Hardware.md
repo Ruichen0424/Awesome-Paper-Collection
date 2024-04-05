@@ -53,7 +53,7 @@
 ## ICLR-2024
 
 
-- Curriculum reinforcement learning for quantum architecture search under hardware errors [[paper](https://iclr.cc/virtual/2024/poster/17697)] [[arxiv](https://arxiv.org/abs/2402.03500)] [[paper with code](https://paperswithcode.com/paper/curriculum-reinforcement-learning-for-quantum)]
+- Curriculum reinforcement learning for quantum architecture search under hardware errors [[paper](https://iclr.cc/virtual/2024/poster/17697)] [[arxiv](https://arxiv.org/abs/2402.03500)] [[paper with code](https://paperswithcode.com/paper/curriculum-reinforcement-learning-for-quantum)] [[openreview](https://openreview.net/forum?id=rINBD8jPoP)]
 
 
 ## AAAI-2024
@@ -68,17 +68,17 @@
 ## NeurIPS-2023
 
 
-- HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/081b08068e4733ae3e7ad019fe8d172f-Abstract-Conference.html)]
+- HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/081b08068e4733ae3e7ad019fe8d172f-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=3Cj67k38st)]
 
-- Hardware Resilience Properties of Text-Guided Image Classifiers [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d664de48bf5ad8e8e48c77e175eb0e80-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.14062)] [[paper with code](https://paperswithcode.com/paper/hardware-resilience-properties-of-text-guided-1)] [[code](https://github.com/talalwasim/textguidedresilience)] [[openview](https://openreview.net/forum?id=hVVp8TXIPs)]
+- Hardware Resilience Properties of Text-Guided Image Classifiers [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d664de48bf5ad8e8e48c77e175eb0e80-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.14062)] [[paper with code](https://paperswithcode.com/paper/hardware-resilience-properties-of-text-guided-1)] [[code](https://github.com/talalwasim/textguidedresilience)] [[openreview](https://openreview.net/forum?id=hVVp8TXIPs)]
 
-- Pgx: Hardware-Accelerated Parallel Game Simulators for Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8f153093758af93861a74a1305dfdc18-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2303.17503)] [[paper with code](https://paperswithcode.com/paper/pgx-hardware-accelerated-parallel-game-1)] [[code](https://github.com/sotetsuk/pgx)] [[openview](https://openreview.net/forum?id=UvX8QfhfUx)]
+- Pgx: Hardware-Accelerated Parallel Game Simulators for Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8f153093758af93861a74a1305dfdc18-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2303.17503)] [[paper with code](https://paperswithcode.com/paper/pgx-hardware-accelerated-parallel-game-1)] [[code](https://github.com/sotetsuk/pgx)] [[openreview](https://openreview.net/forum?id=UvX8QfhfUx)]
 
 
 ## ICLR-2023
 
 
-- Benchmarking Offline Reinforcement Learning on Real-Robot Hardware [[paper](https://iclr.cc/virtual/2023/poster/11771)] [[arxiv](https://arxiv.org/abs/2307.15690)] [[paper with code](https://paperswithcode.com/paper/benchmarking-offline-reinforcement-learning-1)] [[code](https://github.com/rr-learning/trifinger_rl_datasets)]
+- Benchmarking Offline Reinforcement Learning on Real-Robot Hardware [[paper](https://iclr.cc/virtual/2023/poster/11771)] [[arxiv](https://arxiv.org/abs/2307.15690)] [[paper with code](https://paperswithcode.com/paper/benchmarking-offline-reinforcement-learning-1)] [[code](https://github.com/rr-learning/trifinger_rl_datasets)] [[openreview](https://openreview.net/forum?id=3k5CUGDLNdd)]
 
 
 ## ICCV-2023
@@ -90,7 +90,7 @@
 ## ICML-2023
 
 
-- Hardware-Aware Compression with Random Operation Access Specific Tile (ROAST) Hashing [[paper](https://proceedings.mlr.press/v202/desai23b.html)]
+- Hardware-Aware Compression with Random Operation Access Specific Tile (ROAST) Hashing [[paper](https://proceedings.mlr.press/v202/desai23b.html)] [[openreview](https://openreview.net/forum?id=xFiI7VmVB4H)]
 
 - Simple Hardware-Efficient Long Convolutions for Sequence Modeling [[paper](https://proceedings.mlr.press/v202/fu23a.html)] [[arxiv](https://arxiv.org/abs/2302.06646)] [[paper with code](https://paperswithcode.com/paper/simple-hardware-efficient-long-convolutions)] [[code](https://github.com/hazyresearch/safari)]
 
@@ -148,9 +148,9 @@
 ## NeurIPS-2021
 
 
-- Learning Semantic Representations to Verify Hardware Designs [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/c5aa65949d20f6b20e1a922c13d974e7-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/learning-semantic-representations-to-verify)] [[openview](https://openreview.net/forum?id=oIhzg4GJeOf)]
+- Learning Semantic Representations to Verify Hardware Designs [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/c5aa65949d20f6b20e1a922c13d974e7-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/learning-semantic-representations-to-verify)] [[openreview](https://openreview.net/forum?id=oIhzg4GJeOf)]
 
-- Hardware-adaptive Efficient Latency Prediction for NAS via Meta-Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e3251075554389fe91d17a794861d47b-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.08630)] [[paper with code](https://paperswithcode.com/paper/hardware-adaptive-efficient-latency)] [[code](https://github.com/hayeonlee/help)] [[openview](https://openreview.net/forum?id=oE5lMpPRm0)]
+- Hardware-adaptive Efficient Latency Prediction for NAS via Meta-Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e3251075554389fe91d17a794861d47b-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.08630)] [[paper with code](https://paperswithcode.com/paper/hardware-adaptive-efficient-latency)] [[code](https://github.com/hayeonlee/help)] [[openreview](https://openreview.net/forum?id=oE5lMpPRm0)]
 
 
 ## ICLR-2021
@@ -204,11 +204,11 @@
 ## ECCV-2020
 
 
-- HALO: Hardware-Aware Learning to Optimize  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/884_ECCV_2020_paper.php)]
+- HALO: Hardware-Aware Learning to Optimize [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/884_ECCV_2020_paper.php)]
 
-- HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5414_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09952)]
+- HMQ: Hardware Friendly Mixed Precision Quantization Block for CNNs [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5414_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.09952)]
 
-- Differentiable Joint Pruning and Quantization for Hardware Efficiency  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6693_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10463)]
+- Differentiable Joint Pruning and Quantization for Hardware Efficiency [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6693_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.10463)]
 
 
 ## ACL-2020

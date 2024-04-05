@@ -65,11 +65,11 @@
 ## ICLR-2024
 
 
-- Brain decoding: toward real-time reconstruction of visual perception [[paper](https://iclr.cc/virtual/2024/poster/19487)] [[arxiv](https://arxiv.org/abs/2310.19812)] [[paper with code](https://paperswithcode.com/paper/brain-decoding-toward-real-time)]
+- Brain decoding: toward real-time reconstruction of visual perception [[paper](https://iclr.cc/virtual/2024/poster/19487)] [[arxiv](https://arxiv.org/abs/2310.19812)] [[paper with code](https://paperswithcode.com/paper/brain-decoding-toward-real-time)] [[openreview](https://openreview.net/forum?id=3y1K6buO8c)]
 
-- Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [[paper](https://iclr.cc/virtual/2024/poster/18466)] [[arxiv](https://arxiv.org/abs/2310.10642)] [[paper with code](https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene)] [[code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
+- Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [[paper](https://iclr.cc/virtual/2024/poster/18466)] [[arxiv](https://arxiv.org/abs/2310.10642)] [[paper with code](https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene)] [[code](https://github.com/fudan-zvg/4d-gaussian-splatting)] [[openreview](https://openreview.net/forum?id=WhgB5sispV)]
 
-- Exploring the Promise and Limits of Real-Time Recurrent Learning [[paper](https://iclr.cc/virtual/2024/poster/18510)] [[arxiv](https://arxiv.org/abs/2305.19044)] [[paper with code](https://paperswithcode.com/paper/exploring-the-promise-and-limits-of-real-time)] [[code](https://github.com/idsia/rtrl-elstm)]
+- Exploring the Promise and Limits of Real-Time Recurrent Learning [[paper](https://iclr.cc/virtual/2024/poster/18510)] [[arxiv](https://arxiv.org/abs/2305.19044)] [[paper with code](https://paperswithcode.com/paper/exploring-the-promise-and-limits-of-real-time)] [[code](https://github.com/idsia/rtrl-elstm)] [[openreview](https://openreview.net/forum?id=RLJ8t01p0u)]
 
 - Scalable Real-Time Recurrent Learning Using Columnar-Constructive Networks [[paper](https://iclr.cc/virtual/2024/poster/20658)] [[arxiv](https://arxiv.org/abs/2302.05326)] [[paper with code](https://paperswithcode.com/paper/online-real-time-recurrent-learning-using)] [[code](https://github.com/khurramjaved96/atari-prediction-benchmark)]
 
@@ -107,15 +107,15 @@
 ## NeurIPS-2023
 
 
-- Chanakya: Learning Runtime Decisions for Adaptive Real-Time Perception [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae2d574d2c309f3a45880e4460efd176-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2106.05665)] [[paper with code](https://paperswithcode.com/paper/chanakya-learning-runtime-decisions-for)] [[code](https://github.com/microsoft/Chanakya)] [[openview](https://openreview.net/forum?id=VpCjozUOM2)]
+- Chanakya: Learning Runtime Decisions for Adaptive Real-Time Perception [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae2d574d2c309f3a45880e4460efd176-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2106.05665)] [[paper with code](https://paperswithcode.com/paper/chanakya-learning-runtime-decisions-for)] [[code](https://github.com/microsoft/Chanakya)] [[openreview](https://openreview.net/forum?id=VpCjozUOM2)]
 
-- Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b37c2e26b75ee02fcabd65a2a0367136-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.12970)] [[paper with code](https://paperswithcode.com/paper/real-time-motion-prediction-via-heterogeneous-1)] [[code](https://github.com/zhejz/hptr)] [[openview](https://openreview.net/forum?id=YcmGuwdLoU)]
+- Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b37c2e26b75ee02fcabd65a2a0367136-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.12970)] [[paper with code](https://paperswithcode.com/paper/real-time-motion-prediction-via-heterogeneous-1)] [[code](https://github.com/zhejz/hptr)] [[openreview](https://openreview.net/forum?id=YcmGuwdLoU)]
 
-- UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b94d8b035e2183e47afef9e2f299ba47-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.13263)] [[paper with code](https://paperswithcode.com/paper/ue4-nerf-neural-radiance-field-for-real-time)] [[openview](https://openreview.net/forum?id=fsCcGr8YFR)]
+- UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b94d8b035e2183e47afef9e2f299ba47-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.13263)] [[paper with code](https://paperswithcode.com/paper/ue4-nerf-neural-radiance-field-for-real-time)] [[openreview](https://openreview.net/forum?id=fsCcGr8YFR)]
 
-- RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d1422213c9f2bdd5178b77d166fba86a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.03507)] [[paper with code](https://paperswithcode.com/paper/rl-based-stateful-neural-adaptive-sampling)] [[code](https://github.com/ajsvb/rl_path_tracing)] [[openview](https://openreview.net/forum?id=xNyR7DXUzJ)]
+- RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d1422213c9f2bdd5178b77d166fba86a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.03507)] [[paper with code](https://paperswithcode.com/paper/rl-based-stateful-neural-adaptive-sampling)] [[code](https://github.com/ajsvb/rl_path_tracing)] [[openreview](https://openreview.net/forum?id=xNyR7DXUzJ)]
 
-- Intelligent Knee Sleeves: A Real-time Multimodal Dataset for 3D Lower Body Motion Estimation Using Smart Textile [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/84948f178cfd3f6a0ffecda8fdcb3488-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2311.12829)] [[paper with code](https://paperswithcode.com/paper/intelligent-knee-sleeves-a-real-time)] [[openview](https://openreview.net/forum?id=T3FKjN4p8d)]
+- Intelligent Knee Sleeves: A Real-time Multimodal Dataset for 3D Lower Body Motion Estimation Using Smart Textile [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/84948f178cfd3f6a0ffecda8fdcb3488-Abstract-Datasets_and_Benchmarks.html)] [[arxiv](https://arxiv.org/abs/2311.12829)] [[paper with code](https://paperswithcode.com/paper/intelligent-knee-sleeves-a-real-time)] [[openreview](https://openreview.net/forum?id=T3FKjN4p8d)]
 
 
 ## CVPR-2023
@@ -165,15 +165,15 @@
 ## ICLR-2023
 
 
-- EVC: Towards Real-Time Neural Image Compression with Mask Decay [[paper](https://iclr.cc/virtual/2023/poster/12015)] [[arxiv](https://arxiv.org/abs/2302.05071)] [[paper with code](https://paperswithcode.com/paper/evc-towards-real-time-neural-image)] [[code](https://github.com/microsoft/dcvc)]
+- EVC: Towards Real-Time Neural Image Compression with Mask Decay [[paper](https://iclr.cc/virtual/2023/poster/12015)] [[arxiv](https://arxiv.org/abs/2302.05071)] [[paper with code](https://paperswithcode.com/paper/evc-towards-real-time-neural-image)] [[code](https://github.com/microsoft/dcvc)] [[openreview](https://openreview.net/forum?id=XUxad2Gj40n)]
 
-- Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time [[paper](https://iclr.cc/virtual/2023/poster/11865)]
+- Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time [[paper](https://iclr.cc/virtual/2023/poster/11865)] [[openreview](https://openreview.net/forum?id=6ZajpxqTlQ)]
 
-- CoRTX: Contrastive Framework for Real-time Explanation [[paper](https://iclr.cc/virtual/2023/poster/12109)] [[arxiv](https://arxiv.org/abs/2303.02794)] [[paper with code](https://paperswithcode.com/paper/cortx-contrastive-framework-for-real-time)] [[code](https://github.com/ynchuang/cortx-720)]
+- CoRTX: Contrastive Framework for Real-time Explanation [[paper](https://iclr.cc/virtual/2023/poster/12109)] [[arxiv](https://arxiv.org/abs/2303.02794)] [[paper with code](https://paperswithcode.com/paper/cortx-contrastive-framework-for-real-time)] [[code](https://github.com/ynchuang/cortx-720)] [[openreview](https://openreview.net/forum?id=L2MUOUp0beo)]
 
-- Real-time variational method for learning neural trajectory and its dynamics [[paper](https://iclr.cc/virtual/2023/poster/10849)] [[arxiv](https://arxiv.org/abs/2305.11278)] [[paper with code](https://paperswithcode.com/paper/real-time-variational-method-for-learning)]
+- Real-time variational method for learning neural trajectory and its dynamics [[paper](https://iclr.cc/virtual/2023/poster/10849)] [[arxiv](https://arxiv.org/abs/2305.11278)] [[paper with code](https://paperswithcode.com/paper/real-time-variational-method-for-learning)] [[openreview](https://openreview.net/forum?id=M_MvkWgQSt)]
 
-- Real-Time Image Demoir$\acute{e}$ing on Mobile Devices [[paper](https://iclr.cc/virtual/2023/poster/12202)]
+- Real-Time Image Demoir$\acute{e}$ing on Mobile Devices [[paper](https://iclr.cc/virtual/2023/poster/12202)] [[openreview](https://openreview.net/forum?id=PmP_sf3JkrH)]
 
 
 ## ICCV-2023
@@ -235,13 +235,13 @@
 ## NeurIPS-2022
 
 
-- FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/30d046e94d7b8037d6ef27c4357a8dd4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.02194)] [[paper with code](https://paperswithcode.com/paper/fof-learning-fourier-occupancy-field-for)]
+- FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/30d046e94d7b8037d6ef27c4357a8dd4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.02194)] [[paper with code](https://paperswithcode.com/paper/fof-learning-fourier-occupancy-field-for)] [[openreview](https://openreview.net/forum?id=qtQ9thon9fV)]
 
-- RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/30e10e671c5e43edb67eb257abb6c3ea-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07124)] [[paper with code](https://paperswithcode.com/paper/rtformer-efficient-design-for-real-time)] [[code](https://github.com/PaddlePaddle/PaddleSeg)]
+- RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/30e10e671c5e43edb67eb257abb6c3ea-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07124)] [[paper with code](https://paperswithcode.com/paper/rtformer-efficient-design-for-real-time)] [[code](https://github.com/PaddlePaddle/PaddleSeg)] [[openreview](https://openreview.net/forum?id=kMiL9hWbD1z)]
 
-- VoiceBlock: Privacy through Real-Time Adversarial Attacks with Audio-to-Audio Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c204d12afa0175285e5aac65188808b4-Abstract-Conference.html)]
+- VoiceBlock: Privacy through Real-Time Adversarial Attacks with Audio-to-Audio Models [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c204d12afa0175285e5aac65188808b4-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=8gQEmEgWAkc)]
 
-- How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8dfc3a2720a4112243a285b98e0d4415-Abstract-Datasets_and_Benchmarks.html)] [[paper with code](https://paperswithcode.com/paper/how-well-do-unsupervised-learning-algorithms)] [[code](https://github.com/neuroailab/VisualLearningBenchmarks)] [[openview](https://openreview.net/forum?id=c0l2YolqD2T)]
+- How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning? [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8dfc3a2720a4112243a285b98e0d4415-Abstract-Datasets_and_Benchmarks.html)] [[paper with code](https://paperswithcode.com/paper/how-well-do-unsupervised-learning-algorithms)] [[code](https://github.com/neuroailab/VisualLearningBenchmarks)] [[openreview](https://openreview.net/forum?id=c0l2YolqD2T)]
 
 
 ## CVPR-2022
@@ -273,7 +273,7 @@
 
 - Panoptic-PHNet: Towards Real-Time and High-Precision LiDAR Panoptic Segmentation via Clustering Pseudo Heatmap [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Panoptic-PHNet_Towards_Real-Time_and_High-Precision_LiDAR_Panoptic_Segmentation_via_Clustering_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2205.07002)] [[paper with code](https://paperswithcode.com/paper/panoptic-phnet-towards-real-time-and-high)]
 
-- A Low-Cost & Real-Time Motion Capture System [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chatzitofis_A_Low-Cost__Real-Time_Motion_Capture_System_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2403.19956)]
+- A Low-Cost & Real-Time Motion Capture System [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chatzitofis_A_Low-Cost__Real-Time_Motion_Capture_System_CVPR_2022_paper.html)]
 
 - PlanarRecon: Real-Time 3D Plane Detection and Reconstruction From Posed Monocular Videos [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_PlanarRecon_Real-Time_3D_Plane_Detection_and_Reconstruction_From_Posed_Monocular_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2206.07710)] [[paper with code](https://paperswithcode.com/paper/planarrecon-real-time-3d-plane-detection-and-1)] [[code](https://github.com/neu-vi/PlanarRecon)]
 
@@ -311,7 +311,7 @@
 
 - Face2Faceρ: Real-Time High-Resolution One-Shot Face Reenactment [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5548_ECCV_2022_paper.php)]
 
-- Real-Time Intermediate Flow Estimation for Video Frame Interpolation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/95_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2105.13482)]
+- Real-Time Intermediate Flow Estimation for Video Frame Interpolation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/95_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2011.06294)]
 
 - Digging into Radiance Grid for Real-Time View Synthesis with Detail Preservation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3346_ECCV_2022_paper.php)]
 
@@ -357,9 +357,9 @@
 ## NeurIPS-2021
 
 
-- Accumulative Poisoning Attacks on Real-time Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/16d11e9595188dbad0418a85f0351aba-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.09993)] [[paper with code](https://paperswithcode.com/paper/accumulative-poisoning-attacks-on-real-time)] [[code](https://github.com/ShawnXYang/AccumulativeAttack)]
+- Accumulative Poisoning Attacks on Real-time Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/16d11e9595188dbad0418a85f0351aba-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.09993)] [[paper with code](https://paperswithcode.com/paper/accumulative-poisoning-attacks-on-real-time)] [[code](https://github.com/ShawnXYang/AccumulativeAttack)] [[openreview](https://openreview.net/forum?id=4CrjylrL9vM)]
 
-- Bubblewrap: Online tiling and real-time flow prediction on neural manifolds [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/307eb8ee16198da891c521eca21464c1-Abstract.html)] [[arxiv](https://arxiv.org/abs/2108.13941)] [[paper with code](https://paperswithcode.com/paper/bubblewrap-online-tiling-and-real-time-flow)] [[code](https://github.com/pearsonlab/bubblewrap)]
+- Bubblewrap: Online tiling and real-time flow prediction on neural manifolds [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/307eb8ee16198da891c521eca21464c1-Abstract.html)] [[arxiv](https://arxiv.org/abs/2108.13941)] [[paper with code](https://paperswithcode.com/paper/bubblewrap-online-tiling-and-real-time-flow)] [[code](https://github.com/pearsonlab/bubblewrap)] [[openreview](https://openreview.net/forum?id=SjxC07jABZ4)]
 
 
 ## CVPR-2021
@@ -543,25 +543,25 @@
 ## ECCV-2020
 
 
-- MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1737_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.06534)]
+- MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1737_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.06534)]
 
-- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
+- RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1054_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.03343)]
 
-- Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/575_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.10955)]
+- Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/575_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.10955)]
 
-- Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1182_ECCV_2020_paper.php)]
+- Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1182_ECCV_2020_paper.php)]
 
-- Towards Real-Time Multi-Object Tracking  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1292_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1909.12605)]
+- Towards Real-Time Multi-Object Tracking [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1292_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/1909.12605)]
 
-- An Image Enhancing Pattern-based Sparsity for Real-time Inference on Mobile Devices  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1991_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.07710)]
+- An Image Enhancing Pattern-based Sparsity for Real-time Inference on Mobile Devices [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1991_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2001.07710)]
 
-- UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2391_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2312.12664)]
+- UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2391_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2312.12664)]
 
-- A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4160_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.06811)]
+- A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4160_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.06811)]
 
-- Monocular Real-Time Volumetric Performance Capture  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4214_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.13988)]
+- Monocular Real-Time Volumetric Performance Capture [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4214_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.13988)]
 
-- CenterNet Heatmap Propagation for Real-time Video Object Detection  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4943_ECCV_2020_paper.php)]
+- CenterNet Heatmap Propagation for Real-time Video Object Detection [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4943_ECCV_2020_paper.php)]
 
 
 ## ICML-2020
@@ -575,7 +575,7 @@
 
 - Contextualized Sparse Representations for Real-Time Open-Domain Question Answering [[paper](https://aclanthology.org/2020.acl-main.85/)] [[arxiv](https://arxiv.org/abs/1911.02896)] [[paper with code](https://paperswithcode.com/paper/contextualized-sparse-representation-with-1)] [[code](https://github.com/jhyuklee/sparc)]
 
-- MultiQT: Multimodal learning for real-time question tracking in speechJakob  [[paper](https://aclanthology.org/2020.acl-main.215/)]
+- MultiQT: Multimodal learning for real-time question tracking in speechJakob [[paper](https://aclanthology.org/2020.acl-main.215/)]
 
 
 ## IJCAI-2020
@@ -619,7 +619,7 @@
 
 - Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6779)] [[arxiv](https://arxiv.org/abs/1911.11170)] [[paper with code](https://paperswithcode.com/paper/real-time-object-tracking-via-meta-learning)]
 
-- Real-Time Scene Text Detection with Differentiable Binarization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6812)] [[arxiv](https://arxiv.org/abs/2202.10304)] [[paper with code](https://paperswithcode.com/paper/real-time-scene-text-detection-with)] [[code](https://github.com/MhLiao/DB)]
+- Real-Time Scene Text Detection with Differentiable Binarization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6812)] [[arxiv](https://arxiv.org/abs/1911.08947)] [[paper with code](https://paperswithcode.com/paper/real-time-scene-text-detection-with)] [[code](https://github.com/MhLiao/DB)]
 
 - Training-Time-Friendly Network for Real-Time Object Detection [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6838)] [[arxiv](https://arxiv.org/abs/1909.00700)] [[paper with code](https://paperswithcode.com/paper/training-time-friendly-network-for-real-time)] [[code](https://github.com/ZJULearning/ttfnet)]
 
@@ -631,7 +631,7 @@
 ## NeurIPS-2019
 
 
-- Real-Time Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/54e36c5ff5f6a1802925ca009f3ebb68-Abstract.html)] [[arxiv](https://arxiv.org/abs/2403.07923)] [[paper with code](https://paperswithcode.com/paper/real-time-reinforcement-learning)] [[code](https://github.com/rmst/rtrl)]
+- Real-Time Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/54e36c5ff5f6a1802925ca009f3ebb68-Abstract.html)] [[arxiv](https://arxiv.org/abs/1911.04448)] [[paper with code](https://paperswithcode.com/paper/real-time-reinforcement-learning)] [[code](https://github.com/rmst/rtrl)]
 
 - DeepWave: A Recurrent Neural-Network for Real-Time Acoustic Imaging [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e9bf14a419d77534105016f5ec122d62-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/deepwave-a-recurrent-neural-network-for-real)] [[code](https://github.com/imagingofthings/DeepWave)]
 
@@ -677,7 +677,7 @@
 
 - CDPN: Coordinates-Based Disentangled Pose Network for Real-Time RGB-Based 6-DoF Object Pose Estimation [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_CDPN_Coordinates-Based_Disentangled_Pose_Network_for_Real-Time_RGB-Based_6-DoF_Object_ICCV_2019_paper.html)] [[paper with code](https://paperswithcode.com/paper/cdpn-coordinates-based-disentangled-pose)]
 
-- YOLACT: Real-Time Instance Segmentation [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2103.15997)] [[paper with code](https://paperswithcode.com/paper/yolact-real-time-instance-segmentation)] [[code](https://github.com/dbolya/yolact)]
+- YOLACT: Real-Time Instance Segmentation [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.02689)] [[paper with code](https://paperswithcode.com/paper/yolact-real-time-instance-segmentation)] [[code](https://github.com/dbolya/yolact)]
 
 - Ego-Pose Estimation and Forecasting As Real-Time PD Control [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1906.03173)] [[paper with code](https://paperswithcode.com/paper/ego-pose-estimation-and-forecasting-as-real)] [[code](https://github.com/Khrylx/EgoPose)]
 
@@ -695,7 +695,7 @@
 
 - Out-of-sample Node Representation Learning for Heterogeneous Graph in Real-time Android Malware Detection [[paper](https://www.ijcai.org/proceedings/2019/576)]
 
-- Real-Time Adversarial Attacks [[paper](https://www.ijcai.org/proceedings/2019/649)] [[arxiv](https://arxiv.org/abs/2311.11191)] [[paper with code](https://paperswithcode.com/paper/real-time-adversarial-attacks)] [[code](https://github.com/YuanGongND/realtime-adversarial-attack)]
+- Real-Time Adversarial Attacks [[paper](https://www.ijcai.org/proceedings/2019/649)] [[arxiv](https://arxiv.org/abs/1905.13399)] [[paper with code](https://paperswithcode.com/paper/real-time-adversarial-attacks)] [[code](https://github.com/YuanGongND/realtime-adversarial-attack)]
 
 - Locate-Then-Detect: Real-time Web Attack Detection via Attention-based Deep Neural Networks [[paper](https://www.ijcai.org/proceedings/2019/656)]
 
@@ -707,7 +707,7 @@
 
 - Optimal Interdiction of Urban Criminals with the Aid of Real-Time Information [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3921)]
 
-- Deep Reinforcement Learning for Green Security Games with Real-Time Information [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3941)] [[arxiv](https://arxiv.org/abs/2211.04987)] [[paper with code](https://paperswithcode.com/paper/deep-reinforcement-learning-for-green)]
+- Deep Reinforcement Learning for Green Security Games with Real-Time Information [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3941)] [[arxiv](https://arxiv.org/abs/1811.02483)] [[paper with code](https://paperswithcode.com/paper/deep-reinforcement-learning-for-green)]
 
 - Tackling Sparse Rewards in Real-Time Games with Statistical Forward Planning Methods [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3990)]
 
@@ -773,7 +773,7 @@
 
 - HBE: Hand Branch Ensemble Network for Real-time 3D Hand Pose Estimation [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Yidan_Zhou_HBE_Hand_Branch_ECCV_2018_paper.php)] [[paper with code](https://paperswithcode.com/paper/hbe-hand-branch-ensemble-network-for-real)]
 
-- BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.php)] [[arxiv](https://arxiv.org/abs/2004.02147)] [[paper with code](https://paperswithcode.com/paper/bisenet-bilateral-segmentation-network-for)] [[code](https://github.com/PaddlePaddle/PaddleSeg)]
+- BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.php)] [[arxiv](https://arxiv.org/abs/1808.00897)] [[paper with code](https://paperswithcode.com/paper/bisenet-bilateral-segmentation-network-for)] [[code](https://github.com/PaddlePaddle/PaddleSeg)]
 
 - Real-time 'Actor-Critic' Tracking [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.php)] [[paper with code](https://paperswithcode.com/paper/real-time-actor-critic-tracking)]
 
@@ -791,7 +791,7 @@
 ## IJCAI-2018
 
 
-- Real-time Traffic Pattern Analysis  and Inference with Sparse Video Surveillance Information [[paper](https://www.ijcai.org/proceedings/2018/496)]
+- Real-time Traffic Pattern Analysis and Inference with Sparse Video Surveillance Information [[paper](https://www.ijcai.org/proceedings/2018/496)]
 
 - Dynamic Resource Routing using Real-Time Dynamic Programming [[paper](https://www.ijcai.org/proceedings/2018/670)]
 

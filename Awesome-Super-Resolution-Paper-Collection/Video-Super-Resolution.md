@@ -100,9 +100,9 @@
 ## NeurIPS-2022
 
 
-- AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/48cca987b3af66e1a607abd4820b330d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.07038)] [[paper with code](https://paperswithcode.com/paper/animesr-learning-real-world-super-resolution)] [[code](https://github.com/tencentarc/animesr)]
+- AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/48cca987b3af66e1a607abd4820b330d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.07038)] [[paper with code](https://paperswithcode.com/paper/animesr-learning-real-world-super-resolution)] [[code](https://github.com/tencentarc/animesr)] [[openreview](https://openreview.net/forum?id=4kjQZTNz-NH)]
 
-- Rethinking Alignment in Video Super-Resolution Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ea4d65c59073e8faf79222654d25fbe2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2207.08494)] [[paper with code](https://paperswithcode.com/paper/rethinking-alignment-in-video-super)] [[code](https://github.com/xpixelgroup/rethinkvsralignment)]
+- Rethinking Alignment in Video Super-Resolution Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ea4d65c59073e8faf79222654d25fbe2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2207.08494)] [[paper with code](https://paperswithcode.com/paper/rethinking-alignment-in-video-super)] [[code](https://github.com/xpixelgroup/rethinkvsralignment)] [[openreview](https://openreview.net/forum?id=NgIf3FpcHie)]
 
 
 ## CVPR-2022
@@ -163,7 +163,7 @@
 
 - COMISR: Compression-Informed Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_COMISR_Compression-Informed_Video_Super-Resolution_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2105.01237)] [[paper with code](https://paperswithcode.com/paper/comisr-compression-informed-video-super)] [[code](https://github.com/google-research/google-research)]
 
-- Deep Blind Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Pan_Deep_Blind_Video_Super-Resolution_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2401.07139)] [[paper with code](https://paperswithcode.com/paper/deep-blind-video-super-resolution)] [[code](https://github.com/csbhr/Deep-Blind-VSR)]
+- Deep Blind Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Pan_Deep_Blind_Video_Super-Resolution_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2003.04716)] [[paper with code](https://paperswithcode.com/paper/deep-blind-video-super-resolution)] [[code](https://github.com/csbhr/Deep-Blind-VSR)]
 
 - Real-World Video Super-Resolution: A Benchmark Dataset and a Decomposition Based Learning Scheme [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Real-World_Video_Super-Resolution_A_Benchmark_Dataset_and_a_Decomposition_Based_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/real-world-video-super-resolution-a-benchmark)] [[code](https://github.com/ianyeung/realvsr)]
 
@@ -195,9 +195,9 @@
 ## ECCV-2020
 
 
-- MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1086_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.11803)]
+- MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1086_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2007.11803)]
 
-- Video Super-Resolution with Recurrent Structure-Detail Network  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1698_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.00455)]
+- Video Super-Resolution with Recurrent Structure-Detail Network [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1698_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.00455)]
 
 
 ## AAAI-2020
@@ -215,7 +215,7 @@
 ## CVPR-2019
 
 
-- Recurrent Back-Projection Network for Video Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/2006.11161)] [[paper with code](https://paperswithcode.com/paper/recurrent-back-projection-network-for-video)] [[code](https://github.com/alterzero/RBPN-PyTorch)]
+- Recurrent Back-Projection Network for Video Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1903.10128)] [[paper with code](https://paperswithcode.com/paper/recurrent-back-projection-network-for-video)] [[code](https://github.com/alterzero/RBPN-PyTorch)]
 
 - Fast Spatio-Temporal Residual Network for Video Super-Resolution [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Fast_Spatio-Temporal_Residual_Network_for_Video_Super-Resolution_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.02870)] [[paper with code](https://paperswithcode.com/paper/fast-spatio-temporal-residual-network-for)]
 

@@ -69,7 +69,7 @@
 
 - VLM2Scene: Self-Supervised Image-Text-LiDAR Learning with Foundation Models for Autonomous Driving Scene Understanding [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28121)]
 
-- BEV-MAE: Bird’s Eye View Masked Autoencoders for Point Cloud Pre-training in Autonomous Driving Scenarios [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28141)] [[arxiv](https://arxiv.org/abs/2212.05758)]
+- BEV-MAE: Bird's Eye View Masked Autoencoders for Point Cloud Pre-training in Autonomous Driving Scenarios [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28141)] [[arxiv](https://arxiv.org/abs/2212.05758)]
 
 - SlowTrack: Increasing the Latency of Camera-Based Perception in Autonomous Driving Using Adversarial Examples [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28200)] [[arxiv](https://arxiv.org/abs/2312.09520)] [[paper with code](https://paperswithcode.com/paper/slowtrack-increasing-the-latency-of-camera)]
 

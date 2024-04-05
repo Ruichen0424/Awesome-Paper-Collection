@@ -26,11 +26,11 @@
 ## ICLR-2024
 
 
-- The Need for Speed: Pruning Transformers with One Recipe [[paper](https://iclr.cc/virtual/2024/poster/18819)] [[arxiv](https://arxiv.org/abs/2403.17921)] [[paper with code](https://paperswithcode.com/paper/the-need-for-speed-pruning-transformers-with)] [[code](https://github.com/skhaki18/optin-transformer-pruning)]
+- The Need for Speed: Pruning Transformers with One Recipe [[paper](https://iclr.cc/virtual/2024/poster/18819)] [[arxiv](https://arxiv.org/abs/2403.17921)] [[paper with code](https://paperswithcode.com/paper/the-need-for-speed-pruning-transformers-with)] [[code](https://github.com/skhaki18/optin-transformer-pruning)] [[openreview](https://openreview.net/forum?id=MVmT6uQ3cQ)]
 
-- Synergistic Patch Pruning for Vision Transformer: Unifying Intra- & Inter-Layer Patch Importance [[paper](https://iclr.cc/virtual/2024/poster/19175)]
+- Synergistic Patch Pruning for Vision Transformer: Unifying Intra- & Inter-Layer Patch Importance [[paper](https://iclr.cc/virtual/2024/poster/19175)] [[openreview](https://openreview.net/forum?id=COO51g41Q4)]
 
-- Data-independent Module-aware Pruning for Hierarchical Vision Transformers [[paper](https://iclr.cc/virtual/2024/poster/19362)]
+- Data-independent Module-aware Pruning for Hierarchical Vision Transformers [[paper](https://iclr.cc/virtual/2024/poster/19362)] [[openreview](https://openreview.net/forum?id=7Ol6foUi1G)]
 
 
 ## AAAI-2024
@@ -50,7 +50,7 @@
 ## NeurIPS-2023
 
 
-- Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdaac2a02c4fdcae77ba083b110efcc3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15805)] [[paper with code](https://paperswithcode.com/paper/dynamic-context-pruning-for-efficient-and)] [[openview](https://openreview.net/forum?id=uvdJgFFzby)]
+- Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdaac2a02c4fdcae77ba083b110efcc3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15805)] [[paper with code](https://paperswithcode.com/paper/dynamic-context-pruning-for-efficient-and)] [[openreview](https://openreview.net/forum?id=uvdJgFFzby)]
 
 
 ## CVPR-2023
@@ -88,9 +88,9 @@
 ## NeurIPS-2022
 
 
-- SAViT: Structure-Aware Vision Transformer Pruning via Collaborative Optimization [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3b11c5cc84b6da2838db348b37dbd1a2-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/savit-structure-aware-vision-transformer)] [[code](https://github.com/hikvision-research/savit)] [[openview](https://openreview.net/forum?id=w5DacXWzQ-Q)]
+- SAViT: Structure-Aware Vision Transformer Pruning via Collaborative Optimization [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3b11c5cc84b6da2838db348b37dbd1a2-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/savit-structure-aware-vision-transformer)] [[code](https://github.com/hikvision-research/savit)] [[openreview](https://openreview.net/forum?id=w5DacXWzQ-Q)]
 
-- A Fast Post-Training Pruning Framework for Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/987bed997ab668f91c822a09bce3ea12-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2204.09656)] [[paper with code](https://paperswithcode.com/paper/a-fast-post-training-pruning-framework-for)] [[code](https://github.com/WoosukKwon/retraining-free-pruning)]
+- A Fast Post-Training Pruning Framework for Transformers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/987bed997ab668f91c822a09bce3ea12-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2204.09656)] [[paper with code](https://paperswithcode.com/paper/a-fast-post-training-pruning-framework-for)] [[code](https://github.com/WoosukKwon/retraining-free-pruning)] [[openreview](https://openreview.net/forum?id=0GRBKLBjJE)]
 
 
 ## ECCV-2022
@@ -110,4 +110,4 @@
 ## AAAI-2022
 
 
-- Width & Depth Pruning for Vision Transformers [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20222)] [[arxiv](https://arxiv.org/abs/2403.16789)]
+- Width & Depth Pruning for Vision Transformers [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20222)]

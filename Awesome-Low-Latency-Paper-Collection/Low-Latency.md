@@ -122,7 +122,7 @@
 ## ICML-2019
 
 
-- Low Latency Privacy Preserving Inference [[paper](https://proceedings.mlr.press/v97/brutzkus19a.html)] [[arxiv](https://arxiv.org/abs/2110.03545)] [[paper with code](https://paperswithcode.com/paper/low-latency-privacy-preserving-inference)] [[code](https://github.com/microsoft/CryptoNets)] [[openview](https://openreview.net/forum?id=rJl8viCqKQ)]
+- Low Latency Privacy Preserving Inference [[paper](https://proceedings.mlr.press/v97/brutzkus19a.html)] [[arxiv](https://arxiv.org/abs/1812.10659)] [[paper with code](https://paperswithcode.com/paper/low-latency-privacy-preserving-inference)] [[code](https://github.com/microsoft/CryptoNets)] [[openreview](https://openreview.net/forum?id=rJl8viCqKQ)]
 
 
 # 2018

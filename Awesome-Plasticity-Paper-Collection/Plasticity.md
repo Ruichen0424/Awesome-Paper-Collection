@@ -42,11 +42,11 @@
 ## ICLR-2024
 
 
-- Synaptic Weight Distributions Depend on the Geometry of Plasticity [[paper](https://iclr.cc/virtual/2024/poster/17469)] [[arxiv](https://arxiv.org/abs/2305.19394)] [[paper with code](https://paperswithcode.com/paper/synaptic-weight-distributions-depend-on-the)] [[code](https://github.com/romanpogodin/synaptic-weight-distr)]
+- Synaptic Weight Distributions Depend on the Geometry of Plasticity [[paper](https://iclr.cc/virtual/2024/poster/17469)] [[arxiv](https://arxiv.org/abs/2305.19394)] [[paper with code](https://paperswithcode.com/paper/synaptic-weight-distributions-depend-on-the)] [[code](https://github.com/romanpogodin/synaptic-weight-distr)] [[openreview](https://openreview.net/forum?id=x5txICnnjC)]
 
 - Addressing Catastrophic Forgetting and Loss of Plasticity in Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/17656)]
 
-- Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[paper](https://iclr.cc/virtual/2024/poster/19614)] [[arxiv](https://arxiv.org/abs/2310.07418)] [[paper with code](https://paperswithcode.com/paper/revisiting-plasticity-in-visual-reinforcement)] [[code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)]
+- Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[paper](https://iclr.cc/virtual/2024/poster/19614)] [[arxiv](https://arxiv.org/abs/2310.07418)] [[paper with code](https://paperswithcode.com/paper/revisiting-plasticity-in-visual-reinforcement)] [[code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)] [[openreview](https://openreview.net/forum?id=0aR1s9YxoL)]
 
 
 # 2023
@@ -55,21 +55,21 @@
 ## NeurIPS-2023
 
 
-- Formalizing locality for normative synaptic plasticity models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/120339238f293d4ae53a7167403abc4b-Abstract-Conference.html)]
+- Formalizing locality for normative synaptic plasticity models [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/120339238f293d4ae53a7167403abc4b-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=rGN3X9jnEg)]
 
-- Adaptive whitening with fast gain modulation and slow synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2308.13633)] [[paper with code](https://paperswithcode.com/paper/adaptive-whitening-with-fast-gain-modulation)] [[code](https://github.com/lyndond/multi_timescale_whitening)] [[openview](https://openreview.net/forum?id=vz7SdRqWGM)]
+- Adaptive whitening with fast gain modulation and slow synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2308.13633)] [[paper with code](https://paperswithcode.com/paper/adaptive-whitening-with-fast-gain-modulation)] [[code](https://github.com/lyndond/multi_timescale_whitening)] [[openreview](https://openreview.net/forum?id=vz7SdRqWGM)]
 
-- Meta-learning families of plasticity rules in recurrent spiking networks using simulation-based inference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2bdc2267c3d7d01523e2e17ac0a754f3-Abstract-Conference.html)]
+- Meta-learning families of plasticity rules in recurrent spiking networks using simulation-based inference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2bdc2267c3d7d01523e2e17ac0a754f3-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=FLFasCFJNo)]
 
-- On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57587d8d6a7ede0e5302fc22d0878c53-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/on-the-stability-plasticity-dilemma-in)] [[code](https://github.com/livreq/dynamiccml)] [[openview](https://openreview.net/forum?id=DNHGKeOhLl)]
+- On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57587d8d6a7ede0e5302fc22d0878c53-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/on-the-stability-plasticity-dilemma-in)] [[code](https://github.com/livreq/dynamiccml)] [[openreview](https://openreview.net/forum?id=DNHGKeOhLl)]
 
-- Improving Language Plasticity via Pretraining with Active Forgetting [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6450ea28ebbc8437bc38775157818172-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.01163)] [[paper with code](https://paperswithcode.com/paper/improving-language-plasticity-via-pretraining)] [[openview](https://openreview.net/forum?id=jvEbQBxd8X)]
+- Improving Language Plasticity via Pretraining with Active Forgetting [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6450ea28ebbc8437bc38775157818172-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.01163)] [[paper with code](https://paperswithcode.com/paper/improving-language-plasticity-via-pretraining)] [[openreview](https://openreview.net/forum?id=jvEbQBxd8X)]
 
-- Deep Reinforcement Learning with Plasticity Injection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/75101364dc3aa7772d27528ea504472b-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15555)] [[paper with code](https://paperswithcode.com/paper/deep-reinforcement-learning-with-plasticity)] [[openview](https://openreview.net/forum?id=jucDLW6G9l)]
+- Deep Reinforcement Learning with Plasticity Injection [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/75101364dc3aa7772d27528ea504472b-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15555)] [[paper with code](https://paperswithcode.com/paper/deep-reinforcement-learning-with-plasticity)] [[openreview](https://openreview.net/forum?id=jucDLW6G9l)]
 
-- PLASTIC: Improving Input and Label Plasticity for Sample Efficient Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c464fc4516aca4e68f2a14e67c6f0402-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.10711)] [[paper with code](https://paperswithcode.com/paper/enhancing-generalization-and-plasticity-for)] [[code](https://github.com/dojeon-ai/plastic)] [[openview](https://openreview.net/forum?id=c5WOU7p4ES)]
+- PLASTIC: Improving Input and Label Plasticity for Sample Efficient Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c464fc4516aca4e68f2a14e67c6f0402-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.10711)] [[paper with code](https://paperswithcode.com/paper/enhancing-generalization-and-plasticity-for)] [[code](https://github.com/dojeon-ai/plastic)] [[openreview](https://openreview.net/forum?id=c5WOU7p4ES)]
 
-- Dis-inhibitory neuronal circuits can control the sign of synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca22641c182b3b9608634edb4d09bc33-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.19614)] [[paper with code](https://paperswithcode.com/paper/dis-inhibitory-neuronal-circuits-can-control)] [[code](https://github.com/fmi-basel/disinhibitory-control)] [[openview](https://openreview.net/forum?id=7otRtfrRqo)]
+- Dis-inhibitory neuronal circuits can control the sign of synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca22641c182b3b9608634edb4d09bc33-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.19614)] [[paper with code](https://paperswithcode.com/paper/dis-inhibitory-neuronal-circuits-can-control)] [[code](https://github.com/fmi-basel/disinhibitory-control)] [[openreview](https://openreview.net/forum?id=7otRtfrRqo)]
 
 
 ## CVPR-2023
@@ -87,11 +87,11 @@
 ## ICLR-2023
 
 
-- New Insights for the Stability-Plasticity Dilemma in Online Continual Learning [[paper](https://iclr.cc/virtual/2023/poster/11634)] [[arxiv](https://arxiv.org/abs/2302.08741)] [[paper with code](https://paperswithcode.com/paper/new-insights-for-the-stability-plasticity)] [[code](https://github.com/whitesnowdrop/mufan)]
+- New Insights for the Stability-Plasticity Dilemma in Online Continual Learning [[paper](https://iclr.cc/virtual/2023/poster/11634)] [[arxiv](https://arxiv.org/abs/2302.08741)] [[paper with code](https://paperswithcode.com/paper/new-insights-for-the-stability-plasticity)] [[code](https://github.com/whitesnowdrop/mufan)] [[openreview](https://openreview.net/forum?id=fxC7kJYwA_a)]
 
-- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)]
+- Unsupervised 3D Object Learning through Neuron Activity aware Plasticity [[paper](https://iclr.cc/virtual/2023/poster/11282)] [[arxiv](https://arxiv.org/abs/2302.11622)] [[paper with code](https://paperswithcode.com/paper/unsupervised-3d-object-learning-through)] [[openreview](https://openreview.net/forum?id=mXPoBtnpMnuy)]
 
-- Hebbian and Gradient-based Plasticity Enables Robust Memory and Rapid Learning in RNNs [[paper](https://iclr.cc/virtual/2023/poster/11522)] [[arxiv](https://arxiv.org/abs/2302.03235)] [[paper with code](https://paperswithcode.com/paper/hebbian-and-gradient-based-plasticity-enables)] [[code](https://github.com/yuvenduan/plasticrnns)]
+- Hebbian and Gradient-based Plasticity Enables Robust Memory and Rapid Learning in RNNs [[paper](https://iclr.cc/virtual/2023/poster/11522)] [[arxiv](https://arxiv.org/abs/2302.03235)] [[paper with code](https://paperswithcode.com/paper/hebbian-and-gradient-based-plasticity-enables)] [[code](https://github.com/yuvenduan/plasticrnns)] [[openreview](https://openreview.net/forum?id=2WklawyeI08)]
 
 
 ## ICML-2023
@@ -108,7 +108,7 @@
 ## NeurIPS-2022
 
 
-- PlasticityNet: Learning to Simulate Metal, Sand, and Snow for Optimization Time Integration [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b235f0b417e8bf270c0cb19fe0b82c1e-Abstract-Conference.html)]
+- PlasticityNet: Learning to Simulate Metal, Sand, and Snow for Optimization Time Integration [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b235f0b417e8bf270c0cb19fe0b82c1e-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=_WqHmwoE7Ud)]
 
 
 ## CVPR-2022
@@ -139,17 +139,17 @@
 ## NeurIPS-2021
 
 
-- Sparse Training via Boosting Pruning Plasticity  with Neuroregeneration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10404)]
+- Sparse Training via Boosting Pruning Plasticity with Neuroregeneration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10404)]
 
-- Tensor decompositions of higher-order correlations by nonlinear Hebbian plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5e34a2b4c23f4de585fb09a7f546f527-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.15685)] [[paper with code](https://paperswithcode.com/paper/tensor-decompositions-of-higher-order-1)] [[code](https://github.com/gocker/tensorhebb)] [[openview](https://openreview.net/forum?id=8v_4EVifBqX)]
+- Tensor decompositions of higher-order correlations by nonlinear Hebbian plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5e34a2b4c23f4de585fb09a7f546f527-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.15685)] [[paper with code](https://paperswithcode.com/paper/tensor-decompositions-of-higher-order-1)] [[code](https://github.com/gocker/tensorhebb)] [[openreview](https://openreview.net/forum?id=8v_4EVifBqX)]
 
-- Impression learning: Online representation learning with synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/615299acbbac3e21302bbc435091ad9f-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/impression-learning-online-representation)] [[code](https://github.com/colinbredenberg/impression-learning-camera-ready)] [[openview](https://openreview.net/forum?id=MAorPaLqam_)]
+- Impression learning: Online representation learning with synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/615299acbbac3e21302bbc435091ad9f-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/impression-learning-online-representation)] [[code](https://github.com/colinbredenberg/impression-learning-camera-ready)] [[openreview](https://openreview.net/forum?id=MAorPaLqam_)]
 
-- On Plasticity, Invariance, and Mutually Frozen Weights in Sequential Task Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6738fc33dd0b3906cd3626397cd247a7-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/on-plasticity-invariance-and-mutually-frozen)] [[openview](https://openreview.net/forum?id=Y10GtvGEgR)]
+- On Plasticity, Invariance, and Mutually Frozen Weights in Sequential Task Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6738fc33dd0b3906cd3626397cd247a7-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/on-plasticity-invariance-and-mutually-frozen)] [[openreview](https://openreview.net/forum?id=Y10GtvGEgR)]
 
-- Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d79c8788088c2193f0244d8f1f36d2db-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.01760)] [[paper with code](https://paperswithcode.com/paper/increasing-liquid-state-machine-performance)] [[code](https://github.com/combra-lab/nalsm)] [[openview](https://openreview.net/forum?id=8kl-SbUX4ZU)]
+- Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d79c8788088c2193f0244d8f1f36d2db-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.01760)] [[paper with code](https://paperswithcode.com/paper/increasing-liquid-state-machine-performance)] [[code](https://github.com/combra-lab/nalsm)] [[openreview](https://openreview.net/forum?id=8kl-SbUX4ZU)]
 
-- Local plasticity rules can learn deep representations using self-supervised contrastive predictions [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html)] [[arxiv](https://arxiv.org/abs/2010.08262)] [[paper with code](https://paperswithcode.com/paper/towards-truly-local-gradients-with-clapp)] [[code](https://github.com/EPFL-LCN/pub-illing2021-neurips)]
+- Local plasticity rules can learn deep representations using self-supervised contrastive predictions [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html)] [[arxiv](https://arxiv.org/abs/2010.08262)] [[paper with code](https://paperswithcode.com/paper/towards-truly-local-gradients-with-clapp)] [[code](https://github.com/EPFL-LCN/pub-illing2021-neurips)] [[openreview](https://openreview.net/forum?id=Yu8Q6341U7W)]
 
 
 ## CVPR-2021

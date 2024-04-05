@@ -44,9 +44,9 @@
 ## ICLR-2024
 
 
-- Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [[paper](https://iclr.cc/virtual/2024/poster/18658)]
+- Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [[paper](https://iclr.cc/virtual/2024/poster/18658)] [[openreview](https://openreview.net/forum?id=QzTpTRVtrP)]
 
-- Decoding Natural Images from EEG for Object Recognition [[paper](https://iclr.cc/virtual/2024/poster/18251)] [[arxiv](https://arxiv.org/abs/2308.13234)] [[paper with code](https://paperswithcode.com/paper/decoding-natural-images-from-eeg-for-object)] [[code](https://github.com/eeyhsong/nice-eeg)]
+- Decoding Natural Images from EEG for Object Recognition [[paper](https://iclr.cc/virtual/2024/poster/18251)] [[arxiv](https://arxiv.org/abs/2308.13234)] [[paper with code](https://paperswithcode.com/paper/decoding-natural-images-from-eeg-for-object)] [[code](https://github.com/eeyhsong/nice-eeg)] [[openreview](https://openreview.net/forum?id=dhLIno8FmH)]
 
 
 ## AAAI-2024
@@ -64,11 +64,11 @@
 ## NeurIPS-2023
 
 
-- DeWave: Discrete Encoding of EEG Waves for EEG to Text Translation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1f2fd23309a5b2d2537d063b29ec1b52-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2309.14030)] [[paper with code](https://paperswithcode.com/paper/dewave-discrete-encoding-of-eeg-waves-for-eeg)] [[code](https://github.com/duanyiqun/dewave)] [[openview](https://openreview.net/forum?id=WaLI8slhLw)]
+- DeWave: Discrete Encoding of EEG Waves for EEG to Text Translation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1f2fd23309a5b2d2537d063b29ec1b52-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2309.14030)] [[paper with code](https://paperswithcode.com/paper/dewave-discrete-encoding-of-eeg-waves-for-eeg)] [[code](https://github.com/duanyiqun/dewave)] [[openreview](https://openreview.net/forum?id=WaLI8slhLw)]
 
-- Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html)]
+- Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=hiOUySN0ub)]
 
-- CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2aab54135bd206ef6d4949ce17528d98-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.07788)] [[paper with code](https://paperswithcode.com/paper/cslp-ae-a-contrastive-split-latent-1)] [[code](https://github.com/andersxa/cslp-ae)] [[openview](https://openreview.net/forum?id=G7Y145tm2F)]
+- CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2aab54135bd206ef6d4949ce17528d98-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.07788)] [[paper with code](https://paperswithcode.com/paper/cslp-ae-a-contrastive-split-latent-1)] [[code](https://github.com/andersxa/cslp-ae)] [[openreview](https://openreview.net/forum?id=G7Y145tm2F)]
 
 
 ## ICML-2023
@@ -100,11 +100,11 @@
 ## NeurIPS-2022
 
 
-- SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/28ef7ee7cd3e03093acc39e1272411b7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01323)] [[paper with code](https://paperswithcode.com/paper/spd-domain-specific-batch-normalization-to)] [[code](https://github.com/rkobler/TSMNet)]
+- SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/28ef7ee7cd3e03093acc39e1272411b7-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.01323)] [[paper with code](https://paperswithcode.com/paper/spd-domain-specific-batch-normalization-to)] [[code](https://github.com/rkobler/TSMNet)] [[openreview](https://openreview.net/forum?id=pp7onaiM4VB)]
 
-- Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8511d06d5590f4bda24d42087802cc81-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.11233)] [[paper with code](https://paperswithcode.com/paper/assessing-robustness-of-eeg-representations)] [[code](https://github.com/neerajwagh/evaluating-eeg-representations)]
+- Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8511d06d5590f4bda24d42087802cc81-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.11233)] [[paper with code](https://paperswithcode.com/paper/assessing-robustness-of-eeg-representations)] [[code](https://github.com/neerajwagh/evaluating-eeg-representations)] [[openreview](https://openreview.net/forum?id=KRk0lBRPpOC)]
 
-- MAtt: A Manifold Attention Network for EEG Decoding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c981fd12b1d5703f19bd8289da9fc996-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.01986)] [[paper with code](https://paperswithcode.com/paper/matt-a-manifold-attention-network-for-eeg)] [[code](https://github.com/cecnl/matt)]
+- MAtt: A Manifold Attention Network for EEG Decoding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c981fd12b1d5703f19bd8289da9fc996-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.01986)] [[paper with code](https://paperswithcode.com/paper/matt-a-manifold-attention-network-for-eeg)] [[code](https://github.com/cecnl/matt)] [[openreview](https://openreview.net/forum?id=YG4Dg7xtETg)]
 
 
 ## ICLR-2022

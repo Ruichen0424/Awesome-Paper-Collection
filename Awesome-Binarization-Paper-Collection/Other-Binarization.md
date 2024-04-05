@@ -378,7 +378,7 @@
 ## ICML-2021
 
 
-- Don’t Just Blame Over-parametrization for Over-confidence: Theoretical Analysis of Calibration in Binary Classification [[paper](https://proceedings.mlr.press/v139/bai21c.html)]
+- Don't Just Blame Over-parametrization for Over-confidence: Theoretical Analysis of Calibration in Binary Classification [[paper](https://proceedings.mlr.press/v139/bai21c.html)]
 
 - ARMS: Antithetic-REINFORCE-Multi-Sample Gradient for Binary Variables [[paper](https://proceedings.mlr.press/v139/dimitriev21a.html)] [[arxiv](https://arxiv.org/abs/2105.14141)] [[paper with code](https://paperswithcode.com/paper/arms-antithetic-reinforce-multi-sample)] [[code](https://github.com/alekdimi/arms)]
 

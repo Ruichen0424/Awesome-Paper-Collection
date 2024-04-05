@@ -71,23 +71,23 @@
 ## ICLR-2024
 
 
-- Harnessing Density Ratios for Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2024/poster/18580)] [[arxiv](https://arxiv.org/abs/2401.09681)] [[paper with code](https://paperswithcode.com/paper/harnessing-density-ratios-for-online)]
+- Harnessing Density Ratios for Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2024/poster/18580)] [[arxiv](https://arxiv.org/abs/2401.09681)] [[paper with code](https://paperswithcode.com/paper/harnessing-density-ratios-for-online)] [[openreview](https://openreview.net/forum?id=THJEa8adBn)]
 
-- Pessimistic Nonlinear Least-Squares Value Iteration for Offline Reinforcement Learning [[paper](https://iclr.cc/virtual/2024/poster/19449)] [[arxiv](https://arxiv.org/abs/2310.01380)] [[paper with code](https://paperswithcode.com/paper/pessimistic-nonlinear-least-squares-value)]
+- Pessimistic Nonlinear Least-Squares Value Iteration for Offline Reinforcement Learning [[paper](https://iclr.cc/virtual/2024/poster/19449)] [[arxiv](https://arxiv.org/abs/2310.01380)] [[paper with code](https://paperswithcode.com/paper/pessimistic-nonlinear-least-squares-value)] [[openreview](https://openreview.net/forum?id=jOuPR9IH00)]
 
-- Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction [[paper](https://iclr.cc/virtual/2024/poster/18552)]
+- Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction [[paper](https://iclr.cc/virtual/2024/poster/18552)] [[openreview](https://openreview.net/forum?id=TpD2aG1h0D)]
 
-- Negatively Correlated Ensemble Reinforcement Learning for Online Diverse Game Level Generation [[paper](https://iclr.cc/virtual/2024/poster/18072)]
+- Negatively Correlated Ensemble Reinforcement Learning for Online Diverse Game Level Generation [[paper](https://iclr.cc/virtual/2024/poster/18072)] [[openreview](https://openreview.net/forum?id=iAW2EQXfwb)]
 
-- Locality Sensitive Sparse Encoding for Learning World Models Online [[paper](https://iclr.cc/virtual/2024/poster/18076)] [[arxiv](https://arxiv.org/abs/2401.13034)] [[paper with code](https://paperswithcode.com/paper/locality-sensitive-sparse-encoding-for)]
+- Locality Sensitive Sparse Encoding for Learning World Models Online [[paper](https://iclr.cc/virtual/2024/poster/18076)] [[arxiv](https://arxiv.org/abs/2401.13034)] [[paper with code](https://paperswithcode.com/paper/locality-sensitive-sparse-encoding-for)] [[openreview](https://openreview.net/forum?id=i8PjQT3Uig)]
 
 - Kalman Filter Online Learning from non-Stationary Data [[paper](https://iclr.cc/virtual/2024/poster/18380)]
 
-- Online Continual Learning for Interactive Instruction Following Agents [[paper](https://iclr.cc/virtual/2024/poster/19364)] [[arxiv](https://arxiv.org/abs/2403.07548)] [[paper with code](https://paperswithcode.com/paper/online-continual-learning-for-interactive)] [[code](https://github.com/snumprlab/cl-alfred)]
+- Online Continual Learning for Interactive Instruction Following Agents [[paper](https://iclr.cc/virtual/2024/poster/19364)] [[arxiv](https://arxiv.org/abs/2403.07548)] [[paper with code](https://paperswithcode.com/paper/online-continual-learning-for-interactive)] [[code](https://github.com/snumprlab/cl-alfred)] [[openreview](https://openreview.net/forum?id=7M0EzjugaN)]
 
-- Improved Regret Bounds for Non-Convex Online-Within-Online Meta Learning [[paper](https://iclr.cc/virtual/2024/poster/17793)]
+- Improved Regret Bounds for Non-Convex Online-Within-Online Meta Learning [[paper](https://iclr.cc/virtual/2024/poster/17793)] [[openreview](https://openreview.net/forum?id=pA8Q5WiEMg)]
 
-- Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization [[paper](https://iclr.cc/virtual/2024/poster/17610)] [[arxiv](https://arxiv.org/abs/2311.03351)] [[paper with code](https://paperswithcode.com/paper/uni-o4-unifying-online-and-offline-deep)]
+- Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization [[paper](https://iclr.cc/virtual/2024/poster/17610)] [[arxiv](https://arxiv.org/abs/2311.03351)] [[paper with code](https://paperswithcode.com/paper/uni-o4-unifying-online-and-offline-deep)] [[openreview](https://openreview.net/forum?id=tbFBh3LMKi)]
 
 
 ## AAAI-2024
@@ -135,53 +135,53 @@
 ## NeurIPS-2023
 
 
-- Online learning of long-range dependencies [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2184d8450c8a641f9a10c49279087c97-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15947)] [[paper with code](https://paperswithcode.com/paper/online-learning-of-long-range-dependencies)] [[code](https://github.com/nicolaszucchet/online-learning-lr-dependencies)] [[openview](https://openreview.net/forum?id=Wa1GGPqjUn)]
+- Online learning of long-range dependencies [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2184d8450c8a641f9a10c49279087c97-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15947)] [[paper with code](https://paperswithcode.com/paper/online-learning-of-long-range-dependencies)] [[code](https://github.com/nicolaszucchet/online-learning-lr-dependencies)] [[openreview](https://openreview.net/forum?id=Wa1GGPqjUn)]
 
-- Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/236b6a814a1d2c0ff504ca7bf380f7ff-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.06986)] [[paper with code](https://paperswithcode.com/paper/provable-guarantees-for-nonlinear-feature)] [[openview](https://openreview.net/forum?id=fShubymWrc)]
+- Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/236b6a814a1d2c0ff504ca7bf380f7ff-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.06986)] [[paper with code](https://paperswithcode.com/paper/provable-guarantees-for-nonlinear-feature)] [[openreview](https://openreview.net/forum?id=fShubymWrc)]
 
-- Online Constrained Meta-Learning: Provable Guarantees for Generalization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/320e941f53db45bddc8757d1c8c4f6aa-Abstract-Conference.html)]
+- Online Constrained Meta-Learning: Provable Guarantees for Generalization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/320e941f53db45bddc8757d1c8c4f6aa-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=x2xQEszznV)]
 
-- Robust Learning for Smoothed Online Convex Optimization with Feedback Delay [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/36848567d39a5128e671ad04a6075374-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.20098)] [[paper with code](https://paperswithcode.com/paper/robust-learning-for-smoothed-online-convex)] [[openview](https://openreview.net/forum?id=loixpHDZKj)]
+- Robust Learning for Smoothed Online Convex Optimization with Feedback Delay [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/36848567d39a5128e671ad04a6075374-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.20098)] [[paper with code](https://paperswithcode.com/paper/robust-learning-for-smoothed-online-convex)] [[openreview](https://openreview.net/forum?id=loixpHDZKj)]
 
-- A Trichotomy for Transductive Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e32af2df2cd13dfbcbe6e8d38111068-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.06428)] [[paper with code](https://paperswithcode.com/paper/a-trichotomy-for-transductive-online-learning)] [[openview](https://openreview.net/forum?id=iSd8g75QvP)]
+- A Trichotomy for Transductive Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e32af2df2cd13dfbcbe6e8d38111068-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.06428)] [[paper with code](https://paperswithcode.com/paper/a-trichotomy-for-transductive-online-learning)] [[openreview](https://openreview.net/forum?id=iSd8g75QvP)]
 
-- Fed-CO$_{2}$: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/431d53d513461ff155d5bc8faa9a440c-Abstract-Conference.html)]
+- Fed-CO$_{2}$: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/431d53d513461ff155d5bc8faa9a440c-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=dEDdRWunxU)]
 
-- Online Nonstochastic Model-Free Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/491bbea0db340e2d0bc1feea9059909a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17552)] [[paper with code](https://paperswithcode.com/paper/online-nonstochastic-model-free-reinforcement)] [[openview](https://openreview.net/forum?id=B5LpWAaBVA)]
+- Online Nonstochastic Model-Free Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/491bbea0db340e2d0bc1feea9059909a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17552)] [[paper with code](https://paperswithcode.com/paper/online-nonstochastic-model-free-reinforcement)] [[openreview](https://openreview.net/forum?id=B5LpWAaBVA)]
 
-- Efficient Adversarial Attacks on Online Multi-agent Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4cddc8fc57039f8fe44e23aba1e4df40-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.07670)] [[paper with code](https://paperswithcode.com/paper/efficient-adversarial-attacks-on-online-multi)] [[openview](https://openreview.net/forum?id=9qlJGjO7bA)]
+- Efficient Adversarial Attacks on Online Multi-agent Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4cddc8fc57039f8fe44e23aba1e4df40-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.07670)] [[paper with code](https://paperswithcode.com/paper/efficient-adversarial-attacks-on-online-multi)] [[openreview](https://openreview.net/forum?id=9qlJGjO7bA)]
 
-- Universal Online Learning with Gradient Variations: A Multi-layer Online Ensemble Approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/76818d8d85e05e45ce3a16a8468619d1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.08360)] [[paper with code](https://paperswithcode.com/paper/universal-online-learning-with-gradual)] [[openview](https://openreview.net/forum?id=AA1xrgAP5z)]
+- Universal Online Learning with Gradient Variations: A Multi-layer Online Ensemble Approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/76818d8d85e05e45ce3a16a8468619d1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.08360)] [[paper with code](https://paperswithcode.com/paper/universal-online-learning-with-gradual)] [[openreview](https://openreview.net/forum?id=AA1xrgAP5z)]
 
-- No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/79358587d84628728199059f648824e6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17380)] [[paper with code](https://paperswithcode.com/paper/no-regret-online-reinforcement-learning-with)] [[openview](https://openreview.net/forum?id=0WLMVDdvDF)]
+- No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/79358587d84628728199059f648824e6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17380)] [[paper with code](https://paperswithcode.com/paper/no-regret-online-reinforcement-learning-with)] [[openreview](https://openreview.net/forum?id=0WLMVDdvDF)]
 
-- Smoothed Online Learning for Prediction in Piecewise Affine Systems [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/82096f4f6f897529ecd3eabea603e9cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2301.11187)] [[paper with code](https://paperswithcode.com/paper/smoothed-online-learning-for-prediction-in)] [[openview](https://openreview.net/forum?id=Izt7rDD7jN)]
+- Smoothed Online Learning for Prediction in Piecewise Affine Systems [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/82096f4f6f897529ecd3eabea603e9cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2301.11187)] [[paper with code](https://paperswithcode.com/paper/smoothed-online-learning-for-prediction-in)] [[openreview](https://openreview.net/forum?id=Izt7rDD7jN)]
 
-- Adversarial Attacks on Online Learning to Rank with Click Feedback [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/820e42f39773c6cbbd875553db45658f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17071)] [[paper with code](https://paperswithcode.com/paper/adversarial-attacks-on-online-learning-to)] [[openview](https://openreview.net/forum?id=MCj7DLkYqS)]
+- Adversarial Attacks on Online Learning to Rank with Click Feedback [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/820e42f39773c6cbbd875553db45658f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17071)] [[paper with code](https://paperswithcode.com/paper/adversarial-attacks-on-online-learning-to)] [[openreview](https://openreview.net/forum?id=MCj7DLkYqS)]
 
-- Riemannian Projection-free Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8305a0049227f7dd2bb91e11090f8cfa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.19349)]
+- Riemannian Projection-free Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8305a0049227f7dd2bb91e11090f8cfa-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.19349)] [[openreview](https://openreview.net/forum?id=szFqlNRxeS)]
 
-- Optimal Learners for Realizable Regression: PAC Learning and Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c22e5e918198702765ecff4b20d0a90-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.03848)] [[paper with code](https://paperswithcode.com/paper/optimal-learners-for-realizable-regression)] [[openview](https://openreview.net/forum?id=w116w62fxH)]
+- Optimal Learners for Realizable Regression: PAC Learning and Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c22e5e918198702765ecff4b20d0a90-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.03848)] [[paper with code](https://paperswithcode.com/paper/optimal-learners-for-realizable-regression)] [[openreview](https://openreview.net/forum?id=w116w62fxH)]
 
-- Learning Linear Causal Representations from Interventions under General Nonlinear Mixing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e5de4cb639ef718f44060dc257cb04f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.02235)] [[paper with code](https://paperswithcode.com/paper/learning-linear-causal-representations-from)] [[openview](https://openreview.net/forum?id=q131tA7HCT)]
+- Learning Linear Causal Representations from Interventions under General Nonlinear Mixing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e5de4cb639ef718f44060dc257cb04f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.02235)] [[paper with code](https://paperswithcode.com/paper/learning-linear-causal-representations-from)] [[openreview](https://openreview.net/forum?id=q131tA7HCT)]
 
-- On the Minimax Regret for Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/908f03779b5b063413fbf0247a46a403-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15383)] [[paper with code](https://paperswithcode.com/paper/on-the-minimax-regret-for-online-learning)] [[openview](https://openreview.net/forum?id=XfYpIaKDb6)]
+- On the Minimax Regret for Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/908f03779b5b063413fbf0247a46a403-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.15383)] [[paper with code](https://paperswithcode.com/paper/on-the-minimax-regret-for-online-learning)] [[openreview](https://openreview.net/forum?id=XfYpIaKDb6)]
 
-- Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9318763d049edf9a1f2779b2a59911d3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.17966)] [[paper with code](https://paperswithcode.com/paper/train-once-get-a-family-state-adaptive-1)] [[code](https://github.com/leaplabthu/famo2o)] [[openview](https://openreview.net/forum?id=vtoY8qJjTR)]
+- Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9318763d049edf9a1f2779b2a59911d3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.17966)] [[paper with code](https://paperswithcode.com/paper/train-once-get-a-family-state-adaptive-1)] [[code](https://github.com/leaplabthu/famo2o)] [[openreview](https://openreview.net/forum?id=vtoY8qJjTR)]
 
-- Online Performative Gradient Descent for Learning Nash Equilibria in Decision-Dependent Games [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/95a704bd2fdf8ef8242b4adcc7ce3c93-Abstract-Conference.html)]
+- Online Performative Gradient Descent for Learning Nash Equilibria in Decision-Dependent Games [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/95a704bd2fdf8ef8242b4adcc7ce3c93-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=IdF7VT6eEs)]
 
-- Adjustable Robust Reinforcement Learning for Online 3D Bin Packing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a345ed605675c7c484e740a8ceaa6b45-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.04323)] [[paper with code](https://paperswithcode.com/paper/adjustable-robust-reinforcement-learning-for)] [[openview](https://openreview.net/forum?id=1mdTYi1jAW)]
+- Adjustable Robust Reinforcement Learning for Online 3D Bin Packing [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a345ed605675c7c484e740a8ceaa6b45-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.04323)] [[paper with code](https://paperswithcode.com/paper/adjustable-robust-reinforcement-learning-for)] [[openreview](https://openreview.net/forum?id=1mdTYi1jAW)]
 
-- Online Learning under Adversarial Nonlinear Constraints [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a6f2763089c0bd8f56006c42f09ee24c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.03655)] [[paper with code](https://paperswithcode.com/paper/online-learning-under-adversarial-nonlinear)] [[openview](https://openreview.net/forum?id=N6YNe4KxDc)]
+- Online Learning under Adversarial Nonlinear Constraints [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a6f2763089c0bd8f56006c42f09ee24c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.03655)] [[paper with code](https://paperswithcode.com/paper/online-learning-under-adversarial-nonlinear)] [[openreview](https://openreview.net/forum?id=N6YNe4KxDc)]
 
-- DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6404bf461c3c3186bdf5f55756af908-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.10005)] [[paper with code](https://paperswithcode.com/paper/dinosr-self-distillation-and-online)] [[code](https://github.com/alexander-h-liu/dinosr)] [[openview](https://openreview.net/forum?id=twmHKU3Ds4)]
+- DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6404bf461c3c3186bdf5f55756af908-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.10005)] [[paper with code](https://paperswithcode.com/paper/dinosr-self-distillation-and-online)] [[code](https://github.com/alexander-h-liu/dinosr)] [[openreview](https://openreview.net/forum?id=twmHKU3Ds4)]
 
-- Residual Q-Learning: Offline and Online Policy Customization without Value [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c2e4cebba2fdb3dac7d2022421062765-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.09526)] [[paper with code](https://paperswithcode.com/paper/residual-q-learning-offline-and-online-policy)] [[openview](https://openreview.net/forum?id=LaNeRwDrTk)]
+- Residual Q-Learning: Offline and Online Policy Customization without Value [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c2e4cebba2fdb3dac7d2022421062765-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.09526)] [[paper with code](https://paperswithcode.com/paper/residual-q-learning-offline-and-online-policy)] [[openreview](https://openreview.net/forum?id=LaNeRwDrTk)]
 
-- The Gain from Ordering in Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c9b1fe9c41f1eeec3a659154d575a282-Abstract-Conference.html)]
+- The Gain from Ordering in Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c9b1fe9c41f1eeec3a659154d575a282-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=OaUT4hX40s)]
 
-- Selective Sampling and Imitation Learning via Online Regression [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d470d6e007a19ff1666386562c77517c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.04998)] [[paper with code](https://paperswithcode.com/paper/selective-sampling-and-imitation-learning-via)] [[openview](https://openreview.net/forum?id=QoeOVgayLp)]
+- Selective Sampling and Imitation Learning via Online Regression [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d470d6e007a19ff1666386562c77517c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.04998)] [[paper with code](https://paperswithcode.com/paper/selective-sampling-and-imitation-learning-via)] [[openreview](https://openreview.net/forum?id=QoeOVgayLp)]
 
 
 ## CVPR-2023
@@ -205,21 +205,21 @@
 ## ICLR-2023
 
 
-- Multi-Objective Online Learning [[paper](https://iclr.cc/virtual/2023/poster/10757)] [[arxiv](https://arxiv.org/abs/2312.09355)]
+- Multi-Objective Online Learning [[paper](https://iclr.cc/virtual/2023/poster/10757)]
 
-- Online Boundary-Free Continual Learning by Scheduled Data Prior [[paper](https://iclr.cc/virtual/2023/poster/11136)]
+- Online Boundary-Free Continual Learning by Scheduled Data Prior [[paper](https://iclr.cc/virtual/2023/poster/11136)] [[openreview](https://openreview.net/forum?id=qco4ekz2Epm)]
 
-- Online Bias Correction for Task-Free Continual Learning [[paper](https://iclr.cc/virtual/2023/poster/10703)]
+- Online Bias Correction for Task-Free Continual Learning [[paper](https://iclr.cc/virtual/2023/poster/10703)] [[openreview](https://openreview.net/forum?id=18XzeuYZh_)]
 
-- The Role of Coverage in Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2023/poster/10809)] [[arxiv](https://arxiv.org/abs/2210.04157)] [[paper with code](https://paperswithcode.com/paper/the-role-of-coverage-in-online-reinforcement)]
+- The Role of Coverage in Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2023/poster/10809)] [[arxiv](https://arxiv.org/abs/2210.04157)] [[paper with code](https://paperswithcode.com/paper/the-role-of-coverage-in-online-reinforcement)] [[openreview](https://openreview.net/forum?id=LQIjzPdDt3q)]
 
-- Policy Expansion for Bridging Offline-to-Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2023/poster/11562)] [[arxiv](https://arxiv.org/abs/2302.00935)] [[paper with code](https://paperswithcode.com/paper/policy-expansion-for-bridging-offline-to)] [[code](https://github.com/haichao-zhang/pex)]
+- Policy Expansion for Bridging Offline-to-Online Reinforcement Learning [[paper](https://iclr.cc/virtual/2023/poster/11562)] [[arxiv](https://arxiv.org/abs/2302.00935)] [[paper with code](https://paperswithcode.com/paper/policy-expansion-for-bridging-offline-to)] [[code](https://github.com/haichao-zhang/pex)] [[openreview](https://openreview.net/forum?id=-Y34L45JR6z)]
 
-- Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities [[paper](https://iclr.cc/virtual/2023/poster/12026)] [[arxiv](https://arxiv.org/abs/2210.01074)] [[paper with code](https://paperswithcode.com/paper/nonlinear-reconstruction-for-operator)]
+- Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities [[paper](https://iclr.cc/virtual/2023/poster/12026)] [[arxiv](https://arxiv.org/abs/2210.01074)] [[paper with code](https://paperswithcode.com/paper/nonlinear-reconstruction-for-operator)] [[openreview](https://openreview.net/forum?id=CrfhZAsJDsZ)]
 
-- Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity [[paper](https://iclr.cc/virtual/2023/poster/11126)] [[arxiv](https://arxiv.org/abs/2302.00032)] [[paper with code](https://paperswithcode.com/paper/neuromechanical-autoencoders-learning-to)]
+- Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity [[paper](https://iclr.cc/virtual/2023/poster/11126)] [[arxiv](https://arxiv.org/abs/2302.00032)] [[paper with code](https://paperswithcode.com/paper/neuromechanical-autoencoders-learning-to)] [[openreview](https://openreview.net/forum?id=QubsmJT_A0)]
 
-- Understanding the Role of Nonlinearity in Training Dynamics of Contrastive Learning [[paper](https://iclr.cc/virtual/2023/poster/11334)] [[arxiv](https://arxiv.org/abs/2206.01342)] [[paper with code](https://paperswithcode.com/paper/understanding-the-role-of-nonlinearity-in)] [[code](https://github.com/facebookresearch/luckmatters)]
+- Understanding the Role of Nonlinearity in Training Dynamics of Contrastive Learning [[paper](https://iclr.cc/virtual/2023/poster/11334)] [[arxiv](https://arxiv.org/abs/2206.01342)] [[paper with code](https://paperswithcode.com/paper/understanding-the-role-of-nonlinearity-in)] [[code](https://github.com/facebookresearch/luckmatters)] [[openreview](https://openreview.net/forum?id=s130rTE3U_X)]
 
 
 ## ICCV-2023
@@ -255,7 +255,7 @@
 
 - Improved Online Learning Algorithms for CTR Prediction in Ad Auctions [[paper](https://proceedings.mlr.press/v202/feng23b.html)] [[arxiv](https://arxiv.org/abs/2403.00845)] [[paper with code](https://paperswithcode.com/paper/improved-online-learning-algorithms-for-ctr)]
 
-- SurCo: Learning Linear SURrogates for COmbinatorial Nonlinear Optimization Problems [[paper](https://proceedings.mlr.press/v202/ferber23a.html)] [[arxiv](https://arxiv.org/abs/2210.12547)] [[paper with code](https://paperswithcode.com/paper/surco-learning-linear-surrogates-for)]
+- SurCo: Learning Linear SURrogates for COmbinatorial Nonlinear Optimization Problems [[paper](https://proceedings.mlr.press/v202/ferber23a.html)] [[arxiv](https://arxiv.org/abs/2210.12547)] [[paper with code](https://paperswithcode.com/paper/surco-learning-linear-surrogates-for)] [[openreview](https://openreview.net/forum?id=5o8oFs5D9Z)]
 
 - Learning Temporally AbstractWorld Models without Online Experimentation [[paper](https://proceedings.mlr.press/v202/freed23a.html)]
 
@@ -269,7 +269,7 @@
 
 - Online Learning with Feedback Graphs: The True Shape of Regret [[paper](https://proceedings.mlr.press/v202/kocak23a.html)] [[arxiv](https://arxiv.org/abs/2306.02971)] [[paper with code](https://paperswithcode.com/paper/online-learning-with-feedback-graphs-the-true)]
 
-- Learning for Edge-Weighted Online Bipartite Matching with Robustness Guarantees [[paper](https://proceedings.mlr.press/v202/li23am.html)] [[arxiv](https://arxiv.org/abs/2306.00172)] [[paper with code](https://paperswithcode.com/paper/learning-for-edge-weighted-online-bipartite)] [[code](https://github.com/ren-research/lomar)]
+- Learning for Edge-Weighted Online Bipartite Matching with Robustness Guarantees [[paper](https://proceedings.mlr.press/v202/li23am.html)] [[arxiv](https://arxiv.org/abs/2306.00172)] [[paper with code](https://paperswithcode.com/paper/learning-for-edge-weighted-online-bipartite)] [[code](https://github.com/ren-research/lomar)] [[openreview](https://openreview.net/forum?id=cwiFbXPW4G0)]
 
 - What can online reinforcement learning with function approximation benefit from general coverage conditions? [[paper](https://proceedings.mlr.press/v202/liu23aj.html)] [[paper with code](https://paperswithcode.com/paper/provable-benefits-of-general-coverage)]
 
@@ -281,7 +281,7 @@
 
 - Offline Meta Reinforcement Learning with In-Distribution Online Adaptation [[paper](https://proceedings.mlr.press/v202/wang23au.html)] [[arxiv](https://arxiv.org/abs/2305.19529)] [[paper with code](https://paperswithcode.com/paper/offline-meta-reinforcement-learning-with-in)] [[code](https://github.com/nagisazj/idaq_public)]
 
-- Actor-Critic Alignment for Offline-to-Online Reinforcement Learning [[paper](https://proceedings.mlr.press/v202/yu23k.html)]
+- Actor-Critic Alignment for Offline-to-Online Reinforcement Learning [[paper](https://proceedings.mlr.press/v202/yu23k.html)] [[openreview](https://openreview.net/forum?id=z70d8UBFDKF)]
 
 - Online Learning in Stackelberg Games with an Omniscient Follower [[paper](https://proceedings.mlr.press/v202/zhao23o.html)] [[arxiv](https://arxiv.org/abs/2301.11518)] [[paper with code](https://paperswithcode.com/paper/online-learning-in-stackelberg-games-with-an)]
 
@@ -301,7 +301,7 @@
 
 - Survey on Online Streaming Continual Learning [[paper](https://www.ijcai.org/proceedings/2023/743)]
 
-- Towards Utilitarian Online Learning -- A Review of  Online Algorithms in Open Feature Space [[paper](https://www.ijcai.org/proceedings/2023/745)]
+- Towards Utilitarian Online Learning -- A Review of Online Algorithms in Open Feature Space [[paper](https://www.ijcai.org/proceedings/2023/745)]
 
 
 ## AAAI-2023
@@ -315,7 +315,7 @@
 
 - Opposite Online Learning via Sequentially Integrated Stochastic Gradient Descent Estimators [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25886)]
 
-- Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25973)] [[paper with code](https://paperswithcode.com/paper/online-tuning-for-offline-decentralized-multi)] [[openview](https://openreview.net/forum?id=0VezzBzLmBr)]
+- Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25973)] [[paper with code](https://paperswithcode.com/paper/online-tuning-for-offline-decentralized-multi)] [[openreview](https://openreview.net/forum?id=0VezzBzLmBr)]
 
 - When Online Learning Meets ODE: Learning without Forgetting on Variable Feature Space [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26029)]
 
@@ -349,75 +349,75 @@
 ## NeurIPS-2022
 
 
-- Sustainable Online Reinforcement Learning for Auto-bidding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/11faf17bf7e5412d9cded369f97db23d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07006)] [[paper with code](https://paperswithcode.com/paper/sustainable-online-reinforcement-learning-for)] [[code](https://github.com/nobodymx/sorl-for-auto-bidding)]
+- Sustainable Online Reinforcement Learning for Auto-bidding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/11faf17bf7e5412d9cded369f97db23d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07006)] [[paper with code](https://paperswithcode.com/paper/sustainable-online-reinforcement-learning-for)] [[code](https://github.com/nobodymx/sorl-for-auto-bidding)] [[openreview](https://openreview.net/forum?id=zyrBT58h_J)]
 
-- Online Reinforcement Learning for Mixed Policy Scopes [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/15349e1c554406b7719d047a498e7117-Abstract-Conference.html)]
+- Online Reinforcement Learning for Mixed Policy Scopes [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/15349e1c554406b7719d047a498e7117-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=sjaQ2bHpELV)]
 
-- Oracle-Efficient Online Learning for Smoothed Adversaries [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1a04df6a405210aab4986994b873db9b-Abstract-Conference.html)]
+- Oracle-Efficient Online Learning for Smoothed Adversaries [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1a04df6a405210aab4986994b873db9b-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=SbHxPRHPc2u)]
 
-- Online Learning and Pricing for Network Revenue Management with Reusable Resources [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1f01cdfd07f0ec78124627cf32d0d83c-Abstract-Conference.html)]
+- Online Learning and Pricing for Network Revenue Management with Reusable Resources [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1f01cdfd07f0ec78124627cf32d0d83c-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=_gn5djJHKzj)]
 
-- NOMAD: Nonlinear Manifold Decoders for Operator Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/24f49b2ad9fbe65eefbfd99d6f6c3fd2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.03551)] [[paper with code](https://paperswithcode.com/paper/nomad-nonlinear-manifold-decoders-for)]
+- NOMAD: Nonlinear Manifold Decoders for Operator Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/24f49b2ad9fbe65eefbfd99d6f6c3fd2-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.03551)] [[paper with code](https://paperswithcode.com/paper/nomad-nonlinear-manifold-decoders-for)] [[openreview](https://openreview.net/forum?id=5OWV-sZvMl)]
 
-- Lifelong Neural Predictive Coding: Learning Cumulatively Online without Forgetting [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/26f5a4e26c13d1e0a47f46790c999361-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/1905.10696)] [[paper with code](https://paperswithcode.com/paper/lifelong-neural-predictive-coding-sparsity)]
+- Lifelong Neural Predictive Coding: Learning Cumulatively Online without Forgetting [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/26f5a4e26c13d1e0a47f46790c999361-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/1905.10696)] [[paper with code](https://paperswithcode.com/paper/lifelong-neural-predictive-coding-sparsity)] [[openreview](https://openreview.net/forum?id=ccYOWWNa5v2)]
 
-- Online Allocation and Learning in the Presence of Strategic Agents [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/29455889cb812d661573f6fbc800bd9e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.12112)] [[paper with code](https://paperswithcode.com/paper/online-allocation-and-learning-in-the)]
+- Online Allocation and Learning in the Presence of Strategic Agents [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/29455889cb812d661573f6fbc800bd9e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.12112)] [[paper with code](https://paperswithcode.com/paper/online-allocation-and-learning-in-the)] [[openreview](https://openreview.net/forum?id=FYGrMDwQyL)]
 
-- Bayesian Spline Learning for Equation Discovery of Nonlinear Dynamics with Quantified Uncertainty [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2df278b7fbbea06c3892d2f4388640b6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.08095)] [[paper with code](https://paperswithcode.com/paper/bayesian-spline-learning-for-equation)] [[code](https://github.com/luningsun/splinelearningequation)]
+- Bayesian Spline Learning for Equation Discovery of Nonlinear Dynamics with Quantified Uncertainty [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2df278b7fbbea06c3892d2f4388640b6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.08095)] [[paper with code](https://paperswithcode.com/paper/bayesian-spline-learning-for-equation)] [[code](https://github.com/luningsun/splinelearningequation)] [[openreview](https://openreview.net/forum?id=_5rdhnrbl-z)]
 
-- Minimax Optimal Online Imitation Learning via Replay Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2e809adc337594e0fee330a64acbb982-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15397)] [[paper with code](https://paperswithcode.com/paper/minimax-optimal-online-imitation-learning-via)] [[code](https://github.com/gkswamy98/replay_est)]
+- Minimax Optimal Online Imitation Learning via Replay Estimation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2e809adc337594e0fee330a64acbb982-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15397)] [[paper with code](https://paperswithcode.com/paper/minimax-optimal-online-imitation-learning-via)] [[code](https://github.com/gkswamy98/replay_est)] [[openreview](https://openreview.net/forum?id=1mFfKXYMg5a)]
 
-- Efficient and Near-Optimal Smoothed Online Learning for Generalized Linear Functions [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/31455446488c433ef29495ab44d4f53c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13056)] [[paper with code](https://paperswithcode.com/paper/efficient-and-near-optimal-smoothed-online)]
+- Efficient and Near-Optimal Smoothed Online Learning for Generalized Linear Functions [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/31455446488c433ef29495ab44d4f53c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13056)] [[paper with code](https://paperswithcode.com/paper/efficient-and-near-optimal-smoothed-online)] [[openreview](https://openreview.net/forum?id=qYc8VnmUwbv)]
 
-- Efficient Methods for Non-stationary Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4b70484ebef62484e0c8cdd269e482fd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2309.08911)] [[paper with code](https://paperswithcode.com/paper/efficient-methods-for-non-stationary-online)]
+- Efficient Methods for Non-stationary Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4b70484ebef62484e0c8cdd269e482fd-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2309.08911)] [[paper with code](https://paperswithcode.com/paper/efficient-methods-for-non-stationary-online)] [[openreview](https://openreview.net/forum?id=5Ap96waLr8A)]
 
-- Learning from a Sample in Online Algorithms [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5a093120ff4776b4f0dc452e3e3b6652-Abstract-Conference.html)]
+- Learning from a Sample in Online Algorithms [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5a093120ff4776b4f0dc452e3e3b6652-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=KMaI40_UaGw)]
 
-- A simple but strong baseline for online continual learning: Repeated Augmented Rehearsal [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.13917)] [[paper with code](https://paperswithcode.com/paper/a-simple-but-strong-baseline-for-online)] [[code](https://github.com/yaqianzhang/repeatedaugmentedrehearsal)]
+- A simple but strong baseline for online continual learning: Repeated Augmented Rehearsal [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.13917)] [[paper with code](https://paperswithcode.com/paper/a-simple-but-strong-baseline-for-online)] [[code](https://github.com/yaqianzhang/repeatedaugmentedrehearsal)] [[openreview](https://openreview.net/forum?id=bhvUOhnsgZ)]
 
-- Efficient learning of nonlinear prediction models with time-series privileged information [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/792845ddfe4047d7066348e52e46b74d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.07067)] [[paper with code](https://paperswithcode.com/paper/efficient-learning-of-nonlinear-prediction)] [[code](https://github.com/healthy-ai/glupts)]
+- Efficient learning of nonlinear prediction models with time-series privileged information [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/792845ddfe4047d7066348e52e46b74d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.07067)] [[paper with code](https://paperswithcode.com/paper/efficient-learning-of-nonlinear-prediction)] [[code](https://github.com/healthy-ai/glupts)] [[openreview](https://openreview.net/forum?id=V9ngeCMsZK3)]
 
-- Faster Deep Reinforcement Learning with Slower Online Network [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7dfa77fcef807c9a078b58fd619ad897-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2112.05848)] [[paper with code](https://paperswithcode.com/paper/deep-q-network-with-proximal-iteration-1)] [[code](https://github.com/amazon-research/fast-rl-with-slow-updates)]
+- Faster Deep Reinforcement Learning with Slower Online Network [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7dfa77fcef807c9a078b58fd619ad897-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2112.05848)] [[paper with code](https://paperswithcode.com/paper/deep-q-network-with-proximal-iteration-1)] [[code](https://github.com/amazon-research/fast-rl-with-slow-updates)] [[openreview](https://openreview.net/forum?id=Cl9dcH6Xkcj)]
 
-- Non-convex online learning via algorithmic equivalence [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8b40b4984e6c09ee49333ddd2dc719d4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15235)] [[paper with code](https://paperswithcode.com/paper/non-convex-online-learning-via-algorithmic)]
+- Non-convex online learning via algorithmic equivalence [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8b40b4984e6c09ee49333ddd2dc719d4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.15235)] [[paper with code](https://paperswithcode.com/paper/non-convex-online-learning-via-algorithmic)] [[openreview](https://openreview.net/forum?id=wsnMW0c_Au)]
 
-- Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8bd5148caced2d73cea7b6961a874a49-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2111.14737)] [[paper with code](https://paperswithcode.com/paper/optimal-no-regret-learning-in-general-games)]
+- Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8bd5148caced2d73cea7b6961a874a49-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2111.14737)] [[paper with code](https://paperswithcode.com/paper/optimal-no-regret-learning-in-general-games)] [[openreview](https://openreview.net/forum?id=suplyBhTDjC)]
 
-- Adaptive Oracle-Efficient Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/948106cb5a114684a64c89a1e517e3fe-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.09385)] [[paper with code](https://paperswithcode.com/paper/adaptive-oracle-efficient-online-learning)]
+- Adaptive Oracle-Efficient Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/948106cb5a114684a64c89a1e517e3fe-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.09385)] [[paper with code](https://paperswithcode.com/paper/adaptive-oracle-efficient-online-learning)] [[openreview](https://openreview.net/forum?id=I4XNmBm2h-E)]
 
-- Task-Free Continual Learning via Online Discrepancy Distance Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/95c6ae3f3393786203a4b6dcb9df1036-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.06579)] [[paper with code](https://paperswithcode.com/paper/task-free-continual-learning-via-online)]
+- Task-Free Continual Learning via Online Discrepancy Distance Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/95c6ae3f3393786203a4b6dcb9df1036-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.06579)] [[paper with code](https://paperswithcode.com/paper/task-free-continual-learning-via-online)] [[openreview](https://openreview.net/forum?id=UFTcdcJrIl2)]
 
-- Optimal Comparator Adaptive Online Learning with Switching Cost [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/972cd27c994a806e187ef1c2f5254059-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.06846)] [[paper with code](https://paperswithcode.com/paper/optimal-parameter-free-online-learning-with)] [[code](https://github.com/zhiyuzz/neurips2022-adaptive-switching)]
+- Optimal Comparator Adaptive Online Learning with Switching Cost [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/972cd27c994a806e187ef1c2f5254059-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.06846)] [[paper with code](https://paperswithcode.com/paper/optimal-parameter-free-online-learning-with)] [[code](https://github.com/zhiyuzz/neurips2022-adaptive-switching)] [[openreview](https://openreview.net/forum?id=Vg_02McCRnY)]
 
-- Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c7008aff45b5d8f0973b23e1a22ada0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.11795)] [[paper with code](https://paperswithcode.com/paper/video-pretraining-vpt-learning-to-act-by)] [[code](https://github.com/openai/Video-Pre-Training)]
+- Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c7008aff45b5d8f0973b23e1a22ada0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.11795)] [[paper with code](https://paperswithcode.com/paper/video-pretraining-vpt-learning-to-act-by)] [[code](https://github.com/openai/Video-Pre-Training)] [[openreview](https://openreview.net/forum?id=AXDNM76T1nc)]
 
-- Stochastic Online Learning with Feedback Graphs: Finite-Time and Asymptotic Optimality [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9e79aefb538d02a7c0610fa43bdb0d0f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.10022)] [[paper with code](https://paperswithcode.com/paper/stochastic-online-learning-with-feedback)]
+- Stochastic Online Learning with Feedback Graphs: Finite-Time and Asymptotic Optimality [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9e79aefb538d02a7c0610fa43bdb0d0f-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.10022)] [[paper with code](https://paperswithcode.com/paper/stochastic-online-learning-with-feedback)] [[openreview](https://openreview.net/forum?id=VgX6ceDerh2)]
 
-- Luckiness in Multiscale Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a0d2345b43e66fa946155c98899dc03b-Abstract-Conference.html)]
+- Luckiness in Multiscale Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a0d2345b43e66fa946155c98899dc03b-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=0tpZgkAKVjB)]
 
-- Online Deep Equilibrium Learning for Regularization by Denoising [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2440e23f6a8c037eff1dc4f1156aa35-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13051)] [[paper with code](https://paperswithcode.com/paper/online-deep-equilibrium-learning-for)] [[code](https://github.com/phernst/pytorch_radon)]
+- Online Deep Equilibrium Learning for Regularization by Denoising [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2440e23f6a8c037eff1dc4f1156aa35-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13051)] [[paper with code](https://paperswithcode.com/paper/online-deep-equilibrium-learning-for)] [[code](https://github.com/phernst/pytorch_radon)] [[openreview](https://openreview.net/forum?id=4RC_vI0OgIS)]
 
-- Online PAC-Bayes Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a4d991d581accd2955a1e1928f4e6965-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00024)] [[paper with code](https://paperswithcode.com/paper/online-pac-bayes-learning)]
+- Online PAC-Bayes Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a4d991d581accd2955a1e1928f4e6965-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00024)] [[paper with code](https://paperswithcode.com/paper/online-pac-bayes-learning)] [[openreview](https://openreview.net/forum?id=4pwCvvel8or)]
 
-- Nonlinear MCMC for Bayesian Machine Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6341525cd84f3be0ef203e4d7cd8556-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2202.05621)] [[paper with code](https://paperswithcode.com/paper/long-time-convergence-and-propagation-of)] [[code](https://github.com/jamesvuc/nonlinear-mcmc-paper)]
+- Nonlinear MCMC for Bayesian Machine Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6341525cd84f3be0ef203e4d7cd8556-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2202.05621)] [[paper with code](https://paperswithcode.com/paper/long-time-convergence-and-propagation-of)] [[code](https://github.com/jamesvuc/nonlinear-mcmc-paper)] [[openreview](https://openreview.net/forum?id=3vpvnMVOUKE)]
 
-- Nearly Optimal Best-of-Both-Worlds Algorithms for Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b7aea253ab34a773967f1e4cdea9e4fb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00873)] [[paper with code](https://paperswithcode.com/paper/nearly-optimal-best-of-both-worlds-algorithms)]
+- Nearly Optimal Best-of-Both-Worlds Algorithms for Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b7aea253ab34a773967f1e4cdea9e4fb-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00873)] [[paper with code](https://paperswithcode.com/paper/nearly-optimal-best-of-both-worlds-algorithms)] [[openreview](https://openreview.net/forum?id=rF6zwkyMABn)]
 
-- On Efficient Online Imitation Learning via Classification [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d0d5dd7bd2ee9f095e50084c2ba3a716-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.12868)] [[paper with code](https://paperswithcode.com/paper/on-efficient-online-imitation-learning-via)]
+- On Efficient Online Imitation Learning via Classification [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d0d5dd7bd2ee9f095e50084c2ba3a716-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.12868)] [[paper with code](https://paperswithcode.com/paper/on-efficient-online-imitation-learning-via)] [[openreview](https://openreview.net/forum?id=h2imPVlCCyN)]
 
-- Personalized Online Federated Learning with Multiple Kernels [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d78cc4e15f8fbdb0dd77e551601f572c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.05108)] [[paper with code](https://paperswithcode.com/paper/personalized-online-federated-learning-with)] [[code](https://github.com/pouyamghari/pof-mkl)]
+- Personalized Online Federated Learning with Multiple Kernels [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d78cc4e15f8fbdb0dd77e551601f572c-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.05108)] [[paper with code](https://paperswithcode.com/paper/personalized-online-federated-learning-with)] [[code](https://github.com/pouyamghari/pof-mkl)] [[openreview](https://openreview.net/forum?id=wUctlvhsNWg)]
 
-- A Simple and Optimal Policy Design for Online Learning with Safety against Heavy-tailed Risk [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/dae8afc6b990aa0b3b5efaa096fbd7fa-Abstract-Conference.html)]
+- A Simple and Optimal Policy Design for Online Learning with Safety against Heavy-tailed Risk [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/dae8afc6b990aa0b3b5efaa096fbd7fa-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=VK9jfSPnnb)]
 
-- Learning on the Edge: Online Learning with Stochastic Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e0e956681b04ac126679e8c7dd706b2e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04229)] [[paper with code](https://paperswithcode.com/paper/learning-on-the-edge-online-learning-with)]
+- Learning on the Edge: Online Learning with Stochastic Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e0e956681b04ac126679e8c7dd706b2e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04229)] [[paper with code](https://paperswithcode.com/paper/learning-on-the-edge-online-learning-with)] [[openreview](https://openreview.net/forum?id=5XtsqM57-Zb)]
 
-- A Near-Optimal Best-of-Both-Worlds Algorithm for Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e36da7acd188c6655792270b38830124-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00557)] [[paper with code](https://paperswithcode.com/paper/a-near-optimal-best-of-both-worlds-algorithm)]
+- A Near-Optimal Best-of-Both-Worlds Algorithm for Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e36da7acd188c6655792270b38830124-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.00557)] [[paper with code](https://paperswithcode.com/paper/a-near-optimal-best-of-both-worlds-algorithm)] [[openreview](https://openreview.net/forum?id=pbILUUf_hBN)]
 
-- A Regret-Variance Trade-Off in Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e473f29459a4a006d4e968537b135e40-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.02656)] [[paper with code](https://paperswithcode.com/paper/a-regret-variance-trade-off-in-online)]
+- A Regret-Variance Trade-Off in Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e473f29459a4a006d4e968537b135e40-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.02656)] [[paper with code](https://paperswithcode.com/paper/a-regret-variance-trade-off-in-online)] [[openreview](https://openreview.net/forum?id=XtxG6dBOpAQ)]
 
-- When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.13464)] [[paper with code](https://paperswithcode.com/paper/when-to-trust-your-simulator-dynamics-aware)] [[code](https://github.com/t6-thu/H2O)]
+- When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.13464)] [[paper with code](https://paperswithcode.com/paper/when-to-trust-your-simulator-dynamics-aware)] [[code](https://github.com/t6-thu/H2O)] [[openreview](https://openreview.net/forum?id=zXE8iFOZKw)]
 
-- Learning-Augmented Algorithms for Online Linear and Semidefinite Programming [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fc5a1845bee1f5405ef99ba25c2d44e1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.10614)] [[paper with code](https://paperswithcode.com/paper/learning-augmented-algorithms-for-online-1)]
+- Learning-Augmented Algorithms for Online Linear and Semidefinite Programming [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fc5a1845bee1f5405ef99ba25c2d44e1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2209.10614)] [[paper with code](https://paperswithcode.com/paper/learning-augmented-algorithms-for-online-1)] [[openreview](https://openreview.net/forum?id=KzC7Pejhp3z)]
 
 
 ## CVPR-2022
@@ -491,7 +491,7 @@
 
 - Learning General Halfspaces with Adversarial Label Noise via Online Gradient Descent [[paper](https://proceedings.mlr.press/v162/diakonikolas22b.html)]
 
-- Online Learning for Min Sum Set Cover and Pandora’s Box [[paper](https://proceedings.mlr.press/v162/gergatsouli22a.html)] [[arxiv](https://arxiv.org/abs/2202.04870)]
+- Online Learning for Min Sum Set Cover and Pandora's Box [[paper](https://proceedings.mlr.press/v162/gergatsouli22a.html)] [[arxiv](https://arxiv.org/abs/2202.04870)]
 
 - Online Continual Learning through Mutual Information Maximization [[paper](https://proceedings.mlr.press/v162/guo22g.html)]
 
@@ -563,63 +563,63 @@
 ## NeurIPS-2021
 
 
-- Detecting and Adapting to Irregular Distribution Shifts in Bayesian Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/362387494f6be6613daea643a7706a42-Abstract.html)] [[arxiv](https://arxiv.org/abs/2012.08101)] [[paper with code](https://paperswithcode.com/paper/variational-beam-search-for-online-learning)] [[code](https://github.com/mandt-lab/variational-beam-search)]
+- Detecting and Adapting to Irregular Distribution Shifts in Bayesian Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/362387494f6be6613daea643a7706a42-Abstract.html)] [[arxiv](https://arxiv.org/abs/2012.08101)] [[paper with code](https://paperswithcode.com/paper/variational-beam-search-for-online-learning)] [[code](https://github.com/mandt-lab/variational-beam-search)] [[openreview](https://openreview.net/forum?id=-440wKL2oJV)]
 
-- Online Robust Reinforcement Learning with Model Uncertainty [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a4496776767aaa99f9804d0905fe584-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.14523)] [[paper with code](https://paperswithcode.com/paper/online-robust-reinforcement-learning-with)]
+- Online Robust Reinforcement Learning with Model Uncertainty [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a4496776767aaa99f9804d0905fe584-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.14523)] [[paper with code](https://paperswithcode.com/paper/online-robust-reinforcement-learning-with)] [[openreview](https://openreview.net/forum?id=IhiU6AJYpDs)]
 
-- Machine Learning for Variance Reduction in Online Experiments [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/488b084119a1c7a4950f00706ec7ea16-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.07263)] [[paper with code](https://paperswithcode.com/paper/machine-learning-for-variance-reduction-in)]
+- Machine Learning for Variance Reduction in Online Experiments [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/488b084119a1c7a4950f00706ec7ea16-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.07263)] [[paper with code](https://paperswithcode.com/paper/machine-learning-for-variance-reduction-in)] [[openreview](https://openreview.net/forum?id=w5fW0TNWPyc)]
 
-- Mitigating Forgetting in Online Continual Learning with  Neuron Calibration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/54ee290e80589a2a1225c338a71839f5-Abstract.html)]
+- Mitigating Forgetting in Online Continual Learning with Neuron Calibration [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/54ee290e80589a2a1225c338a71839f5-Abstract.html)]
 
-- Online Learning in Periodic Zero-Sum Games [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/55563844bcd4bba067fe86ac1f008c7e-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.03377)] [[paper with code](https://paperswithcode.com/paper/online-learning-in-periodic-zero-sum-games)]
+- Online Learning in Periodic Zero-Sum Games [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/55563844bcd4bba067fe86ac1f008c7e-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.03377)] [[paper with code](https://paperswithcode.com/paper/online-learning-in-periodic-zero-sum-games)] [[openreview](https://openreview.net/forum?id=ePgNDwRKJV)]
 
-- Pareto-Optimal Learning-Augmented Algorithms for Online Conversion Problems [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/55a988dfb00a914717b3000a3374694c-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.01556)] [[paper with code](https://paperswithcode.com/paper/pareto-optimal-learning-augmented-algorithms)]
+- Pareto-Optimal Learning-Augmented Algorithms for Online Conversion Problems [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/55a988dfb00a914717b3000a3374694c-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.01556)] [[paper with code](https://paperswithcode.com/paper/pareto-optimal-learning-augmented-algorithms)] [[openreview](https://openreview.net/forum?id=ycmcCSoNBx8)]
 
--  Online learning in MDPs with linear function approximation and bandit feedback.  [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5631e6ee59a4175cd06c305840562ff3-Abstract.html)] [[arxiv](https://arxiv.org/abs/2007.01612)]
+- Online learning in MDPs with linear function approximation and bandit feedback. [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5631e6ee59a4175cd06c305840562ff3-Abstract.html)] [[arxiv](https://arxiv.org/abs/2007.01612)] [[openreview](https://openreview.net/forum?id=gviX23L1bqw)]
 
-- Making the most of your day: online learning for optimal allocation of time [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5d2c2cee8ab0b9a36bd1ed7196bd6c4a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.08087)] [[paper with code](https://paperswithcode.com/paper/making-the-most-of-your-day-online-learning)] [[code](https://github.com/eboursier/making_most_of_your_time)]
+- Making the most of your day: online learning for optimal allocation of time [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5d2c2cee8ab0b9a36bd1ed7196bd6c4a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.08087)] [[paper with code](https://paperswithcode.com/paper/making-the-most-of-your-day-online-learning)] [[code](https://github.com/eboursier/making_most_of_your_time)] [[openreview](https://openreview.net/forum?id=AlvGTwr_t0S)]
 
-- Impression learning: Online representation learning with synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/615299acbbac3e21302bbc435091ad9f-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/impression-learning-online-representation)] [[code](https://github.com/colinbredenberg/impression-learning-camera-ready)] [[openview](https://openreview.net/forum?id=MAorPaLqam_)]
+- Impression learning: Online representation learning with synaptic plasticity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/615299acbbac3e21302bbc435091ad9f-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/impression-learning-online-representation)] [[code](https://github.com/colinbredenberg/impression-learning-camera-ready)] [[openreview](https://openreview.net/forum?id=MAorPaLqam_)]
 
-- Revisiting Smoothed Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/70fc5f043205720a49d973d280eb83e7-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.06933)] [[paper with code](https://paperswithcode.com/paper/revisiting-smoothed-online-learning)]
+- Revisiting Smoothed Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/70fc5f043205720a49d973d280eb83e7-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.06933)] [[paper with code](https://paperswithcode.com/paper/revisiting-smoothed-online-learning)] [[openreview](https://openreview.net/forum?id=sn0wj3Dci2J)]
 
-- Online Meta-Learning via Learning with Layer-Distributed Memory [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/7c9e9afa5a9dc68ccaf27d9effeb9383-Abstract.html)]
+- Online Meta-Learning via Learning with Layer-Distributed Memory [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/7c9e9afa5a9dc68ccaf27d9effeb9383-Abstract.html)] [[openreview](https://openreview.net/forum?id=8YSqxvRhi-Q)]
 
-- Online Learning Of Neural Computations From Sparse Temporal Feedback [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/88e1ce84f9feef5a08d0df0334c53468-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/online-learning-of-neural-computations-from)] [[code](https://github.com/lukas-braun/learning-neural-computations)] [[openview](https://openreview.net/forum?id=nJUDGEc69a5)]
+- Online Learning Of Neural Computations From Sparse Temporal Feedback [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/88e1ce84f9feef5a08d0df0334c53468-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/online-learning-of-neural-computations-from)] [[code](https://github.com/lukas-braun/learning-neural-computations)] [[openreview](https://openreview.net/forum?id=nJUDGEc69a5)]
 
-- Scalable Online Planning via Reinforcement Learning Fine-Tuning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8ce8b102d40392a688f8c04b3cd6cae0-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.15316)] [[paper with code](https://paperswithcode.com/paper/scalable-online-planning-via-reinforcement)] [[code](https://github.com/facebookresearch/off-belief-learning)]
+- Scalable Online Planning via Reinforcement Learning Fine-Tuning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8ce8b102d40392a688f8c04b3cd6cae0-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.15316)] [[paper with code](https://paperswithcode.com/paper/scalable-online-planning-via-reinforcement)] [[code](https://github.com/facebookresearch/off-belief-learning)] [[openreview](https://openreview.net/forum?id=D0xGh031I9m)]
 
-- A Unified Approach to Fair Online Learning via Blackwell Approachability [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/97ea3cfb64eeaa1edba65501d0bb3c86-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.12242)] [[paper with code](https://paperswithcode.com/paper/a-unified-approach-to-fair-online-learning)]
+- A Unified Approach to Fair Online Learning via Blackwell Approachability [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/97ea3cfb64eeaa1edba65501d0bb3c86-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.12242)] [[paper with code](https://paperswithcode.com/paper/a-unified-approach-to-fair-online-learning)] [[openreview](https://openreview.net/forum?id=vMWHOumNj5)]
 
-- Decentralized Learning in Online Queuing Systems [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/99ef04eb612baf0e86671a5109e22154-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.04228)] [[paper with code](https://paperswithcode.com/paper/decentralized-learning-in-online-queuing)]
+- Decentralized Learning in Online Queuing Systems [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/99ef04eb612baf0e86671a5109e22154-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.04228)] [[paper with code](https://paperswithcode.com/paper/decentralized-learning-in-online-queuing)] [[openreview](https://openreview.net/forum?id=BuoTowxp-9)]
 
-- Online Variational Filtering and Parameter Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9a6a1aaafe73c572b7374828b03a1881-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.13549)] [[paper with code](https://paperswithcode.com/paper/online-variational-filtering-and-parameter)] [[code](https://github.com/andrew-cr/online_var_fil)]
+- Online Variational Filtering and Parameter Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9a6a1aaafe73c572b7374828b03a1881-Abstract.html)] [[arxiv](https://arxiv.org/abs/2110.13549)] [[paper with code](https://paperswithcode.com/paper/online-variational-filtering-and-parameter)] [[code](https://github.com/andrew-cr/online_var_fil)] [[openreview](https://openreview.net/forum?id=et2st4Jqhc)]
 
-- Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a87d27f712df362cd22c7a8ef823e987-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.12050)] [[paper with code](https://paperswithcode.com/paper/simple-stochastic-and-online-gradient-descent)] [[openview](https://openreview.net/forum?id=VXraeNhj4zI)]
+- Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a87d27f712df362cd22c7a8ef823e987-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.12050)] [[paper with code](https://paperswithcode.com/paper/simple-stochastic-and-online-gradient-descent)] [[openreview](https://openreview.net/forum?id=VXraeNhj4zI)]
 
-- Asynchronous Decentralized Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a8e864d04c95572d1aece099af852d0a-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/asynchronous-decentralized-online-learning)] [[openview](https://openreview.net/forum?id=VNYKJfYvoCq)]
+- Asynchronous Decentralized Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/a8e864d04c95572d1aece099af852d0a-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/asynchronous-decentralized-online-learning)] [[openreview](https://openreview.net/forum?id=VNYKJfYvoCq)]
 
-- Best-case lower bounds in online learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.12688)] [[paper with code](https://paperswithcode.com/paper/best-case-lower-bounds-in-online-learning)]
+- Best-case lower bounds in online learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.12688)] [[paper with code](https://paperswithcode.com/paper/best-case-lower-bounds-in-online-learning)] [[openreview](https://openreview.net/forum?id=uZJJFpFl60W)]
 
-- Online Active Learning with Surrogate Loss Functions [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/c1619d2ad66f7629c12c87fe21d32a58-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/online-active-learning-with-surrogate-loss)] [[openview](https://openreview.net/forum?id=iKYO63MOWwi)]
+- Online Active Learning with Surrogate Loss Functions [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/c1619d2ad66f7629c12c87fe21d32a58-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/online-active-learning-with-surrogate-loss)] [[openreview](https://openreview.net/forum?id=iKYO63MOWwi)]
 
-- Provable Model-based Nonlinear Bandit and Reinforcement Learning: Shelve Optimism, Embrace Virtual Curvature [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/dc5d637ed5e62c36ecb73b654b05ba2a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.04168)] [[paper with code](https://paperswithcode.com/paper/provable-model-based-nonlinear-bandit-and)]
+- Provable Model-based Nonlinear Bandit and Reinforcement Learning: Shelve Optimism, Embrace Virtual Curvature [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/dc5d637ed5e62c36ecb73b654b05ba2a-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.04168)] [[paper with code](https://paperswithcode.com/paper/provable-model-based-nonlinear-bandit-and)] [[openreview](https://openreview.net/forum?id=eOEs9Wa91qH)]
 
-- Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e61eaa38aed621dd776d0e67cfeee366-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.04895)] [[paper with code](https://paperswithcode.com/paper/policy-finetuning-bridging-sample-efficient)]
+- Policy Finetuning: Bridging Sample-Efficient Offline and Online Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e61eaa38aed621dd776d0e67cfeee366-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.04895)] [[paper with code](https://paperswithcode.com/paper/policy-finetuning-bridging-sample-efficient)] [[openreview](https://openreview.net/forum?id=MjNFN44NbZm)]
 
-- Online and Offline Reinforcement Learning by Planning with a Learned Model [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e8258e5140317ff36c7f8225a3bf9590-Abstract.html)] [[arxiv](https://arxiv.org/abs/2104.06294)] [[paper with code](https://paperswithcode.com/paper/online-and-offline-reinforcement-learning-by)] [[code](https://github.com/DHDev0/Muzero-unplugged)]
+- Online and Offline Reinforcement Learning by Planning with a Learned Model [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/e8258e5140317ff36c7f8225a3bf9590-Abstract.html)] [[arxiv](https://arxiv.org/abs/2104.06294)] [[paper with code](https://paperswithcode.com/paper/online-and-offline-reinforcement-learning-by)] [[code](https://github.com/DHDev0/Muzero-unplugged)] [[openreview](https://openreview.net/forum?id=HKtsGW-lNbw)]
 
-- Online Learning and Control of Complex Dynamical Systems from Sensory Input [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ea6979872125d5acbac6068f186a0359-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/online-learning-and-control-of-complex)] [[code](https://github.com/oumayb/online_dynamics_control)] [[openview](https://openreview.net/forum?id=x6tV8QhHjs1)]
+- Online Learning and Control of Complex Dynamical Systems from Sensory Input [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ea6979872125d5acbac6068f186a0359-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/online-learning-and-control-of-complex)] [[code](https://github.com/oumayb/online_dynamics_control)] [[openreview](https://openreview.net/forum?id=x6tV8QhHjs1)]
 
-- No-regret Online Learning over Riemannian Manifolds [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ee389847678a3a9d1ce9e4ca69200d06-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/no-regret-online-learning-over-riemannian)] [[openview](https://openreview.net/forum?id=y8y6GJUL01H)]
+- No-regret Online Learning over Riemannian Manifolds [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ee389847678a3a9d1ce9e4ca69200d06-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/no-regret-online-learning-over-riemannian)] [[openreview](https://openreview.net/forum?id=y8y6GJUL01H)]
 
-- Towards Best-of-All-Worlds Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ef8f94395be9fd78b7d0aeecf7864a03-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/towards-best-of-all-worlds-online-learning)] [[openview](https://openreview.net/forum?id=1gLyEmOsKE8)]
+- Towards Best-of-All-Worlds Online Learning with Feedback Graphs [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ef8f94395be9fd78b7d0aeecf7864a03-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/towards-best-of-all-worlds-online-learning)] [[openreview](https://openreview.net/forum?id=1gLyEmOsKE8)]
 
-- Margin-Independent Online Multiclass Learning via Convex Geometry [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f40723ed94042ea9ea36bfb5ad4157b2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.08057)] [[paper with code](https://paperswithcode.com/paper/margin-independent-online-multiclass-learning)]
+- Margin-Independent Online Multiclass Learning via Convex Geometry [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f40723ed94042ea9ea36bfb5ad4157b2-Abstract.html)] [[arxiv](https://arxiv.org/abs/2111.08057)] [[paper with code](https://paperswithcode.com/paper/margin-independent-online-multiclass-learning)] [[openreview](https://openreview.net/forum?id=XK4eVsG2LKw)]
 
-- Gradient-based Editing of Memory Examples for Online Task-free Continual Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f45a1078feb35de77d26b3f7a52ef502-Abstract.html)] [[arxiv](https://arxiv.org/abs/2006.15294)] [[paper with code](https://paperswithcode.com/paper/gradient-based-memory-editing-for-task-free)] [[code](https://github.com/INK-USC/GMED)]
+- Gradient-based Editing of Memory Examples for Online Task-free Continual Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f45a1078feb35de77d26b3f7a52ef502-Abstract.html)] [[arxiv](https://arxiv.org/abs/2006.15294)] [[paper with code](https://paperswithcode.com/paper/gradient-based-memory-editing-for-task-free)] [[code](https://github.com/INK-USC/GMED)] [[openreview](https://openreview.net/forum?id=gL8btosnTj)]
 
-- A Regression Approach to Learning-Augmented Online Algorithms [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ffeed84c7cb1ae7bf4ec4bd78275bb98-Abstract.html)] [[arxiv](https://arxiv.org/abs/2205.08717)] [[paper with code](https://paperswithcode.com/paper/a-regression-approach-to-learning-augmented-1)]
+- A Regression Approach to Learning-Augmented Online Algorithms [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ffeed84c7cb1ae7bf4ec4bd78275bb98-Abstract.html)] [[arxiv](https://arxiv.org/abs/2205.08717)] [[paper with code](https://paperswithcode.com/paper/a-regression-approach-to-learning-augmented-1)] [[openreview](https://openreview.net/forum?id=GgS40Y04LxA)]
 
 
 ## CVPR-2021
@@ -671,7 +671,7 @@
 
 - Learning Online Algorithms with Distributional Advice [[paper](https://proceedings.mlr.press/v139/diakonikolas21a.html)]
 
-- Online Learning with Optimism and Delay [[paper](https://proceedings.mlr.press/v139/flaspohler21a.html)] [[arxiv](https://arxiv.org/abs/2310.20098)] [[paper with code](https://paperswithcode.com/paper/online-learning-with-optimism-and-delay)] [[code](https://github.com/geflaspohler/poold)]
+- Online Learning with Optimism and Delay [[paper](https://proceedings.mlr.press/v139/flaspohler21a.html)] [[arxiv](https://arxiv.org/abs/2106.06885)] [[paper with code](https://paperswithcode.com/paper/online-learning-with-optimism-and-delay)] [[code](https://github.com/geflaspohler/poold)]
 
 - Efficient Online Learning for Dynamic k-Clustering [[paper](https://proceedings.mlr.press/v139/fotakis21a.html)] [[arxiv](https://arxiv.org/abs/2106.04336)] [[paper with code](https://paperswithcode.com/paper/efficient-online-learning-for-dynamic-k)]
 
@@ -797,7 +797,7 @@
 ## CVPR-2020
 
 
-- Learning to Discriminate Information for Online Action Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Eun_Learning_to_Discriminate_Information_for_Online_Action_Detection_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2109.03393)] [[paper with code](https://paperswithcode.com/paper/learning-to-discriminate-information-for)] [[code](https://github.com/hjeun/idu)]
+- Learning to Discriminate Information for Online Action Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Eun_Learning_to_Discriminate_Information_for_Online_Action_Detection_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/1912.04461)] [[paper with code](https://paperswithcode.com/paper/learning-to-discriminate-information-for)] [[code](https://github.com/hjeun/idu)]
 
 - Online Depth Learning Against Forgetting in Monocular Videos [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Online_Depth_Learning_Against_Forgetting_in_Monocular_Videos_CVPR_2020_paper.html)] [[paper with code](https://paperswithcode.com/paper/online-depth-learning-against-forgetting-in)]
 
@@ -825,13 +825,13 @@
 ## ECCV-2020
 
 
-- Visual Memorability for Robotic Interestingness via Unsupervised Online Learning  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2904_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2005.08829)]
+- Visual Memorability for Robotic Interestingness via Unsupervised Online Learning [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2904_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2005.08829)]
 
-- AMLN: Adversarial-based Mutual Learning Network for Online Knowledge Distillation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1509_ECCV_2020_paper.php)]
+- AMLN: Adversarial-based Mutual Learning Network for Online Knowledge Distillation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1509_ECCV_2020_paper.php)]
 
-- Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2561_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.04398)]
+- Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2561_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2004.04398)]
 
-- Online Continual Learning under Extreme Memory Constraints  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6425_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.01510)]
+- Online Continual Learning under Extreme Memory Constraints [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6425_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2008.01510)]
 
 
 ## ICML-2020
@@ -873,13 +873,13 @@
 
 - Marthe: Scheduling the Learning Rate Via Online Hypergradients [[paper](https://www.ijcai.org/proceedings/2020/293)] [[arxiv](https://arxiv.org/abs/1910.08525)] [[paper with code](https://paperswithcode.com/paper/scheduling-the-learning-rate-via-1)] [[code](https://github.com/awslabs/adatune)]
 
-- Online Positive and Unlabeled Learning [[paper](https://www.ijcai.org/proceedings/2020/311)] [[arxiv](https://arxiv.org/abs/1703.00518)]
+- Online Positive and Unlabeled Learning [[paper](https://www.ijcai.org/proceedings/2020/311)]
 
 - Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising [[paper](https://www.ijcai.org/proceedings/2020/475)] [[arxiv](https://arxiv.org/abs/2005.04355)] [[paper with code](https://paperswithcode.com/paper/learning-to-accelerate-heuristic-searching)]
 
 - Interpretable Multimodal Learning for Intelligent Regulation in Online Payment Systems [[paper](https://www.ijcai.org/proceedings/2020/645)] [[arxiv](https://arxiv.org/abs/2006.05669)] [[paper with code](https://paperswithcode.com/paper/interpretable-multimodal-learning-for)]
 
-- Online Learning in Changing Environments [[paper](https://www.ijcai.org/proceedings/2020/731)] [[arxiv](https://arxiv.org/abs/2306.01007)]
+- Online Learning in Changing Environments [[paper](https://www.ijcai.org/proceedings/2020/731)]
 
 
 ## AAAI-2020
@@ -933,7 +933,7 @@
 
 - Discrimination in Online Markets: Effects of Social Bias on Learning from Reviews and Policy Design [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e00406144c1e7e35240afed70f34166a-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/discrimination-in-online-markets-effects-of)]
 
-- Online-Within-Online Meta-Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e0e2b58d64fb37a2527329a5ce093d80-Abstract.html)] [[arxiv](https://arxiv.org/abs/2103.03901)] [[paper with code](https://paperswithcode.com/paper/online-within-online-meta-learning)] [[code](https://github.com/dstamos/Adversarial-LTL)]
+- Online-Within-Online Meta-Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e0e2b58d64fb37a2527329a5ce093d80-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/online-within-online-meta-learning)] [[code](https://github.com/dstamos/Adversarial-LTL)]
 
 - A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e49eb6523da9e1c347bc148ea8ac55d3-Abstract.html)] [[arxiv](https://arxiv.org/abs/1911.03845)] [[paper with code](https://paperswithcode.com/paper/a-model-based-reinforcement-learning-with-1)] [[code](https://github.com/JianGuanTHU/IRecGAN)]
 
@@ -971,7 +971,7 @@
 
 - Matrix-Free Preconditioning in Online Learning [[paper](https://proceedings.mlr.press/v97/cutkosky19b.html)] [[arxiv](https://arxiv.org/abs/1905.12721)] [[paper with code](https://paperswithcode.com/paper/matrix-free-preconditioning-in-online)]
 
-- Online Meta-Learning [[paper](https://proceedings.mlr.press/v97/finn19a.html)] [[arxiv](https://arxiv.org/abs/2402.12319)]
+- Online Meta-Learning [[paper](https://proceedings.mlr.press/v97/finn19a.html)] [[arxiv](https://arxiv.org/abs/1902.08438)]
 
 - Adaptive Scale-Invariant Online Algorithms for Learning Linear Models [[paper](https://proceedings.mlr.press/v97/kempka19a.html)] [[arxiv](https://arxiv.org/abs/1902.07528)] [[paper with code](https://paperswithcode.com/paper/adaptive-scale-invariant-online-algorithms)]
 
@@ -1043,7 +1043,7 @@
 
 - Online Improper Learning with an Approximation Oracle [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/ad47a008a2f806aa6eb1b53852cd8b37-Abstract.html)] [[arxiv](https://arxiv.org/abs/1804.07837)] [[paper with code](https://paperswithcode.com/paper/online-improper-learning-with-an)]
 
-- Online Learning of Quantum States [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c1a3d34711ab5d85335331ca0e57f067-Abstract.html)] [[arxiv](https://arxiv.org/abs/2311.04237)] [[paper with code](https://paperswithcode.com/paper/online-learning-of-quantum-states)]
+- Online Learning of Quantum States [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c1a3d34711ab5d85335331ca0e57f067-Abstract.html)] [[arxiv](https://arxiv.org/abs/1802.09025)] [[paper with code](https://paperswithcode.com/paper/online-learning-of-quantum-states)]
 
 - Community Exploration: From Offline Optimization to Online Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c60d870eaad6a3946ab3e8734466e532-Abstract.html)] [[arxiv](https://arxiv.org/abs/1811.05134)] [[paper with code](https://paperswithcode.com/paper/community-exploration-from-offline)]
 
