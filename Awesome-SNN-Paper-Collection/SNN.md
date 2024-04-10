@@ -388,7 +388,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Recent Advances and New Frontiers in Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2022/790)] [[arxiv](https://arxiv.org/abs/2204.07050)] [[paper with code](https://paperswithcode.com/paper/recent-advances-and-new-frontiers-in-spiking)] [[code](https://github.com/thomasaimondy/CogSNN)]
 
-- Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion [[paper](https://www.ijcai.org/proceedings/2022/347)]
+- Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion [[paper](https://www.ijcai.org/proceedings/2022/347)] [[code](https://github.com/ppppps/ANN2SNNConversion_SNM_NeuronNorm)]
 
 
 ## AAAI-2022
