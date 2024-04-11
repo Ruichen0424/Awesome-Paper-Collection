@@ -1,8 +1,8 @@
-# [Awesome Paper Collection](\Readme.md#awesome-paper-collection)
+# [Awesome Paper Collection](\)
 
-## [Abbreviation - Full Name List](\Readme.md##abbreviation---full-name-list)
+## [Abbreviation - Full Name List](\)
 
-## [Awesome 3D Paper Collection](\Readme.md##awesome-3d-paper-collection)
+## [Awesome 3D Paper Collection](\)
 
 - [3D Dataset](./Awesome-3D-Paper-Collection/3D-Dataset.md)
 - [3D Generation](./Awesome-3D-Paper-Collection/3D-Generation.md)
@@ -17,7 +17,7 @@
 
 
 
-## [Awesome Autonomous Driving Paper Collection](\Readme.md##awesome-autonomous-driving-paper-collection)
+## [Awesome Autonomous Driving Paper Collection](\)
 
 - [Autonomous Driving](./Awesome-Autonomous-Driving-Paper-Collection/Autonomous-Driving.md)
 
