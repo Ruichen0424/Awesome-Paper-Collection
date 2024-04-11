@@ -133,6 +133,13 @@
 
 
 
+## Awesome Reservoir Paper Collection
+
+- [Reservoir](./Awesome-Reservoir-Paper-Collection/Reservoir.md)
+
+
+
+
 ## Awesome SNN Paper Collection
 
 - [SNN](./Awesome-SNN-Paper-Collection/SNN.md)
