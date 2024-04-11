@@ -1,10 +1,8 @@
 # Awesome Paper Collection
 
-Read online: [https://axyzdong.github.io/Awesome-Paper-Collection/](https://axyzdong.github.io/Awesome-Paper-Collection/)
+❤Thanks so much @[AXYZdong](https://github.com/AXYZdong/) for the collaboration!
 
-
-
-# Awesome Paper Collection
+## Abbreviation - Full Name List
 
 | Abbreviation |                          Full Name                           |
 | :----------: | :----------------------------------------------------------: |
