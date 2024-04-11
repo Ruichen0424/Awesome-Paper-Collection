@@ -1,23 +1,5 @@
 # Awesome Paper Collection
 
-Read online: [https://axyzdong.github.io/Awesome-Paper-Collection/](https://axyzdong.github.io/Awesome-Paper-Collection/)
-
-
-
-# Awesome Paper Collection
-
-| Abbreviation |                          Full Name                           |
-| :----------: | :----------------------------------------------------------: |
-|   NeurIPS    |     Conference on Neural Information Processing Systems      |
-|     CVPR     |  IEEE Conference on Computer Vision and Pattern Recognition  |
-|     ICLR     |     International Conference on Learning Representations     |
-|     ICCV     |       IEEE International Conference on Computer Vision       |
-|     ECCV     |       European Conference on Computer Vision       |
-|     ICML     |     International Conference on Machine Learning     |
-|     ACL      |Annual Meeting of the Association for Computational Linguistics|
-|    IJCAI     |  International Joint Conference on Artificial Intelligence   |
-|     AAAI     |  Association for the Advancement of Artificial Intelligence  |
-
 
 ## Awesome 3D Paper Collection
 
@@ -100,7 +82,7 @@ Read online: [https://axyzdong.github.io/Awesome-Paper-Collection/](https://axyz
 
 
 
-## Awesome Low-Latency Paper Collection
+## Awesome Low-Latency Collection
 
 - [Low-Latency](./Awesome-Low-Latency-Paper-Collection/Low-Latency.md)
 
@@ -144,16 +126,9 @@ Read online: [https://axyzdong.github.io/Awesome-Paper-Collection/](https://axyz
 
 
 
-## Awesome Real-Time Paper Collection
+## Awesome Real-Time Collection
 
 - [Real-Time](./Awesome-Real-Time-Paper-Collection/Real-Time.md)
-
-
-
-
-## Awesome Reservoir Paper Collection
-
-- [Reservoir](./Awesome-Reservoir-Paper-Collection/Reservoir.md)
 
 
 
