@@ -1,6 +1,6 @@
-* ## [Abbreviation - Full Name List](/)
+## Abbreviation - Full Name List
 
-* ## [Awesome 3D Paper Collection](/)
+## Awesome 3D Paper Collection
 
 - [3D Dataset](./Awesome-3D-Paper-Collection/3D-Dataset.md)
 - [3D Generation](./Awesome-3D-Paper-Collection/3D-Generation.md)
@@ -15,7 +15,7 @@
 
 
 
-## [Awesome Autonomous Driving Paper Collection](/)
+## Awesome Autonomous Driving Paper Collection
 
 - [Autonomous Driving](./Awesome-Autonomous-Driving-Paper-Collection/Autonomous-Driving.md)
 
