@@ -1,5 +1,3 @@
-# [Awesome Paper Collection](\)
-
 ## [Abbreviation - Full Name List](\)
 
 ## [Awesome 3D Paper Collection](\)
