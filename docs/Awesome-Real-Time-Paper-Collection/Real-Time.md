@@ -1,8 +1,7 @@
 # Awesome Real-Time Paper Collection
 
-
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -60,6 +59,72 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- HDRFlow: Real-Time HDR Video Reconstruction with Large Motions [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_HDRFlow_Real-Time_HDR_Video_Reconstruction_with_Large_Motions_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.03447)] [[paper with code](https://paperswithcode.com/paper/hdrflow-real-time-hdr-video-reconstruction)]
+
+- DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Van_Wouwe_DiffusionPoser_Real-time_Human_Motion_Reconstruction_From_Arbitrary_Sparse_Sensors_Using_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2308.16682)] [[paper with code](https://paperswithcode.com/paper/diffusion-inertial-poser-human-motion)]
+
+- HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Dai_HMD-Poser_On-Device_Real-time_Human_Motion_Tracking_from_Scalable_Sparse_Observations_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.03561)] [[paper with code](https://paperswithcode.com/paper/hmd-poser-on-device-real-time-human-motion)]
+
+- LTM: Lightweight Textured Mesh Extraction and Refinement of Large Unbounded Scenes for Efficient Storage and Real-time Rendering [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_LTM_Lightweight_Textured_Mesh_Extraction_and_Refinement_of_Large_Unbounded_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/ltm-lightweight-textured-mesh-extraction-and)]
+
+- Real-Time Simulated Avatar from Head-Mounted Sensors [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_Real-Time_Simulated_Avatar_from_Head-Mounted_Sensors_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.06862)] [[paper with code](https://paperswithcode.com/paper/real-time-simulated-avatar-from-head-mounted)]
+
+- 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_4D_Gaussian_Splatting_for_Real-Time_Dynamic_Scene_Rendering_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.08528)] [[paper with code](https://paperswithcode.com/paper/4d-gaussian-splatting-for-real-time-dynamic)] [[code](https://github.com/hustvl/4DGaussians)]
+
+- RAM-Avatar: Real-time Photo-Realistic Avatar from Monocular Videos with Full-body Control [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Deng_RAM-Avatar_Real-time_Photo-Realistic_Avatar_from_Monocular_Videos_with_Full-body_Control_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/ram-avatar-real-time-photo-realistic-avatar)]
+
+- Real-Time Exposure Correction via Collaborative Transformations and Adaptive Sampling [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Real-Time_Exposure_Correction_via_Collaborative_Transformations_and_Adaptive_Sampling_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/real-time-exposure-correction-via)] [[code](https://github.com/hust-ial/cotf)]
+
+- DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_DiffSHEG_A_Diffusion-Based_Approach_for_Real-Time_Speech-driven_Holistic_3D_Expression_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.04747)] [[paper with code](https://paperswithcode.com/paper/diffsheg-a-diffusion-based-approach-for-real)]
+
+- PanoRecon: Real-Time Panoptic 3D Reconstruction from Monocular Video [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_PanoRecon_Real-Time_Panoptic_3D_Reconstruction_from_Monocular_Video_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/panorecon-real-time-panoptic-3d)]
+
+- EventPS: Real-Time Photometric Stereo Using an Event Camera [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/eventps-real-time-photometric-stereo-using-an)]
+
+- Real-time 3D-aware Portrait Video Relighting [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cai_Real-time_3D-aware_Portrait_Video_Relighting_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/real-time-3d-aware-portrait-video-relighting)]
+
+- DETRs Beat YOLOs on Real-time Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2304.08069)] [[paper with code](https://paperswithcode.com/paper/detrs-beat-yolos-on-real-time-object)] [[code](https://github.com/lyuwenyu/RT-DETR)]
+
+- SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shao_SplattingAvatar_Realistic_Real-Time_Human_Avatars_with_Mesh-Embedded_Gaussian_Splatting_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.05087)] [[paper with code](https://paperswithcode.com/paper/splattingavatar-realistic-real-time-human)] [[code](https://github.com/initialneil/splattingavatar)]
+
+- Holoported Characters: Real-time Free-viewpoint Rendering of Humans from Sparse RGB Cameras [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shetty_Holoported_Characters_Real-time_Free-viewpoint_Rendering_of_Humans_from_Sparse_RGB_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.07423)] [[paper with code](https://paperswithcode.com/paper/holoported-characters-real-time-free)]
+
+- Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hua_Benchmarking_Implicit_Neural_Representation_and_Geometric_Rendering_in_Real-Time_RGB-D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.19473)] [[paper with code](https://paperswithcode.com/paper/benchmarking-implicit-neural-representation)] [[code](https://github.com/thua919/NeRF-SLAM-Benchmark-CVPR24)]
+
+- RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_RTMO_Towards_High-Performance_One-Stage_Real-Time_Multi-Person_Pose_Estimation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.07526)] [[paper with code](https://paperswithcode.com/paper/rtmo-towards-high-performance-one-stage-real)] [[code](https://github.com/open-mmlab/mmpose)]
+
+- DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lv_DiffMOT_A_Real-time_Diffusion-based_Multiple_Object_Tracker_with_Non-linear_Prediction_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.02075)] [[paper with code](https://paperswithcode.com/paper/diffmot-a-real-time-diffusion-based-multiple)]
+
+- Video2Game: Real-time Interactive Realistic and Browser-Compatible Environment from a Single Video [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Video2Game_Real-time_Interactive_Realistic_and_Browser-Compatible_Environment_from_a_Single_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.09833)] [[paper with code](https://paperswithcode.com/paper/video2game-real-time-interactive-realistic-1)]
+
+- Real-time Acquisition and Reconstruction of Dynamic Volumes with Neural Structured Illumination [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_Real-time_Acquisition_and_Reconstruction_of_Dynamic_Volumes_with_Neural_Structured_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/real-time-acquisition-and-reconstruction-of)]
+
+- GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_GPS-Gaussian_Generalizable_Pixel-wise_3D_Gaussian_Splatting_for_Real-time_Human_Novel_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.02155)] [[paper with code](https://paperswithcode.com/paper/gps-gaussian-generalizable-pixel-wise-3d)] [[code](https://github.com/aipixel/gps-gaussian)]
+
+- Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular Stereo and RGB-D Cameras [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Photo-SLAM_Real-time_Simultaneous_Localization_and_Photorealistic_Mapping_for_Monocular_Stereo_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16728)] [[paper with code](https://paperswithcode.com/paper/photo-slam-real-time-simultaneous-1)]
+
+- YOLO-World: Real-Time Open-Vocabulary Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_YOLO-World_Real-Time_Open-Vocabulary_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.17270)] [[paper with code](https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object)] [[code](https://github.com/ailab-cvc/yolo-world)]
+
+- Neural Super-Resolution for Real-time Rendering with Radiance Demodulation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Neural_Super-Resolution_for_Real-time_Rendering_with_Radiance_Demodulation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2308.06699)] [[paper with code](https://paperswithcode.com/paper/neural-super-resolution-for-real-time)] [[code](https://github.com/riga2/nsrd)]
+
+- Real-Time Neural BRDF with Spherically Distributed Primitives [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Dou_Real-Time_Neural_BRDF_with_Spherically_Distributed_Primitives_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.08332)] [[paper with code](https://paperswithcode.com/paper/real-time-neural-brdf-with-spherically)]
+
+- RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_RealCustom_Narrowing_Real_Text_Word_for_Real-Time_Open-Domain_Text-to-Image_Customization_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.00483)] [[paper with code](https://paperswithcode.com/paper/realcustom-narrowing-real-text-word-for-real)]
+
+- PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Weng_PARA-Drive_Parallelized_Architecture_for_Real-time_Autonomous_Driving_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/para-drive-parallelized-architecture-for-real)]
+
+- Human Gaussian Splatting: Real-time Rendering of Animatable Avatars [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Moreau_Human_Gaussian_Splatting_Real-time_Rendering_of_Animatable_Avatars_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17113)] [[paper with code](https://paperswithcode.com/paper/human-gaussian-splatting-real-time-rendering)] [[code](https://github.com/mrnerf/awesome-3d-gaussian-splatting)]
+
+- ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ProxyCap_Real-time_Monocular_Full-body_Capture_in_World_Space_via_Human-Centric_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2307.01200)] [[paper with code](https://paperswithcode.com/paper/real-time-monocular-full-body-capture-in)]
+
+- 4K4D: Real-Time 4D View Synthesis at 4K Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_4K4D_Real-Time_4D_View_Synthesis_at_4K_Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.11448)] [[paper with code](https://paperswithcode.com/paper/4k4d-real-time-4d-view-synthesis-at-4k)]
+
+- Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Spacetime_Gaussian_Feature_Splatting_for_Real-Time_Dynamic_View_Synthesis_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.16812)] [[paper with code](https://paperswithcode.com/paper/spacetime-gaussian-feature-splatting-for-real)] [[code](https://github.com/oppo-us-research/spacetimegaussians)]
 
 
 ## ICLR-2024

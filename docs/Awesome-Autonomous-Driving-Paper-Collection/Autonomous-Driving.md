@@ -1,6 +1,7 @@
 # Awesome Autonomous Driving Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -44,16 +45,72 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_Holistic_Autonomous_Driving_Understanding_by_Birds-Eye-View_Injected_Multi-Modal_Large_Models_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.00988)] [[paper with code](https://paperswithcode.com/paper/holistic-autonomous-driving-understanding-by)] [[code](https://github.com/xmed-lab/nuinstruct)]
+
+- Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_Physical_3D_Adversarial_Attacks_against_Monocular_Depth_Estimation_in_Autonomous_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17301)] [[paper with code](https://paperswithcode.com/paper/physical-3d-adversarial-attacks-against)] [[code](https://github.com/gandolfczjh/3d2fool)]
+
+- Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17663)] [[paper with code](https://paperswithcode.com/paper/cam4docc-benchmark-for-camera-only-4d)] [[code](https://github.com/haomo-ai/cam4docc)]
+
+- VLP: Vision Language Planning for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Pan_VLP_Vision_Language_Planning_for_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.05577)] [[paper with code](https://paperswithcode.com/paper/vlp-vision-language-planning-for-autonomous)]
+
+- Bootstrapping Autonomous Driving Radars with Self-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hao_Bootstrapping_Autonomous_Driving_Radars_with_Self-Supervised_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.04519)] [[paper with code](https://paperswithcode.com/paper/bootstrapping-autonomous-radars-with-self)]
+
+- Generalized Predictive Model for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.09630)] [[paper with code](https://paperswithcode.com/paper/generalized-predictive-model-for-autonomous)] [[code](https://github.com/opendrivelab/driveagi)]
+
+- Visual Point Cloud Forecasting enables Scalable Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.17655)] [[paper with code](https://paperswithcode.com/paper/visual-point-cloud-forecasting-enables)] [[code](https://github.com/opendrivelab/vidar)]
+
+- Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Pourkeshavarz_Adversarial_Backdoor_Attack_by_Naturalistic_Data_Poisoning_on_Trajectory_Prediction_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2306.15755)] [[paper with code](https://paperswithcode.com/paper/imposition-implicit-backdoor-attack-through)]
+
+- On the Road to Portability: Compressing End-to-End Motion Planner for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Feng_On_the_Road_to_Portability_Compressing_End-to-End_Motion_Planner_for_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.01238)] [[paper with code](https://paperswithcode.com/paper/on-the-road-to-portability-compressing-end-to)] [[code](https://github.com/tulerfeng/PlanKD)]
+
+- Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving? [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Is_Ego_Status_All_You_Need_for_Open-Loop_End-to-End_Autonomous_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/is-ego-status-all-you-need-for-open-loop-end)] [[code](https://github.com/nvlabs/bev-planner)]
+
+- Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Driving_into_the_Future_Multiview_Visual_Forecasting_and_Planning_with_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17918)] [[paper with code](https://paperswithcode.com/paper/driving-into-the-future-multiview-visual)] [[code](https://github.com/bravegroup/drive-wm)]
+
+- DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.04390)] [[paper with code](https://paperswithcode.com/paper/driveworld-4d-pre-trained-scene-understanding)]
+
+- DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_DrivingGaussian_Composite_Gaussian_Splatting_for_Surrounding_Dynamic_Autonomous_Driving_Scenes_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.07920)] [[paper with code](https://paperswithcode.com/paper/drivinggaussian-composite-gaussian-splatting)] [[code](https://github.com/vdigpku/drivinggaussian)]
+
+- UniPAD: A Universal Pre-training Paradigm for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_UniPAD_A_Universal_Pre-training_Paradigm_for_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.08370)] [[paper with code](https://paperswithcode.com/paper/unipad-a-universal-pre-training-paradigm-for)] [[code](https://github.com/Nightmare-n/UniPAD)]
+
+- NeuRAD: Neural Rendering for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tonderski_NeuRAD_Neural_Rendering_for_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.15260)] [[paper with code](https://paperswithcode.com/paper/neurad-neural-rendering-for-autonomous)] [[code](https://github.com/georghess/neurad-studio)]
+
+- Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Light_the_Night_A_Multi-Condition_Diffusion_Framework_for_Unpaired_Low-Light_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.04804)] [[paper with code](https://paperswithcode.com/paper/light-the-night-a-multi-condition-diffusion)]
+
+- Panacea: Panoramic and Controllable Video Generation for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_Panacea_Panoramic_and_Controllable_Video_Generation_for_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16813)] [[paper with code](https://paperswithcode.com/paper/panacea-panoramic-and-controllable-video)]
+
+- LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_LaMPilot_An_Open_Benchmark_Dataset_for_Autonomous_Driving_with_Language_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.04372)] [[paper with code](https://paperswithcode.com/paper/lampilot-an-open-benchmark-dataset-for)] [[code](https://github.com/purduedigitaltwin/lampilot)]
+
+- SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_SynFog_A_Photo-realistic_Synthetic_Fog_Dataset_based_on_End-to-end_Imaging_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17094)] [[paper with code](https://paperswithcode.com/paper/synfog-a-photo-realistic-synthetic-fog)]
+
+- PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Weng_PARA-Drive_Parallelized_Architecture_for_Real-time_Autonomous_Driving_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/para-drive-parallelized-architecture-for-real)]
+
+- Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Editable_Scene_Simulation_for_Autonomous_Driving_via_Collaborative_LLM-Agents_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.05746)] [[paper with code](https://paperswithcode.com/paper/editable-scene-simulation-for-autonomous)] [[code](https://github.com/yifanlu0227/chatsim)]
+
+- AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17373)] [[paper with code](https://paperswithcode.com/paper/aide-an-automatic-data-engine-for-object)]
+
+- Feedback-Guided Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Feedback-Guided_Autonomous_Driving_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/feedback-guided-autonomous-driving)]
+
+- Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Adaptive_Fusion_of_Single-View_and_Multi-View_Depth_for_Autonomous_Driving_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.07535)] [[paper with code](https://paperswithcode.com/paper/adaptive-fusion-of-single-view-and-multi-view)] [[code](https://github.com/junda24/afnet)]
+
+- CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/cadet-a-causal-disentanglement-approach-for)]
+
+
 ## ICLR-2024
 
 
-- Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion [[paper](https://iclr.cc/virtual/2024/poster/18691)] [[arxiv](https://arxiv.org/abs/2311.01017)] [[paper with code](https://paperswithcode.com/paper/learning-unsupervised-world-models-for)] [[openreview](https://openreview.net/forum?id=Psl75UCoZM)]
+- Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion [[paper](https://iclr.cc/virtual/2024/poster/18691)] [[arxiv](https://arxiv.org/abs/2311.01017)] [[paper with code](https://paperswithcode.com/paper/learning-unsupervised-world-models-for)] [[openreview](https://openreview.net/forum?id=Psl75UCoZM)]
 
 - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18729)] [[arxiv](https://arxiv.org/abs/2309.16292)] [[paper with code](https://paperswithcode.com/paper/dilu-a-knowledge-driven-approach-to)] [[code](https://github.com/PJLab-ADG/DiLu)] [[openreview](https://openreview.net/forum?id=OqTMUPuLuC)]
 
 - LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving [[paper](https://iclr.cc/virtual/2024/poster/18846)] [[arxiv](https://arxiv.org/abs/2312.16108)] [[paper with code](https://paperswithcode.com/paper/lanesegnet-map-learning-with-lane-segment)] [[code](https://github.com/OpenDriveLab/LaneSegNet)] [[openreview](https://openreview.net/forum?id=LsURkIPYR5)]
 
 - ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation [[paper](https://iclr.cc/virtual/2024/poster/19579)] [[arxiv](https://arxiv.org/abs/2309.05527)] [[paper with code](https://paperswithcode.com/paper/resimad-zero-shot-3d-domain-transfer-for)] [[code](https://github.com/pjlab-adg/3dtrans)] [[openreview](https://openreview.net/forum?id=1d2cLKeNgY)]
+
+- UC-NERF: Neural Radiance Field for Under-Calibrated Multi-View Cameras in Autonomous Driving [[paper](https://iclr.cc/virtual/2024/poster/18336)] [[arxiv](https://arxiv.org/abs/2311.16945)] [[paper with code](https://paperswithcode.com/paper/uc-nerf-neural-radiance-field-for-under)] [[openreview](https://openreview.net/forum?id=bLKcCe7hYh)]
 
 
 ## AAAI-2024

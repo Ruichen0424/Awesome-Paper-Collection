@@ -1,6 +1,7 @@
 # Awesome Other Denoising Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -60,12 +61,34 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Duan_LED_A_Large-scale_Real-world_Paired_Dataset_for_Event_Camera_Denoising_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.19718)] [[paper with code](https://paperswithcode.com/paper/led-a-large-scale-real-world-paired-dataset)]
+
+- OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_OOSTraj_Out-of-Sight_Trajectory_Prediction_With_Vision-Positioning_Denoising_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.02227)] [[paper with code](https://paperswithcode.com/paper/oostraj-out-of-sight-trajectory-prediction)] [[code](https://github.com/hai-chao-zhang/oostraj)]
+
+- ViewFusion: Towards Multi-View Consistency via Interpolated Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_ViewFusion_Towards_Multi-View_Consistency_via_Interpolated_Denoising_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.18842)] [[paper with code](https://paperswithcode.com/paper/viewfusion-towards-multi-view-consistency-via)] [[code](https://github.com/Wi-sc/ViewFusion)]
+
+- Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/denoising-point-clouds-in-latent-space-via)] [[code](https://github.com/yanbiao1/pd-lts)]
+
+- Hyper-MD: Mesh Denoising with Customized Parameters Aware of Noise Intensity and Geometric Characteristics [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Hyper-MD_Mesh_Denoising_with_Customized_Parameters_Aware_of_Noise_Intensity_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/hyper-md-mesh-denoising-with-customized)]
+
+- Exploring Efficient Asymmetric Blind-Spots for Self-Supervised Denoising in Real-World Scenarios [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Exploring_Efficient_Asymmetric_Blind-Spots_for_Self-Supervised_Denoising_in_Real-World_Scenarios_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2303.16783)] [[paper with code](https://paperswithcode.com/paper/exploring-asymmetric-tunable-blind-spots-for)]
+
+- Physics-Aware Hand-Object Interaction Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_Physics-Aware_Hand-Object_Interaction_Denoising_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.11481)] [[paper with code](https://paperswithcode.com/paper/physics-aware-hand-object-interaction)]
+
+- Patch2Self2: Self-supervised Denoising on Coresets via Matrix Sketching [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fadnavis_Patch2Self2_Self-supervised_Denoising_on_Coresets_via_Matrix_Sketching_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/patch2self2-self-supervised-denoising-on)]
+
+- Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Stable_Neighbor_Denoising_for_Source-free_Domain_Adaptive_Segmentation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2406.06813)] [[paper with code](https://paperswithcode.com/paper/stable-neighbor-denoising-for-source-free)] [[code](https://github.com/DZhaoXd/SND)]
+
+
 ## ICLR-2024
 
 
-- Sliced Denoising: A Physics-Informed Molecular Pre-Training Method [[paper](https://iclr.cc/virtual/2024/poster/17924)] [[arxiv](https://arxiv.org/abs/2311.02124)] [[paper with code](https://paperswithcode.com/paper/sliced-denoising-a-physics-informed-molecular)]
+- Sliced Denoising: A Physics-Informed Molecular Pre-Training Method [[paper](https://iclr.cc/virtual/2024/poster/17924)] [[arxiv](https://arxiv.org/abs/2311.02124)] [[paper with code](https://paperswithcode.com/paper/sliced-denoising-a-physics-informed-molecular)] [[openreview](https://openreview.net/forum?id=liKkG1zcWq)]
 
-- On the Posterior Distribution in Denoising: Application to Uncertainty Quantification [[paper](https://iclr.cc/virtual/2024/poster/18362)] [[arxiv](https://arxiv.org/abs/2309.13598)] [[paper with code](https://paperswithcode.com/paper/on-the-posterior-distribution-in-denoising)] [[code](https://github.com/HilaManor/GaussianDenoisingPosterior)]
+- On the Posterior Distribution in Denoising: Application to Uncertainty Quantification [[paper](https://iclr.cc/virtual/2024/poster/18362)] [[arxiv](https://arxiv.org/abs/2309.13598)] [[paper with code](https://paperswithcode.com/paper/on-the-posterior-distribution-in-denoising)] [[code](https://github.com/HilaManor/GaussianDenoisingPosterior)] [[openreview](https://openreview.net/forum?id=adSGeugiuj)]
 
 
 ## AAAI-2024

@@ -1,6 +1,7 @@
 # Awesome 3D Object Detection Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -47,10 +48,70 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_VSRD_Instance-Aware_Volumetric_Silhouette_Rendering_for_Weakly_Supervised_3D_Object_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00149)] [[paper with code](https://paperswithcode.com/paper/vsrd-instance-aware-volumetric-silhouette-1)] [[code](https://github.com/skmhrk1209/VSRD)]
+
+- ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_ADA-Track_End-to-End_Multi-Camera_3D_Multi-Object_Tracking_with_Alternating_Detection_and_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.08909)] [[paper with code](https://paperswithcode.com/paper/ada-track-end-to-end-multi-camera-3d-multi)] [[code](https://github.com/dsx0511/ada-track)]
+
+- SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kumar_SeaBird_Segmentation_in_Birds_View_with_Dice_Loss_Improves_Monocular_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.20318)] [[paper with code](https://paperswithcode.com/paper/seabird-segmentation-in-bird-s-view-with-dice)] [[code](https://github.com/abhi1kumar/seabird)]
+
+- UniMODE: Unified Monocular 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_UniMODE_Unified_Monocular_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.18573)] [[paper with code](https://paperswithcode.com/paper/unimode-unified-monocular-3d-object-detection)]
+
+- Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Decoupled_Pseudo-labeling_for_Semi-Supervised_Monocular_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17387)] [[paper with code](https://paperswithcode.com/paper/decoupled-pseudo-labeling-for-semi-supervised)]
+
+- MonoDiff: Monocular 3D Object Detection and Pose Estimation with Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ranasinghe_MonoDiff_Monocular_3D_Object_Detection_and_Pose_Estimation_with_Diffusion_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/monodiff-monocular-3d-object-detection-and)]
+
+- Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Pseudo_Label_Refinery_for_Unsupervised_Domain_Adaptation_on_Cross-dataset_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.19384)] [[paper with code](https://paperswithcode.com/paper/pseudo-label-refinery-for-unsupervised-domain)]
+
+- RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_RCBEVDet_Radar-camera_Fusion_in_Birds_Eye_View_for_3D_Object_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.16440)] [[paper with code](https://paperswithcode.com/paper/rcbevdet-radar-camera-fusion-in-bird-s-eye)] [[code](https://github.com/vdigpku/rcbevdet)]
+
+- A-Teacher: Asymmetric Network for 3D Semi-Supervised Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_A-Teacher_Asymmetric_Network_for_3D_Semi-Supervised_Object_Detection_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/a-teacher-asymmetric-network-for-3d-semi)]
+
+- MonoCD: Monocular 3D Object Detection with Complementary Depths [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_MonoCD_Monocular_3D_Object_Detection_with_Complementary_Depths_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.03181)] [[paper with code](https://paperswithcode.com/paper/monocd-monocular-3d-object-detection-with)] [[code](https://github.com/elvintanhust/monocd)]
+
+- BEVSpread: Spread Voxel Pooling for Bird's-Eye-View Representation in Vision-based Roadside 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_BEVSpread_Spread_Voxel_Pooling_for_Birds-Eye-View_Representation_in_Vision-based_Roadside_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2406.08785)] [[paper with code](https://paperswithcode.com/paper/bevspread-spread-voxel-pooling-for-bird-s-eye-1)]
+
+- Multi-View Attentive Contextualization for Multi-View 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Multi-View_Attentive_Contextualization_for_Multi-View_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.12200)] [[paper with code](https://paperswithcode.com/paper/multi-view-attentive-contextualization-for)]
+
+- GAFusion: Adaptive Fusing LiDAR and Camera with Multiple Guidance for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_GAFusion_Adaptive_Fusing_LiDAR_and_Camera_with_Multiple_Guidance_for_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/gafusion-adaptive-fusing-lidar-and-camera)]
+
+- Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/towards-robust-3d-object-detection-with-lidar)]
+
+- Improving Distant 3D Object Detection Using 2D Box Supervision [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Improving_Distant_3D_Object_Detection_Using_2D_Box_Supervision_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.09230)] [[paper with code](https://paperswithcode.com/paper/improving-distant-3d-object-detection-using)]
+
+- Weak-to-Strong 3D Object Detection with X-Ray Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gambashidze_Weak-to-Strong_3D_Object_Detection_with_X-Ray_Distillation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00679)] [[paper with code](https://paperswithcode.com/paper/weak-to-strong-3d-object-detection-with-x-ray)] [[code](https://github.com/sakharok13/x-ray-teacher-patching-tools)]
+
+- SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_SAFDNet_A_Simple_and_Effective_Network_for_Fully_Sparse_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.05817)] [[paper with code](https://paperswithcode.com/paper/safdnet-a-simple-and-effective-network-for)] [[code](https://github.com/zhanggang001/hednet)]
+
+- HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_HINTED_Hard_Instance_Enhanced_Detector_with_Mixed-Density_Feature_Fusion_for_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/hinted-hard-instance-enhanced-detector-with)] [[code](https://github.com/xmuqimingxia/hinted)]
+
+- BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_BEVNeXt_Reviving_Dense_BEV_Frameworks_for_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.01696)] [[paper with code](https://paperswithcode.com/paper/bevnext-reviving-dense-bev-frameworks-for-3d)]
+
+- Learning Occupancy for Monocular 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_Learning_Occupancy_for_Monocular_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2305.15694)] [[paper with code](https://paperswithcode.com/paper/learning-occupancy-for-monocular-3d-object)] [[code](https://github.com/spengliang/occupancym3d)]
+
+- PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_PTT_Point-Trajectory_Transformer_for_Efficient_Temporal_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.08371)] [[paper with code](https://paperswithcode.com/paper/ptt-point-trajectory-transformer-for)] [[code](https://github.com/kuanchihhuang/ptt)]
+
+- Prompt3D: Random Prompt Assisted Weakly-Supervised 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Prompt3D_Random_Prompt_Assisted_Weakly-Supervised_3D_Object_Detection_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/prompt3d-random-prompt-assisted-weakly)] [[code](https://github.com/huishengye/prompt3d)]
+
+- Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ji_Enhancing_3D_Object_Detection_with_2D_Detection-Guided_Query_Anchors_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.06093)] [[paper with code](https://paperswithcode.com/paper/enhancing-3d-object-detection-with-2d)]
+
+- Commonsense Prototype for Outdoor Unsupervised 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Commonsense_Prototype_for_Outdoor_Unsupervised_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.16493)] [[paper with code](https://paperswithcode.com/paper/commonsense-prototype-for-outdoor)] [[code](https://github.com/hailanyi/cpd)]
+
+- CaKDP: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_CaKDP_Category-aware_Knowledge_Distillation_and_Pruning_Framework_for_Lightweight_3D_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/cakdp-category-aware-knowledge-distillation)] [[code](https://github.com/zhnxjtu/cakdp)]
+
+- 3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_3DiffTection_3D_Object_Detection_with_Geometry-Aware_Diffusion_Features_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.04391)] [[paper with code](https://paperswithcode.com/paper/3difftection-3d-object-detection-with)]
+
+- CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoor Object Detection from Multi-view Images [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_CN-RMA_Combined_Network_with_Ray_Marching_Aggregation_for_3D_Indoor_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.04198)] [[paper with code](https://paperswithcode.com/paper/cn-rma-combined-network-with-ray-marching-1)] [[code](https://github.com/sercharles/cn-rma)]
+
+- IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yin_IS-Fusion_Instance-Scene_Collaborative_Fusion_for_Multimodal_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.15241)] [[paper with code](https://paperswithcode.com/paper/is-fusion-instance-scene-collaborative-fusion)] [[code](https://github.com/yinjunbo/is-fusion)]
+
+
 ## ICLR-2024
 
 
-- Fusion is Not Enough: Single Modal Attack on Fusion Models for 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19509)] [[arxiv](https://arxiv.org/abs/2304.14614)]
+- Fusion Is Not Enough: Single Modal Attacks on Fusion Models for 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19509)] [[arxiv](https://arxiv.org/abs/2304.14614)] [[paper with code](https://paperswithcode.com/paper/fusion-is-not-enough-single-modal-attacks-to)] [[openreview](https://openreview.net/forum?id=3VD4PNEt5q)]
 
 - LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)] [[openreview](https://openreview.net/forum?id=0d1gQI114C)]
 

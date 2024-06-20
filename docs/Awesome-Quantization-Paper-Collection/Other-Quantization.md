@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -70,62 +71,102 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- Data-Free Quantization via Pseudo-label Filtering [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_Data-Free_Quantization_via_Pseudo-label_Filtering_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/data-free-quantization-via-pseudo-label)]
+
+- Nearest is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Nearest_is_Not_Dearest_Towards_Practical_Defense_against_Quantization-conditioned_Backdoor_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.12725)] [[paper with code](https://paperswithcode.com/paper/nearest-is-not-dearest-towards-practical)] [[code](https://github.com/antigonerandy/quantbackdoor_efrap)]
+
+- Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gu_Rethinking_the_Objectives_of_Vector-Quantized_Tokenizers_for_Image_Synthesis_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2212.03185)] [[paper with code](https://paperswithcode.com/paper/rethinking-the-objectives-of-vector-quantized)]
+
+- Epistemic Uncertainty Quantification For Pre-Trained Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Epistemic_Uncertainty_Quantification_For_Pre-Trained_Neural_Networks_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.10124)] [[paper with code](https://paperswithcode.com/paper/epistemic-uncertainty-quantification-for-pre-1)]
+
+- JointSQ: Joint Sparsification-Quantization for Distributed Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_JointSQ_Joint_Sparsification-Quantization_for_Distributed_Learning_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/jointsq-joint-sparsification-quantization-for)]
+
+- TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_TFMQ-DM_Temporal_Feature_Maintenance_Quantization_for_Diffusion_Models_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16503)] [[paper with code](https://paperswithcode.com/paper/tfmq-dm-temporal-feature-maintenance)] [[code](https://github.com/modeltc/tfmq-dm)]
+
+- Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_Quantifying_Uncertainty_in_Motion_Prediction_with_Variational_Bayesian_Mixture_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.03789)] [[paper with code](https://paperswithcode.com/paper/quantifying-uncertainty-in-motion-prediction)]
+
+- QDFormer: Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_QDFormer_Towards_Robust_Audiovisual_Segmentation_in_Complex_Environments_with_Quantization-based_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.00132)] [[paper with code](https://paperswithcode.com/paper/rethinking-audiovisual-segmentation-with)] [[code](https://github.com/lxa9867/qsd)]
+
+- Reg-PTQ: Regression-specialized Post-training Quantization for Fully Quantized Object Detector [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_Reg-PTQ_Regression-specialized_Post-training_Quantization_for_Fully_Quantized_Object_Detector_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/reg-ptq-regression-specialized-post-training)]
+
+- PTQ4SAM: Post-Training Quantization for Segment Anything [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lv_PTQ4SAM_Post-Training_Quantization_for_Segment_Anything_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.03144)] [[paper with code](https://paperswithcode.com/paper/ptq4sam-post-training-quantization-for)] [[code](https://github.com/chengtao-lv/ptq4sam)]
+
+- Towards Accurate Post-training Quantization for Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Towards_Accurate_Post-training_Quantization_for_Diffusion_Models_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2305.18723)] [[paper with code](https://paperswithcode.com/paper/towards-accurate-data-free-quantization-for)] [[code](https://github.com/changyuanwang17/apq-dm)]
+
+- Quantifying Task Priority for Multi-Task Optimization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Jeong_Quantifying_Task_Priority_for_Multi-Task_Optimization_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2406.02996)] [[paper with code](https://paperswithcode.com/paper/quantifying-task-priority-for-multi-task)]
+
+- Retraining-Free Model Quantization via One-Shot Weight-Coupling Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_Retraining-Free_Model_Quantization_via_One-Shot_Weight-Coupling_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.01543)] [[paper with code](https://paperswithcode.com/paper/retraining-free-model-quantization-via-one)] [[code](https://github.com/1hunters/retraining-free-quantization)]
+
+- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/are-conventional-snns-really-efficient-a)]
+
+- Codebook Transfer with Part-of-Speech for Vector-Quantized Image Modeling [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Codebook_Transfer_with_Part-of-Speech_for_Vector-Quantized_Image_Modeling_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.10071)] [[paper with code](https://paperswithcode.com/paper/codebook-transfer-with-part-of-speech-for)]
+
+- Enhancing Post-training Quantization Calibration through Contrastive Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/enhancing-post-training-quantization)]
+
+- Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Goli_Bayes_Rays_Uncertainty_Quantification_for_Neural_Radiance_Fields_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2309.03185)] [[paper with code](https://paperswithcode.com/paper/bayes-rays-uncertainty-quantification-for)] [[code](https://github.com/BayesRays/BayesRays)]
+
+- Mixed-Precision Quantization for Federated Learning on Resource-Constrained Heterogeneous Devices [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Mixed-Precision_Quantization_for_Federated_Learning_on_Resource-Constrained_Heterogeneous_Devices_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.18129)] [[paper with code](https://paperswithcode.com/paper/mixed-precision-quantization-for-federated)]
+
+- FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_FlowVQTalker_High-Quality_Emotional_Talking_Face_Generation_through_Normalizing_Flow_and_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.06375)] [[paper with code](https://paperswithcode.com/paper/flowvqtalker-high-quality-emotional-talking)]
+
+- DiLiGenRT: A Photometric Stereo Dataset with Quantified Roughness and Translucency [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_DiLiGenRT_A_Photometric_Stereo_Dataset_with_Quantified_Roughness_and_Translucency_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/diligenrt-a-photometric-stereo-dataset-with)]
+
+
 ## ICLR-2024
 
 
 - Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18921)] [[arxiv](https://arxiv.org/abs/2309.15531)] [[paper with code](https://paperswithcode.com/paper/rethinking-channel-dimensions-to-isolate)] [[code](https://github.com/johnheo/adadim-llm)] [[openreview](https://openreview.net/forum?id=JzG7kSpjJk)]
 
-- Quantifying Interactions in Semi-supervised Multimodal Learning: Guarantees and Applications [[paper](https://iclr.cc/virtual/2024/poster/19197)]
-
-- Object-Centric Semantic Vector Quantization [[paper](https://iclr.cc/virtual/2024/poster/18988)] [[openreview](https://openreview.net/forum?id=HAymeESPKo)]
-
 - AffineQuant: Affine Transformation Quantization for Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/17809)] [[arxiv](https://arxiv.org/abs/2403.12544)] [[paper with code](https://paperswithcode.com/paper/affinequant-affine-transformation)] [[code](https://github.com/bytedance/affinequant)] [[openreview](https://openreview.net/forum?id=of2rhALq8l)]
 
-- Uncertainty Quantification via Stable Distribution Propagation [[paper](https://iclr.cc/virtual/2024/poster/18291)] [[arxiv](https://arxiv.org/abs/2402.08324)] [[paper with code](https://paperswithcode.com/paper/uncertainty-quantification-via-stable)] [[openreview](https://openreview.net/forum?id=cZttUMTiPL)]
+- Quantifying and Enhancing Multi-modal Robustness with Modality Preference [[paper](https://iclr.cc/virtual/2024/poster/18438)] [[arxiv](https://arxiv.org/abs/2402.06244)] [[paper with code](https://paperswithcode.com/paper/quantifying-and-enhancing-multi-modal)] [[code](https://github.com/gewu-lab/certifiable-robust-multi-modal-training)] [[openreview](https://openreview.net/forum?id=XyrB1Ay44j)]
 
-- Quantifying Network Similarity using Graph Cumulants [[paper](https://iclr.cc/virtual/2024/poster/20664)] [[arxiv](https://arxiv.org/abs/2107.11403)]
+- Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization [[paper](https://iclr.cc/virtual/2024/poster/18508)] [[arxiv](https://arxiv.org/abs/2403.18120)] [[paper with code](https://paperswithcode.com/paper/don-t-trust-verify-grounding-llm-quantitative)] [[code](https://github.com/jinpz/dtv)] [[openreview](https://openreview.net/forum?id=V5tdi14ple)]
 
 - Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness [[paper](https://iclr.cc/virtual/2024/poster/18994)] [[arxiv](https://arxiv.org/abs/2401.08514)] [[paper with code](https://paperswithcode.com/paper/beyond-weisfeiler-lehman-a-quantitative)] [[code](https://github.com/subgraph23/homomorphism-expressivity)] [[openreview](https://openreview.net/forum?id=HSKaGOi7Ar)]
 
 - LQ-LoRA: Low-rank plus Quantized Matrix Decomposition for Efficient Language Model Finetuning [[paper](https://iclr.cc/virtual/2024/poster/17436)] [[arxiv](https://arxiv.org/abs/2311.12023)] [[paper with code](https://paperswithcode.com/paper/lq-lora-low-rank-plus-quantized-matrix)] [[code](https://github.com/hanguo97/lq-lora)] [[openreview](https://openreview.net/forum?id=xw29VvOMmU)]
 
-- Quantifying and Enhancing Multi-modal Robustness with Modality Preference [[paper](https://iclr.cc/virtual/2024/poster/18438)] [[arxiv](https://arxiv.org/abs/2402.06244)] [[paper with code](https://paperswithcode.com/paper/quantifying-and-enhancing-multi-modal)] [[openreview](https://openreview.net/forum?id=XyrB1Ay44j)]
-
-- EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models [[paper](https://iclr.cc/virtual/2024/poster/18521)] [[arxiv](https://arxiv.org/abs/2310.03270)] [[paper with code](https://paperswithcode.com/paper/efficientdm-efficient-quantization-aware-fine)] [[openreview](https://openreview.net/forum?id=UmMa3UNDAz)]
-
-- On the Posterior Distribution in Denoising: Application to Uncertainty Quantification [[paper](https://iclr.cc/virtual/2024/poster/18362)] [[arxiv](https://arxiv.org/abs/2309.13598)] [[paper with code](https://paperswithcode.com/paper/on-the-posterior-distribution-in-denoising)] [[code](https://github.com/HilaManor/GaussianDenoisingPosterior)] [[openreview](https://openreview.net/forum?id=adSGeugiuj)]
-
 - SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression [[paper](https://iclr.cc/virtual/2024/poster/18686)] [[arxiv](https://arxiv.org/abs/2306.03078)] [[paper with code](https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for)] [[code](https://github.com/vahe1994/spqr)] [[openreview](https://openreview.net/forum?id=Q1u25ahSuy)]
+
+- EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models [[paper](https://iclr.cc/virtual/2024/poster/18521)] [[arxiv](https://arxiv.org/abs/2310.03270)] [[paper with code](https://paperswithcode.com/paper/efficientdm-efficient-quantization-aware-fine)] [[code](https://github.com/thisisbillhe/efficientdm)] [[openreview](https://openreview.net/forum?id=UmMa3UNDAz)]
+
+- Quantifying the Plausibility of Context Reliance in Neural Machine Translation [[paper](https://iclr.cc/virtual/2024/poster/18449)] [[arxiv](https://arxiv.org/abs/2310.01188)] [[paper with code](https://paperswithcode.com/paper/quantifying-the-plausibility-of-context)] [[code](https://github.com/inseq-team/inseq)] [[openreview](https://openreview.net/forum?id=XTHfNGI3zT)]
 
 - LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18843)] [[arxiv](https://arxiv.org/abs/2310.08659)] [[paper with code](https://paperswithcode.com/paper/loftq-lora-fine-tuning-aware-quantization-for)] [[code](https://github.com/yxli2123/loftq)] [[openreview](https://openreview.net/forum?id=LzPWWPAdY4)]
 
-- Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization [[paper](https://iclr.cc/virtual/2024/poster/18508)] [[arxiv](https://arxiv.org/abs/2403.18120)] [[paper with code](https://paperswithcode.com/paper/don-t-trust-verify-grounding-llm-quantitative)] [[code](https://github.com/jinpz/dtv)] [[openreview](https://openreview.net/forum?id=V5tdi14ple)]
+- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)] [[openreview](https://openreview.net/forum?id=0d1gQI114C)]
 
-- Quantifying the Plausibility of Context Reliance in Neural Machine Translation [[paper](https://iclr.cc/virtual/2024/poster/18449)] [[arxiv](https://arxiv.org/abs/2310.01188)] [[paper with code](https://paperswithcode.com/paper/quantifying-the-plausibility-of-context)] [[code](https://github.com/inseq-team/inseq)] [[openreview](https://openreview.net/forum?id=XTHfNGI3zT)]
+- On the Posterior Distribution in Denoising: Application to Uncertainty Quantification [[paper](https://iclr.cc/virtual/2024/poster/18362)] [[arxiv](https://arxiv.org/abs/2309.13598)] [[paper with code](https://paperswithcode.com/paper/on-the-posterior-distribution-in-denoising)] [[code](https://github.com/HilaManor/GaussianDenoisingPosterior)] [[openreview](https://openreview.net/forum?id=adSGeugiuj)]
+
+- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/19073)] [[arxiv](https://arxiv.org/abs/2310.08041)] [[paper with code](https://paperswithcode.com/paper/qllm-accurate-and-efficient-low-bitwidth)] [[code](https://github.com/modeltc/qllm)] [[openreview](https://openreview.net/forum?id=FIplmUWdm3)]
 
 - ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers [[paper](https://iclr.cc/virtual/2024/poster/21759)] [[arxiv](https://arxiv.org/abs/2309.16119)] [[paper with code](https://paperswithcode.com/paper/modulora-finetuning-3-bit-llms-on-consumer)] [[code](https://github.com/kuleshov-group/llmtools)]
 
 - QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/18462)] [[arxiv](https://arxiv.org/abs/2309.14717)] [[paper with code](https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank)] [[code](https://github.com/intel-analytics/BigDL)] [[openreview](https://openreview.net/forum?id=WvFoJccpo8)]
 
-- LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection [[paper](https://iclr.cc/virtual/2024/poster/19611)] [[arxiv](https://arxiv.org/abs/2401.15865)] [[paper with code](https://paperswithcode.com/paper/lidar-ptq-post-training-quantization-for)] [[code](https://github.com/stiphyjay/lidar-ptq)] [[openreview](https://openreview.net/forum?id=0d1gQI114C)]
-
 - VQ-TR: Vector Quantized Attention for Time Series Forecasting [[paper](https://iclr.cc/virtual/2024/poster/18952)] [[openreview](https://openreview.net/forum?id=RMnJxnLwGak)]
-
-- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/19073)] [[arxiv](https://arxiv.org/abs/2310.08041)] [[paper with code](https://paperswithcode.com/paper/qllm-accurate-and-efficient-low-bitwidth)] [[openreview](https://openreview.net/forum?id=FIplmUWdm3)]
 
 - Quantifying the Sensitivity of Inverse Reinforcement Learning to Misspecification [[paper](https://iclr.cc/virtual/2024/poster/17757)] [[arxiv](https://arxiv.org/abs/2403.06854)] [[paper with code](https://paperswithcode.com/paper/quantifying-the-sensitivity-of-inverse)] [[openreview](https://openreview.net/forum?id=pz2E1Q9Wni)]
 
 - LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models [[paper](https://iclr.cc/virtual/2024/poster/18146)] [[arxiv](https://arxiv.org/abs/2206.09557)] [[paper with code](https://paperswithcode.com/paper/nuqmm-quantized-matmul-for-efficient)] [[code](https://github.com/naver-aics/lut-gemm)] [[openreview](https://openreview.net/forum?id=gLARhFLE0F)]
 
-- Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting [[paper](https://iclr.cc/virtual/2024/poster/18650)] [[arxiv](https://arxiv.org/abs/2310.11324)] [[paper with code](https://paperswithcode.com/paper/quantifying-language-models-sensitivity-to)] [[code](https://github.com/msclar/formatspread)] [[openreview](https://openreview.net/forum?id=RIu5lyNXjT)]
+- Quantifying Network Similarity using Graph Cumulants [[paper](https://iclr.cc/virtual/2024/poster/20664)] [[arxiv](https://arxiv.org/abs/2107.11403)]
 
 - Finite Scalar Quantization: VQ-VAE Made Simple [[paper](https://iclr.cc/virtual/2024/poster/19317)] [[arxiv](https://arxiv.org/abs/2309.15505)] [[paper with code](https://paperswithcode.com/paper/finite-scalar-quantization-vq-vae-made-simple)] [[code](https://github.com/google-research/google-research)] [[openreview](https://openreview.net/forum?id=8ishA3LxN8)]
 
-- Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty [[paper](https://iclr.cc/virtual/2024/poster/19273)] [[openreview](https://openreview.net/forum?id=A7t7z6g6tM)]
+- Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting [[paper](https://iclr.cc/virtual/2024/poster/18650)] [[arxiv](https://arxiv.org/abs/2310.11324)] [[paper with code](https://paperswithcode.com/paper/quantifying-language-models-sensitivity-to)] [[code](https://github.com/msclar/formatspread)] [[openreview](https://openreview.net/forum?id=RIu5lyNXjT)]
+
+- Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty [[paper](https://iclr.cc/virtual/2024/poster/19273)] [[arxiv](https://arxiv.org/abs/2404.10980)] [[paper with code](https://paperswithcode.com/paper/hyper-evidential-deep-learning-to-quantify)] [[code](https://github.com/hugo101/hyperevidentialnn)] [[openreview](https://openreview.net/forum?id=A7t7z6g6tM)]
 
 - OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/19323)] [[arxiv](https://arxiv.org/abs/2308.13137)] [[paper with code](https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated)] [[code](https://github.com/opengvlab/omniquant)] [[openreview](https://openreview.net/forum?id=8Wuvhh0LYW)]
 
 - STARC: A General Framework For Quantifying Differences Between Reward Functions [[paper](https://iclr.cc/virtual/2024/poster/17495)] [[arxiv](https://arxiv.org/abs/2309.15257)] [[paper with code](https://paperswithcode.com/paper/starc-a-general-framework-for-quantifying)] [[openreview](https://openreview.net/forum?id=wPhbtwlCDa)]
+
+- Uncertainty Quantification via Stable Distribution Propagation [[paper](https://iclr.cc/virtual/2024/poster/18291)] [[arxiv](https://arxiv.org/abs/2402.08324)] [[paper with code](https://paperswithcode.com/paper/uncertainty-quantification-via-stable)] [[openreview](https://openreview.net/forum?id=cZttUMTiPL)]
 
 
 ## AAAI-2024

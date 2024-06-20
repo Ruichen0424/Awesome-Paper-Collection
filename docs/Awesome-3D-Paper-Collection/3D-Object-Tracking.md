@@ -1,6 +1,7 @@
 # Awesome 3D Object Tracking Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -28,6 +29,12 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_ADA-Track_End-to-End_Multi-Camera_3D_Multi-Object_Tracking_with_Alternating_Detection_and_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.08909)] [[paper with code](https://paperswithcode.com/paper/ada-track-end-to-end-multi-camera-3d-multi)] [[code](https://github.com/dsx0511/ada-track)]
 
 
 ## ICLR-2024

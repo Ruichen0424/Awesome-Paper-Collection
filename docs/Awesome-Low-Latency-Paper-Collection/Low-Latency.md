@@ -1,8 +1,7 @@
 # Awesome Low-Latency Paper Collection
 
-
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -32,6 +31,14 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Rethinking Interactive Image Segmentation with Low Latency High Quality and Diverse Prompts [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rethinking_Interactive_Image_Segmentation_with_Low_Latency_High_Quality_and_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00741)] [[paper with code](https://paperswithcode.com/paper/rethinking-interactive-image-segmentation-2)] [[code](https://github.com/uncbiag/segnext)]
+
+- Low-Latency Neural Stereo Streaming [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hou_Low-Latency_Neural_Stereo_Streaming_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17879)] [[paper with code](https://paperswithcode.com/paper/low-latency-neural-stereo-streaming)]
 
 
 ## AAAI-2024

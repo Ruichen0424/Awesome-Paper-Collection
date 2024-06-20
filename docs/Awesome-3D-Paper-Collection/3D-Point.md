@@ -1,6 +1,8 @@
 # Awesome 3D Point Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -41,6 +43,38 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_RegionPLC_Regional_Point-Language_Contrastive_Learning_for_Open-World_3D_Scene_Understanding_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2304.00962)] [[paper with code](https://paperswithcode.com/paper/regionplc-regional-point-language-contrastive)] [[code](https://github.com/cvmi-lab/pla)]
+
+- Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Pose-Transformed_Equivariant_Network_for_3D_Point_Trajectory_Prediction_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/pose-transformed-equivariant-network-for-3d)] [[code](https://github.com/yuruixuan/pt-evnet)]
+
+- CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shah_CodedEvents_Optimal_Point-Spread-Function_Engineering_for_3D-Tracking_with_Event_Cameras_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2406.09409)] [[paper with code](https://paperswithcode.com/paper/codedevents-optimal-point-spread-function-1)]
+
+- 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_3DGStream_On-the-Fly_Training_of_3D_Gaussians_for_Efficient_Streaming_of_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.01444)] [[paper with code](https://paperswithcode.com/paper/3dgstream-on-the-fly-training-of-3d-gaussians)] [[code](https://github.com/SJoJoK/3DGStream)]
+
+- Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Towards_Large-scale_3D_Representation_Learning_with_Multi-dataset_Point_Prompt_Training_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2308.09718)] [[paper with code](https://paperswithcode.com/paper/towards-large-scale-3d-representation)] [[code](https://github.com/Pointcept/Pointcept)]
+
+- Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wimmer_Back_to_3D_Few-Shot_3D_Keypoint_Detection_with_Back-Projected_2D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.18113)] [[paper with code](https://paperswithcode.com/paper/back-to-3d-few-shot-3d-keypoint-detection)] [[code](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)]
+
+- IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_IPoD_Implicit_Field_Learning_with_Point_Diffusion_for_Generalizable_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00269)] [[paper with code](https://paperswithcode.com/paper/ipod-implicit-field-learning-with-point)]
+
+- PAPR in Motion: Seamless Point-level 3D Scene Interpolation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_PAPR_in_Motion_Seamless_Point-level_3D_Scene_Interpolation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2406.05533)] [[paper with code](https://paperswithcode.com/paper/papr-in-motion-seamless-point-level-3d-scene)]
+
+- PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_PTT_Point-Trajectory_Transformer_for_Efficient_Temporal_3D_Object_Detection_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.08371)] [[paper with code](https://paperswithcode.com/paper/ptt-point-trajectory-transformer-for)] [[code](https://github.com/kuanchihhuang/ptt)]
+
+- KP-RED: Exploiting Semantic Keypoints for Joint 3D Shape Retrieval and Deformation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_KP-RED_Exploiting_Semantic_Keypoints_for_Joint_3D_Shape_Retrieval_and_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.10099)] [[paper with code](https://paperswithcode.com/paper/kp-red-exploiting-semantic-keypoints-for)] [[code](https://github.com/lolrudy/kp-red)]
+
+- Viewpoint-Aware Visual Grounding in 3D Scenes [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_Viewpoint-Aware_Visual_Grounding_in_3D_Scenes_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/viewpoint-aware-visual-grounding-in-3d-scenes)]
+
+
+## ICLR-2024
+
+
+- Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18833)] [[openreview](https://openreview.net/forum?id=MIEnYtlGyv)]
 
 
 ## AAAI-2024

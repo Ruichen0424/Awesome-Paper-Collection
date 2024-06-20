@@ -90,6 +90,13 @@
 
 
 
+## Awesome Lifelong Paper Collection
+
+- [Lifelong](./Awesome-Lifelong-Paper-Collection/Lifelong.md)
+
+
+
+
 ## Awesome Lightweight Paper Collection
 
 - [Lightweight Transformer](./Awesome-Lightweight-Paper-Collection/Lightweight-Transformer.md)

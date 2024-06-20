@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -22,6 +23,14 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Boosting Spike Camera Image Reconstruction from a Perspective of Dealing with Spike Fluctuations [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Boosting_Spike_Camera_Image_Reconstruction_from_a_Perspective_of_Dealing_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/boosting-spike-camera-image-reconstruction)] [[code](https://github.com/ruizhao26/bsf)]
+
+- Intensity-Robust Autofocus for Spike Camera [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Su_Intensity-Robust_Autofocus_for_Spike_Camera_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/intensity-robust-autofocus-for-spike-camera)] [[code](https://github.com/onetism/saf-code)]
 
 
 ## ICLR-2024

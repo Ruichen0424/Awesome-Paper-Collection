@@ -44,7 +44,7 @@
 ## ICLR-2024
 
 
-- Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [[paper](https://iclr.cc/virtual/2024/poster/18658)] [[openreview](https://openreview.net/forum?id=QzTpTRVtrP)]
+- Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [[paper](https://iclr.cc/virtual/2024/poster/18658)] [[arxiv](https://arxiv.org/abs/2405.18765)] [[paper with code](https://paperswithcode.com/paper/large-brain-model-for-learning-generic)] [[code](https://github.com/935963004/labram)] [[openreview](https://openreview.net/forum?id=QzTpTRVtrP)]
 
 - Decoding Natural Images from EEG for Object Recognition [[paper](https://iclr.cc/virtual/2024/poster/18251)] [[arxiv](https://arxiv.org/abs/2308.13234)] [[paper with code](https://paperswithcode.com/paper/decoding-natural-images-from-eeg-for-object)] [[code](https://github.com/eeyhsong/nice-eeg)] [[openreview](https://openreview.net/forum?id=dhLIno8FmH)]
 

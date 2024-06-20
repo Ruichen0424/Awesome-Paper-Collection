@@ -1,6 +1,7 @@
 # Awesome 3D Dataset Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -32,6 +33,20 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- LiDAR-Net: A Real-scanned 3D Point Cloud Dataset for Indoor Scenes [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_LiDAR-Net_A_Real-scanned_3D_Point_Cloud_Dataset_for_Indoor_Scenes_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/lidar-net-a-real-scanned-3d-point-cloud)]
+
+- Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Pseudo_Label_Refinery_for_Unsupervised_Domain_Adaptation_on_Cross-dataset_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.19384)] [[paper with code](https://paperswithcode.com/paper/pseudo-label-refinery-for-unsupervised-domain)]
+
+- Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Khanna_Habitat_Synthetic_Scenes_Dataset_HSSD-200_An_Analysis_of_3D_Scene_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2306.11290)] [[paper with code](https://paperswithcode.com/paper/habitat-synthetic-scenes-dataset-hssd-200-an)]
+
+- Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Towards_Large-scale_3D_Representation_Learning_with_Multi-dataset_Point_Prompt_Training_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2308.09718)] [[paper with code](https://paperswithcode.com/paper/towards-large-scale-3d-representation)] [[code](https://github.com/Pointcept/Pointcept)]
+
+- DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ling_DL3DV-10K_A_Large-Scale_Scene_Dataset_for_Deep_Learning-based_3D_Vision_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.16256)] [[paper with code](https://paperswithcode.com/paper/dl3dv-10k-a-large-scale-scene-dataset-for)]
 
 
 ## AAAI-2024

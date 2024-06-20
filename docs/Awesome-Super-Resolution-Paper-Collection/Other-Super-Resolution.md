@@ -1,6 +1,7 @@
 # Awesome Other-Super-Resolution Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -44,6 +45,36 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fang_CycleINR_Cycle_Implicit_Neural_Representation_for_Arbitrary-Scale_Volumetric_Super-Resolution_of_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.04878)] [[paper with code](https://paperswithcode.com/paper/cycleinr-cycle-implicit-neural-representation)]
+
+- APISR: Anime Production Inspired Real-World Anime Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_APISR_Anime_Production_Inspired_Real-World_Anime_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.01598)] [[paper with code](https://paperswithcode.com/paper/apisr-anime-production-inspired-real-world)] [[code](https://github.com/kiteretsu77/apisr)]
+
+- DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_DiSR-NeRF_Diffusion-Guided_View-Consistent_Super-Resolution_NeRF_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00874)] [[paper with code](https://paperswithcode.com/paper/disr-nerf-diffusion-guided-view-consistent)] [[code](https://github.com/leejielong/disr-nerf)]
+
+- Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Low-Res_Leads_the_Way_Improving_Generalization_for_Super-Resolution_by_Self-Supervised_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.02601)] [[paper with code](https://paperswithcode.com/paper/low-res-leads-the-way-improving)]
+
+- Super-Resolution Reconstruction from Bayer-Pattern Spike Streams [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Dong_Super-Resolution_Reconstruction_from_Bayer-Pattern_Spike_Streams_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/super-resolution-reconstruction-from-bayer)]
+
+- Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.04785)] [[paper with code](https://paperswithcode.com/paper/rethinking-diffusion-model-for-multi-contrast)] [[code](https://github.com/guangyuankk/diffmsr)]
+
+- Neural Super-Resolution for Real-time Rendering with Radiance Demodulation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Neural_Super-Resolution_for_Real-time_Rendering_with_Radiance_Demodulation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2308.06699)] [[paper with code](https://paperswithcode.com/paper/neural-super-resolution-for-real-time)] [[code](https://github.com/riga2/nsrd)]
+
+- Boosting Flow-based Generative Super-Resolution Models via Learned Prior [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tsao_Boosting_Flow-based_Generative_Super-Resolution_Models_via_Learned_Prior_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.10988)] [[paper with code](https://paperswithcode.com/paper/boosting-flow-based-generative-super)] [[code](https://github.com/liyuantsao/BFSR)]
+
+- Bilateral Event Mining and Complementary for Event Stream Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Bilateral_Event_Mining_and_Complementary_for_Event_Stream_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.10037)] [[paper with code](https://paperswithcode.com/paper/bilateral-event-mining-and-complementary-for)] [[code](https://github.com/lqm26/bmcnet-esr)]
+
+- Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Transcending_the_Limit_of_Local_Window_Advanced_Super-Resolution_Transformer_with_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.08209)] [[paper with code](https://paperswithcode.com/paper/transcending-the-limit-of-local-window)] [[code](https://github.com/labshuhanggu/adaptive-token-dictionary)]
+
+- Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_Self-Adaptive_Reality-Guided_Diffusion_for_Artifact-Free_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.16643)] [[paper with code](https://paperswithcode.com/paper/self-adaptive-reality-guided-diffusion-for)]
+
+- Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chaouai_Universal_Robustness_via_Median_Randomized_Smoothing_for_Real-World_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.14934)] [[paper with code](https://paperswithcode.com/paper/universal-robustness-via-median-randomized)]
+
+- Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Dong_Building_Bridges_across_Spatial_and_Temporal_Resolutions_Reference-Based_Super-Resolution_via_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17460)] [[paper with code](https://paperswithcode.com/paper/building-bridges-across-spatial-and-temporal)] [[code](https://github.com/dongrunmin/refdiff)]
 
 
 ## ICLR-2024

@@ -1,6 +1,7 @@
 # Awesome 3D Object Other Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -52,6 +53,66 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_HOISDF_Constraining_3D_Hand-Object_Pose_Estimation_with_Global_Signed_Distance_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.17062)] [[paper with code](https://paperswithcode.com/paper/hoisdf-constraining-3d-hand-object-pose)] [[code](https://github.com/amathislab/hoisdf)]
+
+- Image Sculpting: Precise Object Editing with 3D Geometry Control [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yenphraphai_Image_Sculpting_Precise_Object_Editing_with_3D_Geometry_Control_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.01702)] [[paper with code](https://paperswithcode.com/paper/image-sculpting-precise-object-editing-with)]
+
+- Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sommer_Unsupervised_Learning_of_Category-Level_3D_Pose_from_Object-Centric_Videos_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/unsupervised-learning-of-category-level-3d)]
+
+- Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00562)] [[paper with code](https://paperswithcode.com/paper/text2hoi-text-guided-3d-motion-generation-for)] [[code](https://github.com/junukcha/text2hoi)]
+
+- Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Koch_Open3DSG_Open-Vocabulary_3D_Scene_Graphs_from_Point_Clouds_with_Queryable_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.12259)] [[paper with code](https://paperswithcode.com/paper/open3dsg-open-vocabulary-3d-scene-graphs-from)]
+
+- One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_One-2-3-45_Fast_Single_Image_to_3D_Objects_with_Consistent_Multi-View_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.07885)] [[paper with code](https://paperswithcode.com/paper/one-2-3-45-fast-single-image-to-3d-objects)]
+
+- Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Khanna_Habitat_Synthetic_Scenes_Dataset_HSSD-200_An_Analysis_of_3D_Scene_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2306.11290)] [[paper with code](https://paperswithcode.com/paper/habitat-synthetic-scenes-dataset-hssd-200-an)]
+
+- HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_HandBooster_Boosting_3D_Hand-Mesh_Reconstruction_by_Conditional_Synthesis_and_Sampling_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.18575)] [[paper with code](https://paperswithcode.com/paper/handbooster-boosting-3d-hand-mesh)] [[code](https://github.com/hxwork/handbooster_pytorch)]
+
+- TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_TeMO_Towards_Text-Driven_3D_Stylization_for_Multi-Object_Meshes_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.04248)] [[paper with code](https://paperswithcode.com/paper/temo-towards-text-driven-3d-stylization-for)]
+
+- MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_MultiPLY_A_Multisensory_Object-Centric_Embodied_Large_Language_Model_in_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.08577)] [[paper with code](https://paperswithcode.com/paper/multiply-a-multisensory-object-centric)]
+
+- Instantaneous Perception of Moving Objects in 3D [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Instantaneous_Perception_of_Moving_Objects_in_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.02781)] [[paper with code](https://paperswithcode.com/paper/instantaneous-perception-of-moving-objects-in)]
+
+- Forecasting of 3D Whole-body Human Poses with Grasping Objects [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_Forecasting_of_3D_Whole-body_Human_Poses_with_Grasping_Objects_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/forecasting-of-3d-whole-body-human-poses-with)]
+
+- IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_IPoD_Implicit_Field_Learning_with_Point_Diffusion_for_Generalizable_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00269)] [[paper with code](https://paperswithcode.com/paper/ipod-implicit-field-learning-with-point)]
+
+- I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_IM_HOI_Inertia-aware_Monocular_Capture_of_3D_Human-Object_Interactions_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.08869)] [[paper with code](https://paperswithcode.com/paper/i-m-hoi-inertia-aware-monocular-capture-of-3d)]
+
+- RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_RGBD_Objects_in_the_Wild_Scaling_Real-World_3D_Object_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.12592)] [[paper with code](https://paperswithcode.com/paper/rgbd-objects-in-the-wild-scaling-real-world)]
+
+- DreamComposer: Controllable 3D Object Generation via Multi-View Conditions [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_DreamComposer_Controllable_3D_Object_Generation_via_Multi-View_Conditions_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.03611)] [[paper with code](https://paperswithcode.com/paper/dreamcomposer-controllable-3d-object)]
+
+- An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Eskandar_An_Empirical_Study_of_the_Generalization_Ability_of_Lidar_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.17562)] [[paper with code](https://paperswithcode.com/paper/an-empirical-study-of-the-generalization)]
+
+- NTO3D: Neural Target Object 3D Reconstruction with Segment Anything [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_NTO3D_Neural_Target_Object_3D_Reconstruction_with_Segment_Anything_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2309.12790)] [[paper with code](https://paperswithcode.com/paper/noc-high-quality-neural-object-cloning-with)] [[code](https://github.com/ucwxb/nto3d)]
+
+- WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects Under Occlusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Vuong_WALT3D_Generating_Realistic_Training_Data_from_Time-Lapse_Imagery_for_Reconstructing_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.19022)] [[paper with code](https://paperswithcode.com/paper/walt3d-generating-realistic-training-data)]
+
+- NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Han_NeRSP_Neural_3D_Reconstruction_for_Reflective_Objects_with_Sparse_Polarized_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2406.07111)] [[paper with code](https://paperswithcode.com/paper/nersp-neural-3d-reconstruction-for-reflective)]
+
+- HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_HOIDiffusion_Generating_Realistic_3D_Hand-Object_Interaction_Data_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.12011)] [[paper with code](https://paperswithcode.com/paper/hoidiffusion-generating-realistic-3d-hand)]
+
+- HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_HOLD_Category-agnostic_3D_Reconstruction_of_Interacting_Hands_and_Objects_from_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.18448)] [[paper with code](https://paperswithcode.com/paper/hold-category-agnostic-3d-reconstruction-of)] [[code](https://github.com/zc-alexfan/hold)]
+
+- LASO: Language-guided Affordance Segmentation on 3D Object [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/laso-language-guided-affordance-segmentation)] [[code](https://github.com/yl3800/laso)]
+
+- CG-HOI: Contact-Guided 3D Human-Object Interaction Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Diller_CG-HOI_Contact-Guided_3D_Human-Object_Interaction_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16097)] [[paper with code](https://paperswithcode.com/paper/cg-hoi-contact-guided-3d-human-object)]
+
+- LEMON: Learning 3D Human-Object Interaction Relation from 2D Images [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_LEMON_Learning_3D_Human-Object_Interaction_Relation_from_2D_Images_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.08963)] [[paper with code](https://paperswithcode.com/paper/lemon-learning-3d-human-object-interaction)]
+
+- Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Living_Scenes_Multi-object_Relocalization_and_Reconstruction_in_Changing_3D_Environments_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.09138)] [[paper with code](https://paperswithcode.com/paper/living-scenes-multi-object-relocalization-and)]
+
+- Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.04819)] [[paper with code](https://paperswithcode.com/paper/joint-reconstruction-of-3d-human-and-object)] [[code](https://github.com/dqj5182/contho_release)]
+
+- InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360-degree Neural Radiance Fields [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_InNeRF360_Text-Guided_3D-Consistent_Object_Inpainting_on_360-degree_Neural_Radiance_Fields_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2305.15094)] [[paper with code](https://paperswithcode.com/paper/inpaintnerf360-text-guided-3d-inpainting-on)]
 
 
 ## ICLR-2024

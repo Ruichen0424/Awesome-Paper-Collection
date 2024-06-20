@@ -1,8 +1,7 @@
 # Awesome Hardware Paper Collection
 
-
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -48,6 +47,12 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html)]
 
 
 ## ICLR-2024

@@ -1,6 +1,7 @@
 # Awesome Video Denoising Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -30,10 +31,16 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.14497)] [[paper with code](https://paperswithcode.com/paper/mulde-multiscale-log-density-estimation-via)] [[code](https://github.com/jakubmicorek/MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection)]
+
+
 ## ICLR-2024
 
 
-- Boundary Denoising for Video Activity Localization [[paper](https://iclr.cc/virtual/2024/poster/18335)] [[arxiv](https://arxiv.org/abs/2304.02934)]
+- Boundary Denoising for Video Activity Localization [[paper](https://iclr.cc/virtual/2024/poster/18335)] [[arxiv](https://arxiv.org/abs/2304.02934)] [[openreview](https://openreview.net/forum?id=bLpUtGyf9g)]
 
 
 ## AAAI-2024

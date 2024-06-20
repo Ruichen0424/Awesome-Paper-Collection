@@ -1,6 +1,7 @@
 # Awesome Image Denoising Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -52,18 +53,42 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/unmixing-diffusion-for-self-supervised)]
+
+- Masked and Shuffled Blind Spot Denoising for Real-World Images [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chihaoui_Masked_and_Shuffled_Blind_Spot_Denoising_for_Real-World_Images_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.09389)] [[paper with code](https://paperswithcode.com/paper/masked-and-shuffled-blind-spot-denoising-for)]
+
+- LAN: Learning to Adapt Noise for Image Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_LAN_Learning_to_Adapt_Noise_for_Image_Denoising_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/lan-learning-to-adapt-noise-for-image)]
+
+- Transfer CLIP for Generalizable Image Denoising [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Transfer_CLIP_for_Generalizable_Image_Denoising_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.15132)] [[paper with code](https://paperswithcode.com/paper/transfer-clip-for-generalizable-image)]
+
+- ZERO-IG: Zero-Shot Illumination-Guided Joint Denoising and Adaptive Enhancement for Low-Light Images [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_ZERO-IG_Zero-Shot_Illumination-Guided_Joint_Denoising_and_Adaptive_Enhancement_for_Low-Light_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/zero-ig-zero-shot-illumination-guided-joint)] [[code](https://github.com/doyle59217/zeroig)]
+
+- Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Garber_Image_Restoration_by_Denoising_Diffusion_Models_with_Iteratively_Preconditioned_Guidance_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.16519)] [[paper with code](https://paperswithcode.com/paper/image-restoration-by-denoising-diffusion)] [[code](https://github.com/tirer-lab/ddpg)]
+
+- Robust Image Denoising through Adversarial Frequency Mixup [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/robust-image-denoising-through-adversarial)] [[code](https://github.com/dhryougit/afm)]
+
+- Real-World Mobile Image Denoising Dataset with Efficient Baselines [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Flepp_Real-World_Mobile_Image_Denoising_Dataset_with_Efficient_Baselines_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/real-world-mobile-image-denoising-dataset)] [[code](https://github.com/rflepp/efficient_mobile_denoising_models)]
+
+- GenesisTex: Adapting Image Denoising Diffusion to Texture Space [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gao_GenesisTex_Adapting_Image_Denoising_Diffusion_to_Texture_Space_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17782)] [[paper with code](https://paperswithcode.com/paper/genesistex-adapting-image-denoising-diffusion)]
+
+- Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Nam_Contrastive_Denoising_Score_for_Text-guided_Latent_Diffusion_Image_Editing_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.18608)] [[paper with code](https://paperswithcode.com/paper/contrastive-denoising-score-for-text-guided)]
+
+
 ## ICLR-2024
 
 
-- ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process [[paper](https://iclr.cc/virtual/2024/poster/18299)] [[arxiv](https://arxiv.org/abs/2306.05423)] [[paper with code](https://paperswithcode.com/paper/addp-learning-general-representations-for)]
+- ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process [[paper](https://iclr.cc/virtual/2024/poster/18299)] [[arxiv](https://arxiv.org/abs/2306.05423)] [[paper with code](https://paperswithcode.com/paper/addp-learning-general-representations-for)] [[code](https://github.com/changyaotian/addp)] [[openreview](https://openreview.net/forum?id=cMPm8YFXZe)]
 
-- Xformer: Hybrid X-Shaped Transformer for Image Denoising [[paper](https://iclr.cc/virtual/2024/poster/17532)] [[arxiv](https://arxiv.org/abs/2303.06440)] [[paper with code](https://paperswithcode.com/paper/xformer-hybrid-x-shaped-transformer-for-image)] [[code](https://github.com/gladzhang/xformer)]
+- Xformer: Hybrid X-Shaped Transformer for Image Denoising [[paper](https://iclr.cc/virtual/2024/poster/17532)] [[arxiv](https://arxiv.org/abs/2303.06440)] [[paper with code](https://paperswithcode.com/paper/xformer-hybrid-x-shaped-transformer-for-image)] [[code](https://github.com/gladzhang/xformer)] [[openreview](https://openreview.net/forum?id=vXrIQLzIKY)]
 
-- Denoising Diffusion via Image-Based Rendering [[paper](https://iclr.cc/virtual/2024/poster/19594)] [[arxiv](https://arxiv.org/abs/2402.03445)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-via-image-based-rendering)]
+- Denoising Diffusion via Image-Based Rendering [[paper](https://iclr.cc/virtual/2024/poster/19594)] [[arxiv](https://arxiv.org/abs/2402.03445)] [[paper with code](https://paperswithcode.com/paper/denoising-diffusion-via-image-based-rendering)] [[openreview](https://openreview.net/forum?id=1JbsdayvhO)]
 
-- Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[paper](https://iclr.cc/virtual/2024/poster/18564)] [[arxiv](https://arxiv.org/abs/2308.01316)] [[paper with code](https://paperswithcode.com/paper/patched-denoising-diffusion-models-for-high)] [[code](https://github.com/mlpc-ucsd/patch-dm)]
+- Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[paper](https://iclr.cc/virtual/2024/poster/18564)] [[arxiv](https://arxiv.org/abs/2308.01316)] [[paper with code](https://paperswithcode.com/paper/patched-denoising-diffusion-models-for-high)] [[code](https://github.com/mlpc-ucsd/patch-dm)] [[openreview](https://openreview.net/forum?id=TgSRPRz8cI)]
 
-- Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration [[paper](https://iclr.cc/virtual/2024/poster/21756)] [[arxiv](https://arxiv.org/abs/2303.11435)] [[paper with code](https://paperswithcode.com/paper/inversion-by-direct-iteration-an-alternative)] [[code](https://github.com/Nikolai10/Diffusion-TF)]
+- Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration [[paper](https://iclr.cc/virtual/2024/poster/21756)] [[arxiv](https://arxiv.org/abs/2303.11435)] [[paper with code](https://paperswithcode.com/paper/inversion-by-direct-iteration-an-alternative)] [[code](https://github.com/fpramunno/InDI-implementation)]
 
 
 ## AAAI-2024

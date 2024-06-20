@@ -1,6 +1,7 @@
 # Awesome Video-Super-Resolution Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -35,6 +36,20 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Enhancing Video Super-Resolution via Implicit Resampling-based Alignment [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Enhancing_Video_Super-Resolution_via_Implicit_Resampling-based_Alignment_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2305.00163)] [[paper with code](https://paperswithcode.com/paper/an-implicit-alignment-for-video-super)] [[code](https://github.com/kai422/iart)]
+
+- Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Learning_Spatial_Adaptation_and_Temporal_Coherence_in_Diffusion_Models_for_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17000)] [[paper with code](https://paperswithcode.com/paper/learning-spatial-adaptation-and-temporal)]
+
+- Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Video_Super-Resolution_Transformer_with_Masked_InterIntra-Frame_Attention_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.06312)] [[paper with code](https://paperswithcode.com/paper/video-super-resolution-transformer-with)] [[code](https://github.com/labshuhanggu/mia-vsr)]
+
+- FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Youk_FMA-Net_Flow-Guided_Dynamic_Filtering_and_Iterative_Feature_Refinement_with_Multi-Attention_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.03707)] [[paper with code](https://paperswithcode.com/paper/fma-net-flow-guided-dynamic-filtering-and)]
+
+- Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Upscale-A-Video_Temporal-Consistent_Diffusion_Model_for_Real-World_Video_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.06640)] [[paper with code](https://paperswithcode.com/paper/upscale-a-video-temporal-consistent-diffusion)]
 
 
 ## AAAI-2024

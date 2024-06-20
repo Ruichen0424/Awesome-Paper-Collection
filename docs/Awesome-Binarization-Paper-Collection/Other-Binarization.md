@@ -1,7 +1,7 @@
 # Awesome Other Binarization Paper Collection
 
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -70,10 +70,24 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.html)]
+
+- Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Franchi_Make_Me_a_BNN_A_Simple_Strategy_for_Estimating_Bayesian_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.15297)] [[paper with code](https://paperswithcode.com/paper/make-me-a-bnn-a-simple-strategy-for)]
+
+- Efficient Multitask Dense Predictor via Binarization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shang_Efficient_Multitask_Dense_Predictor_via_Binarization_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.14136)] [[paper with code](https://paperswithcode.com/paper/efficient-multitask-dense-predictor-via)]
+
+- HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_HiPose_Hierarchical_Binary_Surface_Encoding_and_Correspondence_Pruning_for_RGB-D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.12588)] [[paper with code](https://paperswithcode.com/paper/hipose-hierarchical-binary-surface-encoding)] [[code](https://github.com/lyltc1/hipose)]
+
+- Binarized Low-light Raw Video Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Binarized_Low-light_Raw_Video_Enhancement_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.19944)] [[paper with code](https://paperswithcode.com/paper/binarized-low-light-raw-video-enhancement)] [[code](https://github.com/ying-fu/brve)]
+
+- BiPer: Binary Neural Networks using a Periodic Function [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.01278)] [[paper with code](https://paperswithcode.com/paper/biper-binary-neural-networks-using-a-periodic)] [[code](https://github.com/edmav4/biper)]
+
+
 ## ICLR-2024
 
-
-- Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)] [[openreview](https://openreview.net/forum?id=lGUyAuuTYZ)]
 
 - Learning to reconstruct signals from binary measurements alone [[paper](https://iclr.cc/virtual/2024/poster/21758)]
 
@@ -81,13 +95,15 @@
 
 - PB-LLM: Partially Binarized Large Language Models [[paper](https://iclr.cc/virtual/2024/poster/19207)] [[arxiv](https://arxiv.org/abs/2310.00034)] [[paper with code](https://paperswithcode.com/paper/pb-llm-partially-binarized-large-language)] [[code](https://github.com/hahnyuan/pb-llm)] [[openreview](https://openreview.net/forum?id=BifeBRhikU)]
 
-- In-Context Learning Dynamics with Random Binary Sequences [[paper](https://iclr.cc/virtual/2024/poster/19405)] [[arxiv](https://arxiv.org/abs/2310.17639)] [[paper with code](https://paperswithcode.com/paper/in-context-learning-dynamics-with-random)] [[openreview](https://openreview.net/forum?id=62K7mALO2q)]
+- Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)] [[openreview](https://openreview.net/forum?id=lGUyAuuTYZ)]
 
-- NP-GL: Extending Power of Nature from Binary Problems to Real-World Graph Learning [[paper](https://iclr.cc/virtual/2024/poster/17731)]
+- In-Context Learning Dynamics with Random Binary Sequences [[paper](https://iclr.cc/virtual/2024/poster/19405)] [[arxiv](https://arxiv.org/abs/2310.17639)] [[paper with code](https://paperswithcode.com/paper/in-context-learning-dynamics-with-random)] [[code](https://github.com/ebigelow/icl-random-binary)] [[openreview](https://openreview.net/forum?id=62K7mALO2q)]
 
-- ArchLock: Locking DNN Transferability at the Architecture Level with a Zero-Cost Binary Predictor [[paper](https://iclr.cc/virtual/2024/poster/18234)] [[openreview](https://openreview.net/forum?id=e2YOVTenU9)]
+- Extending Power of Nature from Binary to Real-Valued Graph Learning in Real World [[paper](https://iclr.cc/virtual/2024/poster/17731)] [[openreview](https://openreview.net/forum?id=qT7DXUmX7j)]
 
 - BTR: Binary Token Representations for Efficient Retrieval Augmented Language Models [[paper](https://iclr.cc/virtual/2024/poster/19511)] [[arxiv](https://arxiv.org/abs/2310.01329)] [[paper with code](https://paperswithcode.com/paper/btr-binary-token-representations-for)] [[code](https://github.com/csarron/btr)] [[openreview](https://openreview.net/forum?id=3TO3TtnOFl)]
+
+- ArchLock: Locking DNN Transferability at the Architecture Level with a Zero-Cost Binary Predictor [[paper](https://iclr.cc/virtual/2024/poster/18234)] [[openreview](https://openreview.net/forum?id=e2YOVTenU9)]
 
 
 ## AAAI-2024

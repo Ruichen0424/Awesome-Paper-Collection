@@ -1,8 +1,7 @@
 # Awesome 3D Human Estimation Paper Collection
 
-
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -46,6 +45,24 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FinePOSE_Fine-Grained_Prompt-Driven_3D_Human_Pose_Estimation_via_Diffusion_Models_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.05216)] [[paper with code](https://paperswithcode.com/paper/finepose-fine-grained-prompt-driven-3d-human)] [[code](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)]
+
+- PoseIRM: Enhance 3D Human Pose Estimation on Unseen Camera Settings via Invariant Risk Minimization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cai_PoseIRM_Enhance_3D_Human_Pose_Estimation_on_Unseen_Camera_Settings_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/poseirm-enhance-3d-human-pose-estimation-on)]
+
+- FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_FreeMan_Towards_Benchmarking_3D_Human_Pose_Estimation_under_Real-World_Conditions_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2309.05073)] [[paper with code](https://paperswithcode.com/paper/freeman-towards-benchmarking-3d-human-pose)] [[code](https://github.com/wangjiongw/freeman_api)]
+
+- Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Hourglass_Tokenizer_for_Efficient_Transformer-Based_3D_Human_Pose_Estimation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.12028)] [[paper with code](https://paperswithcode.com/paper/hourglass-tokenizer-for-efficient-transformer)] [[code](https://github.com/nationalgailab/hot)]
+
+- Multiple View Geometry Transformers for 3D Human Pose Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liao_Multiple_View_Geometry_Transformers_for_3D_Human_Pose_Estimation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.10983)] [[paper with code](https://paperswithcode.com/paper/multiple-view-geometry-transformers-for-3d)]
+
+- KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_KTPFormer_Kinematics_and_Trajectory_Prior_Knowledge-Enhanced_Transformer_for_3D_Human_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00658)] [[paper with code](https://paperswithcode.com/paper/ktpformer-kinematics-and-trajectory-prior)] [[code](https://github.com/JihuaPeng/KTPFormer)]
+
+- A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_A_Dual-Augmentor_Framework_for_Domain_Generalization_in_3D_Human_Pose_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.11310)] [[paper with code](https://paperswithcode.com/paper/a-dual-augmentor-framework-for-domain)] [[code](https://github.com/davidpengucf/daf-dg)]
 
 
 ## AAAI-2024

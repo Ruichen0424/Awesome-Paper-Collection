@@ -1,6 +1,7 @@
 # Awesome Video Compression Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -40,6 +41,18 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Task-Aware Encoder Control for Deep Video Compression [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.04848)] [[paper with code](https://paperswithcode.com/paper/task-aware-encoder-control-for-deep-video)]
+
+- C3: High-Performance and Low-Complexity Neural Compression from a Single Image or Video [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.02753)] [[paper with code](https://paperswithcode.com/paper/c3-high-performance-and-low-complexity-neural)]
+
+- CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_CPGA_Coding_Priors-Guided_Aggregation_Network_for_Compressed_Video_Quality_Enhancement_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.10362)] [[paper with code](https://paperswithcode.com/paper/cpga-coding-priors-guided-aggregation-network)]
+
+- Neural Video Compression with Feature Modulation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Neural_Video_Compression_with_Feature_Modulation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.17414)] [[paper with code](https://paperswithcode.com/paper/neural-video-compression-with-feature)] [[code](https://github.com/microsoft/dcvc)]
 
 
 ## ICLR-2024

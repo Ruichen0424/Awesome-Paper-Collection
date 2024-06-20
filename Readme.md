@@ -92,6 +92,13 @@ Read online: [https://ruichen0424.github.io/Awesome-Paper-Collection/](https://r
 
 
 
+## Awesome Lifelong Paper Collection
+
+- [Lifelong](./docs/Awesome-Lifelong-Paper-Collection/Lifelong.md)
+
+
+
+
 ## Awesome Lightweight Paper Collection
 
 - [Lightweight Transformer](./docs/Awesome-Lightweight-Paper-Collection/Lightweight-Transformer.md)

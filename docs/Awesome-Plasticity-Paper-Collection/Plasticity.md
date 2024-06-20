@@ -1,7 +1,7 @@
 # Awesome Plasticity Paper Collection
 
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
 
 - [2023](#2023)
@@ -39,12 +39,18 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- Improving Plasticity in Online Continual Learning via Collaborative Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Improving_Plasticity_in_Online_Continual_Learning_via_Collaborative_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.00600)] [[paper with code](https://paperswithcode.com/paper/improving-plasticity-in-online-continual)] [[code](https://github.com/maorong-wang/ccl-dc)]
+
+
 ## ICLR-2024
 
 
 - Synaptic Weight Distributions Depend on the Geometry of Plasticity [[paper](https://iclr.cc/virtual/2024/poster/17469)] [[arxiv](https://arxiv.org/abs/2305.19394)] [[paper with code](https://paperswithcode.com/paper/synaptic-weight-distributions-depend-on-the)] [[code](https://github.com/romanpogodin/synaptic-weight-distr)] [[openreview](https://openreview.net/forum?id=x5txICnnjC)]
 
-- Addressing Catastrophic Forgetting and Loss of Plasticity in Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/17656)]
+- Addressing Loss of Plasticity and Catastrophic Forgetting in Continual Learning [[paper](https://iclr.cc/virtual/2024/poster/17656)] [[arxiv](https://arxiv.org/abs/2404.00781)] [[paper with code](https://paperswithcode.com/paper/addressing-loss-of-plasticity-and)] [[code](https://github.com/mohmdelsayed/upgd)] [[openreview](https://openreview.net/forum?id=sKPzAXoylB)]
 
 - Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[paper](https://iclr.cc/virtual/2024/poster/19614)] [[arxiv](https://arxiv.org/abs/2310.07418)] [[paper with code](https://paperswithcode.com/paper/revisiting-plasticity-in-visual-reinforcement)] [[code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)] [[openreview](https://openreview.net/forum?id=0aR1s9YxoL)]
 

@@ -1,8 +1,7 @@
 # Awesome Online Learning Paper Collection
 
-
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -68,6 +67,28 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/He_DYSON_Dynamic_Feature_Space_Self-Organization_for_Online_Task-Free_Class_Incremental_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/dyson-dynamic-feature-space-self-organization)] [[code](https://github.com/iscdx2/dyson)]
+
+- Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_Orchestrate_Latent_Expertise_Advancing_Online_Continual_Learning_with_Multi-Level_Supervision_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00417)] [[paper with code](https://paperswithcode.com/paper/orchestrate-latent-expertise-advancing-online)] [[code](https://github.com/anapplecore/mose)]
+
+- Improving Plasticity in Online Continual Learning via Collaborative Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Improving_Plasticity_in_Online_Continual_Learning_via_Collaborative_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.00600)] [[paper with code](https://paperswithcode.com/paper/improving-plasticity-in-online-continual)] [[code](https://github.com/maorong-wang/ccl-dc)]
+
+- Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Pan_Adaptive_VIO_Deep_Visual-Inertial_Odometry_with_Online_Continual_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.16754)]
+
+- Learning Equi-angular Representations for Online Continual Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Seo_Learning_Equi-angular_Representations_for_Online_Continual_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.01628)] [[paper with code](https://paperswithcode.com/paper/learning-equi-angular-representations-for)] [[code](https://github.com/yonseivnl/earl)]
+
+- MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_MGMap_Mask-Guided_Learning_for_Online_Vectorized_HD_Map_Construction_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00876)] [[paper with code](https://paperswithcode.com/paper/mgmap-mask-guided-learning-for-online)] [[code](https://github.com/xiaolul2/mgmap)]
+
+- Dual-Enhanced Coreset Selection with Class-wise Collaboration for Online Blurry Class Incremental Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_Dual-Enhanced_Coreset_Selection_with_Class-wise_Collaboration_for_Online_Blurry_Class_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/dual-enhanced-coreset-selection-with-class)]
+
+- Neural Modes: Self-supervised Learning of Nonlinear Modal Subspaces [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Neural_Modes_Self-supervised_Learning_of_Nonlinear_Modal_Subspaces_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.17620)] [[paper with code](https://paperswithcode.com/paper/neural-modes-self-supervised-learning-of)]
+
+- Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/online-task-free-continual-generative-and)] [[code](https://github.com/dtuzi123/dcm)]
+
+
 ## ICLR-2024
 
 
@@ -87,7 +108,7 @@
 
 - Improved Regret Bounds for Non-Convex Online-Within-Online Meta Learning [[paper](https://iclr.cc/virtual/2024/poster/17793)] [[openreview](https://openreview.net/forum?id=pA8Q5WiEMg)]
 
-- Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization [[paper](https://iclr.cc/virtual/2024/poster/17610)] [[arxiv](https://arxiv.org/abs/2311.03351)] [[paper with code](https://paperswithcode.com/paper/uni-o4-unifying-online-and-offline-deep)] [[openreview](https://openreview.net/forum?id=tbFBh3LMKi)]
+- Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization [[paper](https://iclr.cc/virtual/2024/poster/17610)] [[arxiv](https://arxiv.org/abs/2311.03351)] [[paper with code](https://paperswithcode.com/paper/uni-o4-unifying-online-and-offline-deep)] [[code](https://github.com/Lei-Kun/Uni-O4)] [[openreview](https://openreview.net/forum?id=tbFBh3LMKi)]
 
 
 ## AAAI-2024

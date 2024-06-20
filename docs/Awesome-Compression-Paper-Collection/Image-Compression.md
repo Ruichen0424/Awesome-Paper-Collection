@@ -1,6 +1,7 @@
 # Awesome Image Compression Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -52,10 +53,27 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- Look-Up Table Compression for Efficient Image Restoration [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Look-Up_Table_Compression_for_Efficient_Image_Restoration_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/look-up-table-compression-for-efficient-image)]
+
+- Learned Lossless Image Compression based on Bit Plane Slicing [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Learned_Lossless_Image_Compression_based_on_Bit_Plane_Slicing_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/learned-lossless-image-compression-based-on)] [[code](https://github.com/zz022/arib-bps)]
+
+- Enhancing Quality of Compressed Images by Mitigating Enhancement Bias Towards Compression Domain [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xing_Enhancing_Quality_of_Compressed_Images_by_Mitigating_Enhancement_Bias_Towards_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.17200)] [[paper with code](https://paperswithcode.com/paper/enhancing-quality-of-compressed-images-by)]
+
+- C3: High-Performance and Low-Complexity Neural Compression from a Single Image or Video [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.02753)] [[paper with code](https://paperswithcode.com/paper/c3-high-performance-and-low-complexity-neural)]
+
+- Towards Backward-Compatible Continual Learning of Image Compression [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Duan_Towards_Backward-Compatible_Continual_Learning_of_Image_Compression_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.18862)] [[paper with code](https://paperswithcode.com/paper/towards-backward-compatible-continual)] [[code](https://gitlab.com/viper-purdue/continual-compression)]
+
+- Generative Latent Coding for Ultra-Low Bitrate Image Compression [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/generative-latent-coding-for-ultra-low)]
+
+
+
 ## ICLR-2024
 
 
-- Towards image compression with perfect realism at ultra-low bitrates [[paper](https://iclr.cc/virtual/2024/poster/17959)] [[arxiv](https://arxiv.org/abs/2310.10325)] [[paper with code](https://paperswithcode.com/paper/towards-image-compression-with-perfect)] [[openreview](https://openreview.net/forum?id=ktdETU9JBg)]
+- Towards image compression with perfect realism at ultra-low bitrates [[paper](https://iclr.cc/virtual/2024/poster/17959)] [[arxiv](https://arxiv.org/abs/2310.10325)] [[paper with code](https://paperswithcode.com/paper/towards-image-compression-with-perfect)] [[code](https://github.com/Nikolai10/PerCo)] [[openreview](https://openreview.net/forum?id=ktdETU9JBg)]
 
 - Frequency-Aware Transformer for Learned Image Compression [[paper](https://iclr.cc/virtual/2024/poster/18998)] [[arxiv](https://arxiv.org/abs/2310.16387)]
 

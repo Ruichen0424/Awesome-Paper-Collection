@@ -2,6 +2,7 @@
 This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com/AXYZdong/awesome-snn-conference-paper).
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -60,38 +61,56 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 # 2024
 
 
+## CVPR-2024
+
+
+- Towards HDR and HFR Video from Rolling-Mixed-Bit Spikings [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chang_Towards_HDR_and_HFR_Video_from_Rolling-Mixed-Bit_Spikings_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/towards-hdr-and-hfr-video-from-rolling-mixed)]
+
+- Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Spike-guided_Motion_Deblurring_with_Unknown_Modal_Spatiotemporal_Alignment_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/spike-guided-motion-deblurring-with-unknown)] [[code](https://github.com/leozhangjiyuan/uasdn)]
+
+- SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SpikeNeRF_Learning_Neural_Radiance_Fields_from_Continuous_Spike_Stream_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.11222)] [[paper with code](https://paperswithcode.com/paper/spikenerf-learning-neural-radiance-fields)] [[code](https://github.com/bit-vision/spikenerf)]
+
+- Super-Resolution Reconstruction from Bayer-Pattern Spike Streams [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Dong_Super-Resolution_Reconstruction_from_Bayer-Pattern_Spike_Streams_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/super-resolution-reconstruction-from-bayer)]
+
+- SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_SpikingResformer_Bridging_ResNet_and_Vision_Transformer_in_Spiking_Neural_Networks_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.14302)] [[paper with code](https://paperswithcode.com/paper/spikingresformer-bridging-resnet-and-vision)] [[code](https://github.com/xyshi2000/spikingresformer)]
+
+- SFOD: Spiking Fusion Object Detector [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_SFOD_Spiking_Fusion_Object_Detector_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.15192)] [[paper with code](https://paperswithcode.com/paper/sfod-spiking-fusion-object-detector)] [[code](https://github.com/yimeng-fan/SFOD)]
+
+- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/are-conventional-snns-really-efficient-a)]
+
+
 ## ICLR-2024
 
-
-- Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)] [[openreview](https://openreview.net/forum?id=lGUyAuuTYZ)]
-
-- LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units [[paper](https://iclr.cc/virtual/2024/poster/17828)] [[arxiv](https://arxiv.org/abs/2402.04882)] [[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] [[code](https://github.com/zeyuliu1037/lmuformer)] [[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
 
 - Threaten Spiking Neural Networks through Combining Rate and Temporal Information [[paper](https://iclr.cc/virtual/2024/poster/17437)] [[openreview](https://openreview.net/forum?id=xv8iGxENyI)]
 
 - TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/17995)] [[openreview](https://openreview.net/forum?id=k1wlmtPGLq)]
 
-- Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/19423)] [[openreview](https://openreview.net/forum?id=5bNYf0CqxY)]
+- Bayesian Bi-clustering of Neural Spiking Activity with Latent Structures [[paper](https://iclr.cc/virtual/2024/poster/18391)] [[arxiv](https://arxiv.org/abs/2309.02213)] [[openreview](https://openreview.net/forum?id=ZYm1Ql6udy)]
 
 - Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN [[paper](https://iclr.cc/virtual/2024/poster/19606)] [[arxiv](https://arxiv.org/abs/2403.03409)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-neural-network-exploiting)] [[openreview](https://openreview.net/forum?id=0jsfesDZDq)]
 
-- Bayesian Bi-clustering of Neural Spiking Activity with Latent Structures [[paper](https://iclr.cc/virtual/2024/poster/18391)] [[arxiv](https://arxiv.org/abs/2309.02213)] [[openreview](https://openreview.net/forum?id=ZYm1Ql6udy)]
-
-- Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers [[paper](https://iclr.cc/virtual/2024/poster/18442)] [[openreview](https://openreview.net/forum?id=XrunSYwoLr)]
-
-- Adaptive deep spiking neural network with global-local learning via balanced excitatory and inhibitory mechanism [[paper](https://iclr.cc/virtual/2024/poster/17478)] [[openreview](https://openreview.net/forum?id=wpnlc2ONu0)]
+- Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/19423)] [[openreview](https://openreview.net/forum?id=5bNYf0CqxY)]
 
 - Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings [[paper](https://iclr.cc/virtual/2024/poster/19447)] [[arxiv](https://arxiv.org/abs/2306.17670)] [[paper with code](https://paperswithcode.com/paper/learning-delays-in-spiking-neural-networks)] [[code](https://github.com/thvnvtos/snn-delays)] [[openreview](https://openreview.net/forum?id=4r2ybzJnmN)]
 
+- Adaptive deep spiking neural network with global-local learning via balanced excitatory and inhibitory mechanism [[paper](https://iclr.cc/virtual/2024/poster/17478)] [[openreview](https://openreview.net/forum?id=wpnlc2ONu0)]
+
+- Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers [[paper](https://iclr.cc/virtual/2024/poster/18442)] [[openreview](https://openreview.net/forum?id=XrunSYwoLr)]
+
 - Online Stabilization of Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/19180)] [[openreview](https://openreview.net/forum?id=CIj1CVbkpr)]
 
-- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[paper](https://iclr.cc/virtual/2024/poster/19587)] [[openreview](https://openreview.net/forum?id=1SIBN5Xyw7)]
+- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[paper](https://iclr.cc/virtual/2024/poster/19587)] [[arxiv](https://arxiv.org/abs/2404.03663)] [[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-v2-meta-spiking)] [[code](https://github.com/biclab/spike-driven-transformer-v2)] [[openreview](https://openreview.net/forum?id=1SIBN5Xyw7)]
 
-- A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model [[paper](https://iclr.cc/virtual/2024/poster/18160)] [[openreview](https://openreview.net/forum?id=g52tgL8jy6)]
+- LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units [[paper](https://iclr.cc/virtual/2024/poster/17828)] [[arxiv](https://arxiv.org/abs/2402.04882)] [[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] [[code](https://github.com/zeyuliu1037/lmuformer)] [[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
 
 - Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework [[paper](https://iclr.cc/virtual/2024/poster/18207)] [[openreview](https://openreview.net/forum?id=eoSeaK4QJo)]
 
+- A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model [[paper](https://iclr.cc/virtual/2024/poster/18160)] [[openreview](https://openreview.net/forum?id=g52tgL8jy6)]
+
 - Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/18815)] [[arxiv](https://arxiv.org/abs/2402.11984)] [[paper with code](https://paperswithcode.com/paper/hebbian-learning-based-orthogonal-projection)] [[code](https://github.com/pkuxmq/hlop-snn)] [[openreview](https://openreview.net/forum?id=MeB86edZ1P)]
+
+- Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)] [[openreview](https://openreview.net/forum?id=lGUyAuuTYZ)]
 
 - A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/18850)] [[arxiv](https://arxiv.org/abs/2305.19306)] [[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] [[code](https://github.com/edisonleeeee/spikegcl)] [[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
 

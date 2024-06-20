@@ -1,6 +1,7 @@
 # Awesome Image-Super-Resolution Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -48,6 +49,44 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Continuous Optical Zooming: A Benchmark for Arbitrary-Scale Image Super-Resolution in Real World [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fu_Continuous_Optical_Zooming_A_Benchmark_for_Arbitrary-Scale_Image_Super-Resolution_in_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/continuous-optical-zooming-a-benchmark-for)] [[code](https://github.com/pf0607/coz)]
+
+- A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_A_Dynamic_Kernel_Prior_Model_for_Unsupervised_Blind_Image_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.15620)] [[paper with code](https://paperswithcode.com/paper/a-dynamic-kernel-prior-model-for-unsupervised)] [[code](https://github.com/XYLGroup/DKP)]
+
+- SinSR: Diffusion-Based Image Super-Resolution in a Single Step [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_SinSR_Diffusion-Based_Image_Super-Resolution_in_a_Single_Step_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.14760)] [[paper with code](https://paperswithcode.com/paper/sinsr-diffusion-based-image-super-resolution)] [[code](https://github.com/wyf0912/sinsr)]
+
+- Text-guided Explorable Image Super-resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gandikota_Text-guided_Explorable_Image_Super-resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.01124)] [[paper with code](https://paperswithcode.com/paper/text-guided-explorable-image-super-resolution)]
+
+- Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_Beyond_Image_Super-Resolution_for_Image_Recognition_with_Task-Driven_Perceptual_Loss_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.01692)] [[paper with code](https://paperswithcode.com/paper/beyond-image-super-resolution-for-image)] [[code](https://github.com/jaehakim97/sr4ir)]
+
+- Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Korkmaz_Training_Generative_Image_Super-Resolution_Models_by_Wavelet-Domain_Losses_Enables_Better_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.19215)] [[paper with code](https://paperswithcode.com/paper/training-generative-image-super-resolution)] [[code](https://github.com/mandalinadagi/wgsr)]
+
+- Learning Coupled Dictionaries from Unpaired Data for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Learning_Coupled_Dictionaries_from_Unpaired_Data_for_Image_Super-Resolution_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/learning-coupled-dictionaries-from-unpaired)]
+
+- SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_SeeSR_Towards_Semantics-Aware_Real-World_Image_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16518)] [[paper with code](https://paperswithcode.com/paper/seesr-towards-semantics-aware-real-world)] [[code](https://github.com/cswry/seesr)]
+
+- Diffusion-based Blind Text Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Diffusion-based_Blind_Text_Image_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.08886)] [[paper with code](https://paperswithcode.com/paper/diffusion-based-blind-text-image-super)]
+
+- SeD: Semantic-Aware Discriminator for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_SeD_Semantic-Aware_Discriminator_for_Image_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.19387)] [[paper with code](https://paperswithcode.com/paper/sed-semantic-aware-discriminator-for-image)] [[code](https://github.com/lbc12345/sed)]
+
+- CDFormer: When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_CDFormer_When_Degradation_Prediction_Embraces_Diffusion_Model_for_Blind_Image_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/cdformer-when-degradation-prediction-embraces-1)] [[code](https://github.com/i2-multimedia-lab/cdformer)]
+
+- Image Processing GNN: Breaking Rigidity in Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tian_Image_Processing_GNN_Breaking_Rigidity_in_Super-Resolution_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/image-processing-gnn-breaking-rigidity-in)] [[code](https://github.com/huawei-noah/Efficient-Computing)]
+
+- CoSeR: Bridging Image and Language for Cognitive Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_CoSeR_Bridging_Image_and_Language_for_Cognitive_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16512)] [[paper with code](https://paperswithcode.com/paper/coser-bridging-image-and-language-for)] [[code](https://github.com/vinhyu/coser)]
+
+- AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_AdaBM_On-the-Fly_Adaptive_Bit_Mapping_for_Image_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.03296)] [[paper with code](https://paperswithcode.com/paper/adabm-on-the-fly-adaptive-bit-mapping-for)] [[code](https://github.com/Cheeun/AdaBM)]
+
+- CFAT: Unleashing Triangular Windows for Image Super-resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ray_CFAT_Unleashing_Triangular_Windows_for_Image_Super-resolution_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/cfat-unleashing-triangular-windows-for-image)] [[code](https://github.com/rayabhisek123/cfat)]
+
+- Learning Large-Factor EM Image Super-Resolution with Generative Priors [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shou_Learning_Large-Factor_EM_Image_Super-Resolution_with_Generative_Priors_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/learning-large-factor-em-image-super)] [[code](https://github.com/jtshou/gpemsr)]
+
+- Uncertainty-Aware Source-Free Adaptive Image Super-Resolution with Wavelet Augmentation Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ai_Uncertainty-Aware_Source-Free_Adaptive_Image_Super-Resolution_with_Wavelet_Augmentation_Transformer_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2303.17783)] [[paper with code](https://paperswithcode.com/paper/sosr-source-free-image-super-resolution-with)]
 
 
 ## ICLR-2024

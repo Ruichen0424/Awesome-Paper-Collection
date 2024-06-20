@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -56,10 +57,28 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Mocap_Everyone_Everywhere_Lightweight_Motion_Capture_With_Smartwatches_and_a_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.00847)] [[paper with code](https://paperswithcode.com/paper/mocap-everyone-everywhere-lightweight-motion)]
+
+- LightOctree: Lightweight 3D Spatially-Coherent Indoor Lighting Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_LightOctree_Lightweight_3D_Spatially-Coherent_Indoor_Lighting_Estimation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.03925)] [[paper with code](https://paperswithcode.com/paper/lightoctree-lightweight-3d-spatially-coherent)]
+
+- LTM: Lightweight Textured Mesh Extraction and Refinement of Large Unbounded Scenes for Efficient Storage and Real-time Rendering [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_LTM_Lightweight_Textured_Mesh_Extraction_and_Refinement_of_Large_Unbounded_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/ltm-lightweight-textured-mesh-extraction-and)]
+
+- SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_SchurVINS_Schur_Complement-Based_Lightweight_Visual_Inertial_Navigation_System_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.01616)] [[paper with code](https://paperswithcode.com/paper/schurvins-schur-complement-based-lightweight)] [[code](https://github.com/bytedance/schurvins)]
+
+- XFeat: Accelerated Features for Lightweight Image Matching [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Potje_XFeat_Accelerated_Features_for_Lightweight_Image_Matching_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.19174)] [[paper with code](https://paperswithcode.com/paper/xfeat-accelerated-features-for-lightweight)]
+
+- CaKDP: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_CaKDP_Category-aware_Knowledge_Distillation_and_Pruning_Framework_for_Lightweight_3D_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/cakdp-category-aware-knowledge-distillation)] [[code](https://github.com/zhnxjtu/cakdp)]
+
+
 ## ICLR-2024
 
 
-- Lightweight Language Model Calibration for Open-ended Question Answering with Varied Answer Lengths [[paper](https://iclr.cc/virtual/2024/poster/18033)]
+- LitCab: Lightweight Language Model Calibration over Short- and Long-form Responses [[paper](https://iclr.cc/virtual/2024/poster/18033)] [[arxiv](https://arxiv.org/abs/2310.19208)] [[paper with code](https://paperswithcode.com/paper/litcab-lightweight-calibration-of-language)] [[code](https://github.com/launchnlp/litcab)] [[openreview](https://openreview.net/forum?id=jH67LHVOIO)]
+
+- Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Lightweight Optimizer and Small-scale Training Dataset [[paper](https://iclr.cc/virtual/2024/poster/19536)] [[openreview](https://openreview.net/forum?id=2oWRumm67L)]
 
 - A Lightweight Method for Tackling Unknown Participation Statistics in Federated Averaging [[paper](https://iclr.cc/virtual/2024/poster/18403)] [[arxiv](https://arxiv.org/abs/2306.03401)] [[paper with code](https://paperswithcode.com/paper/a-lightweight-method-for-tackling-unknown)] [[openreview](https://openreview.net/forum?id=ZKEuFKfCKA)]
 

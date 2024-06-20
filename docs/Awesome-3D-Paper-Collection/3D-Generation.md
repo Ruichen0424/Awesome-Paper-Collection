@@ -1,6 +1,7 @@
 # Awesome 3D Generation Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -46,6 +47,112 @@
 # 2024
 
 
+## CVPR-2024
+
+
+- TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ren_TIGER_Time-Varying_Denoising_Model_for_3D_Point_Cloud_Generation_with_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/tiger-time-varying-denoising-model-for-3d)]
+
+- Learning Continuous 3D Words for Text-to-Image Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Learning_Continuous_3D_Words_for_Text-to-Image_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.08654)] [[paper with code](https://paperswithcode.com/paper/learning-continuous-3d-words-for-text-to)]
+
+- HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_HumanGaussian_Text-Driven_3D_Human_Generation_with_Gaussian_Splatting_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17061)] [[paper with code](https://paperswithcode.com/paper/humangaussian-text-driven-3d-human-generation)]
+
+- Interactive3D: Create What You Want by Interactive 3D Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Dong_Interactive3D_Create_What_You_Want_by_Interactive_3D_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.16510)] [[paper with code](https://paperswithcode.com/paper/interactive3d-create-what-you-want-by)]
+
+- BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_BerfScene_Bev-conditioned_Equivariant_Radiance_Fields_for_Infinite_3D_Scene_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.02136)] [[paper with code](https://paperswithcode.com/paper/berfscene-bev-conditioned-equivariant)]
+
+- DiffInDScene: Diffusion-based High-Quality 3D Indoor Scene Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ju_DiffInDScene_Diffusion-based_High-Quality_3D_Indoor_Scene_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2306.00519)] [[paper with code](https://paperswithcode.com/paper/diffroom-diffusion-based-high-quality-3d-room)] [[code](https://github.com/akirahero/diffindscene)]
+
+- Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00562)] [[paper with code](https://paperswithcode.com/paper/text2hoi-text-guided-3d-motion-generation-for)] [[code](https://github.com/junukcha/text2hoi)]
+
+- Design2Cloth: 3D Cloth Generation from 2D Masks [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_Design2Cloth_3D_Cloth_Generation_from_2D_Masks_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.02686)] [[paper with code](https://paperswithcode.com/paper/design2cloth-3d-cloth-generation-from-2d)]
+
+- ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hollein_ViewDiff_3D-Consistent_Image_Generation_with_Text-to-Image_Models_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.01807)] [[paper with code](https://paperswithcode.com/paper/viewdiff-3d-consistent-image-generation-with)] [[code](https://github.com/facebookresearch/viewdiff)]
+
+- CAD: Photorealistic 3D Generation via Adversarial Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wan_CAD_Photorealistic_3D_Generation_via_Adversarial_Distillation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.06663)] [[paper with code](https://paperswithcode.com/paper/cad-photorealistic-3d-generation-via)]
+
+- AttriHuman-3D: Editable 3D Human Avatar Generation with Attribute Decomposition and Indexing [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_AttriHuman-3D_Editable_3D_Human_Avatar_Generation_with_Attribute_Decomposition_and_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.02209)] [[paper with code](https://paperswithcode.com/paper/attrihuman-3d-editable-3d-human-avatar)]
+
+- 3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_3D-SceneDreamer_Text-Driven_3D-Consistent_Scene_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.09439)] [[paper with code](https://paperswithcode.com/paper/3d-scenedreamer-text-driven-3d-consistent)]
+
+- Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Sherpa3D_Boosting_High-Fidelity_Text-to-3D_Generation_via_Coarse_3D_Prior_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.06655)] [[paper with code](https://paperswithcode.com/paper/sherpa3d-boosting-high-fidelity-text-to-3d)] [[code](https://github.com/liuff19/Sherpa3D)]
+
+- DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_DreamPropeller_Supercharge_Text-to-3D_Generation_with_Parallel_Sampling_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17082)] [[paper with code](https://paperswithcode.com/paper/dreampropeller-supercharge-text-to-3d)] [[code](https://github.com/alexzhou907/dreampropeller)]
+
+- One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_One-2-3-45_Fast_Single_Image_to_3D_Objects_with_Consistent_Multi-View_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.07885)] [[paper with code](https://paperswithcode.com/paper/one-2-3-45-fast-single-image-to-3d-objects)]
+
+- MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_MVD-Fusion_Single-view_3D_via_Depth-consistent_Multi-view_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.03656)] [[paper with code](https://paperswithcode.com/paper/mvd-fusion-single-view-3d-via-depth)]
+
+- Holodeck: Language Guided Generation of 3D Embodied AI Environments [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.09067)] [[paper with code](https://paperswithcode.com/paper/holodeck-language-guided-generation-of-3d)] [[code](https://github.com/allenai/Holodeck)]
+
+- Joint2Human: High-Quality 3D Human Generation via Compact Spherical Embedding of 3D Joints [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Joint2Human_High-Quality_3D_Human_Generation_via_Compact_Spherical_Embedding_of_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.08591)] [[paper with code](https://paperswithcode.com/paper/joint2human-high-quality-3d-human-generation)]
+
+- MPOD123: One Image to 3D Content Generation Using Mask-enhanced Progressive Outline-to-Detail Optimization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_MPOD123_One_Image_to_3D_Content_Generation_Using_Mask-enhanced_Progressive_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/mpod123-one-image-to-3d-content-generation)]
+
+- Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Consistent3D_Towards_Consistent_High-Fidelity_Text-to-3D_Generation_with_Deterministic_Sampling_Prior_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.09050)] [[paper with code](https://paperswithcode.com/paper/consistent3d-towards-consistent-high-fidelity)] [[code](https://github.com/sail-sg/consistent3d)]
+
+- DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_DiffSHEG_A_Diffusion-Based_Approach_for_Real-Time_Speech-driven_Holistic_3D_Expression_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.04747)] [[paper with code](https://paperswithcode.com/paper/diffsheg-a-diffusion-based-approach-for-real)]
+
+- DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_DIRECT-3D_Learning_Direct_Text-to-3D_Generation_on_Massive_Noisy_3D_Data_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2406.04322)] [[paper with code](https://paperswithcode.com/paper/direct-3d-learning-direct-text-to-3d)] [[code](https://github.com/qihao067/direct3d)]
+
+- Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_Text-to-3D_Generation_with_Bidirectional_Diffusion_using_both_2D_and_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.04963)] [[paper with code](https://paperswithcode.com/paper/text-to-3d-generation-with-bidirectional)]
+
+- CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_CLIP-Driven_Open-Vocabulary_3D_Scene_Graph_Generation_via_Cross-Modality_Contrastive_Learning_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/clip-driven-open-vocabulary-3d-scene-graph)]
+
+- DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaptation by Combining 3D GANs and Diffusion Priors [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lei_DiffusionGAN3D_Boosting_Text-guided_3D_Generation_and_Domain_Adaptation_by_Combining_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.16837)] [[paper with code](https://paperswithcode.com/paper/diffusiongan3d-boosting-text-guided-3d)]
+
+- Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Sculpt3D_Multi-View_Consistent_Text-to-3D_Generation_with_Sparse_3D_Prior_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.09140)] [[paper with code](https://paperswithcode.com/paper/sculpt3d-multi-view-consistent-text-to-3d)]
+
+- PI3D: Efficient Text-to-3D Generation with Pseudo-Image Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_PI3D_Efficient_Text-to-3D_Generation_with_Pseudo-Image_Diffusion_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.09069)] [[paper with code](https://paperswithcode.com/paper/pi3d-efficient-text-to-3d-generation-with)]
+
+- DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_DreamAvatar_Text-and-Shape_Guided_3D_Human_Avatar_Generation_via_Diffusion_Models_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2304.00916)] [[paper with code](https://paperswithcode.com/paper/dreamavatar-text-and-shape-guided-3d-human)] [[code](https://github.com/threestudio-project/threestudio)]
+
+- GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yi_GaussianDreamer_Fast_Generation_from_Text_to_3D_Gaussians_by_Bridging_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.08529)] [[paper with code](https://paperswithcode.com/paper/gaussiandreamer-fast-generation-from-text-to)] [[code](https://github.com/hustvl/GaussianDreamer)]
+
+- DreamComposer: Controllable 3D Object Generation via Multi-View Conditions [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_DreamComposer_Controllable_3D_Object_Generation_via_Multi-View_Conditions_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.03611)] [[paper with code](https://paperswithcode.com/paper/dreamcomposer-controllable-3d-object)]
+
+- VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_VP3D_Unleashing_2D_Visual_Prompt_for_Text-to-3D_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.17001)] [[paper with code](https://paperswithcode.com/paper/vp3d-unleashing-2d-visual-prompt-for-text-to)]
+
+- GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_GPT-4Vision_is_a_Human-Aligned_Evaluator_for_Text-to-3D_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.04092)] [[paper with code](https://paperswithcode.com/paper/gpt-4v-ision-is-a-human-aligned-evaluator-for)] [[code](https://github.com/3DTopia/GPTEval3D)]
+
+- Gaussian Shell Maps for Efficient 3D Human Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Abdal_Gaussian_Shell_Maps_for_Efficient_3D_Human_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17857)] [[paper with code](https://paperswithcode.com/paper/gaussian-shell-maps-for-efficient-3d-human)]
+
+- HumanRef: Single Image to 3D Human Generation via Reference-Guided Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_HumanRef_Single_Image_to_3D_Human_Generation_via_Reference-Guided_Diffusion_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16961)] [[paper with code](https://paperswithcode.com/paper/humanref-single-image-to-3d-human-generation)]
+
+- POPDG: Popular 3D Dance Generation with PopDanceSet [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_POPDG_Popular_3D_Dance_Generation_with_PopDanceSet_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2405.03178)] [[paper with code](https://paperswithcode.com/paper/popdg-popular-3d-dance-generation-with)] [[code](https://github.com/luke-luo1/popdg)]
+
+- ControlRoom3D: Room Generation using Semantic Proxy Rooms [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Schult_ControlRoom3D_Room_Generation_using_Semantic_Proxy_Rooms_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.05208)] [[paper with code](https://paperswithcode.com/paper/controlroom3d-room-generation-using-semantic)]
+
+- HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_HumanNorm_Learning_Normal_Diffusion_Model_for_High-quality_and_Realistic_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.01406)] [[paper with code](https://paperswithcode.com/paper/humannorm-learning-normal-diffusion-model-for)]
+
+- Taming Mode Collapse in Score Distillation for Text-to-3D Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Taming_Mode_Collapse_in_Score_Distillation_for_Text-to-3D_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.00909)] [[paper with code](https://paperswithcode.com/paper/taming-mode-collapse-in-score-distillation)]
+
+- Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_Direct2.5_Diverse_Text-to-3D_Generation_via_Multi-view_2.5D_Diffusion_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.15980)] [[paper with code](https://paperswithcode.com/paper/direct2-5-diverse-text-to-3d-generation-via)]
+
+- Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Schroppel_Neural_Point_Cloud_Diffusion_for_Disentangled_3D_Shape_and_Appearance_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.14124)] [[paper with code](https://paperswithcode.com/paper/neural-point-cloud-diffusion-for-disentangled)] [[code](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)]
+
+- GenZI: Zero-Shot 3D Human-Scene Interaction Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_GenZI_Zero-Shot_3D_Human-Scene_Interaction_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17737)] [[paper with code](https://paperswithcode.com/paper/genzi-zero-shot-3d-human-scene-interaction)]
+
+- CG-HOI: Contact-Guided 3D Human-Object Interaction Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Diller_CG-HOI_Contact-Guided_3D_Human-Object_Interaction_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.16097)] [[paper with code](https://paperswithcode.com/paper/cg-hoi-contact-guided-3d-human-object)]
+
+- Rapid 3D Model Generation with Intuitive 3D Input [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Rapid_3D_Model_Generation_with_Intuitive_3D_Input_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/rapid-3d-model-generation-with-intuitive-3d)]
+
+- LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_LucidDreamer_Towards_High-Fidelity_Text-to-3D_Generation_via_Interval_Score_Matching_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.11284)] [[paper with code](https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d)] [[code](https://github.com/envision-research/luciddreamer)]
+
+- HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Leng_HyperSDFusion_Bridging_Hierarchical_Structures_in_Language_and_Geometry_for_Enhanced_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.00372)] [[paper with code](https://paperswithcode.com/paper/hypersdfusion-bridging-hierarchical)]
+
+- Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Sat2Scene_3D_Urban_Scene_Generation_from_Satellite_Images_with_Diffusion_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.10786)] [[paper with code](https://paperswithcode.com/paper/sat2scene-3d-urban-scene-generation-from)]
+
+- Text-Guided 3D Face Synthesis - From Generation to Editing [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Text-Guided_3D_Face_Synthesis_-_From_Generation_to_Editing_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.00375)] [[paper with code](https://paperswithcode.com/paper/text-guided-3d-face-synthesis-from-generation-1)]
+
+- MAS: Multi-view Ancestral Sampling for 3D Motion Generation Using 2D Diffusion [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kapon_MAS_Multi-view_Ancestral_Sampling_for_3D_Motion_Generation_Using_2D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2310.14729)] [[paper with code](https://paperswithcode.com/paper/mas-multi-view-ancestral-sampling-for-3d)]
+
+- Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_Weakly-Supervised_Emotion_Transition_Learning_for_Diverse_3D_Co-speech_Gesture_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.17532)] [[paper with code](https://paperswithcode.com/paper/weakly-supervised-emotion-transition-learning)]
+
+- DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_DreamControl_Control-Based_Text-to-3D_Generation_with_3D_Self-Prior_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.06439)] [[paper with code](https://paperswithcode.com/paper/dreamcontrol-control-based-text-to-3d)] [[code](https://github.com/tyhuang0428/dreamcontrol)]
+
+- Diffusion Time-step Curriculum for One Image to 3D Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yi_Diffusion_Time-step_Curriculum_for_One_Image_to_3D_Generation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.04562)] [[paper with code](https://paperswithcode.com/paper/diffusion-time-step-curriculum-for-one-image)] [[code](https://github.com/yxymessi/dtc123)]
+
+
 ## ICLR-2024
 
 
@@ -53,19 +160,21 @@
 
 - Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/17951)] [[arxiv](https://arxiv.org/abs/2309.17296)] [[paper with code](https://paperswithcode.com/paper/navigating-the-design-space-of-equivariant)] [[openreview](https://openreview.net/forum?id=kzGuiRXZrQ)]
 
-- TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields [[paper](https://iclr.cc/virtual/2024/poster/18478)] [[arxiv](https://arxiv.org/abs/2309.17175)] [[paper with code](https://paperswithcode.com/paper/textfield3d-towards-enhancing-open-vocabulary)] [[openreview](https://openreview.net/forum?id=WOiOzHG2zD)]
-
-- Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18459)] [[openreview](https://openreview.net/forum?id=X41c4uB4k0)]
-
 - Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping [[paper](https://iclr.cc/virtual/2024/poster/17566)] [[arxiv](https://arxiv.org/abs/2310.12474)] [[paper with code](https://paperswithcode.com/paper/enhancing-high-resolution-3d-generation)] [[code](https://github.com/fudan-zvg/pgc-3d)] [[openreview](https://openreview.net/forum?id=ukidfml68f)]
 
-- MVDream: Multi-view Diffusion for 3D Generation [[paper](https://iclr.cc/virtual/2024/poster/19063)] [[arxiv](https://arxiv.org/abs/2308.16512)] [[paper with code](https://paperswithcode.com/paper/mvdream-multi-view-diffusion-for-3d)] [[code](https://github.com/bytedance/mvdream)]
+- TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields [[paper](https://iclr.cc/virtual/2024/poster/18478)] [[arxiv](https://arxiv.org/abs/2309.17175)] [[paper with code](https://paperswithcode.com/paper/textfield3d-towards-enhancing-open-vocabulary)] [[openreview](https://openreview.net/forum?id=WOiOzHG2zD)]
 
 - Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation [[paper](https://iclr.cc/virtual/2024/poster/18523)] [[arxiv](https://arxiv.org/abs/2303.07937)] [[paper with code](https://paperswithcode.com/paper/let-2d-diffusion-model-know-3d-consistency)] [[code](https://github.com/KU-CVLAB/3DFuse)] [[openreview](https://openreview.net/forum?id=UbxWjq0UO2)]
 
+- Training-free Multi-objective Diffusion Model for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18459)] [[openreview](https://openreview.net/forum?id=X41c4uB4k0)]
+
+- MVDream: Multi-view Diffusion for 3D Generation [[paper](https://iclr.cc/virtual/2024/poster/19063)] [[arxiv](https://arxiv.org/abs/2308.16512)] [[paper with code](https://paperswithcode.com/paper/mvdream-multi-view-diffusion-for-3d)] [[code](https://github.com/bytedance/mvdream)]
+
+- DreamTime: An Improved Optimization Strategy for Diffusion-Guided 3D Generation [[paper](https://iclr.cc/virtual/2024/poster/19581)] [[arxiv](https://arxiv.org/abs/2306.12422)] [[paper with code](https://paperswithcode.com/paper/dreamtime-an-improved-optimization-strategy)] [[openreview](https://openreview.net/forum?id=1bAUywYJTU)]
+
 - Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors [[paper](https://iclr.cc/virtual/2024/poster/19607)] [[arxiv](https://arxiv.org/abs/2306.17843)] [[paper with code](https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object)] [[code](https://github.com/guochengqian/magic123)] [[openreview](https://openreview.net/forum?id=0jHkUDyEO9)]
 
-- DreamTime: An Improved Optimization Strategy for Diffusion-Guided 3D Generation [[paper](https://iclr.cc/virtual/2024/poster/19581)] [[openreview](https://openreview.net/forum?id=1bAUywYJTU)]
+- Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation [[paper](https://iclr.cc/virtual/2024/poster/18833)] [[openreview](https://openreview.net/forum?id=MIEnYtlGyv)]
 
 - HIFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance [[paper](https://iclr.cc/virtual/2024/poster/18961)] [[arxiv](https://arxiv.org/abs/2305.18766)] [[paper with code](https://paperswithcode.com/paper/hifa-high-fidelity-text-to-3d-with-advanced)] [[code](https://github.com/JunzheJosephZhu/HiFA)] [[openreview](https://openreview.net/forum?id=IZMPWmcS3H)]
 

@@ -1,7 +1,7 @@
 # Awesome Transformer Pruning Paper Collection
 
-
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -21,6 +21,16 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2305.17328)] [[paper with code](https://paperswithcode.com/paper/zero-tprune-zero-shot-token-pruning-through)]
+
+- Resource-Efficient Transformer Pruning for Finetuning of Large Models [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ilhan_Resource-Efficient_Transformer_Pruning_for_Finetuning_of_Large_Models_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/resource-efficient-transformer-pruning-for)]
+
+- MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_MADTP_Multimodal_Alignment-Guided_Dynamic_Token_Pruning_for_Accelerating_Vision-Language_Transformer_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.02991)] [[paper with code](https://paperswithcode.com/paper/madtp-multimodal-alignment-guided-dynamic)] [[code](https://github.com/double125/madtp)]
 
 
 ## ICLR-2024

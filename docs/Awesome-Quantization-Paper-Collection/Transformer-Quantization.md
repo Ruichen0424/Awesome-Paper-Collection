@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -27,6 +28,12 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Instance-Aware Group Quantization for Vision Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Moon_Instance-Aware_Group_Quantization_for_Vision_Transformers_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00928)] [[paper with code](https://paperswithcode.com/paper/instance-aware-group-quantization-for-vision)]
 
 
 ## ICLR-2024

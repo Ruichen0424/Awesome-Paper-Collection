@@ -1,6 +1,7 @@
 # Awesome 3D Cloud Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [AAAI](#aaai-2024)
 
 - [2022](#2022)
@@ -17,6 +18,12 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/efficient-privacy-preserving-visual)]
 
 
 # 2022

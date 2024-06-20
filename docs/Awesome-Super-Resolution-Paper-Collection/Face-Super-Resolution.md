@@ -1,6 +1,7 @@
 # Awesome Face-Super-Resolution Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -27,6 +28,12 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- PFStorer: Personalized Face Restoration and Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Varanka_PFStorer_Personalized_Face_Restoration_and_Super-Resolution_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.08436)] [[paper with code](https://paperswithcode.com/paper/pfstorer-personalized-face-restoration-and)]
 
 
 ## AAAI-2024

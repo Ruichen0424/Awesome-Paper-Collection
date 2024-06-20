@@ -1,6 +1,7 @@
 # Awesome 3D Point Cloud Paper Collection
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -52,6 +53,48 @@
 
 
 # 2024
+
+
+## CVPR-2024
+
+
+- TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ren_TIGER_Time-Varying_Denoising_Model_for_3D_Point_Cloud_Generation_with_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/tiger-time-varying-denoising-model-for-3d)]
+
+- Text2Loc: 3D Point Cloud Localization from Natural Language [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.15977)] [[paper with code](https://paperswithcode.com/paper/text2loc-3d-point-cloud-localization-from)]
+
+- Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Matching [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Bastico_Coupled_Laplacian_Eigenmaps_for_Locally-Aware_3D_Rigid_Point_Cloud_Matching_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.17372)] [[paper with code](https://paperswithcode.com/paper/coupled-laplacian-eigenmaps-for-locally-aware)] [[code](https://github.com/matteo-bastico/coupledlaplacian)]
+
+- 3DInAction: Understanding Human Actions in 3D Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ben-Shabat_3DInAction_Understanding_Human_Actions_in_3D_Point_Clouds_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2303.06346)] [[paper with code](https://paperswithcode.com/paper/3dinaction-understanding-human-actions-in-3d)] [[code](https://github.com/sitzikbs/3dincaction)]
+
+- L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction in 3D Point Cloud Stream [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_L4D-Track_Language-to-4D_Modeling_Towards_6-DoF_Tracking_and_Shape_Reconstruction_in_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/l4d-track-language-to-4d-modeling-towards-6)]
+
+- Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Koch_Open3DSG_Open-Vocabulary_3D_Scene_Graphs_from_Point_Clouds_with_Queryable_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2402.12259)] [[paper with code](https://paperswithcode.com/paper/open3dsg-open-vocabulary-3d-scene-graphs-from)]
+
+- LiDAR-Net: A Real-scanned 3D Point Cloud Dataset for Indoor Scenes [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_LiDAR-Net_A_Real-scanned_3D_Point_Cloud_Dataset_for_Indoor_Scenes_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/lidar-net-a-real-scanned-3d-point-cloud)]
+
+- GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_GeoAuxNet_Towards_Universal_3D_Representation_Learning_for_Multi-sensor_Point_Clouds_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.19220)] [[paper with code](https://paperswithcode.com/paper/geoauxnet-towards-universal-3d-representation)] [[code](https://github.com/zhangshengjun2019/geoauxnet)]
+
+- PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_PDF_A_Probability-Driven_Framework_for_Open_World_3D_Point_Cloud_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.00979)] [[paper with code](https://paperswithcode.com/paper/pdf-a-probability-driven-framework-for-open)] [[code](https://github.com/jinfengx/pointcloudpdf)]
+
+- HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_HandDiff_3D_Hand_Pose_Estimation_with_Diffusion_on_Image-Point_Cloud_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.03159)] [[paper with code](https://paperswithcode.com/paper/handdiff-3d-hand-pose-estimation-with)] [[code](https://github.com/cwc1260/handdiff)]
+
+- OneFormer3D: One Transformer for Unified Point Cloud Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kolodiazhnyi_OneFormer3D_One_Transformer_for_Unified_Point_Cloud_Segmentation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.14405)] [[paper with code](https://paperswithcode.com/paper/oneformer3d-one-transformer-for-unified-point)] [[code](https://github.com/oneformer3d/oneformer3d)]
+
+- Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_Density-guided_Translator_Boosts_Synthetic-to-Real_Unsupervised_Domain_Adaptive_Segmentation_of_3D_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.18469)] [[paper with code](https://paperswithcode.com/paper/density-guided-translator-boosts-synthetic-to)] [[code](https://github.com/yuan-zm/dgt-st)]
+
+- Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shin_Spherical_Mask_Coarse-to-Fine_3D_Point_Cloud_Instance_Segmentation_with_Spherical_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.11269)] [[paper with code](https://paperswithcode.com/paper/spherical-mask-coarse-to-fine-3d-point-cloud)] [[code](https://github.com/yunshin/SphericalMask)]
+
+- Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Mei_Geometrically-driven_Aggregation_for_Zero-shot_3D_Point_Cloud_Understanding_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.02244)] [[paper with code](https://paperswithcode.com/paper/geometrically-driven-aggregation-for-zero)] [[code](https://github.com/gfmei/GeoZe)]
+
+- Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Schroppel_Neural_Point_Cloud_Diffusion_for_Disentangled_3D_Shape_and_Appearance_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.14124)] [[paper with code](https://paperswithcode.com/paper/neural-point-cloud-diffusion-for-disentangled)] [[code](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)]
+
+- Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Point2CAD_Reverse_Engineering_CAD_Models_from_3D_Point_Clouds_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2312.04962)] [[paper with code](https://paperswithcode.com/paper/point2cad-reverse-engineering-cad-models-from)]
+
+- X-3D: Explicit 3D Structure Modeling for Point Cloud Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_X-3D_Explicit_3D_Structure_Modeling_for_Point_Cloud_Recognition_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2404.15010)] [[paper with code](https://paperswithcode.com/paper/x-3d-explicit-3d-structure-modeling-for-point)] [[code](https://github.com/sunshuofeng/X-3D)]
+
+- Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.05247)] [[paper with code](https://paperswithcode.com/paper/hide-in-thicket-generating-imperceptible-and)] [[code](https://github.com/trlou/hit-adv)]
+
+- Rethinking Few-shot 3D Point Cloud Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/An_Rethinking_Few-shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.00592)] [[paper with code](https://paperswithcode.com/paper/rethinking-few-shot-3d-point-cloud-semantic)] [[code](https://github.com/zhaochongan/coseg)]
 
 
 ## ICLR-2024
