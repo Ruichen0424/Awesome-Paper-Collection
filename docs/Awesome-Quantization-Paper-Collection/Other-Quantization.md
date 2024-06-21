@@ -100,7 +100,7 @@
 
 - Retraining-Free Model Quantization via One-Shot Weight-Coupling Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_Retraining-Free_Model_Quantization_via_One-Shot_Weight-Coupling_Learning_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2401.01543)] [[paper with code](https://paperswithcode.com/paper/retraining-free-model-quantization-via-one)] [[code](https://github.com/1hunters/retraining-free-quantization)]
 
-- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/are-conventional-snns-really-efficient-a)]
+- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.10802)] [[paper with code](https://paperswithcode.com/paper/are-conventional-snns-really-efficient-a)]
 
 - Codebook Transfer with Part-of-Speech for Vector-Quantized Image Modeling [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Codebook_Transfer_with_Part-of-Speech_for_Vector-Quantized_Image_Modeling_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.10071)] [[paper with code](https://paperswithcode.com/paper/codebook-transfer-with-part-of-speech-for)]
 

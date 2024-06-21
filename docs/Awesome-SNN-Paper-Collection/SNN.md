@@ -76,7 +76,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - SFOD: Spiking Fusion Object Detector [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_SFOD_Spiking_Fusion_Object_Detector_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.15192)] [[paper with code](https://paperswithcode.com/paper/sfod-spiking-fusion-object-detector)] [[code](https://github.com/yimeng-fan/SFOD)]
 
-- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/are-conventional-snns-really-efficient-a)]
+- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.10802)] [[paper with code](https://paperswithcode.com/paper/are-conventional-snns-really-efficient-a)]
 
 
 ## ICLR-2024
