@@ -4,6 +4,9 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - [2024](#2024)
   - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
+  - [ECCV](#eccv-2024)
+  - [ICML](#icml-2024)
+  - [IJCAI](#ijcai-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -113,6 +116,88 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)] [[openreview](https://openreview.net/forum?id=lGUyAuuTYZ)]
 
 - A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/18850)] [[arxiv](https://arxiv.org/abs/2305.19306)] [[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] [[code](https://github.com/edisonleeeee/spikegcl)] [[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
+
+
+## ECCV-2024
+
+
+- Real-data-driven 2000 FPS Color Video from Mosaicked Chromatic Spikes [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1910_ECCV_2024_paper.php)]
+
+- Learning to Robustly Reconstruct Dynamic Scenes from Low-light Spike Streams [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2547_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2401.10461)]
+
+- Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4704_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2407.20708)] [[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] [[code](https://github.com/biclab/spikeyolo)]
+
+- Efficient Training of Spiking Neural Networks with Multi-Parallel Implicit Stream Architecture [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5068_ECCV_2024_paper.php)]
+
+- Spike-Temporal Latent Representation for Energy-Efficient Event-to-Video Reconstruction [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5843_ECCV_2024_paper.php)]
+
+- BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6649_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2407.09083)] [[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] [[code](https://github.com/intelligent-computing-research-group/bkdsnn)]
+
+- EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7766_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2403.12574)] [[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] [[code](https://github.com/windere/eas-snn)]
+
+- Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8133_ECCV_2024_paper.php)]
+
+- FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8702_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2403.18388)] [[paper with code](https://paperswithcode.com/paper/ftbc-forward-temporal-bias-correction-for)]
+
+- Exploring Vulnerabilities in Spiking Neural Networks: Direct Adversarial Attacks on Raw Event Data [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9164_ECCV_2024_paper.php)]
+
+- Spiking Wavelet Transformer [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9680_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2403.11138)] [[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] [[code](https://github.com/bic-l/spiking-wavelet-transformer)]
+
+
+## ICML-2024
+
+
+- Robust Stable Spiking Neural Networks [[paper](https://proceedings.mlr.press/v235/ding24e.html)] [[arxiv](https://arxiv.org/abs/2405.20694)] [[paper with code](https://paperswithcode.com/paper/robust-stable-spiking-neural-networks)] [[code](https://github.com/DingJianhao/stable-snn)]
+
+- Spike Distance Function as a Learning Objective for Spike Prediction [[paper](https://proceedings.mlr.press/v235/doran24a.html)] [[arxiv](https://arxiv.org/abs/2312.01966)] [[paper with code](https://paperswithcode.com/paper/distance-function-for-spike-prediction)] [[code](https://github.com/kevindoran/spikedistance)]
+
+- High-Performance Temporal Reversible Spiking Neural Networks with $\mathcalO(L)$ Training Memory and $\mathcalO(1)$ Inference Cost [[paper](https://proceedings.mlr.press/v235/hu24q.html)]
+
+- CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://proceedings.mlr.press/v235/huang24n.html)] [[arxiv](https://arxiv.org/abs/2402.04663)] [[paper with code](https://paperswithcode.com/paper/clif-complementary-leaky-integrate-and-fire)] [[code](https://github.com/huuyulong/complementary-lif)]
+
+- NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks [[paper](https://proceedings.mlr.press/v235/jiang24a.html)]
+
+- convSeq: Fast and Scalable Method for Detecting Patterns in Spike Data [[paper](https://proceedings.mlr.press/v235/koshkin24a.html)] [[arxiv](https://arxiv.org/abs/2402.01130)] [[paper with code](https://paperswithcode.com/paper/convseq-fast-and-scalable-method-for)]
+
+- Towards efficient deep spiking neural networks construction with spiking activity based pruning [[paper](https://proceedings.mlr.press/v235/li24bz.html)] [[arxiv](https://arxiv.org/abs/2406.01072)] [[paper with code](https://paperswithcode.com/paper/towards-efficient-deep-spiking-neural)]
+
+- Enhancing Adversarial Robustness in SNNs with Sparse Gradients [[paper](https://proceedings.mlr.press/v235/liu24f.html)] [[arxiv](https://arxiv.org/abs/2405.20355)] [[paper with code](https://paperswithcode.com/paper/enhancing-adversarial-robustness-in-snns-with)]
+
+- Efficient and Effective Time-Series Forecasting with Spiking Neural Networks [[paper](https://proceedings.mlr.press/v235/lv24d.html)] [[arxiv](https://arxiv.org/abs/2402.01533)] [[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series)] [[code](https://github.com/microsoft/seqsnn)]
+
+- Spectral Phase Transition and Optimal PCA in Block-Structured Spiked Models [[paper](https://proceedings.mlr.press/v235/mergny24a.html)] [[arxiv](https://arxiv.org/abs/2403.03695)] [[paper with code](https://paperswithcode.com/paper/spectral-phase-transition-and-optimal-pca-in)]
+
+- Conditionally-Conjugate Gaussian Process Factor Analysis for Spike Count Data via Data Augmentation [[paper](https://proceedings.mlr.press/v235/nadew24a.html)] [[arxiv](https://arxiv.org/abs/2405.11683)] [[paper with code](https://paperswithcode.com/paper/conditionally-conjugate-gaussian-process)]
+
+- Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network [[paper](https://proceedings.mlr.press/v235/oh24b.html)] [[arxiv](https://arxiv.org/abs/2407.01645)] [[paper with code](https://paperswithcode.com/paper/sign-gradient-descent-based-neuronal-dynamics)] [[code](https://github.com/snuhcs/snn_signgd)]
+
+- Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks [[paper](https://proceedings.mlr.press/v235/wang24ci.html)] [[arxiv](https://arxiv.org/abs/2406.00405)] [[paper with code](https://paperswithcode.com/paper/autaptic-synaptic-circuit-enhances-spatio)] [[code](https://github.com/wangtianyi1874/stclif)]
+
+- Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning [[paper](https://proceedings.mlr.press/v235/xiao24f.html)] [[arxiv](https://arxiv.org/abs/2405.16851)] [[paper with code](https://paperswithcode.com/paper/temporal-spiking-neural-networks-with)] [[code](https://github.com/pkuxmq/grsnn)]
+
+- SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms [[paper](https://proceedings.mlr.press/v235/xing24d.html)] [[arxiv](https://arxiv.org/abs/2406.03287)] [[paper with code](https://paperswithcode.com/paper/spikelm-towards-general-spike-driven-language)] [[code](https://github.com/xingrun-xing/spikelm)]
+
+- SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[paper](https://proceedings.mlr.press/v235/you24b.html)] [[arxiv](https://arxiv.org/abs/2406.03470)] [[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for)] [[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF)]
+
+- Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning [[paper](https://proceedings.mlr.press/v235/zhu24h.html)] [[arxiv](https://arxiv.org/abs/2306.04815)] [[paper with code](https://paperswithcode.com/paper/catapults-in-sgd-spikes-in-the-training-loss)] [[code](https://github.com/zhm1995/Catapults_SGD)]
+
+- Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration [[paper](https://proceedings.mlr.press/v235/zhuge24b.html)]
+
+
+## IJCAI-2024
+
+
+- Learning a Spiking Neural Network for Efficient Image Deraining [[paper](https://www.ijcai.org/proceedings/2024/139)] [[arxiv](https://arxiv.org/abs/2405.06277)] [[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] [[code](https://github.com/mingtian99/esdnet)]
+
+- LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization [[paper](https://www.ijcai.org/proceedings/2024/343)] [[arxiv](https://arxiv.org/abs/2401.14652)] [[paper with code](https://paperswithcode.com/paper/lite-snn-designing-lightweight-and-efficient)]
+
+- TIM: An Efficient Temporal Interaction Module for Spiking Transformer [[paper](https://www.ijcai.org/proceedings/2024/347)] [[arxiv](https://arxiv.org/abs/2401.11687)] [[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] [[code](https://github.com/braincog-x/brain-cog)]
+
+- One-step Spiking Transformer with a Linear Complexity [[paper](https://www.ijcai.org/proceedings/2024/348)]
+
+- Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition [[paper](https://www.ijcai.org/proceedings/2024/350)] [[arxiv](https://arxiv.org/abs/2407.09521)] [[paper with code](https://paperswithcode.com/paper/apprenticeship-inspired-elegance-synergistic)]
+
+- EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices [[paper](https://www.ijcai.org/proceedings/2024/596)]
 
 
 ## AAAI-2024

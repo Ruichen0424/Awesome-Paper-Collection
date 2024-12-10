@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [ECCV](#eccv-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -14,6 +15,12 @@
 
 
 # 2024
+
+
+## ECCV-2024
+
+
+- An Optimal Control View of LoRA and Binary Controller Design for Vision Transformers [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6958_ECCV_2024_paper.php)]
 
 
 ## AAAI-2024

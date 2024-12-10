@@ -3,6 +3,8 @@
 - [2024](#2024)
   - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
+  - [ECCV](#eccv-2024)
+  - [ICML](#icml-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
@@ -53,6 +55,20 @@
 - Addressing Loss of Plasticity and Catastrophic Forgetting in Continual Learning [[paper](https://iclr.cc/virtual/2024/poster/17656)] [[arxiv](https://arxiv.org/abs/2404.00781)] [[paper with code](https://paperswithcode.com/paper/addressing-loss-of-plasticity-and)] [[code](https://github.com/mohmdelsayed/upgd)] [[openreview](https://openreview.net/forum?id=sKPzAXoylB)]
 
 - Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[paper](https://iclr.cc/virtual/2024/poster/19614)] [[arxiv](https://arxiv.org/abs/2310.07418)] [[paper with code](https://paperswithcode.com/paper/revisiting-plasticity-in-visual-reinforcement)] [[code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)] [[openreview](https://openreview.net/forum?id=0aR1s9YxoL)]
+
+
+## ECCV-2024
+
+
+- PromptFusion: Decoupling Stability and Plasticity for Continual Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11826_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2303.07223)] [[paper with code](https://paperswithcode.com/paper/promptfusion-decoupling-stability-and)] [[code](https://github.com/haoranchen/promptfusion)]
+
+
+## ICML-2024
+
+
+- Slow and Steady Wins the Race: Maintaining Plasticity with Hare and Tortoise Networks [[paper](https://proceedings.mlr.press/v235/lee24d.html)] [[arxiv](https://arxiv.org/abs/2406.02596)] [[paper with code](https://paperswithcode.com/paper/slow-and-steady-wins-the-race-maintaining)] [[code](https://github.com/dojeon-ai/hare-tortoise)]
+
+- Overestimation, Overfitting, and Plasticity in Actor-Critic: the Bitter Lesson of Reinforcement Learning [[paper](https://proceedings.mlr.press/v235/nauman24a.html)] [[arxiv](https://arxiv.org/abs/2403.00514)] [[paper with code](https://paperswithcode.com/paper/overestimation-overfitting-and-plasticity-in)]
 
 
 # 2023

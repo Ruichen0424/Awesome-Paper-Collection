@@ -3,6 +3,9 @@
 - [2024](#2024)
   - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
+  - [ECCV](#eccv-2024)
+  - [ICML](#icml-2024)
+  - [IJCAI](#ijcai-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
@@ -104,6 +107,40 @@
 - BTR: Binary Token Representations for Efficient Retrieval Augmented Language Models [[paper](https://iclr.cc/virtual/2024/poster/19511)] [[arxiv](https://arxiv.org/abs/2310.01329)] [[paper with code](https://paperswithcode.com/paper/btr-binary-token-representations-for)] [[code](https://github.com/csarron/btr)] [[openreview](https://openreview.net/forum?id=3TO3TtnOFl)]
 
 - ArchLock: Locking DNN Transferability at the Architecture Level with a Zero-Cost Binary Predictor [[paper](https://iclr.cc/virtual/2024/poster/18234)] [[openreview](https://openreview.net/forum?id=e2YOVTenU9)]
+
+
+## ECCV-2024
+
+
+- Topology-Preserving Downsampling of Binary Images [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3067_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2407.17786)] [[paper with code](https://paperswithcode.com/paper/topology-preserving-downsampling-of-binary)] [[code](https://github.com/pengchihan/binaryimagedownsampling)]
+
+- OvSW: Overcoming Silent Weights for Accurate Binary Neural Networks [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4787_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2407.05257)] [[paper with code](https://paperswithcode.com/paper/ovsw-overcoming-silent-weights-for-accurate)] [[code](https://github.com/JingyangXiang/OvSW)]
+
+
+## ICML-2024
+
+
+- Performance Bounds for Active Binary Testing with Information Maximization [[paper](https://proceedings.mlr.press/v235/chattopadhyay24a.html)]
+
+- Don’t Label Twice: Quantity Beats Quality when Comparing Binary Classifiers on a Budget [[paper](https://proceedings.mlr.press/v235/dorner24a.html)]
+
+- Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://proceedings.mlr.press/v235/hang24a.html)]
+
+- FedBAT: Communication-Efficient Federated Learning via Learnable Binarization [[paper](https://proceedings.mlr.press/v235/li24ca.html)] [[arxiv](https://arxiv.org/abs/2408.03215)] [[paper with code](https://paperswithcode.com/paper/2408-03215)] [[code](https://github.com/Leopold1423/fedbat-icml24)]
+
+- On the Feasibility of Single-Pass Full-Capacity Learning in Linear Threshold Neurons with Binary Input Vectors [[paper](https://proceedings.mlr.press/v235/liu24x.html)]
+
+- Interplay of ROC and Precision-Recall AUCs: Theoretical Limits and Practical Implications in Binary Classification [[paper](https://proceedings.mlr.press/v235/mihelich24a.html)]
+
+- Flexible Residual Binarization for Image Super-Resolution [[paper](https://proceedings.mlr.press/v235/zhang24bb.html)]
+
+
+## IJCAI-2024
+
+
+- When Fairness Meets Privacy: Exploring Privacy Threats in Fair Binary Classifiers via Membership Inference Attacks [[paper](https://www.ijcai.org/proceedings/2024/57)] [[arxiv](https://arxiv.org/abs/2311.03865)] [[paper with code](https://paperswithcode.com/paper/fd-mia-efficient-attacks-on-fairness-enhanced)]
+
+- Unbiased Active Semi-supervised Binary Classification Models [[paper](https://www.ijcai.org/proceedings/2024/485)]
 
 
 ## AAAI-2024
