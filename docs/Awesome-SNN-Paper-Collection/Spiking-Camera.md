@@ -2,6 +2,7 @@
 
 
 - [2024](#2024)
+  - [NeurIPS](#neurips-2024)
   - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
@@ -23,6 +24,12 @@
 
 
 # 2024
+
+
+## NeurIPS-2024
+
+
+- Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/25fb771c98a4adf83da8a050ea21cef6-Abstract-Conference.html)]
 
 
 ## CVPR-2024
