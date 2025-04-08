@@ -85,7 +85,7 @@
 ## NeurIPS-2022
 
 
-- Change Event Dataset for Discovery from Spatio-temporal Remote Sensing Imagery [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b01153e7112b347d8ed54f317840d8af-Abstract-Datasets_and_Benchmarks.html)]
+- Change Event Dataset for Discovery from Spatio-temporal Remote Sensing Imagery [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b01153e7112b347d8ed54f317840d8af-Abstract-Datasets_and_Benchmarks.html)] [[openreview](https://openreview.net/forum?id=bKO6BPtYQA7)]
 
 
 # 2021
@@ -115,7 +115,7 @@
 ## ACL-2020
 
 
-- A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events PortalDemian  [[paper](https://aclanthology.org/2020.acl-main.120/)]
+- A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events PortalDemian [[paper](https://aclanthology.org/2020.acl-main.120/)]
 
 
 ## IJCAI-2020

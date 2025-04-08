@@ -29,7 +29,7 @@
 ## NeurIPS-2024
 
 
-- Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/25fb771c98a4adf83da8a050ea21cef6-Abstract-Conference.html)]
+- Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/25fb771c98a4adf83da8a050ea21cef6-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=S4ZqnMywcM)]
 
 
 ## CVPR-2024
