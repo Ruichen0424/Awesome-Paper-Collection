@@ -34,6 +34,13 @@ Read online: [https://ruichen0424.github.io/Awesome-Paper-Collection/](https://r
 
 
 
+## Awesome Agent Paper Collection
+
+- [LLM-Agent](./docs/Awesome-Agent-Paper-Collection/LLM-Agent.md)
+
+
+
+
 ## Awesome Autonomous Driving Paper Collection
 
 - [Autonomous Driving](./docs/Awesome-Autonomous-Driving-Paper-Collection/Autonomous-Driving.md)

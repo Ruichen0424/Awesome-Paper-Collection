@@ -7,6 +7,7 @@
 - [2024](#2024)
   - [CVPR](#cvpr-2024)
   - [ECCV](#eccv-2024)
+  - [ACL](#acl-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
@@ -52,6 +53,15 @@
 
 
 - DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11182_ECCV_2024_paper.php)] [[arxiv](https://arxiv.org/abs/2407.05106)] [[paper with code](https://paperswithcode.com/paper/dailydvs-200-a-comprehensive-benchmark)] [[code](https://github.com/qiwang233/dailydvs-200)]
+
+
+
+## ACL-2024
+
+
+- MAVEN-ARG: Completing the Puzzle of All-in-One Event Understanding Dataset with Event Argument Annotation [[paper](https://aclanthology.org/2024.acl-long.224/)] [[arxiv](https://arxiv.org/abs/2311.09105)] [[paper with code](https://paperswithcode.com/paper/maven-arg-completing-the-puzzle-of-all-in-one)] [[code](https://github.com/thu-keg/maven-argument)]
+
+- Generating Harder Cross-document Event Coreference Resolution Datasets using Metaphoric ParaphrasingShafiuddin [[paper](https://aclanthology.org/2024.acl-short.27/)]
 
 
 

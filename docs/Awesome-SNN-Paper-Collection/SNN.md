@@ -10,6 +10,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
   - [ICLR](#iclr-2024)
   - [ECCV](#eccv-2024)
   - [ICML](#icml-2024)
+  - [ACL](#acl-2024)
   - [IJCAI](#ijcai-2024)
   - [AAAI](#aaai-2024)
 
@@ -273,6 +274,12 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Catapults in SGD: spikes in the training loss and their impact on generalization through feature learning [[paper](https://proceedings.mlr.press/v235/zhu24h.html)] [[arxiv](https://arxiv.org/abs/2306.04815)] [[paper with code](https://paperswithcode.com/paper/catapults-in-sgd-spikes-in-the-training-loss)] [[code](https://github.com/zhm1995/Catapults_SGD)]
 
 - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration [[paper](https://proceedings.mlr.press/v235/zhuge24b.html)]
+
+
+## ACL-2024
+
+
+- SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network [[paper](https://aclanthology.org/2024.acl-long.429/)] [[arxiv](https://arxiv.org/abs/2408.00788)] [[paper with code](https://paperswithcode.com/paper/2408-00788)]
 
 
 ## IJCAI-2024
