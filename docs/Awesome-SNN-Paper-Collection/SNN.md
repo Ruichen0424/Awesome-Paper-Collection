@@ -2,6 +2,7 @@
 This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com/AXYZdong/awesome-snn-conference-paper).
 
 - [2025](#2025)
+  - [CVPR](#cvpr-2025)
   - [ICLR](#iclr-2025)
 
 - [2024](#2024)
@@ -67,6 +68,37 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 
 # 2025
+
+
+## CVPR-2025
+
+
+- Inference-Scale Complexity in ANN-SNN Conversion for High-Performance and Low-Power Applications [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Bu_Inference-Scale_Complexity_in_ANN-SNN_Conversion_for_High-Performance_and_Low-Power_Applications_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2409.03368)]
+
+- Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html)]
+
+- Spiking Transformer with Spatial-Temporal Attention [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Spiking_Transformer_with_Spatial-Temporal_Attention_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2409.19764)]
+
+- VISTREAM: Improving Computation Efficiency of Visual Streaming Perception via Law-of-Charge-Conservation Inspired Spiking Neural Network [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/You_VISTREAM_Improving_Computation_Efficiency_of_Visual_Streaming_Perception_via_Law-of-Charge-Conservation_CVPR_2025_paper.html)]
+
+- Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Temporal_Separation_with_Entropy_Regularization_for_Knowledge_Distillation_in_Spiking_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2503.03144)]
+
+- Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lun_Towards_Effective_and_Sparse_Adversarial_Attack_on_Spiking_Neural_Networks_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2503.03272)]
+
+- Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Spk2SRImgNet_Super-Resolve_Dynamic_Scene_from_Spike_Stream_via_Motion_Aligned_CVPR_2025_paper.html)]
+
+- USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_USP-Gaussian_Unifying_Spike-based_Image_Reconstruction_Pose_Correction_and_Gaussian_Splatting_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2411.10504)]
+
+- Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Efficient_ANN-Guided_Distillation_Aligning_Rate-based_Features_of_Spiking_Neural_Networks_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2503.16572)]
+
+- Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.html)]
+
+- STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_STAA-SNN_Spatial-Temporal_Attention_Aggregator_for_Spiking_Neural_Networks_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2503.02689)]
+
+- Decision SpikeFormer: Spike-Driven Transformer for Decision Making [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Decision_SpikeFormer_Spike-Driven_Transformer_for_Decision_Making_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2504.03800)]
+
+- Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Spiking_Transformer_Introducing_Accurate_Addition-Only_Spiking_Self-Attention_for_Transformer_CVPR_2025_paper.html)]
+
 
 
 ## ICLR-2025
