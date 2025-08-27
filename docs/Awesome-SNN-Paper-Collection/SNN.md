@@ -4,6 +4,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - [2025](#2025)
   - [CVPR](#cvpr-2025)
   - [ICLR](#iclr-2025)
+  - [AAAI](#aaai-2025)
 
 - [2024](#2024)
   - [NeurIPS](#neurips-2024)
@@ -129,6 +130,42 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency [[paper](https://iclr.cc/virtual/2025/poster/28809)] [[arxiv](https://arxiv.org/abs/2502.13572)]
 
 - Improving Generalization and Robustness in SNNs Through Signed Rate Encoding and Sparse Encoding Attacks [[paper](https://iclr.cc/virtual/2025/poster/28253)]
+
+
+## AAAI-2025
+
+
+- Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32126)] [[arxiv](https://arxiv.org/abs/2412.14587)]
+
+- Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32130)] [[arxiv](https://arxiv.org/abs/2502.14344)]
+
+- Towards More Discriminative Feature Learning in SNNs with Temporal-Self-Erasing Supervision [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32132)]
+
+- SpikingYOLOX: Improved YOLOX Object Detection with Fast Fourier Convolution and Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32137)]
+
+- GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32139)] [[arxiv](https://arxiv.org/abs/2404.15597)]
+
+- Advancing Spiking Neural Networks Towards Multiscale Spatiotemporal Interaction Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32141)] [[arxiv](https://arxiv.org/abs/2405.13672)]
+
+- Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32150)] [[arxiv](https://arxiv.org/abs/2412.16219)]
+
+- Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32154)]
+
+- CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32649)] [[arxiv](https://arxiv.org/abs/2412.12525)]
+
+- UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32705)] [[arxiv](https://arxiv.org/abs/2503.12905)]
+
+- Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33895)] [[arxiv](https://arxiv.org/abs/2501.08049)]
+
+- Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34050)] [[arxiv](https://arxiv.org/abs/2502.19660)]
+
+- ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34171)] [[arxiv](https://arxiv.org/abs/2412.12696)]
+
+- Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34212)] [[arxiv](https://arxiv.org/abs/2412.07360)]
+
+- SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34245)] [[arxiv](https://arxiv.org/abs/2408.14909)]
+
+- FSTA-SNN:Frequency-Based Spatial-Temporal Attention Module for Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34377)] [[arxiv](https://arxiv.org/abs/2501.14744)]
 
 
 # 2024
