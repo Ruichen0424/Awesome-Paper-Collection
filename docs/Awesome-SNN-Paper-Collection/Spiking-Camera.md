@@ -1,5 +1,10 @@
 # Awesome Spiking Camera Paper Collection
 
+- [2025](#2025)
+  - [CVPR](#cvpr-2025)
+  - [ICCV](#iccv-2025)
+  - [ICML](#icml-2025)
+
 
 - [2024](#2024)
   - [NeurIPS](#neurips-2024)
@@ -21,6 +26,27 @@
   - [CVPR](#cvpr-2021)
   - [ICCV](#iccv-2021)
 
+
+
+# 2025
+
+
+## CVPR-2025
+
+
+- Self-Supervised Learning for Color Spike Camera Reconstruction [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Self-Supervised_Learning_for_Color_Spike_Camera_Reconstruction_CVPR_2025_paper.html)]
+
+
+## ICCV-2025
+
+
+- SpikeDiff: Zero-shot High-Quality Video Reconstruction from Chromatic Spike Camera and Sub-millisecond Spike Streams [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_SpikeDiff_Zero-shot_High-Quality_Video_Reconstruction_from_Chromatic_Spike_Camera_and_ICCV_2025_paper.html)]
+
+
+## ICML-2025
+
+
+- Hybrid Spiking Vision Transformer for Object Detection with Event Cameras [[paper](https://proceedings.mlr.press/v267/xu25e.html)] [[arxiv](https://arxiv.org/abs/2505.07715)]
 
 
 # 2024

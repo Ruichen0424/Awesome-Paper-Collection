@@ -3,6 +3,9 @@
 
 
 - [2025](#2025)
+  - [CVPR](#cvpr-2025)
+  - [ICCV](#iccv-2025)
+  - [ICLR](#iclr-2025)
 
 - [2024](#2024)
   - [CVPR](#cvpr-2024)
@@ -30,6 +33,31 @@
 
 
 # 2025
+
+
+## CVPR-2025
+
+
+- RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Parikh_RoadSocial_A_Diverse_VideoQA_Dataset_and_Benchmark_for_Road_Event_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2503.21459)]
+
+- Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Object_Detection_using_Event_Camera_A_MoE_Heat_Conduction_based_CVPR_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2412.06647)]
+
+
+## ICCV-2025
+
+
+- Event-based Tiny Object Detection: A Benchmark Dataset and Baseline [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Event-based_Tiny_Object_Detection_A_Benchmark_Dataset_and_Baseline_ICCV_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2506.23575)]
+
+- Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Asynchronous_Event_Error-Minimizing_Noise_for_Safeguarding_Event_Dataset_ICCV_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2507.05728)]
+
+
+
+## ICLR-2025
+
+
+- ACES: Automatic Cohort Extraction System for Event-Stream Datasets [[paper](https://iclr.cc/virtual/2025/poster/29780)] [[arxiv](https://arxiv.org/abs/2406.19653)]
+
+- RGB-Event ISP: The Dataset and Benchmark [[paper](https://iclr.cc/virtual/2025/poster/30541)] [[arxiv](https://arxiv.org/abs/2501.19129)]
 
 
 

@@ -4,6 +4,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - [2025](#2025)
   - [CVPR](#cvpr-2025)
   - [ICLR](#iclr-2025)
+  - [ICCV](#iccv-2025)
+  - [ICML](#icml-2025)
   - [AAAI](#aaai-2025)
 
 - [2024](#2024)
@@ -130,6 +132,58 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency [[paper](https://iclr.cc/virtual/2025/poster/28809)] [[arxiv](https://arxiv.org/abs/2502.13572)]
 
 - Improving Generalization and Robustness in SNNs Through Signed Rate Encoding and Sparse Encoding Attacks [[paper](https://iclr.cc/virtual/2025/poster/28253)]
+
+
+## ICCV-2025
+
+
+- Efficient Spiking Point Mamba for Point Cloud Analysis [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wu_Efficient_Spiking_Point_Mamba_for_Point_Cloud_Analysis_ICCV_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2504.14371)]
+
+- SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_SpiLiFormer_Enhancing_Spiking_Transformers_with_Lateral_Inhibition_ICCV_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2503.15986)]
+
+- Noise-Modeled Diffusion Models for Low-Light Spike Image Restoration [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Noise-Modeled_Diffusion_Models_for_Low-Light_Spike_Image_Restoration_ICCV_2025_paper.html)]
+
+- SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Shen_SpikePack_Enhanced_Information_Flow_in_Spiking_Neural_Networks_with_High_ICCV_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2501.14484)]
+
+
+## ICML-2025
+
+
+- Temporal Misalignment in ANN-SNN Conversion and its Mitigation via Probabilistic Spiking Neurons [[paper](https://proceedings.mlr.press/v267/bojkovic25a.html)] [[arxiv](https://arxiv.org/abs/2502.14487)]
+
+- Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity [[paper](https://proceedings.mlr.press/v267/feng25e.html)] [[arxiv](https://arxiv.org/abs/2506.12087)]
+
+- ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks [[paper](https://proceedings.mlr.press/v267/guo25t.html)] [[arxiv](https://arxiv.org/abs/2506.07720)]
+
+- Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation [[paper](https://proceedings.mlr.press/v267/hao25c.html)] [[arxiv](https://arxiv.org/abs/2412.13610)]
+
+- Differential Coding for Training-Free ANN-to-SNN Conversion [[paper](https://proceedings.mlr.press/v267/huang25i.html)] [[arxiv](https://arxiv.org/abs/2503.00301)]
+
+- Fluctuations of the largest eigenvalues of transformed spiked Wigner matrices [[paper](https://proceedings.mlr.press/v267/lee25t.html)] [[arxiv](https://arxiv.org/abs/2502.04720)]
+
+- BSO: Binary Spiking Online Optimization Algorithm [[paper](https://proceedings.mlr.press/v267/liang25r.html)]
+
+- Efficient ANN-SNN Conversion with Error Compensation Learning [[paper](https://proceedings.mlr.press/v267/liu25bl.html)] [[arxiv](https://arxiv.org/abs/2506.01968)]
+
+- Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time [[paper](https://proceedings.mlr.press/v267/nguyen25a.html)]
+
+- Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model [[paper](https://proceedings.mlr.press/v267/tang25l.html)] [[arxiv](https://arxiv.org/abs/2409.15298)]
+
+- Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph [[paper](https://proceedings.mlr.press/v267/wang25dm.html)]
+
+- SpikF: Spiking Fourier Network for Efficient Long-term Prediction [[paper](https://proceedings.mlr.press/v267/wu25m.html)]
+
+- Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning [[paper](https://proceedings.mlr.press/v267/xu25aq.html)] [[arxiv](https://arxiv.org/abs/2505.07921)]
+
+- Training High Performance Spiking Neural Network by Temporal Model Calibration [[paper](https://proceedings.mlr.press/v267/yan25c.html)]
+
+- TS-SNN: Temporal Shift Module for Spiking Neural Networks [[paper](https://proceedings.mlr.press/v267/yu25w.html)] [[arxiv](https://arxiv.org/abs/2505.04165)]
+
+- Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment [[paper](https://proceedings.mlr.press/v267/yu25y.html)] [[arxiv](https://arxiv.org/abs/2501.15925)]
+
+- TTFSFormer: A TTFS-based Lossless Conversion of Spiking Transformer [[paper](https://proceedings.mlr.press/v267/zhao25n.html)]
+
+- SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcalO(T)$ Complexity [[paper](https://proceedings.mlr.press/v267/zou25b.html)]
 
 
 ## AAAI-2025
